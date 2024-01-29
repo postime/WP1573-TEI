@@ -1,0 +1,2626 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Wolfenbuettel Postilla</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority></authority>
+        <idno type="filename"/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>museum/archive</repository>
+            <idno>inventory number</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="edition" xml:id="WP_1573">
+    <body>
+      <div type="textpart" subtype="sermon" xml:id="WP_1573_Dom._27_Trin.">
+        <pb n="282v"/>
+        <l n="1" xml:id="WP_1573_Dom._27_Trin._282v_1">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_1.1" xml:lang="olt">NEDELIAN</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_1.2" xml:lang="olt">27</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_1.3" xml:lang="olt">PA</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_1.4" xml:lang="olt">S:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_1.5" xml:lang="olt"><app>
+                <lem>TRAI<lb break="no"/>es</lem>
+                <rdg>pro: TRAI=ces</rdg>
+                </app></w>
+        </l>
+        <l n="2" xml:id="WP_1573_Dom._27_Trin._282v_2">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_2.1" xml:lang="olt">Egłiu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_2.2" xml:lang="olt">kuru</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_2.3" xml:lang="olt">iſchraſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_2.4" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_2.5" xml:lang="olt">Luca:</w>
+        </l>
+        <l n="3" xml:id="WP_1573_Dom._27_Trin._282v_3">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_3.1" xml:lang="olt">Egłiſta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_3.2" xml:lang="olt">9</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_3.3" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_3.4" xml:lang="olt">tak:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_3.5" xml:lang="olt">ſʒad:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_3.6" xml:lang="grc">m̄</w>
+        </l>
+        <l n="4" xml:id="WP_1573_Dom._27_Trin._282v_4">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_4.1" xml:lang="olt">Staghiſsi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_4.2" xml:lang="olt">eſt</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_4.3" xml:lang="olt">tada</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_4.4" xml:lang="olt">pa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_4.5" xml:lang="olt">tụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_4.6" xml:lang="olt">ſʒadʒiụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_4.7" xml:lang="olt">weikia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_4.8" xml:lang="grc">m̄</w>
+        </l>
+        <l n="5" xml:id="WP_1573_Dom._27_Trin._282v_5">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_5.1" xml:lang="olt">Teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_5.2" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_5.3" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_5.4" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_5.5" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_5.6" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_5.7" xml:lang="olt">apſchweſtas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_5.8" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_5.9" xml:lang="olt">apgarbin<lb break="no"/>tas</w>
+        </l>
+        <l n="6" xml:id="WP_1573_Dom._27_Trin._282v_6">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_6.1" xml:lang="olt">Cħus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_6.2" xml:lang="olt"><app>
+                <lem>Jeſus</lem>
+                <rdg>pro: apłun</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_6.3" xml:lang="olt">pa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_6.4" xml:lang="olt">akim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_6.5" xml:lang="olt">tụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_6.6" xml:lang="olt"><app>
+                <lem>apłnn</lem>
+                <rdg>pro: apłun</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_6.7" xml:lang="olt">tadelei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_6.8" xml:lang="olt">an<lb break="no"/>gu</w>
+        </l>
+        <l n="7" xml:id="WP_1573_Dom._27_Trin._282v_7">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_7.1" xml:lang="olt">tui</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_7.2" xml:lang="olt">preſʒaſtim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_7.3" xml:lang="olt">∻</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_7.4" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_7.5" xml:lang="olt">apłai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_7.6" xml:lang="olt">regiedami</w>
+        </l>
+        <l n="8" xml:id="WP_1573_Dom._27_Trin._282v_8">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_8.1" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_8.2" xml:lang="olt">garbẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_8.3" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_8.4" xml:lang="olt">ſchweſibẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_8.5" xml:lang="olt">galletụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_8.6" xml:lang="olt">luditi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_8.7" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_8.8" xml:lang="olt">ghị</w>
+        </l>
+        <l n="9" xml:id="WP_1573_Dom._27_Trin._282v_9">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_9.1" xml:lang="olt">Chacʒeigi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_9.2" xml:lang="olt">ghiſsai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_9.3" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_9.4" xml:lang="olt">ant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_9.5" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_9.6" xml:lang="olt">ſweta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_9.7" xml:lang="olt"><app>
+                <lem>Vbagn</lem>
+                <rdg>pro: Vbagu</rdg>
+                </app></w>
+        </l>
+        <l n="10" xml:id="WP_1573_Dom._27_Trin._282v_10">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_10.1" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_10.2" xml:lang="olt">apwarguſiu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_10.3" xml:lang="olt">ſʒmagum</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_10.4" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_10.5" xml:lang="olt">paſsirades,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_10.6" xml:lang="olt">bet</w>
+        </l>
+        <l n="11" xml:id="WP_1573_Dom._27_Trin._282v_11">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_11.1" xml:lang="olt">tacʒiau</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_11.2" xml:lang="olt">ghiſsai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_11.3" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_11.4" xml:lang="olt">tikras</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_11.5" xml:lang="olt">ſunus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_11.6" xml:lang="olt">Diewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_11.7" xml:lang="olt">wiſsụ</w>
+        </l>
+        <l n="12" xml:id="WP_1573_Dom._27_Trin._282v_12">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_12.1" xml:lang="olt">garbẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_12.2" xml:lang="olt"><app>
+                <lem>ſchlawen</lem>
+                <rdg>ga</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_12.3" xml:lang="olt">aſchweſibẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_12.4" xml:lang="olt">turris,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_12.5" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_12.6" xml:lang="olt">ape</w>
+        </l>
+        <l n="13" xml:id="WP_1573_Dom._27_Trin._282v_13">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_13.1" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_13.2" xml:lang="olt">ghiſsai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_13.3" xml:lang="olt">pats</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_13.4" xml:lang="olt">Johan:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_13.5" xml:lang="olt">17</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_13.6" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_13.7" xml:lang="olt">kalba</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_13.8" xml:lang="olt">tar<lb break="no"/>dams:</w>
+        </l>
+        <l n="14" xml:id="WP_1573_Dom._27_Trin._282v_14">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_14.1" xml:lang="olt">Tewai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_14.2" xml:lang="olt">apſchweſk</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_14.3" xml:lang="olt">mane</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_14.4" xml:lang="olt"><app>
+                <lem>anai</lem>
+                <rdg>ſchwe=bei &gt;</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_14.5" xml:lang="olt">ſchweſi<lb break="no"/>be,</w>
+        </l>
+        <l n="15" xml:id="WP_1573_Dom._27_Trin._282v_15">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_15.1" xml:lang="olt">kure</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_15.2" xml:lang="olt">tawimp</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_15.3" xml:lang="olt">tureiau</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_15.4" xml:lang="olt">pirma</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_15.5" xml:lang="olt">ne</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_15.6" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_15.7" xml:lang="olt">tas</w>
+        </l>
+        <l n="16" xml:id="WP_1573_Dom._27_Trin._282v_16">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_16.1" xml:lang="olt">ſwetas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_16.2" xml:lang="olt">bua</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_16.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_16.4" xml:lang="olt">Bua</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_16.5" xml:lang="olt">tadangi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_16.6" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_16.7" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_16.8" xml:lang="olt">apłai</w>
+        </l>
+        <l n="17" xml:id="WP_1573_Dom._27_Trin._282v_17">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_17.1" xml:lang="olt">werni</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_17.2" xml:lang="olt"><app>
+                <lem>ludininkai</lem>
+                <rdg>liudinina</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_17.3" xml:lang="olt">garbes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_17.4" xml:lang="olt">Cħaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_17.5" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_17.6" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_17.7" xml:lang="olt">Janas</w>
+        </l>
+        <l n="18" xml:id="WP_1573_Dom._27_Trin._282v_18">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_18.1" xml:lang="olt">1</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_18.2" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_18.3" xml:lang="olt">kalba</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_18.4" xml:lang="olt">tardams:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_18.5" xml:lang="olt">Regeijame</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_18.6" xml:lang="olt">garbẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_18.7" xml:lang="olt">ia</w>
+        </l>
+        <l n="19" xml:id="WP_1573_Dom._27_Trin._282v_19">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_19.1" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_19.2" xml:lang="olt">wenai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_19.3" xml:lang="olt">gimuſaija</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_19.4" xml:lang="olt">nog</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_19.5" xml:lang="olt">tewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_19.6" xml:lang="olt">pilnā</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_19.7" xml:lang="olt">mala<lb break="no"/>nes</w>
+        </l>
+        <l n="20" xml:id="WP_1573_Dom._27_Trin._282v_20">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_20.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_20.2" xml:lang="olt">tieſas.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_20.3" xml:lang="olt">Taſiegi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_20.4" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_20.5" xml:lang="olt">Janas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_20.6" xml:lang="olt">1</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_20.7" xml:lang="olt">Gram:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_20.8" xml:lang="olt">1</w>
+        </l>
+        <l n="21" xml:id="WP_1573_Dom._27_Trin._282v_21">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_21.1" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_21.2" xml:lang="olt"><app>
+                <lem>4</lem>
+                <rdg>:1:</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_21.3" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_21.4" xml:lang="olt">bila:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_21.5" xml:lang="olt">kạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_21.6" xml:lang="olt">regeijame</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_21.7" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_21.8" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_21.9" xml:lang="olt">ludija<lb break="no"/>me.</w>
+        </l>
+        <l n="22" xml:id="WP_1573_Dom._27_Trin._282v_22">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_22.1" xml:lang="olt">S</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_22.2" xml:lang="olt">Petras</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_22.3" xml:lang="olt">apłas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_22.4" xml:lang="olt">2</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_22.5" xml:lang="olt">Pet:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_22.6" xml:lang="olt">1</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_22.7" xml:lang="olt">teip</w>
+        </l>
+        <l n="23" xml:id="WP_1573_Dom._27_Trin._282v_23">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_23.1" xml:lang="olt">bila:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_23.2" xml:lang="olt">Girdeijame</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_23.3" xml:lang="olt">balſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_23.4" xml:lang="olt">anu,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_23.5" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_23.6" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_23.7" xml:lang="olt">ſunus</w>
+        </l>
+        <l n="24" xml:id="WP_1573_Dom._27_Trin._282v_24">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_24.1" xml:lang="olt">mana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_24.2" xml:lang="olt">mielas,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_24.3" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_24.4" xml:lang="olt">regeijame</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_24.5" xml:lang="olt">garbẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_24.6" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_24.7" xml:lang="olt">pa<lb break="no"/>tes,</w>
+        </l>
+        <l n="25" xml:id="WP_1573_Dom._27_Trin._282v_25">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_25.1" xml:lang="olt">ka</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_25.2" xml:lang="olt">ieme</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_25.3" xml:lang="olt">nog</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_25.4" xml:lang="olt">tewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_25.5" xml:lang="olt">garbẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_25.6" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_25.7" xml:lang="olt">ſchlawẹ,</w>
+        </l>
+        <l n="26" xml:id="WP_1573_Dom._27_Trin._282v_26">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.1" xml:lang="olt">Tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.2" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.3" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.4" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.5" xml:lang="olt">tiei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.6" xml:lang="olt">apłai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.7" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.8" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.9" xml:lang="olt">ludighị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_26.10" xml:lang="olt">a<lb break="no"/>pe</w>
+        </l>
+        <l n="27" xml:id="WP_1573_Dom._27_Trin._282v_27">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_27.1" xml:lang="olt">Cħu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_27.2" xml:lang="olt">Jeſụ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_27.3" xml:lang="olt">tadelei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_27.4" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_27.5" xml:lang="olt">mes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_27.6" xml:lang="olt">tikietum<lb break="no"/>bim</w>
+        </l>
+        <l n="28" xml:id="WP_1573_Dom._27_Trin._282v_28">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_28.1" xml:lang="olt">ghị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_28.2" xml:lang="olt">wenụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_28.3" xml:lang="olt">but</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_28.4" xml:lang="olt">ſunum</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_28.5" xml:lang="olt">Diewa,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_28.6" xml:lang="olt">kurſai</w>
+        </l>
+        <l n="29" xml:id="WP_1573_Dom._27_Trin._282v_29">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_29.1" xml:lang="olt">wenas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_29.2" xml:lang="olt">pats</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_29.3" xml:lang="olt">narj</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_29.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_29.5" xml:lang="olt">gali</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_29.6" xml:lang="olt">grekus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_29.7" xml:lang="olt">atleiſt</w>
+        </l>
+        <l n="30" xml:id="WP_1573_Dom._27_Trin._282v_30">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_30.1" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_30.2" xml:lang="olt">ſmertes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_30.3" xml:lang="olt">prikelt,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_30.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_30.5" xml:lang="olt">wiſsemus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_30.6" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_30.7" xml:lang="olt">ſa<lb break="no"/>we</w>
+        </l>
+        <l n="31" xml:id="WP_1573_Dom._27_Trin._282v_31">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_31.1" xml:lang="olt">tikintiemus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_31.2" xml:lang="olt">amſʒinụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_31.3" xml:lang="olt">ſʒiwatụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_31.4" xml:lang="olt">dott,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_31.5" xml:lang="olt">J<lb break="no"/>dant</w>
+        </l>
+        <l n="32" xml:id="WP_1573_Dom._27_Trin._282v_32">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_32.1" xml:lang="olt">ſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_32.2" xml:lang="olt">io</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_32.3" xml:lang="olt">turretumbim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_32.4" xml:lang="olt">amſʒinụ</w>
+        </l>
+        <l n="33" xml:id="WP_1573_Dom._27_Trin._282v_33">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_33.1" xml:lang="olt">garbẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_33.2" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_33.3" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_33.4" xml:lang="olt">ſchweſiben</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_33.5" xml:lang="olt">regieti,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_33.6" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_33.7" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_33.8" xml:lang="olt">tai</w>
+        </l>
+        <l n="34" xml:id="WP_1573_Dom._27_Trin._282v_34">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_34.1" xml:lang="olt">ghis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_34.2" xml:lang="olt">pats</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_34.3" xml:lang="olt">kalba</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_34.4" xml:lang="olt">Johan:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_34.5" xml:lang="olt">17</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_34.6" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_34.7" xml:lang="olt">Jdant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_34.8" xml:lang="olt">re<lb break="no"/>gietụ</w>
+        </l>
+        <l n="35" xml:id="WP_1573_Dom._27_Trin._282v_35">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._282v_35.1" xml:lang="olt">ſchweſibẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_35.2" xml:lang="olt">mana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_35.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_35.4" xml:lang="olt">Ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_35.5" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_35.6" xml:lang="olt">Paw:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._282v_35.7" xml:lang="olt">raſʒi<lb break="no"/>dams</w>
+        </l>
+        <l n="R" xml:id="WP_1573_Dom._27_Trin._282v_R">
+
+
+        </l>
+        <pb n="283r"/>
+        <l n="1" xml:id="WP_1573_Dom._27_Trin._283r_1">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.1" xml:lang="olt">dams</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.2" xml:lang="olt">Philip:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.3" xml:lang="olt">3</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.4" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.5" xml:lang="olt">bila:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.6" xml:lang="olt">Apſchwes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.7" xml:lang="olt">tạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.8" xml:lang="olt">kunu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.9" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_1.10" xml:lang="olt">ſe<lb break="no"/>nughị,</w>
+        </l>
+        <l n="2" xml:id="WP_1573_Dom._27_Trin._283r_2">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_2.1" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_2.2" xml:lang="olt">priligintụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_2.3" xml:lang="olt">padarritụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_2.4" xml:lang="olt">kunu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_2.5" xml:lang="olt">ſawam</w>
+        </l>
+        <l n="3" xml:id="WP_1573_Dom._27_Trin._283r_3">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_3.1" xml:lang="olt">apſchweſtamiam,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_3.2" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_3.3" xml:lang="olt">Tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_3.4" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_3.5" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_3.6" xml:lang="olt">k</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_3.7" xml:lang="olt">preſʒaſtis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_3.8" xml:lang="olt">ta,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_3.9" xml:lang="olt">kaip</w>
+        </l>
+        <l n="4" xml:id="WP_1573_Dom._27_Trin._283r_4">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_4.1" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_4.2" xml:lang="olt">Cħus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_4.3" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_4.4" xml:lang="olt">pa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_4.5" xml:lang="olt">akim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_4.6" xml:lang="olt">apłu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_4.7" xml:lang="olt">ſawụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_4.8" xml:lang="olt">apſchweſtas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_4.9" xml:lang="olt">eſt</w>
+        </l>
+        <l n="5" xml:id="WP_1573_Dom._27_Trin._283r_5">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_5.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_5.2" xml:lang="olt">kadelei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_5.3" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_5.4" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_5.5" xml:lang="olt">ghị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_5.6" xml:lang="olt">apłai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_5.7" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_5.8" xml:lang="olt">ludij</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_5.9" xml:lang="olt">eſt.</w>
+        </l>
+        <l n="6" xml:id="WP_1573_Dom._27_Trin._283r_6">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_6.1" xml:lang="olt">Antra</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_6.2" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_6.3" xml:lang="olt">to</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_6.4" xml:lang="olt">cʒeſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_6.5" xml:lang="olt">paſsiraden</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_6.6" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_6.7" xml:lang="olt">Moi<lb break="no"/>ſʒes</w>
+        </l>
+        <l n="7" xml:id="WP_1573_Dom._27_Trin._283r_7">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_7.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_7.2" xml:lang="olt">Helias</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_7.3" xml:lang="olt">iau</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_7.4" xml:lang="olt">apſchweſti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_7.5" xml:lang="olt">kalbedami</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_7.6" xml:lang="olt">ſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_7.7" xml:lang="olt">io</w>
+        </l>
+        <l n="8" xml:id="WP_1573_Dom._27_Trin._283r_8">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_8.1" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_8.2" xml:lang="olt">ſmertị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_8.3" xml:lang="olt">ia,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_8.4" xml:lang="olt">kurụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_8.5" xml:lang="olt">ghiſsai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_8.6" xml:lang="olt">turreija</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_8.7" xml:lang="olt">turret.</w>
+        </l>
+        <l n="9" xml:id="WP_1573_Dom._27_Trin._283r_9">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_9.1" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_9.2" xml:lang="olt">Jeruſalem</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_9.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_9.4" xml:lang="olt">Jſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_9.5" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_9.6" xml:lang="olt">paſsiradima</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_9.7" xml:lang="olt">tụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_9.8" xml:lang="olt"><app>
+                <lem>dwei<lb break="no"/>iu</lem>
+                <rdg>de</rdg>
+                </app></w>
+        </l>
+        <l n="10" xml:id="WP_1573_Dom._27_Trin._283r_10">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_10.1" xml:lang="olt">wirụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_10.2" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_10.3" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_10.4" xml:lang="olt">iu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_10.5" xml:lang="olt">ſchweſuma</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_10.6" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_10.7" xml:lang="olt">turrim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_10.8" xml:lang="olt">makites.</w>
+        </l>
+        <l n="11" xml:id="WP_1573_Dom._27_Trin._283r_11">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_11.1" xml:lang="olt">Pirmiauſei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_11.2" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_11.3" xml:lang="olt">ſʒmanes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_11.4" xml:lang="olt">tiei,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_11.5" xml:lang="olt">kuriei</w>
+        </l>
+        <l n="12" xml:id="WP_1573_Dom._27_Trin._283r_12">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_12.1" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_12.2" xml:lang="olt">numirſʒta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_12.3" xml:lang="olt">neprapola</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_12.4" xml:lang="olt">iu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_12.5" xml:lang="olt">duſchas,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_12.6" xml:lang="olt">kaip</w>
+        </l>
+        <l n="13" xml:id="WP_1573_Dom._27_Trin._283r_13">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_13.1" xml:lang="olt">prapola</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_13.2" xml:lang="olt"><app>
+                <lem>amu</lem>
+                <rdg>pro: annu</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_13.3" xml:lang="olt">neiſchmintingu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_13.4" xml:lang="olt">ſʒwerụ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_13.5" xml:lang="olt">pekaus</w>
+        </l>
+        <l n="14" xml:id="WP_1573_Dom._27_Trin._283r_14">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_14.1" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_14.2" xml:lang="olt">paukſchcʒiụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_14.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_14.4" xml:lang="olt">draugie</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_14.5" xml:lang="olt">ſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_14.6" xml:lang="olt">iu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_14.7" xml:lang="olt">kunais</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_14.8" xml:lang="olt">NE</w>
+        </l>
+        <l n="15" xml:id="WP_1573_Dom._27_Trin._283r_15">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_15.1" xml:lang="olt">Tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_15.2" xml:lang="olt">neſs</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_15.3" xml:lang="olt">neku</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_15.4" xml:lang="olt"><app>
+                <lem>budu</lem>
+                <rdg>bedu</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_15.5" xml:lang="olt">negali</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_15.6" xml:lang="olt">but.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_15.7" xml:lang="olt">Panas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_15.8" xml:lang="olt">De<lb break="no"/>was</w>
+        </l>
+        <l n="16" xml:id="WP_1573_Dom._27_Trin._283r_16">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_16.1" xml:lang="olt">neſs</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_16.2" xml:lang="lat">Exo:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_16.3" xml:lang="lat">3</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_16.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_16.5" xml:lang="olt">Math:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_16.6" xml:lang="olt">22</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_16.7" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_16.8" xml:lang="olt">wadinaſsi</w>
+        </l>
+        <l n="17" xml:id="WP_1573_Dom._27_Trin._283r_17">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_17.1" xml:lang="olt">but</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_17.2" xml:lang="olt">Dewu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_17.3" xml:lang="olt">Abrahama</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_17.4" xml:lang="olt">Jſaaka</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_17.5" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_17.6" xml:lang="olt">Jacuba</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_17.7" xml:lang="olt">kure</w>
+        </l>
+        <l n="18" xml:id="WP_1573_Dom._27_Trin._283r_18">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_18.1" xml:lang="olt">chacʒei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_18.2" xml:lang="olt">iau</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_18.3" xml:lang="olt">ſenei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_18.4" xml:lang="olt">per</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_18.5" xml:lang="olt">kiek</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_18.6" xml:lang="olt">tukſchtancʒiụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_18.7" xml:lang="olt">metụ</w>
+        </l>
+        <l n="19" xml:id="WP_1573_Dom._27_Trin._283r_19">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_19.1" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_19.2" xml:lang="olt">nog</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_19.3" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_19.4" xml:lang="olt">ſweta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_19.5" xml:lang="olt">numirị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_19.6" xml:lang="olt">ira,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_19.7" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_19.8" xml:lang="olt">wenaik</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_19.9" xml:lang="olt">a<lb break="no"/>name</w>
+        </l>
+        <l n="20" xml:id="WP_1573_Dom._27_Trin._283r_20">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_20.1" xml:lang="olt">ſwete</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_20.2" xml:lang="olt">duſchas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_20.3" xml:lang="olt">iụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_20.4" xml:lang="olt">giwas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_20.5" xml:lang="olt">ira.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_20.6" xml:lang="olt">Kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_20.7" xml:lang="olt">du<lb break="no"/>ſchas</w>
+        </l>
+        <l n="21" xml:id="WP_1573_Dom._27_Trin._283r_21">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_21.1" xml:lang="olt">numiruſuiu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_21.2" xml:lang="olt">M:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_21.3" xml:lang="olt">k</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_21.4" xml:lang="olt">neprapola,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_21.5" xml:lang="olt">bet</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_21.6" xml:lang="olt">giwas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_21.7" xml:lang="olt">a<lb break="no"/>name</w>
+        </l>
+        <l n="22" xml:id="WP_1573_Dom._27_Trin._283r_22">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_22.1" xml:lang="olt">ſwete</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_22.2" xml:lang="olt">ira,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_22.3" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_22.4" xml:lang="olt">taip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_22.5" xml:lang="olt">buti,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_22.6" xml:lang="olt"><app>
+                <lem>tas</lem>
+                <rdg>tes</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_22.7" xml:lang="olt">wetas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_22.8" xml:lang="olt">raſʒ<lb break="no"/>ta</w>
+        </l>
+        <l n="23" xml:id="WP_1573_Dom._27_Trin._283r_23">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_23.1" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_23.2" xml:lang="olt">ludija.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_23.3" xml:lang="olt">Pats</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_23.4" xml:lang="olt">panas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_23.5" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_23.6" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_23.7" xml:lang="olt">Cħus</w>
+        </l>
+        <l n="24" xml:id="WP_1573_Dom._27_Trin._283r_24">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_24.1" xml:lang="olt">tare</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_24.2" xml:lang="olt">anam</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_24.3" xml:lang="olt">latru</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_24.4" xml:lang="olt">pas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_24.5" xml:lang="olt">ſawạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_24.6" xml:lang="olt">ſʒali</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_24.7" xml:lang="olt">kabancʒiam:</w>
+        </l>
+        <l n="25" xml:id="WP_1573_Dom._27_Trin._283r_25">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.1" xml:lang="olt">Nu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.2" xml:lang="olt">ſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.3" xml:lang="olt">manimi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.4" xml:lang="olt">buſi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.5" xml:lang="olt">raiui</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.6" xml:lang="olt">Lu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.7" xml:lang="olt">23.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.8" xml:lang="olt">S</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.9" xml:lang="olt">Paw:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_25.10" xml:lang="olt">Phil:</w>
+        </l>
+        <l n="26" xml:id="WP_1573_Dom._27_Trin._283r_26">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.1" xml:lang="olt">1</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.2" xml:lang="olt">bila:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.3" xml:lang="olt">Jau</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.4" xml:lang="olt">geidʒiu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.5" xml:lang="olt">perſiſkirt</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.6" xml:lang="olt">ſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.7" xml:lang="olt">kunu,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.8" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.9" xml:lang="olt">but</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_26.10" xml:lang="olt">ſu</w>
+        </l>
+        <l n="27" xml:id="WP_1573_Dom._27_Trin._283r_27">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_27.1" xml:lang="olt">Cħu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_27.2" xml:lang="olt">Jeſu.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_27.3" xml:lang="olt">Jr</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_27.4" xml:lang="olt">wel</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_27.5" xml:lang="olt">bila</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_27.6" xml:lang="lat"><app>
+                <lem>Cor:</lem>
+                <rdg>gu= &gt;</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_27.7" xml:lang="olt">Giwigu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_27.8" xml:lang="olt"><app>
+                <lem>eſme</lem>
+                <rdg>gu= &gt;</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_27.9" xml:lang="olt">Nugu<lb break="no"/>mirſchtame</w>
+        </l>
+        <l n="28" xml:id="WP_1573_Dom._27_Trin._283r_28">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_28.1" xml:lang="olt">Diewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_28.2" xml:lang="olt">eſme,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_28.3" xml:lang="olt">Jr</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_28.4" xml:lang="olt">wel</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_28.5" xml:lang="olt">bila</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_28.6" xml:lang="olt">panas</w>
+        </l>
+        <l n="29" xml:id="WP_1573_Dom._27_Trin._283r_29">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_29.1" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_29.2" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_29.3" xml:lang="olt">Cħus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_29.4" xml:lang="olt">Math:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_29.5" xml:lang="olt">10</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_29.6" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_29.7" xml:lang="olt">duſches</w>
+        </l>
+        <l n="30" xml:id="WP_1573_Dom._27_Trin._283r_30">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_30.1" xml:lang="olt">negali</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_30.2" xml:lang="olt">uſʒmuſchti.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_30.3" xml:lang="olt">Antra</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_30.4" xml:lang="olt">turrim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_30.5" xml:lang="olt">ſʒin<lb break="no"/>nat,</w>
+        </l>
+        <l n="31" xml:id="WP_1573_Dom._27_Trin._283r_31">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_31.1" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_31.2" xml:lang="olt">numiruſeij,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_31.3" xml:lang="olt">kurei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_31.4" xml:lang="olt">ſtiprai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_31.5" xml:lang="olt">werai</w>
+        </l>
+        <l n="32" xml:id="WP_1573_Dom._27_Trin._283r_32">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_32.1" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_32.2" xml:lang="olt">Cħu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_32.3" xml:lang="olt">Jeſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_32.4" xml:lang="olt">numirrin</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_32.5" xml:lang="olt">ira,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_32.6" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_32.7" xml:lang="olt">iei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_32.8" xml:lang="olt">amſʒinai</w>
+        </l>
+        <l n="33" xml:id="WP_1573_Dom._27_Trin._283r_33">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_33.1" xml:lang="olt">ſchweſibei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_33.2" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_33.3" xml:lang="olt">dʒaukſme</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_33.4" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_33.5" xml:lang="olt">linkſmibei,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_33.6" xml:lang="olt">iſchgielbe<lb break="no"/>ti</w>
+        </l>
+        <l n="34" xml:id="WP_1573_Dom._27_Trin._283r_34">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_34.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_34.2" xml:lang="olt">iſchimti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_34.3" xml:lang="olt">nog</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_34.4" xml:lang="olt">wiſsa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_34.5" xml:lang="olt">pikta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_34.6" xml:lang="olt">bedas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_34.7" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_34.8" xml:lang="olt">warga</w>
+        </l>
+        <l n="35" xml:id="WP_1573_Dom._27_Trin._283r_35">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_35.1" xml:lang="olt">kạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_35.2" xml:lang="olt">turreij</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_35.3" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_35.4" xml:lang="olt">ſchame</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_35.5" xml:lang="olt">ſwete</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_35.6" xml:lang="olt">ik</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_35.7" xml:lang="olt">giwi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_35.8" xml:lang="olt">budami</w>
+        </l>
+        <l n="36" xml:id="WP_1573_Dom._27_Trin._283r_36">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283r_36.1" xml:lang="olt">kenteti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_36.2" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283r_36.3" xml:lang="olt">wargkti.</w>
+        </l>
+        <pb n="283v"/>
+        <l n="1" xml:id="WP_1573_Dom._27_Trin._283v_1">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_1.1" xml:lang="olt"><app>
+                <lem>Tadelei</lem>
+                <rdg>Tadeli</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_1.2" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_1.3" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_1.4" xml:lang="olt">makinkimas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_1.5" xml:lang="olt">neſsibaiditi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_1.6" xml:lang="olt">nei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_1.7" xml:lang="olt"><app>
+                <lem>neſ<lb break="no"/>ſibijati</lem>
+                <rdg>neſ=ſibie</rdg>
+                </app></w>
+        </l>
+        <l n="2" xml:id="WP_1573_Dom._27_Trin._283v_2">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_2.1" xml:lang="olt">ſmertes,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_2.2" xml:lang="olt">tadelei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_2.3" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_2.4" xml:lang="olt">wiſsi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_2.5" xml:lang="olt">tikin<lb break="no"/>teij</w>
+        </l>
+        <l n="3" xml:id="WP_1573_Dom._27_Trin._283v_3">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_3.1" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_3.2" xml:lang="olt">Cħu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_3.3" xml:lang="olt">Jeſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_3.4" xml:lang="olt">amſʒinai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_3.5" xml:lang="olt">giwi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_3.6" xml:lang="olt">ira,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_3.7" xml:lang="olt">kuriei</w>
+        </l>
+        <l n="4" xml:id="WP_1573_Dom._27_Trin._283v_4">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_4.1" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_4.2" xml:lang="olt">werai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_4.3" xml:lang="olt">numirſchta,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_4.4" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_4.5" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_4.6" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_4.7" xml:lang="olt">pats</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_4.8" xml:lang="olt">pa<lb break="no"/>nas</w>
+        </l>
+        <l n="5" xml:id="WP_1573_Dom._27_Trin._283v_5">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_5.1" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_5.2" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_5.3" xml:lang="olt">Cħus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_5.4" xml:lang="olt">bila</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_5.5" xml:lang="olt">Johan:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_5.6" xml:lang="olt">5</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_5.7" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_5.8" xml:lang="olt">Vſʒtie<lb break="no"/>ſu</w>
+        </l>
+        <l n="6" xml:id="WP_1573_Dom._27_Trin._283v_6">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_6.1" xml:lang="olt">uſʒtieſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_6.2" xml:lang="olt">bilau</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_6.3" xml:lang="olt">iumis,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_6.4" xml:lang="olt">kurſai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_6.5" xml:lang="olt">ſʒadʒia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_6.6" xml:lang="olt">ma<lb break="no"/>na</w>
+        </l>
+        <l n="7" xml:id="WP_1573_Dom._27_Trin._283v_7">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_7.1" xml:lang="olt">klauſa,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_7.2" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_7.3" xml:lang="olt">tiki</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_7.4" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_7.5" xml:lang="olt">tạ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_7.6" xml:lang="olt">kurſai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_7.7" xml:lang="olt">ſunte</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_7.8" xml:lang="olt">ma<lb break="no"/>ne</w>
+        </l>
+        <l n="8" xml:id="WP_1573_Dom._27_Trin._283v_8">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_8.1" xml:lang="olt">tas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_8.2" xml:lang="olt">turri</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_8.3" xml:lang="olt">amſʒinu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_8.4" xml:lang="olt">ſʒiwatụ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_8.5" xml:lang="olt">nei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_8.6" xml:lang="olt">neat<lb break="no"/>eis</w>
+        </l>
+        <l n="9" xml:id="WP_1573_Dom._27_Trin._283v_9">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_9.1" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_9.2" xml:lang="olt">ſudụ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_9.3" xml:lang="olt">bet</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_9.4" xml:lang="olt">eis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_9.5" xml:lang="olt">nog</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_9.6" xml:lang="olt">ſmertes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_9.7" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_9.8" xml:lang="olt">ſʒiwatụ.</w>
+        </l>
+        <l n="10" xml:id="WP_1573_Dom._27_Trin._283v_10">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_10.1" xml:lang="olt">Neturrim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_10.2" xml:lang="olt">tadangi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_10.3" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_10.4" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_10.5" xml:lang="olt">ſmerties</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_10.6" xml:lang="olt">bijates</w>
+        </l>
+        <l n="11" xml:id="WP_1573_Dom._27_Trin._283v_11">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_11.1" xml:lang="olt">ſʒinadami</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_11.2" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_11.3" xml:lang="olt">tam</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_11.4" xml:lang="olt">ſtiprei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_11.5" xml:lang="olt">tikedami</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_11.6" xml:lang="olt">kaipagi</w>
+        </l>
+        <l n="12" xml:id="WP_1573_Dom._27_Trin._283v_12">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_12.1" xml:lang="olt">ſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_12.2" xml:lang="olt">Cħu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_12.3" xml:lang="olt">Jeſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_12.4" xml:lang="olt">amſʒinụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_12.5" xml:lang="olt">garbẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_12.6" xml:lang="olt">turreſim.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_12.7" xml:lang="grc">m̄</w>
+        </l>
+        <l n="13" xml:id="WP_1573_Dom._27_Trin._283v_13">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_13.1" xml:lang="olt">Jr</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_13.2" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_13.3" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_13.4" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_13.5" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_13.6" xml:lang="olt">turrim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_13.7" xml:lang="olt">makites,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_13.8" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_13.9" xml:lang="olt">tai</w>
+        </l>
+        <l n="14" xml:id="WP_1573_Dom._27_Trin._283v_14">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_14.1" xml:lang="olt">wiſsa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_14.2" xml:lang="olt">melas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_14.3" xml:lang="olt">ira,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_14.4" xml:lang="olt">kạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_14.5" xml:lang="olt">Papeſʒiſʒkei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_14.6" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_14.7" xml:lang="olt">ſʒin</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_14.8" xml:lang="olt">ka<lb break="no"/>kiu</w>
+        </l>
+        <l n="15" xml:id="WP_1573_Dom._27_Trin._283v_15">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_15.1" xml:lang="olt">cʒiſcʒu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_15.2" xml:lang="olt">angu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_15.3" xml:lang="olt">ugnị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_15.4" xml:lang="olt">cʒiſtijamụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_15.5" xml:lang="olt">makinna,</w>
+        </l>
+        <l n="16" xml:id="WP_1573_Dom._27_Trin._283v_16">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_16.1" xml:lang="olt">kurai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_16.2" xml:lang="olt">Vgni</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_16.3" xml:lang="olt">tas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_16.4" xml:lang="olt">duſches</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_16.5" xml:lang="olt">kuras</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_16.6" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_16.7" xml:lang="olt">ſcha<lb break="no"/>me</w>
+        </l>
+        <l n="17" xml:id="WP_1573_Dom._27_Trin._283v_17">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_17.1" xml:lang="olt">ſwete</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_17.2" xml:lang="olt">ik</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_17.3" xml:lang="olt">giwas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_17.4" xml:lang="olt">budams</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_17.5" xml:lang="olt">gierreis</w>
+        </l>
+        <l n="18" xml:id="WP_1573_Dom._27_Trin._283v_18">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_18.1" xml:lang="olt">darbais</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_18.2" xml:lang="olt">uſʒ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_18.3" xml:lang="olt">grekus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_18.4" xml:lang="olt">ſawa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_18.5" xml:lang="olt">ganna</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_18.6" xml:lang="olt">nebutụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_18.7" xml:lang="olt"><app>
+                <lem>pa<lb break="no"/>daruſias</lem>
+                <rdg>pro: duſchamus</rdg>
+                </app></w>
+        </l>
+        <l n="19" xml:id="WP_1573_Dom._27_Trin._283v_19">
+
+,
+        <w xml:id="WP_1573_Dom._27_Trin._283v_19.2" xml:lang="olt">ieigu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_19.3" xml:lang="olt">nes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_19.4" xml:lang="olt"><app>
+                <lem>dnſchamus</lem>
+                <rdg>pro: duſchamus</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_19.5" xml:lang="olt">kienteghi<lb break="no"/>mụ</w>
+        </l>
+        <l n="20" xml:id="WP_1573_Dom._27_Trin._283v_20">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_20.1" xml:lang="olt">Vgnija</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_20.2" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_20.3" xml:lang="olt">cʒiſcʒiaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_20.4" xml:lang="olt">uſʒ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_20.5" xml:lang="olt">grekus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_20.6" xml:lang="olt">ganna</w>
+        </l>
+        <l n="21" xml:id="WP_1573_Dom._27_Trin._283v_21">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_21.1" xml:lang="olt">tur</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_21.2" xml:lang="olt">but</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_21.3" xml:lang="olt">padarrita,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_21.4" xml:lang="olt">tada</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_21.5" xml:lang="olt">Cħus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_21.6" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_21.7" xml:lang="olt">butụ</w>
+        </l>
+        <l n="22" xml:id="WP_1573_Dom._27_Trin._283v_22">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_22.1" xml:lang="olt">napraſnai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_22.2" xml:lang="olt">numires.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_22.3" xml:lang="olt"><app>
+                <lem>Melas</lem>
+                <rdg>Meles</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_22.4" xml:lang="olt">tadangi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_22.5" xml:lang="olt">m:</w>
+        </l>
+        <l n="23" xml:id="WP_1573_Dom._27_Trin._283v_23">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_23.1" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_23.2" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_23.3" xml:lang="olt">per</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_23.4" xml:lang="olt">didis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_23.5" xml:lang="olt">melas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_23.6" xml:lang="olt">ira,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_23.7" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_23.8" xml:lang="olt">butụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_23.9" xml:lang="olt">duſʒas</w>
+        </l>
+        <l n="24" xml:id="WP_1573_Dom._27_Trin._283v_24">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_24.1" xml:lang="olt">numiruſuiụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_24.2" xml:lang="olt">wetai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_24.3" xml:lang="olt">kakiai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_24.4" xml:lang="olt">mukụ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_24.5" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_24.6" xml:lang="olt">kurụ</w>
+        </l>
+        <l n="25" xml:id="WP_1573_Dom._27_Trin._283v_25">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_25.1" xml:lang="olt">muku,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_25.2" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_25.3" xml:lang="olt">Papeſʒiſʒkeij</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_25.4" xml:lang="olt">makinna</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_25.5" xml:lang="olt">giwuiu</w>
+        </l>
+        <l n="26" xml:id="WP_1573_Dom._27_Trin._283v_26">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_26.1" xml:lang="olt">ſʒmanụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_26.2" xml:lang="olt"><app>
+                <lem>gereiſeis</lem>
+                <rdg>gr</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_26.3" xml:lang="olt">darbais</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_26.4" xml:lang="olt">turretụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_26.5" xml:lang="olt">but</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_26.6" xml:lang="olt">iſch<lb break="no"/>gielbamas.</w>
+        </l>
+        <l n="27" xml:id="WP_1573_Dom._27_Trin._283v_27">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_27.1" xml:lang="olt">Baiſius</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_27.2" xml:lang="olt">tadangi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_27.3" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_27.4" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_27.5" xml:lang="olt">apbiau<lb break="no"/>rinimas</w>
+        </l>
+        <l n="28" xml:id="WP_1573_Dom._27_Trin._283v_28">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_28.1" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_28.2" xml:lang="olt">apgiedinimas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_28.3" xml:lang="olt">wecʒeres</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_28.4" xml:lang="olt">pana</w>
+        </l>
+        <l n="29" xml:id="WP_1573_Dom._27_Trin._283v_29">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_29.1" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_29.2" xml:lang="olt">Jeſaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_29.3" xml:lang="olt">Cħaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_29.4" xml:lang="olt">ira,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_29.5" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_29.6" xml:lang="olt">papeſʒiſkei</w>
+        </l>
+        <l n="30" xml:id="WP_1573_Dom._27_Trin._283v_30">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_30.1" xml:lang="olt">affirawaghimu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_30.2" xml:lang="olt">kuna</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_30.3" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_30.4" xml:lang="olt">krauia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_30.5" xml:lang="olt">pana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_30.6" xml:lang="olt">muſụ</w>
+        </l>
+        <l n="31" xml:id="WP_1573_Dom._27_Trin._283v_31">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_31.1" xml:lang="olt">Jeſaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_31.2" xml:lang="olt">Cħaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_31.3" xml:lang="olt">Miſchai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_31.4" xml:lang="olt">ſawa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_31.5" xml:lang="olt">ſakaſsi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_31.6" xml:lang="olt">duſchas</w>
+        </l>
+        <l n="32" xml:id="WP_1573_Dom._27_Trin._283v_32">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_32.1" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_32.2" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_32.3" xml:lang="olt">cʒiſcʒiaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_32.4" xml:lang="olt">mukụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_32.5" xml:lang="olt">iſchgielbụ.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_32.6" xml:lang="olt">Sacra<lb break="no"/>mentas</w>
+        </l>
+        <l n="33" xml:id="WP_1573_Dom._27_Trin._283v_33">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_33.1" xml:lang="olt">angu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_33.2" xml:lang="olt">ſwetaſtis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_33.3" xml:lang="olt">kuna</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_33.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_33.5" xml:lang="olt">krauia</w>
+        </l>
+        <l n="34" xml:id="WP_1573_Dom._27_Trin._283v_34">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_34.1" xml:lang="olt">pana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_34.2" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_34.3" xml:lang="olt">Jeſaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_34.4" xml:lang="olt">Cħaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_34.5" xml:lang="olt">nedel</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_34.6" xml:lang="olt">numiruſiụ</w>
+        </l>
+        <l n="R" xml:id="WP_1573_Dom._27_Trin._283v_R">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._283v_R.1" xml:lang="olt">&lt;bet</w>
+        <w xml:id="WP_1573_Dom._27_Trin._283v_R.2" xml:lang="olt">del&gt;</w>
+        </l>
+        <pb n="284r"/>
+        <l n="1" xml:id="WP_1573_Dom._27_Trin._284r_1">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_1.1" xml:lang="olt">bet</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_1.2" xml:lang="olt">del</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_1.3" xml:lang="olt">giwuijụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_1.4" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_1.5" xml:lang="olt">inſtatita,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_1.6" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_1.7" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_1.8" xml:lang="olt">mumus</w>
+        </l>
+        <l n="2" xml:id="WP_1573_Dom._27_Trin._284r_2">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_2.1" xml:lang="olt">butu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_2.2" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_2.3" xml:lang="olt">grekụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_2.4" xml:lang="olt">atleidimu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_2.5" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_2.6" xml:lang="olt">mineghimu</w>
+        </l>
+        <l n="3" xml:id="WP_1573_Dom._27_Trin._284r_3">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_3.1" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_3.2" xml:lang="olt">karcʒiaſias</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_3.3" xml:lang="olt">mukas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_3.4" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_3.5" xml:lang="olt">ſmertes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_3.6" xml:lang="olt">kurẹ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_3.7" xml:lang="olt">ira</w>
+        </l>
+        <l n="4" xml:id="WP_1573_Dom._27_Trin._284r_4">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_4.1" xml:lang="olt">del</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_4.2" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_4.3" xml:lang="olt">grekụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_4.4" xml:lang="olt">kienteijes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_4.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_4.6" xml:lang="olt">Nedel</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_4.7" xml:lang="olt">ka</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_4.8" xml:lang="olt">kitta</w>
+        </l>
+        <l n="5" xml:id="WP_1573_Dom._27_Trin._284r_5">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_5.1" xml:lang="olt">tadangi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_5.2" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_5.3" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_5.4" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_5.5" xml:lang="olt">wecʒere</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_5.6" xml:lang="olt">Cħaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_5.7" xml:lang="olt">Jeſaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_5.8" xml:lang="olt">in<lb break="no"/>ſtatita</w>
+        </l>
+        <l n="6" xml:id="WP_1573_Dom._27_Trin._284r_6">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_6.1" xml:lang="olt">ira,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_6.2" xml:lang="olt">liſchei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_6.3" xml:lang="olt">tadelei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_6.4" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_6.5" xml:lang="olt">iụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_6.6" xml:lang="olt">walgi<lb break="no"/>dami</w>
+        </l>
+        <l n="7" xml:id="WP_1573_Dom._27_Trin._284r_7">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_7.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_7.2" xml:lang="olt">gierdami</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_7.3" xml:lang="olt">wierụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_7.4" xml:lang="olt">ſawạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_7.5" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_7.6" xml:lang="olt">Cħu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_7.7" xml:lang="olt">ſti<lb break="no"/>printumbim</w>
+        </l>
+        <l n="8" xml:id="WP_1573_Dom._27_Trin._284r_8">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_8.1" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_8.2" xml:lang="olt">drutintumbim,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_8.3" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_8.4" xml:lang="olt">ghiſsai</w>
+        </l>
+        <l n="9" xml:id="WP_1573_Dom._27_Trin._284r_9">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_9.1" xml:lang="olt">pats</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_9.2" xml:lang="olt">bila,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_9.3" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_9.4" xml:lang="olt">darrikite</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_9.5" xml:lang="olt">kiek</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_9.6" xml:lang="olt">kartụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_9.7" xml:lang="olt">walgiſite</w>
+        </l>
+        <l n="10" xml:id="WP_1573_Dom._27_Trin._284r_10">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_10.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_10.2" xml:lang="olt">gierſite</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_10.3" xml:lang="olt">ant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_10.4" xml:lang="olt">atminima</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_10.5" xml:lang="olt">mana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_10.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_10.7" xml:lang="olt">Antra</w>
+        </l>
+        <l n="11" xml:id="WP_1573_Dom._27_Trin._284r_11">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_11.1" xml:lang="olt">girdime</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_11.2" xml:lang="olt">ſche</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_11.3" xml:lang="olt">ſchas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_11.4" xml:lang="olt">dienas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_11.5" xml:lang="olt">Egłai,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_11.6" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_11.7" xml:lang="olt"><app>
+                <lem>gir<lb break="no"/>detas</lem>
+                <rdg>gir=detes</rdg>
+                </app></w>
+        </l>
+        <l n="12" xml:id="WP_1573_Dom._27_Trin._284r_12">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_12.1" xml:lang="olt">bua</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_12.2" xml:lang="olt">balſas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_12.3" xml:lang="olt">diewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_12.4" xml:lang="olt">tewa,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_12.5" xml:lang="olt">kurſai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_12.6" xml:lang="olt">ſakaſ<lb break="no"/>ſi</w>
+        </l>
+        <l n="13" xml:id="WP_1573_Dom._27_Trin._284r_13">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_13.1" xml:lang="olt">tạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_13.2" xml:lang="olt">ſunụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_13.3" xml:lang="olt">ſawu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_13.4" xml:lang="olt">ſaw</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_13.5" xml:lang="olt">didei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_13.6" xml:lang="olt">malanụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_13.7" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_13.8" xml:lang="olt">duſʒei</w>
+        </l>
+        <l n="14" xml:id="WP_1573_Dom._27_Trin._284r_14">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_14.1" xml:lang="olt">ſawa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_14.2" xml:lang="olt">paſsimekſtantị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_14.3" xml:lang="olt">but,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_14.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_14.5" xml:lang="olt">liepia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_14.6" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_14.7" xml:lang="olt">wena</w>
+        </l>
+        <l n="15" xml:id="WP_1573_Dom._27_Trin._284r_15">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_15.1" xml:lang="olt">mumus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_15.2" xml:lang="olt">wiſsemus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_15.3" xml:lang="olt">klauſiti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_15.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_15.5" xml:lang="olt">Jſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_15.6" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_15.7" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_15.8" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_15.9" xml:lang="olt">tur<lb break="no"/>rim</w>
+        </l>
+        <l n="16" xml:id="WP_1573_Dom._27_Trin._284r_16">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_16.1" xml:lang="olt">makintes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_16.2" xml:lang="olt">Pirmiauſei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_16.3" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_16.4" xml:lang="olt"><app>
+                <lem>Cħns</lem>
+                <rdg>pro: Cħus</rdg>
+                </app></w>
+        </l>
+        <l n="17" xml:id="WP_1573_Dom._27_Trin._284r_17">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_17.1" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_17.2" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_17.3" xml:lang="olt">Diewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_17.4" xml:lang="olt">malanauſaſis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_17.5" xml:lang="olt">ſunus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_17.6" xml:lang="olt">pirma</w>
+        </l>
+        <l n="18" xml:id="WP_1573_Dom._27_Trin._284r_18">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_18.1" xml:lang="olt">amſʒia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_18.2" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_18.3" xml:lang="olt">tewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_18.4" xml:lang="olt"><app>
+                <lem>be</lem>
+                <rdg>bet</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_18.5" xml:lang="olt">pradʒias</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_18.6" xml:lang="olt">gimes,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_18.7" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_18.8" xml:lang="olt">ira</w>
+        </l>
+        <l n="19" xml:id="WP_1573_Dom._27_Trin._284r_19">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_19.1" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_19.2" xml:lang="olt">naturas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_19.3" xml:lang="olt">∻</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_19.4" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_19.5" xml:lang="olt">prigimima</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_19.6" xml:lang="olt">Diewa.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_19.7" xml:lang="olt">Preg</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_19.8" xml:lang="olt">tam</w>
+        </l>
+        <l n="20" xml:id="WP_1573_Dom._27_Trin._284r_20">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_20.1" xml:lang="olt">to</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_20.2" xml:lang="olt">malanus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_20.3" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_20.4" xml:lang="olt">iam,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_20.5" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_20.6" xml:lang="olt">ſʒmagum</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_20.7" xml:lang="olt">ſtaijes</w>
+        </l>
+        <l n="21" xml:id="WP_1573_Dom._27_Trin._284r_21">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_21.1" xml:lang="olt">wiſsame</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_21.2" xml:lang="olt">pakluſnus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_21.3" xml:lang="olt">bua</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_21.4" xml:lang="olt">Diewu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_21.5" xml:lang="olt">Tewu,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_21.6" xml:lang="olt">ſauga<lb break="no"/>dams</w>
+        </l>
+        <l n="22" xml:id="WP_1573_Dom._27_Trin._284r_22">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_22.1" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_22.2" xml:lang="olt">priſakimus,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_22.3" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_22.4" xml:lang="olt">baiſiụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_22.5" xml:lang="olt">ſmerti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_22.6" xml:lang="olt">kurụ</w>
+        </l>
+        <l n="23" xml:id="WP_1573_Dom._27_Trin._284r_23">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_23.1" xml:lang="olt">iam</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_23.2" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_23.3" xml:lang="olt">tewas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_23.4" xml:lang="olt">bua</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_23.5" xml:lang="olt">uſʒkieles,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_23.6" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_23.7" xml:lang="olt">tadelei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_23.8" xml:lang="olt">ghị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_23.9" xml:lang="olt">ir</w>
+        </l>
+        <l n="24" xml:id="WP_1573_Dom._27_Trin._284r_24">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_24.1" xml:lang="olt">ſʒmagum</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_24.2" xml:lang="olt">buſentị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_24.3" xml:lang="olt">nareija.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_24.4" xml:lang="olt">didei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_24.5" xml:lang="olt">pakarnei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_24.6" xml:lang="olt">kie<lb break="no"/>le,</w>
+        </l>
+        <l n="25" xml:id="WP_1573_Dom._27_Trin._284r_25">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_25.1" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_25.2" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_25.3" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_25.4" xml:lang="olt">platei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_25.5" xml:lang="olt">S:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_25.6" xml:lang="olt">Paw:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_25.7" xml:lang="olt">Phil:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_25.8" xml:lang="olt">2</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_25.9" xml:lang="olt">cap:</w>
+        </l>
+        <l n="26" xml:id="WP_1573_Dom._27_Trin._284r_26">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_26.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_26.2" xml:lang="olt">Sʒidump</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_26.3" xml:lang="olt">2</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_26.4" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_26.5" xml:lang="olt">iſchraſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_26.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_26.7" xml:lang="olt">NE</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_26.8" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_26.9" xml:lang="olt">we<lb break="no"/>nụ</w>
+        </l>
+        <l n="27" xml:id="WP_1573_Dom._27_Trin._284r_27">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_27.1" xml:lang="olt">ſʒmagụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_27.2" xml:lang="olt">niekad</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_27.3" xml:lang="olt">panas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_27.4" xml:lang="olt">diewas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_27.5" xml:lang="olt"><app>
+                <lem>takia</lem>
+                <rdg>baſa &gt;</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_27.6" xml:lang="olt">balſa</w>
+        </l>
+        <l n="28" xml:id="WP_1573_Dom._27_Trin._284r_28">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_28.1" xml:lang="olt">nedare.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_28.2" xml:lang="olt">Nei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_28.3" xml:lang="olt">teipaieg</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_28.4" xml:lang="olt">ne</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_28.5" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_28.6" xml:lang="olt">wienụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_28.7" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_28.8" xml:lang="olt">ne<lb break="no"/>ludijes</w>
+        </l>
+        <l n="29" xml:id="WP_1573_Dom._27_Trin._284r_29">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_29.1" xml:lang="olt">eſt.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_29.2" xml:lang="olt">Raſchtas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_29.3" xml:lang="olt">neſanga</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_29.4" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_29.5" xml:lang="olt">wiſsas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_29.6" xml:lang="olt">ſʒmanes</w>
+        </l>
+        <l n="30" xml:id="WP_1573_Dom._27_Trin._284r_30">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_30.1" xml:lang="olt">pa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_30.2" xml:lang="olt">greku</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_30.3" xml:lang="olt">ſaka</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_30.4" xml:lang="olt">but,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_30.5" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_30.6" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_30.7" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_30.8" xml:lang="olt">tas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_30.9" xml:lang="olt">wetas</w>
+        </l>
+        <l n="31" xml:id="WP_1573_Dom._27_Trin._284r_31">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.1" xml:lang="olt">raſchta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.2" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.3" xml:lang="olt">ludija</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.4" xml:lang="olt">Pſal:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.5" xml:lang="olt">14</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.6" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.7" xml:lang="olt">51</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.8" xml:lang="olt">Johan:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.9" xml:lang="olt">3</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.10" xml:lang="olt">Job</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.11" xml:lang="olt">14</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_31.12" xml:lang="olt">cap:</w>
+        </l>
+        <l n="32" xml:id="WP_1573_Dom._27_Trin._284r_32">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_32.1" xml:lang="olt">S:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_32.2" xml:lang="olt">Paw:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_32.3" xml:lang="olt">Ephe:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_32.4" xml:lang="olt">2</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_32.5" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_32.6" xml:lang="olt">raſcha,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_32.7" xml:lang="olt">wiſsus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_32.8" xml:lang="olt">ſaka</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_32.9" xml:lang="olt">but</w>
+        </l>
+        <l n="33" xml:id="WP_1573_Dom._27_Trin._284r_33">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284r_33.1" xml:lang="olt">ſunus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_33.2" xml:lang="olt">kierſchta.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_33.3" xml:lang="olt">Jr</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_33.4" xml:lang="olt">tadelei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_33.5" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_33.6" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_33.7" xml:lang="lat">Gen:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_33.8" xml:lang="lat">6</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284r_33.9" xml:lang="lat">cap:</w>
+        </l>
+        <pb n="284v"/>
+        <l n="1" xml:id="WP_1573_Dom._27_Trin._284v_1">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_1.1" xml:lang="olt">raſchita</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_1.2" xml:lang="olt">Paſsigaileghis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_1.3" xml:lang="olt">eſt</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_1.4" xml:lang="olt">panas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_1.5" xml:lang="olt">Diewas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_1.6" xml:lang="olt">kaip</w>
+        </l>
+        <l n="2" xml:id="WP_1573_Dom._27_Trin._284v_2">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_2.1" xml:lang="olt">ſʒmagus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_2.2" xml:lang="olt">darriti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_2.3" xml:lang="olt">bua</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_2.4" xml:lang="olt">dares</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_2.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_2.6" xml:lang="olt">Kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_2.7" xml:lang="olt">tada</w>
+        </l>
+        <l n="3" xml:id="WP_1573_Dom._27_Trin._284v_3">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_3.1" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_3.2" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_3.3" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_3.4" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_3.5" xml:lang="olt">newenas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_3.6" xml:lang="olt">ſʒmagus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_3.7" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_3.8" xml:lang="olt">ner</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_3.9" xml:lang="olt">panu</w>
+        </l>
+        <l n="4" xml:id="WP_1573_Dom._27_Trin._284v_4">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_4.1" xml:lang="olt">Diewu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_4.2" xml:lang="olt">malanus,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_4.3" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_4.4" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_4.5" xml:lang="olt">nog</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_4.6" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_4.7" xml:lang="olt">pamiletas</w>
+        </l>
+        <l n="5" xml:id="WP_1573_Dom._27_Trin._284v_5">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_5.1" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_5.2" xml:lang="olt">panas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_5.3" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_5.4" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_5.5" xml:lang="olt">Cħus,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_5.6" xml:lang="olt">tadangi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_5.7" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_5.8" xml:lang="olt">ne<lb break="no"/>ku</w>
+        </l>
+        <l n="6" xml:id="WP_1573_Dom._27_Trin._284v_6">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_6.1" xml:lang="olt">budu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_6.2" xml:lang="olt">negali</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_6.3" xml:lang="olt">but</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_6.4" xml:lang="olt">Jdant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_6.5" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_6.6" xml:lang="olt"><app>
+                <lem>kura</lem>
+                <rdg>ſʒma=gaus muſụ &gt;</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_6.7" xml:lang="olt">ſʒma<lb break="no"/>gaus</w>
+        </l>
+        <l n="7" xml:id="WP_1573_Dom._27_Trin._284v_7">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_7.1" xml:lang="olt">wardu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_7.2" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_7.3" xml:lang="olt">mums</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_7.4" xml:lang="olt">turretụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_7.5" xml:lang="olt">but</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_7.6" xml:lang="olt">atleiſti,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_7.7" xml:lang="olt">an<lb break="no"/>gu</w>
+        </l>
+        <l n="8" xml:id="WP_1573_Dom._27_Trin._284v_8">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_8.1" xml:lang="olt">ieib</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_8.2" xml:lang="olt">nog</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_8.3" xml:lang="olt">kuragi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_8.4" xml:lang="olt">ſʒmagaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_8.5" xml:lang="olt">ieib</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_8.6" xml:lang="olt">ſchwencʒiau<lb break="no"/>ſuiu</w>
+        </l>
+        <l n="9" xml:id="WP_1573_Dom._27_Trin._284v_9">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_9.1" xml:lang="olt">numiruſia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_9.2" xml:lang="olt">wardu,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_9.3" xml:lang="olt">ſchaukſme</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_9.4" xml:lang="olt">muſụ</w>
+        </l>
+        <l n="10" xml:id="WP_1573_Dom._27_Trin._284v_10">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_10.1" xml:lang="olt">butumbim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_10.2" xml:lang="olt">iſchklauſiti,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_10.3" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_10.4" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_10.5" xml:lang="olt">wiſsa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_10.6" xml:lang="olt">mumis</w>
+        </l>
+        <l n="11" xml:id="WP_1573_Dom._27_Trin._284v_11">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_11.1" xml:lang="olt">ſtaijaſsi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_11.2" xml:lang="olt">per</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_11.3" xml:lang="olt">tạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_11.4" xml:lang="olt">wienụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_11.5" xml:lang="olt">wardụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_11.6" xml:lang="olt">pana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_11.7" xml:lang="olt">muſụ</w>
+        </l>
+        <l n="12" xml:id="WP_1573_Dom._27_Trin._284v_12">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_12.1" xml:lang="olt">Jeſaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_12.2" xml:lang="olt">Cħaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_12.3" xml:lang="lat">Act:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_12.4" xml:lang="lat">4</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_12.5" xml:lang="lat">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_12.6" xml:lang="olt">Panas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_12.7" xml:lang="olt">Diewas</w>
+        </l>
+        <l n="13" xml:id="WP_1573_Dom._27_Trin._284v_13">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_13.1" xml:lang="olt"><app>
+                <lem>neſanga</lem>
+                <rdg>neſam</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_13.2" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_13.3" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_13.4" xml:lang="olt">Cħu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_13.5" xml:lang="olt">Jeſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_13.6" xml:lang="olt">ſunụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_13.7" xml:lang="olt">ſawu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_13.8" xml:lang="olt">malanau<lb break="no"/>ſughị</w>
+        </l>
+        <l n="14" xml:id="WP_1573_Dom._27_Trin._284v_14">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_14.1" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_14.2" xml:lang="olt">mili,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_14.3" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_14.4" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_14.5" xml:lang="olt">delei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_14.6" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_14.7" xml:lang="olt">wiſsus</w>
+        </l>
+        <l n="15" xml:id="WP_1573_Dom._27_Trin._284v_15">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_15.1" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_15.2" xml:lang="olt">ghị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_15.3" xml:lang="olt">tikincʒioſius</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_15.4" xml:lang="olt">mili,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_15.5" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_15.6" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_15.7" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_15.8" xml:lang="olt">tas</w>
+        </l>
+        <l n="16" xml:id="WP_1573_Dom._27_Trin._284v_16">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_16.1" xml:lang="olt"><app>
+                <lem>wetas</lem>
+                <rdg>wetes</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_16.2" xml:lang="olt">raſchta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_16.3" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_16.4" xml:lang="olt">ludija</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_16.5" xml:lang="olt">Johan:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_16.6" xml:lang="olt">16</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_16.7" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_16.8" xml:lang="olt">Ephe:</w>
+        </l>
+        <l n="17" xml:id="WP_1573_Dom._27_Trin._284v_17">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.1" xml:lang="olt">1</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.2" xml:lang="olt"><app>
+                <lem>cap:</lem>
+                <rdg>prijeme</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.3" xml:lang="olt">Jos</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.4" xml:lang="olt">ſaw</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.5" xml:lang="olt">uſʒ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.6" xml:lang="olt">ſunus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.7" xml:lang="olt"><app>
+                <lem>prijmma</lem>
+                <rdg>prijeme</rdg>
+                </app></w>:
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.9" xml:lang="olt">Joha:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.10" xml:lang="olt">1</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.11" xml:lang="olt">cap:</w>
+        </l>
+        <l n="18" xml:id="WP_1573_Dom._27_Trin._284v_18">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_18.1" xml:lang="olt">Schaukencʒius</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_18.2" xml:lang="olt">per</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_18.3" xml:lang="olt">ghị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_18.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_18.5" xml:lang="olt">meldencʒius</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_18.6" xml:lang="olt">ſawe</w>
+        </l>
+        <l n="19" xml:id="WP_1573_Dom._27_Trin._284v_19">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_19.1" xml:lang="olt">klauſa,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_19.2" xml:lang="olt">Johan:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_19.3" xml:lang="olt">16</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_19.4" xml:lang="olt"><app>
+                <lem>cap:</lem>
+                <rdg>uſc</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_19.5" xml:lang="olt"><app>
+                <lem>uſʒ</lem>
+                <rdg>uſc</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_19.6" xml:lang="olt">teiſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_19.7" xml:lang="olt">palaika</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_19.8" xml:lang="lat">Rom:</w>
+        </l>
+        <l n="20" xml:id="WP_1573_Dom._27_Trin._284v_20">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.1" xml:lang="lat">10</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.2" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.3" xml:lang="lat">1</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.4" xml:lang="lat">Cor:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.5" xml:lang="lat">1</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.6" xml:lang="lat">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.8" xml:lang="olt">Ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.9" xml:lang="olt">mes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.10" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.11" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.12" xml:lang="olt">ſaw</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_20.13" xml:lang="olt">patis</w>
+        </l>
+        <l n="21" xml:id="WP_1573_Dom._27_Trin._284v_21">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_21.1" xml:lang="olt">ſawu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_21.2" xml:lang="olt">pelnu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_21.3" xml:lang="olt">uſʒſluſʒimais</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_21.4" xml:lang="olt">angu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_21.5" xml:lang="olt">ieib</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_21.6" xml:lang="olt">kakeiſgi</w>
+        </l>
+        <l n="22" xml:id="WP_1573_Dom._27_Trin._284v_22">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_22.1" xml:lang="olt">gierreis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_22.2" xml:lang="olt">darbais,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_22.3" xml:lang="olt">angu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_22.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_22.5" xml:lang="olt">kittu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_22.6" xml:lang="olt">ieib</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_22.7" xml:lang="olt">ſchwen<lb break="no"/>cʒiauſuiu</w>
+        </l>
+        <l n="23" xml:id="WP_1573_Dom._27_Trin._284v_23">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_23.1" xml:lang="olt">ſchwentuiụ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_23.2" xml:lang="olt">negalim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_23.3" xml:lang="olt">uſʒſluſʒiti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_23.4" xml:lang="olt">nu<lb break="no"/>pelniti.</w>
+        </l>
+        <l n="24" xml:id="WP_1573_Dom._27_Trin._284v_24">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_24.1" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_24.2" xml:lang="olt">padarriti,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_24.3" xml:lang="olt">tiktai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_24.4" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_24.5" xml:lang="olt">wiena</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_24.6" xml:lang="olt">pana</w>
+        </l>
+        <l n="25" xml:id="WP_1573_Dom._27_Trin._284v_25">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_25.1" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_25.2" xml:lang="olt">Jeſaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_25.3" xml:lang="olt">Cħaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_25.4" xml:lang="olt">pelnas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_25.5" xml:lang="olt">uſʒſluſʒimas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_25.6" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_25.7" xml:lang="olt">dar<lb break="no"/>bas</w>
+        </l>
+        <l n="26" xml:id="WP_1573_Dom._27_Trin._284v_26">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_26.1" xml:lang="olt">ira,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_26.2" xml:lang="olt">kạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_26.3" xml:lang="olt">mes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_26.4" xml:lang="olt">ſtipru</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_26.5" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_26.6" xml:lang="olt">drutu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_26.7" xml:lang="olt">weru</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_26.8" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_26.9" xml:lang="olt">ghị</w>
+        </l>
+        <l n="27" xml:id="WP_1573_Dom._27_Trin._284v_27">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_27.1" xml:lang="olt">iſchpraſcham</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_27.2" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_27.3" xml:lang="olt"><app>
+                <lem>atgaunam</lem>
+                <rdg>atgaum</rdg>
+                </app></w>.
+        </l>
+        <l n="28" xml:id="WP_1573_Dom._27_Trin._284v_28">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_28.1" xml:lang="olt">Antra</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_28.2" xml:lang="olt">girdime</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_28.3" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_28.4" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_28.5" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_28.6" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_28.7" xml:lang="olt">tas</w>
+        </l>
+        <l n="29" xml:id="WP_1573_Dom._27_Trin._284v_29">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_29.1" xml:lang="olt"><app>
+                <lem>balſas</lem>
+                <rdg>lei</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_29.2" xml:lang="olt">Diewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_29.3" xml:lang="olt">tewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_29.4" xml:lang="olt"><app>
+                <lem>lepia</lem>
+                <rdg>lei</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_29.5" xml:lang="olt">mumis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_29.6" xml:lang="olt">klauſiti</w>
+        </l>
+        <l n="30" xml:id="WP_1573_Dom._27_Trin._284v_30">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_30.1" xml:lang="olt">makinima</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_30.2" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_30.3" xml:lang="olt">ſunaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_30.4" xml:lang="olt">ſawa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_30.5" xml:lang="olt">malanauſaija.</w>
+        </l>
+        <l n="31" xml:id="WP_1573_Dom._27_Trin._284v_31">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_31.1" xml:lang="olt">A</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_31.2" xml:lang="olt">kạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_31.3" xml:lang="olt">ghiſsai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_31.4" xml:lang="olt">makinna?</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_31.5" xml:lang="olt">Makinna</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_31.6" xml:lang="olt">Egłas</w>
+        </l>
+        <l n="32" xml:id="WP_1573_Dom._27_Trin._284v_32">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_32.1" xml:lang="olt">ſawa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_32.2" xml:lang="olt">ſchwentas,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_32.3" xml:lang="olt">neſanga</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_32.4" xml:lang="olt">ghiſsai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_32.5" xml:lang="olt">ſʒmagum</w>
+        </l>
+        <l n="33" xml:id="WP_1573_Dom._27_Trin._284v_33">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_33.1" xml:lang="olt">gimes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_33.2" xml:lang="olt">eſt</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_33.3" xml:lang="olt">ant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_33.4" xml:lang="olt">ſcha</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_33.5" xml:lang="olt">ſweta,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_33.6" xml:lang="olt">ne</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_33.7" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_33.8" xml:lang="olt">Ʒaka<lb break="no"/>na</w>
+        </l>
+        <l n="34" xml:id="WP_1573_Dom._27_Trin._284v_34">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_34.1" xml:lang="olt">makintụ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_34.2" xml:lang="olt">Nes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_34.3" xml:lang="olt">Ʒakanas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_34.4" xml:lang="olt">pirma</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_34.5" xml:lang="olt">per</w>
+        </l>
+        <l n="35" xml:id="WP_1573_Dom._27_Trin._284v_35">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_35.1" xml:lang="olt">Moiſeſʒiu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_35.2" xml:lang="olt">bua</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_35.3" xml:lang="olt">dotas,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_35.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_35.5" xml:lang="olt">pirma</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_35.6" xml:lang="olt">Moiſeſʒaus</w>
+        </l>
+        <l n="R" xml:id="WP_1573_Dom._27_Trin._284v_R">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._284v_R.1" xml:lang="olt">&lt;iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_R.2" xml:lang="olt">prigimi<lb break="no"/>&gt;</w>
+        </l>
+        <pb n="285r"/>
+        <l n="1" xml:id="WP_1573_Dom._27_Trin._285r_1">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_1.1" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_1.2" xml:lang="olt">prigimima</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_1.3" xml:lang="olt">ſʒmanemus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_1.4" xml:lang="olt">indotas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_1.5" xml:lang="olt">bua.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_1.6" xml:lang="olt">Tạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_1.7" xml:lang="olt">Ʒa<lb break="no"/>kanụ</w>
+        </l>
+        <l n="2" xml:id="WP_1573_Dom._27_Trin._285r_2">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_2.1" xml:lang="olt">Cħus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_2.2" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_2.3" xml:lang="olt">kartei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_2.4" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_2.5" xml:lang="olt">iſchguldes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_2.6" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_2.7" xml:lang="olt">ira</w>
+        </l>
+        <l n="3" xml:id="WP_1573_Dom._27_Trin._285r_3">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_3.1" xml:lang="olt">Math:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_3.2" xml:lang="olt">5</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_3.3" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_3.4" xml:lang="olt">Bet</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_3.5" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_3.6" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_3.7" xml:lang="olt">dares</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_3.8" xml:lang="olt">tadelei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_3.9" xml:lang="olt">J<lb break="no"/>dant</w>
+        </l>
+        <l n="4" xml:id="WP_1573_Dom._27_Trin._285r_4">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_4.1" xml:lang="olt">ſupraſtumbim,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_4.2" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_4.3" xml:lang="olt">taſsai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_4.4" xml:lang="olt">Ʒakanas</w>
+        </l>
+        <l n="5" xml:id="WP_1573_Dom._27_Trin._285r_5">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_5.1" xml:lang="olt">ſilamis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_5.2" xml:lang="olt">ſʒmanu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_5.3" xml:lang="olt">negali</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_5.4" xml:lang="olt">but</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_5.5" xml:lang="olt">iſchpilditas</w>
+        </l>
+        <l n="6" xml:id="WP_1573_Dom._27_Trin._285r_6">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_6.1" xml:lang="olt">Jr</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_6.2" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_6.3" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_6.4" xml:lang="olt">malane</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_6.5" xml:lang="olt">pana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_6.6" xml:lang="olt">Diewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_6.7" xml:lang="olt">mums</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_6.8" xml:lang="olt">per</w>
+        </l>
+        <l n="7" xml:id="WP_1573_Dom._27_Trin._285r_7">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_7.1" xml:lang="olt">Cħu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_7.2" xml:lang="olt">Jeſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_7.3" xml:lang="olt">ſunụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_7.4" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_7.5" xml:lang="olt">atſakamuiụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_7.6" xml:lang="olt">io</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_7.7" xml:lang="olt">linkſmeſ<lb break="no"/>nemis</w>
+        </l>
+        <l n="8" xml:id="WP_1573_Dom._27_Trin._285r_8">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_8.1" xml:lang="olt">ſchirdimis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_8.2" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_8.3" xml:lang="olt">ſtipreſniu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_8.4" xml:lang="olt">weru</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_8.5" xml:lang="olt">prijm<lb break="no"/>tumbim,</w>
+        </l>
+        <l n="9" xml:id="WP_1573_Dom._27_Trin._285r_9">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_9.1" xml:lang="olt">Nes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_9.2" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_9.3" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_9.4" xml:lang="olt">Paw:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_9.5" xml:lang="olt">Gal:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_9.6" xml:lang="olt">3</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_9.7" xml:lang="olt">cap:</w>
+        </l>
+        <l n="10" xml:id="WP_1573_Dom._27_Trin._285r_10">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_10.1" xml:lang="olt">bila</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_10.2" xml:lang="olt">Ʒakanas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_10.3" xml:lang="olt">wadu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_10.4" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_10.5" xml:lang="olt">Cħauſpi,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_10.6" xml:lang="olt">Ʒakanas</w>
+        </l>
+        <l n="11" xml:id="WP_1573_Dom._27_Trin._285r_11">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_11.1" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_11.2" xml:lang="olt">makſlas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_11.3" xml:lang="olt">paſkandinima,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_11.4" xml:lang="olt">neſanga</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_11.5" xml:lang="olt">am<lb break="no"/>ſʒinu</w>
+        </l>
+        <l n="12" xml:id="WP_1573_Dom._27_Trin._285r_12">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_12.1" xml:lang="olt">ſmertim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_12.2" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_12.3" xml:lang="olt">paſkandinimu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_12.4" xml:lang="olt">grumʒdʒia</w>
+        </l>
+        <l n="13" xml:id="WP_1573_Dom._27_Trin._285r_13">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_13.1" xml:lang="olt">perſʒenktaiamus,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_13.2" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_13.3" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_13.4" xml:lang="lat">Deu:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_13.5" xml:lang="lat">27</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_13.6" xml:lang="olt">A</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_13.7" xml:lang="olt">Egłe</w>
+        </l>
+        <l n="14" xml:id="WP_1573_Dom._27_Trin._285r_14">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_14.1" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_14.2" xml:lang="olt">wiſsemus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_14.3" xml:lang="olt">pakutụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_14.4" xml:lang="olt">darantemus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_14.5" xml:lang="olt">∻</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_14.6" xml:lang="olt">gailinte<lb break="no"/>mus</w>
+        </l>
+        <l n="15" xml:id="WP_1573_Dom._27_Trin._285r_15">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_15.1" xml:lang="olt">grekụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_15.2" xml:lang="olt">ſawụ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_15.3" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_15.4" xml:lang="olt">tikintemus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_15.5" xml:lang="olt">ing</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_15.6" xml:lang="olt">Cħu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_15.7" xml:lang="olt">Je<lb break="no"/>ſụ</w>
+        </l>
+        <l n="16" xml:id="WP_1573_Dom._27_Trin._285r_16">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_16.1" xml:lang="olt">ſʒada</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_16.2" xml:lang="olt">atleidimụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_16.3" xml:lang="olt">grekụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_16.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_16.5" xml:lang="olt">amſʒinạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_16.6" xml:lang="olt">ſʒiwa<lb break="no"/>tạ,</w>
+        </l>
+        <l n="17" xml:id="WP_1573_Dom._27_Trin._285r_17">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_17.1" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_17.2" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_17.3" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_17.4" xml:lang="olt"><app>
+                <lem>raſchtas</lem>
+                <rdg>raſchtes</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_17.5" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_17.6" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_17.7" xml:lang="olt">Janas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_17.8" xml:lang="olt">apłas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_17.9" xml:lang="olt">ir</w>
+        </l>
+        <l n="18" xml:id="WP_1573_Dom._27_Trin._285r_18">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.1" xml:lang="olt">Egłiſta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.2" xml:lang="olt">5.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.3" xml:lang="olt">6</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.5" xml:lang="olt">11</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.6" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.7" xml:lang="olt">ludija.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.8" xml:lang="olt">Tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.9" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_18.10" xml:lang="olt">m:</w>
+        </l>
+        <l n="19" xml:id="WP_1573_Dom._27_Trin._285r_19">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_19.1" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_19.2" xml:lang="olt">Cħaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_19.3" xml:lang="olt">Jeſaus,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_19.4" xml:lang="olt">kura</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_19.5" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_19.6" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_19.7" xml:lang="olt">muſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_19.8" xml:lang="olt">tewas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_19.9" xml:lang="olt">panas</w>
+        </l>
+        <l n="20" xml:id="WP_1573_Dom._27_Trin._285r_20">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_20.1" xml:lang="olt">Diewas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_20.2" xml:lang="olt">lepia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_20.3" xml:lang="olt">klauſiti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_20.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_20.5" xml:lang="olt">ſekti,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_20.6" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_20.7" xml:lang="olt">per</w>
+        </l>
+        <l n="21" xml:id="WP_1573_Dom._27_Trin._285r_21">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_21.1" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_21.2" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_21.3" xml:lang="olt">iſchganniti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_21.4" xml:lang="olt">butumbim.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_21.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_21.6" xml:lang="olt"><app>
+                <lem>Patam</lem>
+                <rdg>Patann</rdg>
+                </app></w>
+        </l>
+        <l n="22" xml:id="WP_1573_Dom._27_Trin._285r_22">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_22.1" xml:lang="olt">makſlụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_22.2" xml:lang="olt">makines</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_22.3" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_22.4" xml:lang="olt">mus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_22.5" xml:lang="olt">Cħus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_22.6" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_22.7" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_22.8" xml:lang="olt">inſta<lb break="no"/>timụ</w>
+        </l>
+        <l n="23" xml:id="WP_1573_Dom._27_Trin._285r_23">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_23.1" xml:lang="olt">pramanimụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_23.2" xml:lang="olt">ſudumaghimụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_23.3" xml:lang="olt">ſʒmagiſʒ<lb break="no"/>kụ</w>
+        </l>
+        <l n="24" xml:id="WP_1573_Dom._27_Trin._285r_24">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_24.1" xml:lang="olt">ſaugaties,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_24.2" xml:lang="olt">ko</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_24.3" xml:lang="olt">ginaſsi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_24.4" xml:lang="olt">garbinamas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_24.5" xml:lang="olt">but</w>
+        </l>
+        <l n="25" xml:id="WP_1573_Dom._27_Trin._285r_25">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_25.1" xml:lang="olt">panas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_25.2" xml:lang="olt">Diewas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_25.3" xml:lang="olt">Eſai:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_25.4" xml:lang="olt"><app>
+                <lem>29</lem>
+                <rdg>15,</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_25.5" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_25.6" xml:lang="olt">Math:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_25.7" xml:lang="olt"><app>
+                <lem>15</lem>
+                <rdg>15,</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_25.8" xml:lang="olt">cap:.</w>
+        </l>
+        <l n="26" xml:id="WP_1573_Dom._27_Trin._285r_26">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_26.1" xml:lang="olt">Brangiauſoiu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_26.2" xml:lang="olt">krauiu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_26.3" xml:lang="olt">pana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_26.4" xml:lang="olt">muſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_26.5" xml:lang="olt">Jeſaus</w>
+        </l>
+        <l n="27" xml:id="WP_1573_Dom._27_Trin._285r_27">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_27.1" xml:lang="olt">Cħaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_27.2" xml:lang="olt">atpirkti</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_27.3" xml:lang="olt">|lM27</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_27.4" xml:lang="olt">eſme,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_27.5" xml:lang="olt">tadelei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_27.6" xml:lang="olt"><app>
+                <lem>nedera</lem>
+                <rdg>nedara</rdg>
+                </app></w>
+        </l>
+        <l n="28" xml:id="WP_1573_Dom._27_Trin._285r_28">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_28.1" xml:lang="olt">nei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_28.2" xml:lang="olt"><app>
+                <lem>parreiteſsi</lem>
+                <rdg>parreiti</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_28.3" xml:lang="olt">mumis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_28.4" xml:lang="olt">tarnais</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_28.5" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_28.6" xml:lang="olt">ſudu<lb break="no"/>maghimu</w>
+        </l>
+        <l n="29" xml:id="WP_1573_Dom._27_Trin._285r_29">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_29.1" xml:lang="olt">pramanimu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_29.2" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_29.3" xml:lang="olt">inſtatimu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_29.4" xml:lang="olt">ſʒma<lb break="no"/>nụ</w>
+        </l>
+        <l n="30" xml:id="WP_1573_Dom._27_Trin._285r_30">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.1" xml:lang="olt">but,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.2" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.3" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.4" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.5" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.6" xml:lang="olt">Paw:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.7" xml:lang="lat">1</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.8" xml:lang="lat">Cor:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.9" xml:lang="lat"><app>
+                <lem>17</lem>
+                <rdg>14</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_30.10" xml:lang="lat">cap:</w>
+        </l>
+        <l n="31" xml:id="WP_1573_Dom._27_Trin._285r_31">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_31.1" xml:lang="olt">raſcha.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_31.2" xml:lang="olt">Turri</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_31.3" xml:lang="olt">tadangi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_31.4" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_31.5" xml:lang="olt">k:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_31.6" xml:lang="olt">daſʒnai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_31.7" xml:lang="olt">nog</w>
+        </l>
+        <l n="32" xml:id="WP_1573_Dom._27_Trin._285r_32">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_32.1" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_32.2" xml:lang="olt">nabaſʒnamis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_32.3" xml:lang="olt">maldamis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_32.4" xml:lang="olt">melſta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_32.5" xml:lang="olt"><app>
+                <lem>but</lem>
+                <rdg>m</rdg>
+                </app></w>
+        </l>
+        <l n="33" xml:id="WP_1573_Dom._27_Trin._285r_33">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_33.1" xml:lang="olt">Dwaſia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_33.2" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_33.3" xml:lang="olt">idant</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_33.4" xml:lang="olt">ghi</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_33.5" xml:lang="olt">mus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_33.6" xml:lang="olt">prig</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_33.7" xml:lang="olt">tikraſias</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_33.8" xml:lang="olt">teſas</w>
+        </l>
+        <l n="34" xml:id="WP_1573_Dom._27_Trin._285r_34">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_34.1" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_34.2" xml:lang="olt">ſʒadʒia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_34.3" xml:lang="olt">pana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_34.4" xml:lang="olt">Diewa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_34.5" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_34.6" xml:lang="olt">Egłas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_34.7" xml:lang="olt"><app>
+                <lem>laikitụ</lem>
+                <rdg>laili</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_34.8" xml:lang="olt">ir</w>
+        </l>
+        <l n="35" xml:id="WP_1573_Dom._27_Trin._285r_35">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_35.1" xml:lang="olt">ſaugatụ,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_35.2" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_35.3" xml:lang="olt">mes</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_35.4" xml:lang="olt">kitụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_35.5" xml:lang="olt"><app>
+                <lem>talimughiụ</lem>
+                <rdg>tolimughiụ</rdg>
+                </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_35.6" xml:lang="olt">miſ<lb break="no"/>trụ</w>
+        </l>
+        <l n="M25W" xml:id="WP_1573_Dom._27_Trin._285r_M25W">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.1" xml:lang="lat">etiam:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.2" xml:lang="lat">Marc.:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.3" xml:lang="lat">7.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.4" xml:lang="lat">hoc</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.5" xml:lang="lat">idem</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.6" xml:lang="lat">docetur,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.7" xml:lang="lat">quod</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.8" xml:lang="lat">Deus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.9" xml:lang="lat">&lt;uult</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.10" xml:lang="lat">&gt;</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.11" xml:lang="lat">&gt;</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.12" xml:lang="lat">non</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.13" xml:lang="lat">ue<lb break="no"/>nerari</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.14" xml:lang="lat">uult</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.15" xml:lang="lat">&lt;</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.16" xml:lang="lat">&lt;</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.17" xml:lang="lat">ult&gt;</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.18" xml:lang="lat">in</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.19" xml:lang="lat">uanum.</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.20" xml:lang="grc">ị</w>.
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M25W.22" xml:lang="olt">⌉</w>
+        </l>
+        <l n="M27" xml:id="WP_1573_Dom._27_Trin._285r_M27">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M27.1" xml:lang="olt">⌈ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_M27.2" xml:lang="olt">iſchwadoti⌉</w>
+        </l>
+        <pb n="285v"/>
+        <l n="1" xml:id="WP_1573_Dom._27_Trin._285v_1">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_1.1" xml:lang="olt">trụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_1.2" xml:lang="olt">angu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_1.3" xml:lang="olt">makintaiu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_1.4" xml:lang="olt">negeiſtumbim</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_1.5" xml:lang="olt">nei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_1.6" xml:lang="olt">ieſch<lb break="no"/>katumbim,</w>
+        </l>
+        <l n="2" xml:id="WP_1573_Dom._27_Trin._285v_2">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_2.1" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_2.2" xml:lang="olt">tạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_2.3" xml:lang="olt">wena</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_2.4" xml:lang="olt">Jeſaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_2.5" xml:lang="olt">Cħaus,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_2.6" xml:lang="olt">ku<lb break="no"/>ra</w>
+        </l>
+        <l n="3" xml:id="WP_1573_Dom._27_Trin._285v_3">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_3.1" xml:lang="olt">taſkat</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_3.2" xml:lang="olt">pats</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_3.3" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_3.4" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_3.5" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_3.6" xml:lang="olt">tewas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_3.7" xml:lang="olt">panas</w>
+        </l>
+        <l n="4" xml:id="WP_1573_Dom._27_Trin._285v_4">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_4.1" xml:lang="olt">Diewas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_4.2" xml:lang="olt">lepia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_4.3" xml:lang="olt">klauſiti,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_4.4" xml:lang="olt">ape</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_4.5" xml:lang="olt">kạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_4.6" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_4.7" xml:lang="olt">taſiegi</w>
+        </l>
+        <l n="5" xml:id="WP_1573_Dom._27_Trin._285v_5">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_5.1" xml:lang="olt">ſunus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_5.2" xml:lang="olt">ia</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_5.3" xml:lang="olt">panas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_5.4" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_5.5" xml:lang="olt">Jeſus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_5.6" xml:lang="olt">Cħus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_5.7" xml:lang="olt">bila</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_5.8" xml:lang="olt">Johan:</w>
+        </l>
+        <l n="6" xml:id="WP_1573_Dom._27_Trin._285v_6">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_6.1" xml:lang="olt">14</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_6.2" xml:lang="olt">cap:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_6.3" xml:lang="olt">kurſai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_6.4" xml:lang="olt">mili</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_6.5" xml:lang="olt">mane,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_6.6" xml:lang="olt">tas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_6.7" xml:lang="olt">manạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_6.8" xml:lang="olt">ſʒa<lb break="no"/>dị</w>
+        </l>
+        <l n="7" xml:id="WP_1573_Dom._27_Trin._285v_7">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_7.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_7.2" xml:lang="olt">palaikis,</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_7.3" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_7.4" xml:lang="olt">tạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_7.5" xml:lang="olt">tewas</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_7.6" xml:lang="olt">mana</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_7.7" xml:lang="olt">miles</w>
+        </l>
+        <l n="8" xml:id="WP_1573_Dom._27_Trin._285v_8">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_8.1" xml:lang="olt">tap</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_8.2" xml:lang="olt">meſs</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_8.3" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_8.4" xml:lang="olt">attaiſime</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_8.5" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_8.6" xml:lang="olt">giwenimụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_8.7" xml:lang="olt">ſaw</w>
+        </l>
+        <l n="9" xml:id="WP_1573_Dom._27_Trin._285v_9">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_9.1" xml:lang="olt">iamei</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_9.2" xml:lang="olt">pa</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_9.3" xml:lang="olt">darriſime</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_9.4" xml:lang="olt">kạ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_9.5" xml:lang="olt">mumis</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_9.6" xml:lang="olt">m:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_9.7" xml:lang="olt">k:</w>
+        </l>
+        <l n="10" xml:id="WP_1573_Dom._27_Trin._285v_10">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_10.1" xml:lang="olt">doik</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_10.2" xml:lang="olt">taſsai</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_10.3" xml:lang="olt">pats</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_10.4" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_10.5" xml:lang="olt">dangaus</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_10.6" xml:lang="olt">te<lb break="no"/>was</w>
+        </l>
+        <l n="11" xml:id="WP_1573_Dom._27_Trin._285v_11">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_11.1" xml:lang="olt">per</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_11.2" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_11.3" xml:lang="olt">patị</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_11.4" xml:lang="olt">mal:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_11.5" xml:lang="olt">ſunụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_11.6" xml:lang="olt">ſa<lb break="no"/>wạ</w>
+        </l>
+        <l n="12" xml:id="WP_1573_Dom._27_Trin._285v_12">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_12.1" xml:lang="olt">panụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_12.2" xml:lang="olt">muſụ</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_12.3" xml:lang="olt">Jeſu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_12.4" xml:lang="olt">Cħu</w>
+        </l>
+        <l n="13" xml:id="WP_1573_Dom._27_Trin._285v_13">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_13.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_13.2" xml:lang="olt">Dwaſiu</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_13.3" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_13.4" xml:lang="olt">Amē.</w>
+        </l>
+        <l n="14" xml:id="WP_1573_Dom._27_Trin._285v_14">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_14.1" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_Dom._27_Trin._285v_14.2" xml:lang="olt">Greſera.</w>
+        </l>
+        <l n="15" xml:id="WP_1573_Dom._27_Trin._285v_15">
+
+
+        <w xml:id="WP_1573_Dom._27_Trin._285v_15.1" xml:lang="olt">.:Ɔ</w>
+        </l>
+      </div>
+    </body>
+  </text>
+</TEI>
