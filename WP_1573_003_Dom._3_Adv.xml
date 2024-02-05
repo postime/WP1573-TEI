@@ -63,7 +63,8 @@
         <w xml:id="WP_1573_Dom._3_Adv._13r_1.3" xml:lang="olt">turme</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_1.4" xml:lang="olt">darbus</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_1.5" xml:lang="olt">Cħaus</w>
-        <w xml:id="WP_1573_Dom._3_Adv._13r_1.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_Dom._3_Adv._13r_1.6" xml:lang="grc">m̄</w> <!-- "m̄": This character (used in the ms. to indicate "etc." in a
+        truncated Bible quotation) should be a lowercase phi, φ. -->
         </l>
         <l n="2" xml:id="WP_1573_Dom._3_Adv._13r_2">
 
@@ -165,7 +166,9 @@
         <w xml:id="WP_1573_Dom._3_Adv._13r_10.4" xml:lang="olt">ſiunte</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_10.5" xml:lang="olt">iap</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_10.6" xml:lang="olt">du</w>
-        <w xml:id="WP_1573_Dom._3_Adv._13r_10.7" xml:lang="olt">iſchapłu</w>
+        <w xml:id="WP_1573_Dom._3_Adv._13r_10.7" xml:lang="olt">iſchapłu</w> <!-- Discrepancy: The print edition corrects this to "iſch apłu"
+        and has the form without a space in a footnote, "'iſchapłu' in ms." I assume this change in TITUS was made deliberately,
+        since they had to go out of their way to remove the space from the main text again.-->
         </l>
         <l n="11" xml:id="WP_1573_Dom._3_Adv._13r_11">
 
@@ -253,7 +256,7 @@
         <w xml:id="WP_1573_Dom._3_Adv._13r_18.1" xml:lang="olt">kakias</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_18.2" xml:lang="olt"><app>
                 <lem>turreija</lem>
-                <rdg>t</rdg>
+                <rdg>t</rdg> <!-- Error! Should read "turri". "t" is the footnote for the next asterisk.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_18.3" xml:lang="olt"><app>
                 <lem>buti</lem>
@@ -291,7 +294,8 @@
 
         <w xml:id="WP_1573_Dom._3_Adv._13r_21.1" xml:lang="olt"><app>
                 <lem>bare</lem>
-                <rdg>bare,</rdg>
+                <rdg>bare,</rdg> <!-- If punctuation characters will be tokenised separately, we'll also need a way to handle
+                corrections like this, were the change is simply the insertion or deletion of punctuation.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_21.2" xml:lang="olt">karaija</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_21.3" xml:lang="olt">ios</w>
@@ -305,7 +309,8 @@
         <l n="22" xml:id="WP_1573_Dom._3_Adv._13r_22">
 
 
-        <w xml:id="WP_1573_Dom._3_Adv._13r_22.1" xml:lang="olt">nuſsidawe?</w>
+        <w xml:id="WP_1573_Dom._3_Adv._13r_22.1" xml:lang="olt">nuſsidawe?</w> <!-- Discrepancy: The print edition lists a correction
+        by W here, ".̃ > ?". Looks like W just clarified a wonky question mark.-->
         <w xml:id="WP_1573_Dom._3_Adv._13r_22.2" xml:lang="olt"><app>
                 <lem>Jſchrada</lem>
                 <rdg>Jſchrade</rdg>
@@ -320,7 +325,7 @@
 
         <w xml:id="WP_1573_Dom._3_Adv._13r_23.1" xml:lang="olt"><app>
                 <lem>Egliſta</lem>
-                <rdg>pro: Egłiſta</rdg>
+                <rdg>pro: Egłiſta</rdg> <!-- TITUS reads "erratum pro", print edition "pro".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_23.2" xml:lang="olt">14</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_23.3" xml:lang="olt">cap:</w>
@@ -362,7 +367,7 @@
         <w xml:id="WP_1573_Dom._3_Adv._13r_26.1" xml:lang="olt">bralia</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_26.2" xml:lang="olt"><app>
                 <lem>ſawa</lem>
-                <rdg>ſawa,</rdg>
+                <rdg>ſawa,</rdg> <!-- Systematic error, I think: This change is by W, that information is lost here.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_26.3" xml:lang="olt">ik</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_26.4" xml:lang="olt">ghiſsai</w>
@@ -449,7 +454,9 @@
         <l n="M22W" xml:id="WP_1573_Dom._3_Adv._13r_M22W">
 
 
-        <w xml:id="WP_1573_Dom._3_Adv._13r_M22W.1" xml:lang="olt">⌈</w>
+        <w xml:id="WP_1573_Dom._3_Adv._13r_M22W.1" xml:lang="olt">⌈</w> <!-- This bracket and the one below at M22W.3 are rendered 
+        as ordinary square brackets in TITUS. The print edition doesn't have them. I think they're just an additional visual
+        indication in TITUS that the text is in the margins?-->
         <w xml:id="WP_1573_Dom._3_Adv._13r_M22W.2" xml:lang="lat">.NB:</w>
         <w xml:id="WP_1573_Dom._3_Adv._13r_M22W.3" xml:lang="olt">⌉</w>
         </l>
@@ -493,11 +500,12 @@
 
         <w xml:id="WP_1573_Dom._3_Adv._13v_4.1" xml:lang="olt"><app>
                 <lem>Bara</lem>
-                <rdg>permete</rdg>
+                <rdg>permete</rdg> <!-- Error! Should read "p". 
+                                Error 2!: There's a second footnote for this word: "Bara,"( i.e. insertion of a comma). -->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._13v_4.2" xml:lang="olt"><app>
                 <lem>karaija</lem>
-                <rdg>permete</rdg>
+                <rdg>permete</rdg> <!-- Error! Should read "karaija," (i.e. insertion of a comma).-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._13v_4.3" xml:lang="olt"><app>
                 <lem>permeta</lem>
@@ -567,7 +575,8 @@
 
         <w xml:id="WP_1573_Dom._3_Adv._13v_10.1" xml:lang="olt"><app>
                 <lem>mucʒima</lem>
-                <rdg>keikima,</rdg>
+                <rdg>keikima,</rdg> <!-- Error! Should read "mucʒia", footnote is actually for the next asterisk.
+                                        Error 2! Missing second footnote, "mucʒima," (i.e. insertion of a comma). -->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._13v_10.2" xml:lang="olt"><app>
                 <lem>keikima</lem>
@@ -637,7 +646,8 @@
         <w xml:id="WP_1573_Dom._3_Adv._13v_15.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._3_Adv._13v_15.6" xml:lang="olt"><app>
                 <lem>mer<lb break="no"/>gụ</lem>
-                <rdg>Hiſtoras &gt;</rdg>
+                <rdg>Hiſtoras &gt;</rdg> <!-- Error! Footnote belongs to 13v_16.4, this one should read "ne".
+                                        Error 2! Missing second footnote, "mer=gụ," (i.e. insertion of a comma).-->
                 </app></w>
         </l>
         <l n="16" xml:id="WP_1573_Dom._3_Adv._13v_16">
@@ -647,7 +657,8 @@
         <w xml:id="WP_1573_Dom._3_Adv._13v_16.2" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._3_Adv._13v_16.3" xml:lang="olt"><app>
                 <lem>tai</lem>
-                <rdg>Hiſtoras &gt;</rdg>
+                <rdg>Hiſtoras &gt;</rdg> <!-- Error! Footnote belongs to 13v_16.4, but the asterisk is in FRONT of the word,
+                so it got assigned to "tai" in the export.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._13v_16.4" xml:lang="olt">Hiſtorias</w>
         <w xml:id="WP_1573_Dom._3_Adv._13v_16.5" xml:lang="olt">baſʒnicʒias</w>
@@ -786,7 +797,8 @@
 
         <w xml:id="WP_1573_Dom._3_Adv._13v_29.1" xml:lang="olt">ſʒiwatụ</w>
         <w xml:id="WP_1573_Dom._3_Adv._13v_29.2" xml:lang="olt">dangaus</w>
-        <w xml:id="WP_1573_Dom._3_Adv._13v_29.3" xml:lang="olt">karaliſtes</w>,
+        <w xml:id="WP_1573_Dom._3_Adv._13v_29.3" xml:lang="olt">karaliſtes</w>, <!-- Error! Comma stranded behind tag. I assume
+        this happened because in the TITUS file there's a tag for "end of Bible quote" in between "karaliſtes" and the comma.-->
         <w xml:id="WP_1573_Dom._3_Adv._13v_29.5" xml:lang="olt">kaip</w>
         </l>
         <l n="30" xml:id="WP_1573_Dom._3_Adv._13v_30">
@@ -856,7 +868,8 @@
         <w xml:id="WP_1573_Dom._3_Adv._14r_2.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._3_Adv._14r_2.3" xml:lang="olt"><app>
                 <lem>linkſminkiteſsi;</lem>
-                <rdg>,</rdg>
+                <rdg>,</rdg> <!-- Error! Or rather an inconsistency in TITUS. This footnote is supposed to
+                refer only to the ";".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._14r_2.4" xml:lang="olt">neſanga</w>
         <w xml:id="WP_1573_Dom._3_Adv._14r_2.5" xml:lang="olt">alga</w>
@@ -976,7 +989,10 @@
         <w xml:id="WP_1573_Dom._3_Adv._14r_12.2" xml:lang="olt">Vredas</w>
         <w xml:id="WP_1573_Dom._3_Adv._14r_12.3" xml:lang="olt">ipatei</w>
         <w xml:id="WP_1573_Dom._3_Adv._14r_12.4" xml:lang="olt">tame</w>
-        <w xml:id="WP_1573_Dom._3_Adv._14r_12.5" xml:lang="olt">uſʒgul.</w>
+        <w xml:id="WP_1573_Dom._3_Adv._14r_12.5" xml:lang="olt">uſʒgul.</w> <!-- Discrepancy: The following sections,
+        starting at 12.6, 15.1, 17.6, 19.5 and 24.7 respectively, have been numbered 1-5 in the ms. by placing a number
+        in the right margin next to them. The print edition inserts these numbers into the main text with
+        a footnote "in dextra margine" on each. TITUS lists them at the end of the page as marginalia. -->
         <w xml:id="WP_1573_Dom._3_Adv._14r_12.6" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Dom._3_Adv._14r_12.7" xml:lang="olt">ſakitụ</w>
         </l>
@@ -1211,7 +1227,8 @@
         <w xml:id="WP_1573_Dom._3_Adv._14r_32.2" xml:lang="olt">kunụ</w>
         <w xml:id="WP_1573_Dom._3_Adv._14r_32.3" xml:lang="olt"><app>
                 <lem>uſʒmuſʒa;</lem>
-                <rdg>,</rdg>
+                <rdg>,</rdg> <!-- Another inconsistent annotation in TITUS. Footnote refers only to changing "; > ,".
+                Should read "uſʒmuſʒa,".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._14r_32.4" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_Dom._3_Adv._14r_32.5" xml:lang="olt">didʒiaus</w>
@@ -1470,7 +1487,8 @@
         <w xml:id="WP_1573_Dom._3_Adv._14v_18.6" xml:lang="olt">iụ</w>
         <w xml:id="WP_1573_Dom._3_Adv._14v_18.7" xml:lang="olt"><app>
                 <lem>tikeghi<lb break="no"/>mụ</lem>
-                <rdg>nenaredams &gt;</rdg>
+                <rdg>nenaredams &gt;</rdg> <!-- Error! Footnote belongs to next word. Assigned wrongly because the asterisk
+                was placed in FRONT of the word.-->
                 </app></w>
         </l>
         <l n="19" xml:id="WP_1573_Dom._3_Adv._14v_19">
@@ -1651,7 +1669,8 @@
         <w xml:id="WP_1573_Dom._3_Adv._15r_1.2" xml:lang="olt">grekus</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_1.3" xml:lang="olt">wiſsa</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_1.4" xml:lang="olt">ſweta</w>
-        <w xml:id="WP_1573_Dom._3_Adv._15r_1.5" xml:lang="olt">)</w>
+        <w xml:id="WP_1573_Dom._3_Adv._15r_1.5" xml:lang="olt">)</w> <!-- The closing bracket ends up as its own token here because
+                                                                        there's an intervening "end of Bible quote" tag.-->
         <w xml:id="WP_1573_Dom._3_Adv._15r_1.6" xml:lang="olt">Bet</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_1.7" xml:lang="olt">idant</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_1.8" xml:lang="olt">apłams</w>
@@ -1684,7 +1703,7 @@
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.4" xml:lang="olt">mes,</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.5" xml:lang="olt"><app>
-                <lem>m:</lem>
+                <lem>m:</lem> <!-- Error! Footnote erroneously assigned to preceding word, belongs to  "k".-->
                 <rdg>k: b, &gt;</rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.6" xml:lang="olt">k</w>
@@ -1705,7 +1724,7 @@
         <w xml:id="WP_1573_Dom._3_Adv._15r_5.6" xml:lang="olt">pakarniſtes</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_5.7" xml:lang="olt"><app>
                 <lem>∻</lem>
-                <rdg>nuſsiſʒeminina &gt;</rdg>
+                <rdg>nuſsiſʒeminina &gt;</rdg> <!-- Error! Footnote erroneously assigned to preceding word, belongs to "nuſsiſʒeminima".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_5.8" xml:lang="olt">nuſsiſʒeminima</w>
         </l>
@@ -1740,7 +1759,7 @@
         <w xml:id="WP_1573_Dom._3_Adv._15r_8.2" xml:lang="olt">S</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_8.3" xml:lang="olt"><app>
                 <lem>Paw:</lem>
-                <rdg>12:</rdg>
+                <rdg>12:</rdg> <!-- Error! Duplicate of following footnote, this one should read "R".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_8.4" xml:lang="olt">Rim:</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_8.5" xml:lang="olt"><app>
@@ -1756,7 +1775,9 @@
 
         <w xml:id="WP_1573_Dom._3_Adv._15r_9.1" xml:lang="olt">Jumis</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_9.2" xml:lang="olt">bralei</w>
-        <w xml:id="WP_1573_Dom._3_Adv._15r_9.3" xml:lang="olt">permalanẹ,</w>
+        <w xml:id="WP_1573_Dom._3_Adv._15r_9.3" xml:lang="olt">permalanẹ,</w> <!-- Discrepancy: Print edition corrects this
+                                                                                to "per malanẹ" in the text and adds a footnote
+                                                                                "'permalanẹ' in ms.".-->
         <w xml:id="WP_1573_Dom._3_Adv._15r_9.4" xml:lang="olt">kuri</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_9.5" xml:lang="olt"><app>
                 <lem>dota</lem>
@@ -1884,7 +1905,7 @@
         <w xml:id="WP_1573_Dom._3_Adv._15r_20.1" xml:lang="olt">te</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_20.2" xml:lang="olt"><app>
                 <lem>eſsi</lem>
-                <rdg>eſsi ị .</rdg>
+                <rdg>eſsi ị .</rdg> <!-- The character that appears as ị here renders as ρ in TITUS.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_20.3" xml:lang="olt">A</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_20.4" xml:lang="olt">ipatei</w>
@@ -1969,7 +1990,7 @@
 
         <w xml:id="WP_1573_Dom._3_Adv._15r_27.1" xml:lang="olt"><app>
                 <lem>iuſụ:</lem>
-                <rdg>;</rdg>
+                <rdg>;</rdg> <!-- Inconsistency in TITUS footnotes, this correction refers only to the punctuation mark ":".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_27.2" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_27.3" xml:lang="olt">tai</w>
@@ -2335,7 +2356,7 @@
         <w xml:id="WP_1573_Dom._3_Adv._15v_27.3" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_27.4" xml:lang="olt"><app>
                 <lem>uſʒmakieghimu:</lem>
-                <rdg>,</rdg>
+                <rdg>,</rdg> <!-- Footnote refers only to the punctuation mark ":".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_27.5" xml:lang="olt">De<lb break="no"/>was</w>
         </l>
@@ -2377,7 +2398,7 @@
 .
         <w xml:id="WP_1573_Dom._3_Adv._15v_31.2" xml:lang="olt"><app>
                 <lem>tada</lem>
-                <rdg>Elnis</rdg>
+                <rdg>Elnis</rdg> <!-- Error! Duplicated footnote, belongs to the next asterisk. This one should read "Tada".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_31.3" xml:lang="olt">ſchakines</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_31.4" xml:lang="olt">kaip</w>
@@ -2395,12 +2416,14 @@
         <w xml:id="WP_1573_Dom._3_Adv._15v_32.2" xml:lang="olt">atwerin</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_32.3" xml:lang="olt"><app>
                 <lem>bus</lem>
-                <rdg>daugia. ị</rdg>
+                <rdg>daugia. ị</rdg> <!-- 1. Error! Duplicated footnote, belongs to the next asterisk. This one should read "bes".
+                                        2. The character that appears as ị here renders as ρ in TITUS.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_32.4" xml:lang="olt">lieſchuwei</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_32.5" xml:lang="olt"><app>
                 <lem>daugia</lem>
-                <rdg>daugia. ị</rdg>
+                <rdg>daugia. ị</rdg> <!-- 1. Error! Missing second footnote "daugiu" on this token.
+                                        2. The character that appears as ị here renders as ρ in TITUS.-->
                 </app></w>.
         <w xml:id="WP_1573_Dom._3_Adv._15v_32.7" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_32.8" xml:lang="olt">wel</w>
@@ -2434,14 +2457,15 @@
         <w xml:id="WP_1573_Dom._3_Adv._15v_M25W.8" xml:lang="lat">textu.</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_M25W.9" xml:lang="olt"><app>
                 <lem>⌉</lem>
-                <rdg>10 &gt;</rdg>
+                <rdg>10 &gt;</rdg> <!-- Error! This footnote belongs to "61" at the start of the next page.
+                                        Erroneously assigned here because it's in FRONT of the token.-->
                 </app></w>
         </l>
         <pb n="16r"/>
         <l n="1" xml:id="WP_1573_Dom._3_Adv._16r_1">
 
 
-        <w xml:id="WP_1573_Dom._3_Adv._16r_1.1" xml:lang="olt">61</w>
+        <w xml:id="WP_1573_Dom._3_Adv._16r_1.1" xml:lang="olt">61</w> <!-- Missing footnote, see above.-->
         <w xml:id="WP_1573_Dom._3_Adv._16r_1.2" xml:lang="olt">Perſonai</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_1.3" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_1.4" xml:lang="olt">meſsiaſʒaus</w>
@@ -2454,7 +2478,7 @@
 
         <w xml:id="WP_1573_Dom._3_Adv._16r_2.1" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_2.2" xml:lang="olt"><app>
-                <lem>manẹs</lem>
+                <lem>manẹs</lem> <!-- Error! Duplicate of following footnote. Should read "mam".-->
                 <rdg>;</rdg>
                 </app></w>,
         <w xml:id="WP_1573_Dom._3_Adv._16r_2.4" xml:lang="olt">to</w>
@@ -2474,7 +2498,7 @@
         <w xml:id="WP_1573_Dom._3_Adv._16r_3.3" xml:lang="olt">ſiunte</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_3.4" xml:lang="olt"><app>
                 <lem>mane.</lem>
-                <rdg>,</rdg>
+                <rdg>,</rdg> <!-- Footnote refers only to the punctuation mark "."-->
                 </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_3.5" xml:lang="olt">idant</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_3.6" xml:lang="olt">gielbe<lb break="no"/>cʒiau</w>
