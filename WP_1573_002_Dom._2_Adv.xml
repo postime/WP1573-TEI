@@ -38,7 +38,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._5v_12.1" xml:lang="olt">Euangelium</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_12.2" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_12.3" xml:lang="olt">paraſche</w>
-        <w xml:id="WP_1573_Dom._2_Adv._5v_12.4" xml:lang="olt">S</w>
+        <w xml:id="WP_1573_Dom._2_Adv._5v_12.4" xml:lang="olt">S</w> <!-- The print edition gives a footnote ("S pro S:") wherever the ms. fails to mark an abbreviation with ":" (which happens frequently).
+                                                                        TITUS doesn't bother with this. 
+                                                                        Do we want to reintroduce these and render them in an unobtrusive way to avoid footnote overload for the user? Could represent all editorial
+                                                                        corrections (the "pro X" ones) that way. -->
         <w xml:id="WP_1573_Dom._2_Adv._5v_12.5" xml:lang="olt">Luka:</w>
         </l>
         <l n="13" xml:id="WP_1573_Dom._2_Adv._5v_13">
@@ -178,7 +181,9 @@
         <w xml:id="WP_1573_Dom._2_Adv._5v_26.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_26.3" xml:lang="olt"><app>
                 <lem>gatawiteſsi</lem>
-                <rdg>geta</rdg>
+                <rdg>geta</rdg> <!-- the print edition will sometimes give only part of the pre-change word form in the apparatus (gatawitesi < geta[witesi]). 
+                I believe this is meant to indicate that only the letters given had been written out before the change was made (i.e. Bielauk paused in the middle of the word, corrected it, then continued).
+                It's an issue if we want to allow automatic switching between the variants, though. -->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_26.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_26.5" xml:lang="olt">prawiteſsi</w>
@@ -335,7 +340,8 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._6r_12.1" xml:lang="olt"><app>
                 <lem>Schenkus</lem>
-                <rdg>pro: Schenklus</rdg>
+                <rdg>pro: Schenklus</rdg> <!-- Print edition uses both "erratum pro" (found in this case) and "pro". TITUS version seems to always use "pro".
+                                                Remove "pro:" from the <rdg> entry and make it an attribute? -->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_12.2" xml:lang="olt">buſiancʒioſius</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_12.3" xml:lang="olt">pirma</w>
@@ -478,7 +484,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.4" xml:lang="olt">regime,</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.5" xml:lang="olt"><app>
                 <lem>ir</lem>
-                <rdg>indiwneſniụ &gt;</rdg>
+                <rdg>indiwneſniụ &gt;</rdg> <!-- Error! The footnote "indiwneſniụ" should refer to the two words "indiwneſniụ pirm".
+                (It's simply meant to say that "pirm" was added later. But since there's no way to indicate the insertion point of a word in the text,
+                this is accomplished by saying "this one word was changed to two words.")
+                In the print edition "indiwneſniụ pirm" is bracketed, but in TITUS the asterisk is placed in front(!) of "indiwneſniụ", with no indication that it refers to "pirm" as well... -->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.6" xml:lang="olt">indiwneſniụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.7" xml:lang="olt">pirm</w>
@@ -495,7 +504,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.7" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.8" xml:lang="olt"><app>
                 <lem>hiſtoias</lem>
-                <rdg>pro: hiſtorias</rdg>
+                <rdg>pro: hiſtorias</rdg> <!-- Again the print edition uses "erratum pro" here.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.9" xml:lang="olt">rada.</w>
         </l>
@@ -755,7 +764,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._6v_16.3" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_16.4" xml:lang="olt"><app>
                 <lem>ſtaiuſis</lem>
-                <rdg>ſti</rdg>
+                <rdg>ſti</rdg> <!-- Here it seems pretty clear from the spacing that Bielauk wrote "sti", then stopped and changed i > a before continuing the word. -->
                 </app></w>.
         </l>
         <l n="17" xml:id="WP_1573_Dom._2_Adv._6v_17">
@@ -966,7 +975,9 @@
         <w xml:id="WP_1573_Dom._2_Adv._6v_35.4" xml:lang="olt">tam</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_35.5" xml:lang="olt">indiwnụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_35.6" xml:lang="olt">didʒiụ</w>
-        <w xml:id="WP_1573_Dom._2_Adv._6v_35.7" xml:lang="olt">negirdetu</w>
+        <w xml:id="WP_1573_Dom._2_Adv._6v_35.7" xml:lang="olt">negirdetu</w> <!-- Error! Should just read "ne=". This is a tricky case: The last word on the page is hyphenated,
+                                                                        "ne=", but Bielauk forgot and just wrote the whole word again on the next page ("negirdetu").
+                                                                        The edition leaves the "ne=" and corrects the "negirdetu" on the following page to "girdetu".-->
         </l>
         <l n="R" xml:id="WP_1573_Dom._2_Adv._6v_R">
 
@@ -979,7 +990,8 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._7r_1.1" xml:lang="olt"><app>
                 <lem>negirdetu</lem>
-                <rdg>pro: girdetu</rdg>
+                <rdg>pro: girdetu</rdg> <!-- The print edition has some editorial corrections where the text is corrected and the wrong original form is given in the footnote, labelled "in ms.".
+                                         These have been turned into "pro:" corrections in TITUS and are thus the other way around (wrong original form in the text, correct form in the footnote.) -->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_1.2" xml:lang="olt">ligụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_1.3" xml:lang="olt">wacʒiụ</w>
@@ -1305,8 +1317,8 @@
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.5" xml:lang="olt">Tewai</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.6" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.7" xml:lang="olt"><app>
-                <lem>ſumum</lem>
-                <rdg>pro: ſunum</rdg>
+                <lem>ſumum</lem> <!-- Error! This word has TWO footnotes in TITUS and print: a GS note "sumum < su mu", and a KS note "sumum pro sunum".-->
+                <rdg>pro: ſunum</rdg> 
                 </app></w>
         </l>
         <l n="33" xml:id="WP_1573_Dom._2_Adv._7r_33">
@@ -1826,11 +1838,11 @@
         <w xml:id="WP_1573_Dom._2_Adv._8r_8.2" xml:lang="olt">piktemus</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_8.3" xml:lang="olt"><app>
                 <lem>ta</lem>
-                <rdg>bedai</rdg>
+                <rdg>bedai</rdg> <!--Error! Change is "ta < tai". Not sure why this happened, it seems fine in TITUS.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_8.4" xml:lang="olt"><app>
-                <lem>beda</lem>
-                <rdg>bedai</rdg>
+                <lem>beda</lem> 
+                <rdg>bedai</rdg> <!-- NB: The print edition treats this change and the previous one as a single entry "ta beda < tai bedai", but TITUS splits them up.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_8.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_8.6" xml:lang="olt">muka</w>
@@ -1932,7 +1944,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.2" xml:lang="olt">weiſdeijma</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.3" xml:lang="olt"><app>
                 <lem>ia?</lem>
-                <rdg>,</rdg>
+                <rdg>,</rdg> <!-- Error! The change relates only to the punctuation mark, "?".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.4" xml:lang="olt">ghis</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.5" xml:lang="olt">neſanga</w>
@@ -1946,7 +1958,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._8r_18.2" xml:lang="olt"><app>
                 <lem>tirpſtanti</lem>
                 <rdg>tirpſtenti</rdg>
-                </app></w>,
+                </app></w>, <!-- We have a lonely punctuation mark here because the footnote asterisk for the preceding word went between the word and the comma.-->
         <w xml:id="WP_1573_Dom._2_Adv._8r_18.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_18.5" xml:lang="olt">ſunkus</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_18.6" xml:lang="olt">ant</w>
@@ -2666,7 +2678,7 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._9r_9.1" xml:lang="olt"><app>
                 <lem>mumis</lem>
-                <rdg>reikt</rdg>
+                <rdg>reikt</rdg> <!-- Error! This is a duplicate of the following footnote. It should actually read "wi". Looks fine in TITUS.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_9.2" xml:lang="olt">wiſsemus</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_9.3" xml:lang="olt"><app>
@@ -2907,7 +2919,8 @@
         <w xml:id="WP_1573_Dom._2_Adv._9r_30.2" xml:lang="olt">ieis</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_30.3" xml:lang="olt">ganna</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_30.4" xml:lang="olt">ruſtai</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9r_30.5" xml:lang="olt">abaiſingai</w>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_30.5" xml:lang="olt">abaiſingai</w> <!-- Missing footnote compared to print edition, but I think it was removed because it's wrong.
+                                                                                (Print claims that the ms. reads "a baisingai" with an extraneous space, but the "a" is actually connected to the following "b". ) -->
         <w xml:id="WP_1573_Dom._2_Adv._9r_30.6" xml:lang="olt">rakoſis</w>
         </l>
         <l n="31" xml:id="WP_1573_Dom._2_Adv._9r_31">
@@ -2980,7 +2993,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.1" xml:lang="olt">geribiu</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.2" xml:lang="olt">pana</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.3" xml:lang="olt"><app>
-                <lem>Diewa,</lem>
+                <lem>Diewa,</lem> <!-- Error! Footnote applies only to the punctuation mark ",".-->
                 <rdg>.</rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.4" xml:lang="olt">Anno</w>
@@ -3075,7 +3088,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.3" xml:lang="olt">Auguſ:</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.4" xml:lang="olt"><app>
                 <lem>tardams</lem>
-                <rdg>tardens</rdg>
+                <rdg>tardens</rdg> <!-- Discrepancy: Print edition has "tarden" as the pre-change form. That seems right to me, the "s" too looks like it was added later.-->
                 </app></w>:
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.6" xml:lang="olt">Weſʒpats</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.7" xml:lang="olt">Jeſus</w>
@@ -3817,7 +3830,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.2" xml:lang="lat">pro:</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.3" xml:lang="lat"><app>
                 <lem>16</lem>
-                <rdg>pro: 6</rdg>
+                <rdg>pro: 6</rdg> <!--This one was wrong in the print edition (both text and correction read "16"), correct in TITUS.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.4" xml:lang="olt">tardams:</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.5" xml:lang="olt">Gaileſis</w>
@@ -4132,7 +4145,7 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.1" xml:lang="olt">Bagatei</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.2" xml:lang="olt">angu</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_9.3" xml:lang="olt">matcʒinei</w>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_9.3" xml:lang="olt">matcʒinei</w> <!-- Print edition has an additional footnote here, "pro 'matczniei'?".-->
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.4" xml:lang="olt"><app>
                 <lem>matʒnai</lem>
                 <rdg>macʒ</rdg>
@@ -4237,7 +4250,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_18.1" xml:lang="olt">tas</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_18.2" xml:lang="olt"><app>
                 <lem>uſʒrudawimas</lem>
-                <rdg>ent</rdg>
+                <rdg>ent</rdg> <!-- Error: There are two changes in a row on the word "uſʒrudawimas":  "< uſʒrude < uſʒra". The "ent" belongs in the following footnote instead.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_18.3" xml:lang="olt"><app>
                 <lem>ant</lem>
@@ -4268,7 +4281,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.2" xml:lang="olt">nebus</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.3" xml:lang="olt">liſchei</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.4" xml:lang="olt"><app>
-                <lem>atdeghimas</lem>
+                <lem>atdeghimas</lem> <!-- Error! There are two footnote asterisks on this word. Conversion dropped the first one ("< ate").-->
                 <rdg>pro: atdenghimas</rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.5" xml:lang="olt">darbụ</w>
@@ -4296,7 +4309,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_22.5" xml:lang="olt">gala</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_22.6" xml:lang="olt">ſʒmagaus</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_22.7" xml:lang="olt"><app>
-                <lem>ate<lb break="no"/>ghimas</lem>
+                <lem>ate<lb break="no"/>ghimas</lem> <!-- This change is given the other way around (old form in text, new form in footnote), I guess because it was made by W in the KS, not by B the GS. -->
                 <rdg>atden=ghimas</rdg>
                 </app></w>
         </l>
@@ -4390,7 +4403,7 @@
         <l n="31" xml:id="WP_1573_Dom._2_Adv._11r_31">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._11r_31.1" xml:lang="olt">kalbu</w>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_31.1" xml:lang="olt">kalbu</w> <!-- There seems to be a footnote missing in TITUS here. Print has "pro kalba".-->
         <w xml:id="WP_1573_Dom._2_Adv._11r_31.2" xml:lang="olt">weſʒpats</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_31.3" xml:lang="olt">pulka,</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_31.4" xml:lang="olt">ir</w>
@@ -4413,16 +4426,17 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._11r_33.1" xml:lang="olt"><app>
                 <lem>nogumus</lem>
-                <rdg>kara liſtemus &gt;</rdg>
+                <rdg>kara liſtemus &gt;</rdg> <!-- Error! Should read "nogunus".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_33.2" xml:lang="olt"><app>
                 <lem>nogumu</lem>
-                <rdg>kara liſtemus &gt;</rdg>
+                <rdg>kara liſtemus &gt;</rdg> <!-- Error! Should read "m".--> <!-- There is also a rather important piece of information missing from TITUS here due to the lack of commentary:
+                                                                                The sequence "nogumus nogumu" in the ms. is a dittography, it should just read "nogumu".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_33.3" xml:lang="olt">tawạ</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_33.4" xml:lang="olt"><app>
                 <lem>ir</lem>
-                <rdg>kara liſtemus &gt;</rdg>
+                <rdg>kara liſtemus &gt;</rdg> <!-- Error in TITUS! Footnote belongs to the following word "karalistemus".-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_33.5" xml:lang="olt">karaliſtemus</w>
         </l>
@@ -4486,7 +4500,9 @@
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.1" xml:lang="olt">tardams:</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.2" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.3" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_3.4" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_3.4" xml:lang="olt">&lt;&lt;....&gt;&gt;</w> <!-- This comes out a little weird. The phrase "Bus iſchradita geda tawa" was crossed out in the ms.,
+                                                                                        which TITUS represents by putting "<<....>> <<....>> <<....>> <<....>>" in the text and a footnote at the end of it.
+                                                                                        If we want to keep it that way, the footnote should refer to the whole sequence, not just the final <<....>>. -->
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.5" xml:lang="olt"><app>
                 <lem>&lt;&lt;....&gt;&gt;</lem>
                 <rdg>Bus iſchradita geda tawa</rdg>
@@ -4522,7 +4538,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.2" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.3" xml:lang="olt"><app>
                 <lem>7</lem>
-                <rdg>tardems</rdg>
+                <rdg>tardems</rdg> <!-- Error! The footnote is supposed to read "teip:". It's also supposed to cover the TWO tokens "teip 7", but there's no indication of that in TITUS. -->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.4" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.5" xml:lang="olt"><app>
@@ -4932,7 +4948,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.1" xml:lang="olt">Joha:</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.2" xml:lang="olt"><app>
                 <lem>15:</lem>
-                <rdg>pro: 18:</rdg>
+                <rdg>pro: 18:</rdg> <!-- This error is rendered differently in the print edition, but TITUS's way makes more sense.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.3" xml:lang="olt">Jeigu</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.4" xml:lang="olt">anſai</w>
@@ -5011,7 +5027,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._12r_14.3" xml:lang="olt">atteghima</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_14.4" xml:lang="olt"><app>
                 <lem>weſʒpates</lem>
-                <rdg>m</rdg>
+                <rdg>m</rdg> <!-- Error! Should read "weſc". "m" belong sin the next footnote.-->
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_14.5" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_14.6" xml:lang="olt">Jeſaus</w>
