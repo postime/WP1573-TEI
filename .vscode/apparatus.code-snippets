@@ -42,7 +42,7 @@
 		"scope": "xml",
 		"prefix": "gap",
 		"body": [
-			"<gap reason=\"${1|lost|}\" quantity=\"${2:length}\" unit=\"${3|characters|}\"/>",
+			"<gap reason=\"${1|illegible,lost,undefined|}\" quantity=\"${2:length}\" unit=\"${3|characters,words|}\"/>",
 		]
 	}
 }
