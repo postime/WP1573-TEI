@@ -21,8 +21,8 @@
 		"prefix": "app",
 		"body": [
 			"<app type=\"${1|mod,del,ins|}\">",
-			"<lem>${TM_SELECTED_TEXT:${2:original}}</lem>",
-			"<rdg>${3:reading}</rdg>",
+			"  <lem>${TM_SELECTED_TEXT:${2:original}}</lem>",
+			"  <rdg>${3:reading}</rdg>",
 			"</app>"
 		]
 	},
@@ -31,10 +31,10 @@
 		"prefix": "ins",
 		"body": [
 			"<app>",
-			"<lem>${TM_SELECTED_TEXT:${1:original}}</lem>",
-			"<rdg>",
-			"  <add place=\"${2|above,below,bottom,top,margin|}\"></add>,
-			</rdg>
+			"  <lem>${TM_SELECTED_TEXT:${1:original}}</lem>",
+			"  <rdg>",
+			"    <add place=\"${2|above,below,bottom,top,margin|}\"></add>,
+			  </rdg>
 		   </app>"
 		]
 	},
@@ -43,6 +43,13 @@
 		"prefix": "gap",
 		"body": [
 			"<gap reason=\"${1|illegible,lost,undefined|}\" quantity=\"${2:length}\" unit=\"${3|characters,words|}\"/>",
+		]
+	},
+	"Del": {
+		"scope": "xml",
+		"prefix": "del",
+		"body": [
+			"<del rend=\"${1|erasure,overstrike,overwrite|}\">$2</del>",
 		]
 	}
 }
