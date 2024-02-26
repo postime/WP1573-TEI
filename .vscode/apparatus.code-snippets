@@ -20,7 +20,7 @@
 		"scope": "xml",
 		"prefix": "app",
 		"body": [
-			"<app type=\"${1|corr,del,ins|}\">",
+			"<app type=\"${1|mod,del,ins|}\">",
 			"<lem>${TM_SELECTED_TEXT:${2:original}}</lem>",
 			"<rdg>${3:reading}</rdg>",
 			"</app>"
