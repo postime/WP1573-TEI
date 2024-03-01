@@ -16,26 +16,46 @@
 	// 	"description": "Log output to console"
 	// }
 
-	"App entry": {
+
+	"Alteration type": {
 		"scope": "xml",
-		"prefix": "app",
+		"prefix": "type",
+		"body": [
+			"type=\"${1|mod,del,ins|}\"",
+		]
+	},
+	"Alteration by Bielauk": {
+		"scope": "xml",
+		"prefix": "alt-bielauk",
 		"body": [
 			"<app type=\"${1|mod,del,ins|}\">",
-			"  <lem>${TM_SELECTED_TEXT:${2:original}}</lem>",
-			"  <rdg>${3:reading}</rdg>",
+			"  <lem>${2:alteration}</lem>",
+			"  <rdg>${TM_SELECTED_TEXT:${3:text}}</rdg>",
 			"</app>"
 		]
 	},
-	"Insertion": {
+	"Alteration by others": {
 		"scope": "xml",
-		"prefix": "ins",
+		"prefix": "alt-others",
 		"body": [
-			"<app>",
-			"  <lem>${TM_SELECTED_TEXT:${1:original}}</lem>",
-			"  <rdg>",
-			"    <add place=\"${2|above,below,bottom,top,margin|}\"></add>,
-			  </rdg>
-		   </app>"
+			"<app type=\"${1|mod,del,ins|}\" hand=\"$2\">",
+			"  <lem>${TM_SELECTED_TEXT:${3:text}}</lem>",
+			"  <rdg>${3:alteration}</rdg>",
+			"</app>"
+		]
+	},
+	"Insertion by others": {
+		"scope": "xml",
+		"prefix": "ins-others",
+		"body": [
+			"<add place=\"${1|above,below,bottom,top,margin|}\" hand=\"$2\">${TM_SELECTED_TEXT:${3:text}}</add>"
+		]
+	},
+	"Insertion by Bielauk": {
+		"scope": "xml",
+		"prefix": "ins-bielauk",
+		"body": [
+			"<add place=\"${1|above,below,bottom,top,margin|}\">${TM_SELECTED_TEXT:${2:text}}</add>"
 		]
 	},
 	"Gap": {
@@ -45,11 +65,22 @@
 			"<gap reason=\"${1|illegible,lost,undefined|}\" quantity=\"${2:length}\" unit=\"${3|characters,words|}\"/>",
 		]
 	},
-	"Del": {
+	"Deletion by Bielauk": {
 		"scope": "xml",
-		"prefix": "del",
+		"prefix": "del-bielauk",
 		"body": [
-			"<del rend=\"${1|erasure,overstrike,overwrite|}\">$2</del>",
+			"<del rend=\"${1|erasure,overstrike,overwrite|}\">",
+			"${3:text or gap}",
+			"</del>",
+		]
+	},
+	"Deletion by others": {
+		"scope": "xml",
+		"prefix": "del-others",
+		"body": [
+			"<del rend=\"${1|erasure,overstrike,overwrite|}\" hand=\"$2\">",
+			"${3:text or gap}",
+			"</del>",
 		]
 	}
 }
