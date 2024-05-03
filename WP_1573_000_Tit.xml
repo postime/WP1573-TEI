@@ -59,9 +59,10 @@
         <w xml:id="WP_1573_Tit._0r_5.1" xml:lang="olt">ISCH</w>
         <w xml:id="WP_1573_Tit._0r_5.2" xml:lang="olt">PASTILLAS</w>
         <w xml:id="WP_1573_Tit._0r_5.3" xml:lang="lat">NICVLAI</w>
-        <w xml:id="WP_1573_Tit._0r_5.4" xml:lang="lat"><app>
+        <w xml:id="WP_1573_Tit._0r_5.4" xml:lang="lat">
+                <app>
                 <lem>HE<lb break="no"/>MINGY</lem>
-                <rdg>HE=MINGI</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="6" xml:id="WP_1573_Tit._0r_6">

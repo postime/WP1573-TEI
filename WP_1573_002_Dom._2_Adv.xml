@@ -38,10 +38,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._5v_12.1" xml:lang="olt">Euangelium</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_12.2" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_12.3" xml:lang="olt">paraſche</w>
-        <w xml:id="WP_1573_Dom._2_Adv._5v_12.4" xml:lang="olt">S</w> <!-- The print edition gives a footnote ("S pro S:") wherever the ms. fails to mark an abbreviation with ":" (which happens frequently).
-                                                                        TITUS doesn't bother with this. 
-                                                                        Do we want to reintroduce these and render them in an unobtrusive way to avoid footnote overload for the user? Could represent all editorial
-                                                                        corrections (the "pro X" ones) that way. -->
+        <w xml:id="WP_1573_Dom._2_Adv._5v_12.4" xml:lang="olt">S</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_12.5" xml:lang="olt">Luka:</w>
         </l>
         <l n="13" xml:id="WP_1573_Dom._2_Adv._5v_13">
@@ -159,9 +156,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._5v_24.5" xml:lang="olt">buſencʒioſus</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_24.6" xml:lang="olt">pirma</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_24.7" xml:lang="olt">tas</w>
-        <w xml:id="WP_1573_Dom._2_Adv._5v_24.8" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._5v_24.8" xml:lang="olt">
+                <app>
                 <lem>dien{as}</lem>
-                <rdg>m</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="25" xml:id="WP_1573_Dom._2_Adv._5v_25">
@@ -179,11 +177,10 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._5v_26.1" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_26.2" xml:lang="olt">kaip</w>
-        <w xml:id="WP_1573_Dom._2_Adv._5v_26.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._5v_26.3" xml:lang="olt">
+                <app>
                 <lem>gatawiteſsi</lem>
-                <rdg>geta</rdg> <!-- the print edition will sometimes give only part of the pre-change word form in the apparatus (gatawitesi < geta[witesi]). 
-                I believe this is meant to indicate that only the letters given had been written out before the change was made (i.e. Bielauk paused in the middle of the word, corrected it, then continued).
-                It's an issue if we want to allow automatic switching between the variants, though. -->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_26.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._2_Adv._5v_26.5" xml:lang="olt">prawiteſsi</w>
@@ -248,9 +245,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._6r_3.1" xml:lang="olt">Dewas</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_3.2" xml:lang="olt">ſulaukti</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_3.3" xml:lang="olt">girdeſite</w>
-        <w xml:id="WP_1573_Dom._2_Adv._6r_3.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6r_3.4" xml:lang="olt">
+                <app>
                 <lem>10</lem>
-                <rdg>11</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_3.5" xml:lang="olt">Nedeliạ</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_3.6" xml:lang="olt">pa</w>
@@ -300,9 +298,10 @@
         <l n="8" xml:id="WP_1573_Dom._2_Adv._6r_8">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._6r_8.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6r_8.1" xml:lang="olt">
+                <app>
                 <lem>krikſʒaniun</lem>
-                <rdg>krikſʒanius</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_8.2" xml:lang="olt">artinaſsi</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_8.3" xml:lang="olt">iſchganimas</w>
@@ -338,10 +337,10 @@
         <l n="12" xml:id="WP_1573_Dom._2_Adv._6r_12">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._6r_12.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6r_12.1" xml:lang="olt">
+                <app>
                 <lem>Schenkus</lem>
-                <rdg>pro: Schenklus</rdg> <!-- Print edition uses both "erratum pro" (found in this case) and "pro". TITUS version seems to always use "pro".
-                                                Remove "pro:" from the <rdg> entry and make it an attribute? -->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_12.2" xml:lang="olt">buſiancʒioſius</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_12.3" xml:lang="olt">pirma</w>
@@ -372,9 +371,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._6r_15.1" xml:lang="olt">Cħus</w>
-        <w xml:id="WP_1573_Dom._2_Adv._6r_15.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6r_15.2" xml:lang="olt">
+                <app>
                 <lem>daugia</lem>
-                <rdg>du</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_15.3" xml:lang="olt">praneſʒa</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_15.4" xml:lang="olt">buti</w>,
@@ -457,9 +457,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._6r_23.2" xml:lang="olt">ſʒenklụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_23.3" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_23.4" xml:lang="olt">ſaulei</w>
-        <w xml:id="WP_1573_Dom._2_Adv._6r_23.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6r_23.5" xml:lang="olt">
+                <app>
                 <lem>menaſij</lem>
-                <rdg>meneſij</rdg>
+                <rdg></rdg>
                 </app></w>,
         <w xml:id="WP_1573_Dom._2_Adv._6r_23.7" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_23.8" xml:lang="olt">daſʒ<lb break="no"/>nai</w>
@@ -482,12 +483,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.2" xml:lang="olt">dabar</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.3" xml:lang="olt">daſʒnai</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.4" xml:lang="olt">regime,</w>
-        <w xml:id="WP_1573_Dom._2_Adv._6r_25.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6r_25.5" xml:lang="olt">
+                <app>
                 <lem>ir</lem>
-                <rdg>indiwneſniụ &gt;</rdg> <!-- Error! The footnote "indiwneſniụ" should refer to the two words "indiwneſniụ pirm".
-                (It's simply meant to say that "pirm" was added later. But since there's no way to indicate the insertion point of a word in the text,
-                this is accomplished by saying "this one word was changed to two words.")
-                In the print edition "indiwneſniụ pirm" is bracketed, but in TITUS the asterisk is placed in front(!) of "indiwneſniụ", with no indication that it refers to "pirm" as well... -->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.6" xml:lang="olt">indiwneſniụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.7" xml:lang="olt">pirm</w>
@@ -502,9 +501,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.5" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.6" xml:lang="olt">Cronikas</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.7" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._2_Adv._6r_26.8" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6r_26.8" xml:lang="olt">
+                <app>
                 <lem>hiſtoias</lem>
-                <rdg>pro: hiſtorias</rdg> <!-- Again the print edition uses "erratum pro" here.-->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.9" xml:lang="olt">rada.</w>
         </l>
@@ -686,9 +686,10 @@
         <l n="9" xml:id="WP_1573_Dom._2_Adv._6v_9">
 
 ,
-        <w xml:id="WP_1573_Dom._2_Adv._6v_9.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6v_9.2" xml:lang="olt">
+                <app>
                 <lem>tai</lem>
-                <rdg>tei</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_9.3" xml:lang="olt">teipaiegi,</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_9.4" xml:lang="olt">kaip</w>
@@ -738,9 +739,10 @@
         <l n="14" xml:id="WP_1573_Dom._2_Adv._6v_14">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._6v_14.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6v_14.1" xml:lang="olt">
+                <app>
                 <lem>ſʒemeij</lem>
-                <rdg>ſʒemen</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_14.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_14.3" xml:lang="olt">meſtụ</w>
@@ -762,9 +764,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._6v_16.1" xml:lang="olt">didʒiụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_16.2" xml:lang="olt">iſchkadụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_16.3" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_Dom._2_Adv._6v_16.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6v_16.4" xml:lang="olt">
+                <app>
                 <lem>ſtaiuſis</lem>
-                <rdg>ſti</rdg> <!-- Here it seems pretty clear from the spacing that Bielauk wrote "sti", then stopped and changed i > a before continuing the word. -->
+                <rdg></rdg>
                 </app></w>.
         </l>
         <l n="17" xml:id="WP_1573_Dom._2_Adv._6v_17">
@@ -925,9 +928,10 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._6v_31.1" xml:lang="olt">Ka</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_31.2" xml:lang="olt">pirma</w>
-        <w xml:id="WP_1573_Dom._2_Adv._6v_31.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._6v_31.3" xml:lang="olt">
+                <app>
                 <lem>ira</lem>
-                <rdg>ia</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_31.4" xml:lang="olt">ganna</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_31.5" xml:lang="olt">buwị,</w>
@@ -975,9 +979,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._6v_35.4" xml:lang="olt">tam</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_35.5" xml:lang="olt">indiwnụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._6v_35.6" xml:lang="olt">didʒiụ</w>
-        <w xml:id="WP_1573_Dom._2_Adv._6v_35.7" xml:lang="olt">negirdetu</w> <!-- Error! Should just read "ne=". This is a tricky case: The last word on the page is hyphenated,
-                                                                        "ne=", but Bielauk forgot and just wrote the whole word again on the next page ("negirdetu").
-                                                                        The edition leaves the "ne=" and corrects the "negirdetu" on the following page to "girdetu".-->
+        <w xml:id="WP_1573_Dom._2_Adv._6v_35.7" xml:lang="olt">negirdetu</w>
         </l>
         <l n="R" xml:id="WP_1573_Dom._2_Adv._6v_R">
 
@@ -988,10 +990,10 @@
         <l n="1" xml:id="WP_1573_Dom._2_Adv._7r_1">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._7r_1.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._7r_1.1" xml:lang="olt">
+                <app>
                 <lem>negirdetu</lem>
-                <rdg>pro: girdetu</rdg> <!-- The print edition has some editorial corrections where the text is corrected and the wrong original form is given in the footnote, labelled "in ms.".
-                                         These have been turned into "pro:" corrections in TITUS and are thus the other way around (wrong original form in the text, correct form in the footnote.) -->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_1.2" xml:lang="olt">ligụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_1.3" xml:lang="olt">wacʒiụ</w>
@@ -1023,9 +1025,10 @@
         <l n="4" xml:id="WP_1573_Dom._2_Adv._7r_4">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._7r_4.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._7r_4.1" xml:lang="olt">
+                <app>
                 <lem>Aſchma</lem>
-                <rdg>Aſcha</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_4.2" xml:lang="olt">bus</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_4.3" xml:lang="olt">daſʒnas</w>
@@ -1193,9 +1196,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._7r_20.1" xml:lang="olt">Deſchimta</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_20.2" xml:lang="olt">bus</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_20.3" xml:lang="olt">didi</w>
-        <w xml:id="WP_1573_Dom._2_Adv._7r_20.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._7r_20.4" xml:lang="olt">
+                <app>
                 <lem>papiktinaghimai</lem>
-                <rdg>papiktinimai</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="21" xml:id="WP_1573_Dom._2_Adv._7r_21">
@@ -1316,9 +1320,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.4" xml:lang="olt">bus,</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.5" xml:lang="olt">Tewai</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.6" xml:lang="olt">ſu</w>
-        <w xml:id="WP_1573_Dom._2_Adv._7r_32.7" xml:lang="olt"><app>
-                <lem>ſumum</lem> <!-- Error! This word has TWO footnotes in TITUS and print: a GS note "sumum < su mu", and a KS note "sumum pro sunum".-->
-                <rdg>pro: ſunum</rdg> 
+        <w xml:id="WP_1573_Dom._2_Adv._7r_32.7" xml:lang="olt">
+                <app>
+                <lem>ſumum</lem>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="33" xml:id="WP_1573_Dom._2_Adv._7r_33">
@@ -1836,13 +1841,15 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._8r_8.1" xml:lang="olt">neſanga</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_8.2" xml:lang="olt">piktemus</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_8.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8r_8.3" xml:lang="olt">
+                <app>
                 <lem>ta</lem>
-                <rdg>bedai</rdg> <!--Error! Change is "ta < tai". Not sure why this happened, it seems fine in TITUS.-->
+                <rdg></rdg>
                 </app></w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_8.4" xml:lang="olt"><app>
-                <lem>beda</lem> 
-                <rdg>bedai</rdg> <!-- NB: The print edition treats this change and the previous one as a single entry "ta beda < tai bedai", but TITUS splits them up.-->
+        <w xml:id="WP_1573_Dom._2_Adv._8r_8.4" xml:lang="olt">
+                <app>
+                <lem>beda</lem>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_8.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_8.6" xml:lang="olt">muka</w>
@@ -1856,9 +1863,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._8r_9.2" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_9.3" xml:lang="olt">ghe</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_9.4" xml:lang="olt">turres</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_9.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8r_9.5" xml:lang="olt">
+                <app>
                 <lem>liſchnei</lem>
-                <rdg>liſchie</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_9.6" xml:lang="olt">baiſingai</w>
         </l>
@@ -1942,9 +1950,10 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.1" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.2" xml:lang="olt">weiſdeijma</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_17.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8r_17.3" xml:lang="olt">
+                <app>
                 <lem>ia?</lem>
-                <rdg>,</rdg> <!-- Error! The change relates only to the punctuation mark, "?".-->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.4" xml:lang="olt">ghis</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.5" xml:lang="olt">neſanga</w>
@@ -1955,10 +1964,11 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._8r_18.1" xml:lang="olt">Vgnis</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_18.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8r_18.2" xml:lang="olt">
+                <app>
                 <lem>tirpſtanti</lem>
-                <rdg>tirpſtenti</rdg>
-                </app></w>, <!-- We have a lonely punctuation mark here because the footnote asterisk for the preceding word went between the word and the comma.-->
+                <rdg></rdg>
+                </app></w>,
         <w xml:id="WP_1573_Dom._2_Adv._8r_18.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_18.5" xml:lang="olt">ſunkus</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_18.6" xml:lang="olt">ant</w>
@@ -1981,15 +1991,17 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._8r_20.1" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_20.2" xml:lang="olt">didei</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_20.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8r_20.3" xml:lang="olt">
+                <app>
                 <lem>ſunki</lem>
-                <rdg>ſu</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_20.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_20.5" xml:lang="olt">baiſi</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_20.6" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8r_20.6" xml:lang="olt">
+                <app>
                 <lem>Ruſtibe</lem>
-                <rdg>ſu</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_20.7" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_20.8" xml:lang="olt">bus</w>
@@ -2027,9 +2039,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._8r_23.3" xml:lang="olt">mus</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_23.4" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_23.5" xml:lang="olt">akiụ</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_23.6" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8r_23.6" xml:lang="olt">
+                <app>
                 <lem>ſedancʒiaja</lem>
-                <rdg>ſedancʒie</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_23.7" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_23.8" xml:lang="olt">kreſ<lb break="no"/>la</w>
@@ -2200,9 +2213,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.6" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.7" xml:lang="olt">tarens</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.8" xml:lang="olt">ſ:</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8v_2.9" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8v_2.9" xml:lang="olt">
+                <app>
                 <lem>Hieroninas</lem>
-                <rdg>pro: Hieronimas</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="3" xml:id="WP_1573_Dom._2_Adv._8v_3">
@@ -2317,9 +2331,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._8v_13.1" xml:lang="olt">darbai</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8v_13.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8v_13.2" xml:lang="olt">
+                <app>
                 <lem>mana</lem>
-                <rdg>mama</rdg>
+                <rdg></rdg>
                 </app></w>,
         <w xml:id="WP_1573_Dom._2_Adv._8v_13.4" xml:lang="olt">pa</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_13.5" xml:lang="olt">akim</w>
@@ -2473,9 +2488,10 @@
         <l n="27" xml:id="WP_1573_Dom._2_Adv._8v_27">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._8v_27.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8v_27.1" xml:lang="olt">
+                <app>
                 <lem>piktaſsis</lem>
-                <rdg>piktaſses</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_27.2" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_27.3" xml:lang="olt">greſʒnaſis</w>
@@ -2534,9 +2550,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._8v_32.2" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_32.3" xml:lang="olt">tartụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_32.4" xml:lang="olt">ſʒadị</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8v_32.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._8v_32.5" xml:lang="olt">
+                <app>
                 <lem>gieru</lem>
-                <rdg>an</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_32.6" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_32.7" xml:lang="olt">paſsi<lb break="no"/>gerinima.</w>
@@ -2599,9 +2616,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9r_3.3" xml:lang="olt">nu</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_3.4" xml:lang="olt">iau</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_3.5" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9r_3.6" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_3.6" xml:lang="olt">
+                <app>
                 <lem>ſudʒia</lem>
-                <rdg>ſudʒie</rdg>
+                <rdg></rdg>
                 </app></w>,
         <w xml:id="WP_1573_Dom._2_Adv._9r_3.8" xml:lang="olt">kada</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_3.9" xml:lang="olt">a</w>
@@ -2611,9 +2629,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._9r_4.1" xml:lang="olt">iau</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9r_4.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_4.2" xml:lang="olt">
+                <app>
                 <lem>atais</lem>
-                <rdg>ateis</rdg>
+                <rdg></rdg>
                 </app></w>,
         <w xml:id="WP_1573_Dom._2_Adv._9r_4.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_4.5" xml:lang="olt">teip</w>
@@ -2660,9 +2679,10 @@
         <l n="8" xml:id="WP_1573_Dom._2_Adv._9r_8">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._9r_8.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_8.1" xml:lang="olt">
+                <app>
                 <lem>tai</lem>
-                <rdg>tei</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_8.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_8.3" xml:lang="olt">ſ:</w>
@@ -2676,21 +2696,24 @@
         <l n="9" xml:id="WP_1573_Dom._2_Adv._9r_9">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._9r_9.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_9.1" xml:lang="olt">
+                <app>
                 <lem>mumis</lem>
-                <rdg>reikt</rdg> <!-- Error! This is a duplicate of the following footnote. It should actually read "wi". Looks fine in TITUS.-->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_9.2" xml:lang="olt">wiſsemus</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9r_9.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_9.3" xml:lang="olt">
+                <app>
                 <lem>reiks</lem>
-                <rdg>reikt</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_9.4" xml:lang="olt">ſtates</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_9.5" xml:lang="olt">pa</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_9.6" xml:lang="olt">akim</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9r_9.7" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_9.7" xml:lang="olt">
+                <app>
                 <lem>kreſ<lb break="no"/>la</lem>
-                <rdg>ke</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="10" xml:id="WP_1573_Dom._2_Adv._9r_10">
@@ -2707,9 +2730,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._9r_11.1" xml:lang="olt">Jra</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9r_11.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_11.2" xml:lang="olt">
+                <app>
                 <lem>darens</lem>
-                <rdg>daa</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_11.3" xml:lang="olt">tikraija</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_11.4" xml:lang="olt">kuna,</w>
@@ -2776,9 +2800,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9r_17.1" xml:lang="olt">Jeigu</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_17.2" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_17.3" xml:lang="olt">taip</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9r_17.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_17.4" xml:lang="olt">
+                <app>
                 <lem>dumatumbim</lem>
-                <rdg>tu</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_17.5" xml:lang="olt">m:</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_17.6" xml:lang="olt">k:</w>
@@ -2812,9 +2837,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9r_20.2" xml:lang="olt">(beda</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_20.3" xml:lang="olt">mumis)</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_20.4" xml:lang="olt">teip</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9r_20.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9r_20.5" xml:lang="olt">
+                <app>
                 <lem>driſei</lem>
-                <rdg>r</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_20.6" xml:lang="olt">be</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_20.7" xml:lang="olt">wenas</w>
@@ -2919,8 +2945,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._9r_30.2" xml:lang="olt">ieis</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_30.3" xml:lang="olt">ganna</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_30.4" xml:lang="olt">ruſtai</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9r_30.5" xml:lang="olt">abaiſingai</w> <!-- Missing footnote compared to print edition, but I think it was removed because it's wrong.
-                                                                                (Print claims that the ms. reads "a baisingai" with an extraneous space, but the "a" is actually connected to the following "b". ) -->
+        <w xml:id="WP_1573_Dom._2_Adv._9r_30.5" xml:lang="olt">abaiſingai</w>
         <w xml:id="WP_1573_Dom._2_Adv._9r_30.6" xml:lang="olt">rakoſis</w>
         </l>
         <l n="31" xml:id="WP_1573_Dom._2_Adv._9r_31">
@@ -2953,9 +2978,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_1.2" xml:lang="olt">ka</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_1.3" xml:lang="olt">nu</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_1.4" xml:lang="olt">ghiſsai</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_1.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_1.5" xml:lang="olt">
+                <app>
                 <lem>wiſsemus</lem>
-                <rdg>wiſe</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_1.6" xml:lang="olt">apſtingai</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_1.7" xml:lang="olt">a</w>
@@ -2965,9 +2991,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._9v_2.1" xml:lang="olt">doſti</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_2.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_2.2" xml:lang="olt">
+                <app>
                 <lem>newenam</lem>
-                <rdg>nenenem</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_2.3" xml:lang="olt">nepermeſdams.</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_2.4" xml:lang="olt">kaip</w>
@@ -2981,9 +3008,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_3.2" xml:lang="olt">Kure</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_3.3" xml:lang="olt">tada</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_3.4" xml:lang="olt">nemalaningi</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_3.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_3.5" xml:lang="olt">
+                <app>
                 <lem>ira</lem>
-                <rdg>ia</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_3.6" xml:lang="olt">tu</w>
         </l>
@@ -2992,9 +3020,10 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.1" xml:lang="olt">geribiu</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.2" xml:lang="olt">pana</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_4.3" xml:lang="olt"><app>
-                <lem>Diewa,</lem> <!-- Error! Footnote applies only to the punctuation mark ",".-->
-                <rdg>.</rdg>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_4.3" xml:lang="olt">
+                <app>
+                <lem>Diewa,</lem>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.4" xml:lang="olt">Anno</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.5" xml:lang="olt">cʒeſu</w>
@@ -3018,9 +3047,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._9v_6.1" xml:lang="olt">permeſta</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_6.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_6.2" xml:lang="olt">
+                <app>
                 <lem>bragiauſi</lem>
-                <rdg>brạgiauſi</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_6.3" xml:lang="olt">muka</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_6.4" xml:lang="olt">akieteghimas</w>
@@ -3044,9 +3074,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_8.1" xml:lang="olt">ragatine.</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_8.2" xml:lang="olt">winis.</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_8.3" xml:lang="olt">wainikas</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_8.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_8.4" xml:lang="olt">
+                <app>
                 <lem>erſʒkecʒiụ</lem>
-                <rdg>erſʒcʒ</rdg>
+                <rdg></rdg>
                 </app></w>,
         </l>
         <l n="9" xml:id="WP_1573_Dom._2_Adv._9v_9">
@@ -3086,9 +3117,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.1" xml:lang="olt">raſcha</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.3" xml:lang="olt">Auguſ:</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_12.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_12.4" xml:lang="olt">
+                <app>
                 <lem>tardams</lem>
-                <rdg>tardens</rdg> <!-- Discrepancy: Print edition has "tarden" as the pre-change form. That seems right to me, the "s" too looks like it was added later.-->
+                <rdg></rdg>
                 </app></w>:
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.6" xml:lang="olt">Weſʒpats</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.7" xml:lang="olt">Jeſus</w>
@@ -3113,9 +3145,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_14.4" xml:lang="olt">piktemus,</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_14.5" xml:lang="olt">kure</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_14.6" xml:lang="olt">ta</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_14.7" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_14.7" xml:lang="olt">
+                <app>
                 <lem>ne<lb break="no"/>malingi</lem>
-                <rdg>pro: ne=malaningi</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="15" xml:id="WP_1573_Dom._2_Adv._9v_15">
@@ -3136,9 +3169,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_16.4" xml:lang="olt">bilatụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_16.5" xml:lang="olt">iemus,</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_16.6" xml:lang="olt">Teip</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_16.7" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_16.7" xml:lang="olt">
+                <app>
                 <lem>ſʒi<lb break="no"/>dams</lem>
-                <rdg>ſʒi=dens</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="17" xml:id="WP_1573_Dom._2_Adv._9v_17">
@@ -3206,9 +3240,10 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._9v_23.1" xml:lang="olt">tas</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_23.2" xml:lang="olt">ranas,</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_23.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_23.3" xml:lang="olt">
+                <app>
                 <lem>kuras</lem>
-                <rdg>tu</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_23.4" xml:lang="olt">man</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_23.5" xml:lang="olt">uſʒdawete,</w>
@@ -3230,9 +3265,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_25.1" xml:lang="olt">atwiras</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_25.2" xml:lang="olt">bua,</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_25.3" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_25.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_25.4" xml:lang="olt">
+                <app>
                 <lem>nenareijate</lem>
-                <rdg>nenareije</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_25.5" xml:lang="olt">eiti.</w>
         </l>
@@ -3263,9 +3299,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_28.2" xml:lang="olt">Eſch</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_28.3" xml:lang="olt">del</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_28.4" xml:lang="olt">iuſụ</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_28.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_28.5" xml:lang="olt">
+                <app>
                 <lem>ſʒmagunn</lem>
-                <rdg>pro: ſʒmagum</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_28.6" xml:lang="olt">eſmi</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_28.7" xml:lang="olt">ſtaiens</w>
@@ -3293,9 +3330,10 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._9v_31.1" xml:lang="olt">takiụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_31.2" xml:lang="olt">manụ</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_31.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_31.3" xml:lang="olt">
+                <app>
                 <lem>wargụ</lem>
-                <rdg>ira</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_31.4" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_31.5" xml:lang="olt">waiſius?</w>
@@ -3305,9 +3343,10 @@
         <l n="32" xml:id="WP_1573_Dom._2_Adv._9v_32">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._9v_32.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_32.1" xml:lang="olt">
+                <app>
                 <lem>leidʒiau</lem>
-                <rdg>li</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_32.2" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_32.3" xml:lang="olt">man</w>
@@ -3379,9 +3418,10 @@
         <l n="6" xml:id="WP_1573_Dom._2_Adv._10r_6">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._10r_6.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10r_6.1" xml:lang="olt">
+                <app>
                 <lem>turreijau</lem>
-                <rdg>turri</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_6.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_6.3" xml:lang="olt">laikiau,</w>
@@ -3428,9 +3468,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._10r_10.2" xml:lang="olt">ſaw</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_10.3" xml:lang="olt">laiketi</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_10.4" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._2_Adv._10r_10.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10r_10.5" xml:lang="olt">
+                <app>
                 <lem>didʒiaus</lem>
-                <rdg>ir</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_10.6" xml:lang="olt">mileia<lb break="no"/>te</w>
         </l>
@@ -3522,9 +3563,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._10r_19.1" xml:lang="olt">Werks</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_19.2" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_19.3" xml:lang="olt">ſawens</w>
-        <w xml:id="WP_1573_Dom._2_Adv._10r_19.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10r_19.4" xml:lang="olt">
+                <app>
                 <lem>ſʒidai</lem>
-                <rdg>ſʒidei</rdg>
+                <rdg></rdg>
                 </app></w>,
         <w xml:id="WP_1573_Dom._2_Adv._10r_19.6" xml:lang="olt">regedami</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_19.7" xml:lang="olt">giwụ</w>
@@ -3644,9 +3686,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._10r_30.1" xml:lang="olt">wiſsi</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_30.2" xml:lang="olt">Heretikai</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_30.3" xml:lang="olt">∻</w>
-        <w xml:id="WP_1573_Dom._2_Adv._10r_30.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10r_30.4" xml:lang="olt">
+                <app>
                 <lem>kleidunai</lem>
-                <rdg>kli</rdg>
+                <rdg></rdg>
                 </app></w>,
         <w xml:id="WP_1573_Dom._2_Adv._10r_30.6" xml:lang="olt">werks</w>
         </l>
@@ -3663,9 +3706,10 @@
         <l n="32" xml:id="WP_1573_Dom._2_Adv._10r_32">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._10r_32.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10r_32.1" xml:lang="olt">
+                <app>
                 <lem>negalles</lem>
-                <rdg>negelles</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_32.2" xml:lang="olt">iam</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_32.3" xml:lang="olt">ka</w>
@@ -3807,9 +3851,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._10v_11.2" xml:lang="olt">werkdami</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_11.3" xml:lang="olt">uſʒ</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_11.4" xml:lang="olt">wenụ</w>
-        <w xml:id="WP_1573_Dom._2_Adv._10v_11.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10v_11.5" xml:lang="olt">
+                <app>
                 <lem>greſʒnughị</lem>
-                <rdg>r</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="12" xml:id="WP_1573_Dom._2_Adv._10v_12">
@@ -3828,9 +3873,10 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.1" xml:lang="olt">Salomo:</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.2" xml:lang="lat">pro:</w>
-        <w xml:id="WP_1573_Dom._2_Adv._10v_13.3" xml:lang="lat"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10v_13.3" xml:lang="lat">
+                <app>
                 <lem>16</lem>
-                <rdg>pro: 6</rdg> <!--This one was wrong in the print edition (both text and correction read "16"), correct in TITUS.-->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.4" xml:lang="olt">tardams:</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.5" xml:lang="olt">Gaileſis</w>
@@ -3855,9 +3901,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._10v_15.1" xml:lang="olt">newenam</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_15.2" xml:lang="olt">neperleis,</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_15.3" xml:lang="olt">nei</w>
-        <w xml:id="WP_1573_Dom._2_Adv._10v_15.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10v_15.4" xml:lang="olt">
+                <app>
                 <lem>newena</lem>
-                <rdg>newenu</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_15.5" xml:lang="olt">mal<lb break="no"/>dụ</w>
         </l>
@@ -4026,9 +4073,10 @@
         <l n="32" xml:id="WP_1573_Dom._2_Adv._10v_32">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._10v_32.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10v_32.1" xml:lang="olt">
+                <app>
                 <lem>perkreiptais</lem>
-                <rdg>perkreiptas</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_32.2" xml:lang="olt">ſʒadeis</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_32.3" xml:lang="olt">angu</w>
@@ -4037,9 +4085,10 @@
         <l n="33" xml:id="WP_1573_Dom._2_Adv._10v_33">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._10v_33.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._10v_33.1" xml:lang="olt">
+                <app>
                 <lem>dawanamis</lem>
-                <rdg>dana</rdg>
+                <rdg></rdg>
                 </app></w>.
         <w xml:id="WP_1573_Dom._2_Adv._10v_33.3" xml:lang="olt">S</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_33.4" xml:lang="olt">Hieroni:</w>
@@ -4060,9 +4109,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_1.4" xml:lang="olt">tẹ</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_1.5" xml:lang="olt">bus</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_1.6" xml:lang="olt">kure</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_1.7" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_1.7" xml:lang="olt">
+                <app>
                 <lem>ſcha</lem>
-                <rdg>ſche</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_1.8" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_1.9" xml:lang="olt">neiſchkalbụ</w>
@@ -4145,10 +4195,11 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.1" xml:lang="olt">Bagatei</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.2" xml:lang="olt">angu</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_9.3" xml:lang="olt">matcʒinei</w> <!-- Print edition has an additional footnote here, "pro 'matczniei'?".-->
-        <w xml:id="WP_1573_Dom._2_Adv._11r_9.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_9.3" xml:lang="olt">matcʒinei</w>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_9.4" xml:lang="olt">
+                <app>
                 <lem>matʒnai</lem>
-                <rdg>macʒ</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.6" xml:lang="olt">mukas</w>
@@ -4235,9 +4286,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._11r_17.1" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_17.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_17.2" xml:lang="olt">
+                <app>
                 <lem>ſidabrụ</lem>
-                <rdg>ſide</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_17.3" xml:lang="olt">iuſụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_17.4" xml:lang="olt">uſʒrudawimas</w>
@@ -4248,13 +4300,15 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._11r_18.1" xml:lang="olt">tas</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_18.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_18.2" xml:lang="olt">
+                <app>
                 <lem>uſʒrudawimas</lem>
-                <rdg>ent</rdg> <!-- Error: There are two changes in a row on the word "uſʒrudawimas":  "< uſʒrude < uſʒra". The "ent" belongs in the following footnote instead.-->
+                <rdg></rdg>
                 </app></w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_18.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_18.3" xml:lang="olt">
+                <app>
                 <lem>ant</lem>
-                <rdg>ent</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_18.4" xml:lang="olt">ludima</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_18.5" xml:lang="olt">iumis</w>
@@ -4280,9 +4334,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.1" xml:lang="olt">kit</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.2" xml:lang="olt">nebus</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.3" xml:lang="olt">liſchei</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_20.4" xml:lang="olt"><app>
-                <lem>atdeghimas</lem> <!-- Error! There are two footnote asterisks on this word. Conversion dropped the first one ("< ate").-->
-                <rdg>pro: atdenghimas</rdg>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_20.4" xml:lang="olt">
+                <app>
+                <lem>atdeghimas</lem>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.5" xml:lang="olt">darbụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.6" xml:lang="olt">teip</w>
@@ -4308,9 +4363,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_22.4" xml:lang="olt">Ant</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_22.5" xml:lang="olt">gala</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_22.6" xml:lang="olt">ſʒmagaus</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_22.7" xml:lang="olt"><app>
-                <lem>ate<lb break="no"/>ghimas</lem> <!-- This change is given the other way around (old form in text, new form in footnote), I guess because it was made by W in the KS, not by B the GS. -->
-                <rdg>atden=ghimas</rdg>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_22.7" xml:lang="olt">
+                <app>
+                <lem>ate<lb break="no"/>ghimas</lem>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="23" xml:id="WP_1573_Dom._2_Adv._11r_23">
@@ -4403,7 +4459,7 @@
         <l n="31" xml:id="WP_1573_Dom._2_Adv._11r_31">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._11r_31.1" xml:lang="olt">kalbu</w> <!-- There seems to be a footnote missing in TITUS here. Print has "pro kalba".-->
+        <w xml:id="WP_1573_Dom._2_Adv._11r_31.1" xml:lang="olt">kalbu</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_31.2" xml:lang="olt">weſʒpats</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_31.3" xml:lang="olt">pulka,</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_31.4" xml:lang="olt">ir</w>
@@ -4424,28 +4480,31 @@
         <l n="33" xml:id="WP_1573_Dom._2_Adv._11r_33">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._11r_33.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_33.1" xml:lang="olt">
+                <app>
                 <lem>nogumus</lem>
-                <rdg>kara liſtemus &gt;</rdg> <!-- Error! Should read "nogunus".-->
+                <rdg></rdg>
                 </app></w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_33.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_33.2" xml:lang="olt">
+                <app>
                 <lem>nogumu</lem>
-                <rdg>kara liſtemus &gt;</rdg> <!-- Error! Should read "m".--> <!-- There is also a rather important piece of information missing from TITUS here due to the lack of commentary:
-                                                                                The sequence "nogumus nogumu" in the ms. is a dittography, it should just read "nogumu".-->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_33.3" xml:lang="olt">tawạ</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_33.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_33.4" xml:lang="olt">
+                <app>
                 <lem>ir</lem>
-                <rdg>kara liſtemus &gt;</rdg> <!-- Error in TITUS! Footnote belongs to the following word "karalistemus".-->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_33.5" xml:lang="olt">karaliſtemus</w>
         </l>
         <l n="34" xml:id="WP_1573_Dom._2_Adv._11r_34">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._11r_34.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_34.1" xml:lang="olt">
+                <app>
                 <lem>biaurumụ</lem>
-                <rdg>biaua</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_34.2" xml:lang="olt">tawạ.</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_34.3" xml:lang="olt">Teipaiegi</w>
@@ -4483,9 +4542,10 @@
         <l n="2" xml:id="WP_1573_Dom._2_Adv._11v_2">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._11v_2.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_2.1" xml:lang="olt">
+                <app>
                 <lem>biaurunụ</lem>
-                <rdg>pro: biaurumụ</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_2.2" xml:lang="olt">tawụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_2.3" xml:lang="olt">reges.</w>
@@ -4500,12 +4560,11 @@
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.1" xml:lang="olt">tardams:</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.2" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.3" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_3.4" xml:lang="olt">&lt;&lt;....&gt;&gt;</w> <!-- This comes out a little weird. The phrase "Bus iſchradita geda tawa" was crossed out in the ms.,
-                                                                                        which TITUS represents by putting "<<....>> <<....>> <<....>> <<....>>" in the text and a footnote at the end of it.
-                                                                                        If we want to keep it that way, the footnote should refer to the whole sequence, not just the final <<....>>. -->
-        <w xml:id="WP_1573_Dom._2_Adv._11v_3.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_3.4" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_3.5" xml:lang="olt">
+                <app>
                 <lem>&lt;&lt;....&gt;&gt;</lem>
-                <rdg>Bus iſchradita geda tawa</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.6" xml:lang="olt">Atais</w>
         </l>
@@ -4515,9 +4574,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._11v_4.1" xml:lang="olt">weſʒpats,</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_4.2" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_4.3" xml:lang="olt">apſchwes</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_4.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_4.4" xml:lang="olt">
+                <app>
                 <lem>apdenkta</lem>
-                <rdg>ep</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_4.5" xml:lang="olt">tamſi<lb break="no"/>biu</w>
         </l>
@@ -4536,14 +4596,16 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.1" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.2" xml:lang="olt">teip</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_6.3" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_6.3" xml:lang="olt">
+                <app>
                 <lem>7</lem>
-                <rdg>tardems</rdg> <!-- Error! The footnote is supposed to read "teip:". It's also supposed to cover the TWO tokens "teip 7", but there's no indication of that in TITUS. -->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.4" xml:lang="olt">cap:</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_6.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_6.5" xml:lang="olt">
+                <app>
                 <lem>tardams</lem>
-                <rdg>tardems</rdg>
+                <rdg></rdg>
                 </app></w>:
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.7" xml:lang="olt">Sudas</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.8" xml:lang="olt">ſedaſsi,</w>
@@ -4555,9 +4617,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._11v_7.1" xml:lang="olt">knigas</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_7.2" xml:lang="olt">atwertas</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_7.3" xml:lang="olt">tapa</w>,
-        <w xml:id="WP_1573_Dom._2_Adv._11v_7.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_7.5" xml:lang="olt">
+                <app>
                 <lem>ku</lem>
-                <rdg>pro: kur</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_7.6" xml:lang="olt">ſuraſchiti</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_7.7" xml:lang="olt">ira</w>
@@ -4677,9 +4740,10 @@
         <l n="18" xml:id="WP_1573_Dom._2_Adv._11v_18">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._11v_18.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_18.1" xml:lang="olt">
+                <app>
                 <lem>Papeikite</lem>
-                <rdg>pro: Papeikete</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_18.2" xml:lang="olt">wiſsụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_18.3" xml:lang="olt">makſlụ</w>
@@ -4694,9 +4758,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._11v_19.1" xml:lang="olt">Tadangi</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_19.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_19.3" xml:lang="olt">aſch</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_19.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_19.4" xml:lang="olt">
+                <app>
                 <lem>prapolimi</lem>
-                <rdg>prapole</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_19.5" xml:lang="olt">iuſụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_19.6" xml:lang="olt">iokſoſiu</w>
@@ -4840,9 +4905,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._11v_33.1" xml:lang="olt">wel</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_33.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_33.2" xml:lang="olt">
+                <app>
                 <lem>tars</lem>
-                <rdg>ters</rdg>
+                <rdg></rdg>
                 </app></w>:
         <w xml:id="WP_1573_Dom._2_Adv._11v_33.4" xml:lang="olt">Atſtakiteſsi</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_33.5" xml:lang="olt">ius</w>
@@ -4867,9 +4933,10 @@
         <l n="1" xml:id="WP_1573_Dom._2_Adv._12r_1">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._12r_1.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_1.1" xml:lang="olt">
+                <app>
                 <lem>prigatawita</lem>
-                <rdg>prigetawita</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_1.2" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_1.3" xml:lang="olt">welinu</w>
@@ -4946,9 +5013,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.1" xml:lang="olt">Joha:</w>
-        <w xml:id="WP_1573_Dom._2_Adv._12r_8.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_8.2" xml:lang="olt">
+                <app>
                 <lem>15:</lem>
-                <rdg>pro: 18:</rdg> <!-- This error is rendered differently in the print edition, but TITUS's way makes more sense.-->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.3" xml:lang="olt">Jeigu</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.4" xml:lang="olt">anſai</w>
@@ -4972,9 +5040,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._12r_10.1" xml:lang="olt">ſtaiens</w>
-        <w xml:id="WP_1573_Dom._2_Adv._12r_10.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_10.2" xml:lang="olt">
+                <app>
                 <lem>neuſʒſilaikie</lem>
-                <rdg>nu</rdg>
+                <rdg></rdg>
                 </app></w>,
         <w xml:id="WP_1573_Dom._2_Adv._12r_10.4" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_10.5" xml:lang="olt">pole</w>
@@ -5009,9 +5078,10 @@
         <l n="13" xml:id="WP_1573_Dom._2_Adv._12r_13">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._12r_13.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_13.1" xml:lang="olt">
+                <app>
                 <lem>Kakiais</lem>
-                <rdg>Kaka</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_13.2" xml:lang="olt">tada</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_13.3" xml:lang="olt">mumis</w>
@@ -5025,15 +5095,17 @@
         <w xml:id="WP_1573_Dom._2_Adv._12r_14.1" xml:lang="olt">laukti</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_14.2" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_14.3" xml:lang="olt">atteghima</w>
-        <w xml:id="WP_1573_Dom._2_Adv._12r_14.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_14.4" xml:lang="olt">
+                <app>
                 <lem>weſʒpates</lem>
-                <rdg>m</rdg> <!-- Error! Should read "weſc". "m" belong sin the next footnote.-->
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_14.5" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_14.6" xml:lang="olt">Jeſaus</w>
-        <w xml:id="WP_1573_Dom._2_Adv._12r_14.7" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_14.7" xml:lang="olt">
+                <app>
                 <lem>Cħaus</lem>
-                <rdg>m</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="15" xml:id="WP_1573_Dom._2_Adv._12r_15">
@@ -5187,9 +5259,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._12r_29.1" xml:lang="olt">mumis</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_29.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_29.3" xml:lang="olt">graudina</w>
-        <w xml:id="WP_1573_Dom._2_Adv._12r_29.4" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_29.4" xml:lang="olt">
+                <app>
                 <lem>Jdant</lem>
-                <rdg>Jdn</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_29.5" xml:lang="olt">iautetumbim</w>
         </l>
@@ -5237,9 +5310,10 @@
         <l n="34" xml:id="WP_1573_Dom._2_Adv._12r_34">
 
 
-        <w xml:id="WP_1573_Dom._2_Adv._12r_34.1" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_34.1" xml:lang="olt">
+                <app>
                 <lem>Jantekite</lem>
-                <rdg>pro: Jautekite</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_34.2" xml:lang="olt">tadangi</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_34.3" xml:lang="olt">neſanga</w>
@@ -5275,9 +5349,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._12v_3.2" xml:lang="olt">turretu</w>
         <w xml:id="WP_1573_Dom._2_Adv._12v_3.3" xml:lang="olt">wagis</w>
         <w xml:id="WP_1573_Dom._2_Adv._12v_3.4" xml:lang="olt">attaiti,</w>
-        <w xml:id="WP_1573_Dom._2_Adv._12v_3.5" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12v_3.5" xml:lang="olt">
+                <app>
                 <lem>Jaute<lb break="no"/>tụ</lem>
-                <rdg>Jauti</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="4" xml:id="WP_1573_Dom._2_Adv._12v_4">
@@ -5358,9 +5433,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._12v_11.3" xml:lang="olt">humai</w>
         <w xml:id="WP_1573_Dom._2_Adv._12v_11.4" xml:lang="olt">neatraſtụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._12v_11.5" xml:lang="olt">iuſụ</w>
-        <w xml:id="WP_1573_Dom._2_Adv._12v_11.6" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12v_11.6" xml:lang="olt">
+                <app>
                 <lem>megan<lb break="no"/>cʒiụ</lem>
-                <rdg>megen</rdg>
+                <rdg></rdg>
                 </app></w>
         </l>
         <l n="12" xml:id="WP_1573_Dom._2_Adv._12v_12">
@@ -5418,9 +5494,10 @@
 
 
         <w xml:id="WP_1573_Dom._2_Adv._12v_17.1" xml:lang="olt">Jr</w>
-        <w xml:id="WP_1573_Dom._2_Adv._12v_17.2" xml:lang="olt"><app>
+        <w xml:id="WP_1573_Dom._2_Adv._12v_17.2" xml:lang="olt">
+                <app>
                 <lem>takeis</lem>
-                <rdg>taki</rdg>
+                <rdg></rdg>
                 </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12v_17.3" xml:lang="olt">buti,</w>
         <w xml:id="WP_1573_Dom._2_Adv._12v_17.4" xml:lang="olt">kaip</w>
