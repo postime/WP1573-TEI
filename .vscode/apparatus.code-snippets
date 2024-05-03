@@ -17,20 +17,13 @@
 	// }
 
 
-	"Alteration type": {
-		"scope": "xml",
-		"prefix": "type",
-		"body": [
-			"type=\"${1|mod,del,ins|}\"",
-		]
-	},
 	"Alteration by Bielauk": {
 		"scope": "xml",
 		"prefix": "alt-bielauk",
 		"body": [
-			"<app type=\"${1|mod,del,ins|}\">",
-			"  <lem>${2:alteration}</lem>",
-			"  <rdg>${TM_SELECTED_TEXT:${3:text}}</rdg>",
+			"<app>",
+			"  <lem>${1:alteration}</lem>",
+			"  <rdg>${TM_SELECTED_TEXT:${2:text}}</rdg>",
 			"</app>"
 		]
 	},
@@ -38,9 +31,19 @@
 		"scope": "xml",
 		"prefix": "alt-others",
 		"body": [
-			"<app type=\"${1|mod,del,ins|}\" hand=\"$2\">",
-			"  <lem>${TM_SELECTED_TEXT:${3:text}}</lem>",
+			"<app hand=\"$1\">",
+			"  <lem>${TM_SELECTED_TEXT:${2:text}}</lem>",
 			"  <rdg>${3:alteration}</rdg>",
+			"</app>"
+		]
+	},
+	"Erratum": {
+		"scope": "xml",
+		"prefix": "erratum",
+		"body": [
+			"<app type=\"err\">",
+			"  <lem>${1:alteration}</lem>",
+			"  <rdg>${TM_SELECTED_TEXT:${2:text}}</rdg>",
 			"</app>"
 		]
 	},
@@ -48,14 +51,14 @@
 		"scope": "xml",
 		"prefix": "ins-others",
 		"body": [
-			"<add place=\"${1|above,below,bottom,top,margin|}\" hand=\"$2\">${TM_SELECTED_TEXT:${3:text}}</add>"
+			"<add hand=\"$1\">${TM_SELECTED_TEXT:${2:text}}</add>"
 		]
 	},
 	"Insertion by Bielauk": {
 		"scope": "xml",
 		"prefix": "ins-bielauk",
 		"body": [
-			"<add place=\"${1|above,below,bottom,top,margin|}\">${TM_SELECTED_TEXT:${2:text}}</add>"
+			"<add>${TM_SELECTED_TEXT:${1:text}}</add>"
 		]
 	},
 	"Gap": {
