@@ -86,8 +86,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_10.2" xml:lang="olt">
                 <app>
                 <lem>daiktus</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>daiktes</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_10.3" xml:lang="olt">tureſime</w>
         </l>
         <l n="11" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_11">
@@ -152,8 +153,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_16.3" xml:lang="olt">
                 <app>
                 <lem>inſtatiti</lem>
-                <rdg></rdg>
-                </app></w>,
+                <rdg>inſiſtatiti</rdg>
+                </app>
+</w>,
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_16.5" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_16.6" xml:lang="olt">rupinteſi</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_16.7" xml:lang="olt">ape</w>
@@ -168,8 +170,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_17.4" xml:lang="olt">
                 <app>
                 <lem>apłun</lem>
-                <rdg></rdg>
-                </app></w>.
+                <rdg>ep</rdg>
+                </app>
+</w>.
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_17.6" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_17.7" xml:lang="olt">iemus</w>
         </l>
@@ -236,13 +239,23 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_23.2" xml:lang="olt">
                 <app>
                 <lem>paſʒimnimu</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>paſʒinnimu / paſʒinimu</rdg>
+                </app>
+                <app>
+                <lem>paſʒimnimu</lem>
+                <rdg>ſawenſs</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_23.3" xml:lang="olt">
                 <app>
                 <lem>ſawenſp</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>paſʒinnimu / paſʒinimu</rdg>
+                </app>
+                <app>
+                <lem>ſawenſp</lem>
+                <rdg>ſawenſs</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_23.4" xml:lang="olt">nareija</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_23.5" xml:lang="olt">atpentʒ</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_23.6" xml:lang="olt">pri<lb break="no"/>weſti</w>
@@ -279,8 +292,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_26.4" xml:lang="olt">
                 <app>
                 <lem>mana</lem>
-                <rdg></rdg>
-                </app></w>,
+                <rdg>manu</rdg>
+                </app>
+</w>,
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_26.6" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_26.7" xml:lang="olt">makinimu</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_26.8" xml:lang="olt">Egłas,</w>
@@ -311,8 +325,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_29.1" xml:lang="olt">
                 <app>
                 <lem>rekime</lem>
-                <rdg></rdg>
-                </app></w>,
+                <rdg>regime</rdg>
+                </app>
+</w>,
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_29.3" xml:lang="olt">kas</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_29.4" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_29.5" xml:lang="olt">Vredas</w>
@@ -333,8 +348,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_30.6" xml:lang="olt">
                 <app>
                 <lem>panawaghimas</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>awi</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_30.7" xml:lang="olt">di<lb break="no"/>deie</w>
         </l>
         <l n="31" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_31">
@@ -343,8 +359,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_31.1" xml:lang="olt">
                 <app>
                 <lem>paniſteie</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>paniſten</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_31.2" xml:lang="grc">m̄</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_31.3" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_31.4" xml:lang="olt">ganimas</w>
@@ -374,8 +391,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_33.6" xml:lang="olt">
                 <app>
                 <lem>budā</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>budu</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_33.7" xml:lang="olt">ganima</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_33.8" xml:lang="olt">tụ</w>
         </l>
@@ -401,8 +419,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_35.6" xml:lang="olt">
                 <app>
                 <lem>Apłai</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>Agłai</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_35.7" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_35.8" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39r_35.9" xml:lang="olt">kitti</w>
@@ -445,8 +464,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_3.6" xml:lang="olt">
                 <app>
                 <lem>Apłai</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>Agłai</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_3.7" xml:lang="olt">neſang</w>
         </l>
         <l n="4" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_4">
@@ -507,8 +527,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_8.4" xml:lang="olt">
                 <app>
                 <lem>Baſʒnicʒias</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>kaſʒnicʒias</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_8.5" xml:lang="olt">Cħaus</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_8.6" xml:lang="olt">tikraija</w>
         </l>
@@ -520,8 +541,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_9.3" xml:lang="olt">
                 <app>
                 <lem>Raktai</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>raktai</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_9.4" xml:lang="olt">kitt</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_9.5" xml:lang="olt">nieka</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_9.6" xml:lang="olt">eſt,</w>
@@ -643,8 +665,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_19.6" xml:lang="olt">
                 <app>
                 <lem>priſsideſti</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>pra</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_19.7" xml:lang="olt">prig</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_19.8" xml:lang="olt">pir<lb break="no"/>maija,</w>
         </l>
@@ -668,8 +691,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_21.2" xml:lang="olt">
                 <app>
                 <lem>atrakinama</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>atrakima</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_21.3" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_21.4" xml:lang="olt">dangaus</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_21.5" xml:lang="olt">karaliſte,</w>
@@ -682,8 +706,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_22.2" xml:lang="olt">
                 <app>
                 <lem>atleidimnas</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>atleidimmas / atleidimas</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_22.3" xml:lang="olt">grekun.</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_22.4" xml:lang="olt">Tai</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_22.5" xml:lang="olt">teip</w>
@@ -697,8 +722,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_23.4" xml:lang="olt">
                 <app>
                 <lem>ſchweſei</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>ſchwei</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_23.5" xml:lang="olt">iſchrada</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_23.6" xml:lang="olt">mumis</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_23.7" xml:lang="olt">anſai</w>
@@ -716,8 +742,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_24.7" xml:lang="lat">
                 <app>
                 <lem>Marcj</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>Marcʒ</rdg>
+                </app>
+</w>
         </l>
         <l n="25" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_25">
 
@@ -728,8 +755,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_25.4" xml:lang="olt">
                 <app>
                 <lem>Eghin</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>Egłin</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_25.5" xml:lang="olt">ſakikite</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_25.6" xml:lang="olt">Egłum</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_25.7" xml:lang="olt">wiſsakiam</w>
@@ -809,8 +837,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_32.2" xml:lang="olt">
                 <app>
                 <lem>macʒnibe</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>macʒnibi</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_32.3" xml:lang="olt">D.</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_32.4" xml:lang="olt">S.</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_32.5" xml:lang="olt">prijmtas,</w>
@@ -903,8 +932,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_2.6" xml:lang="olt">
                 <app>
                 <lem>augu</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>angu</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_2.7" xml:lang="olt">priſchaukti,</w>
         </l>
         <l n="3" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_3">
@@ -928,8 +958,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_4.6" xml:lang="olt">
                 <app>
                 <lem>ſtada</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>ſteda</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_4.7" xml:lang="olt">ſawa,</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_4.8" xml:lang="olt">idant</w>
         </l>
@@ -944,8 +975,13 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_5.6" xml:lang="olt">
                 <app>
                 <lem>awijụ,</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>awis &gt;</rdg>
+                </app>
+                <app>
+                <lem>awijụ,</lem>
+                <rdg>neiſchkrei</rdg>
+                </app>
+</w>
         </l>
         <l n="6" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6">
 
@@ -955,8 +991,13 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6.3" xml:lang="olt">
                 <app>
                 <lem>neiſchkraikitụ</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>awis &gt;</rdg>
+                </app>
+                <app>
+                <lem>neiſchkraikitụ</lem>
+                <rdg>neiſchkrei</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6.4" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6.5" xml:lang="olt">iſchgaiſchintun.</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6.6" xml:lang="olt">Kan</w>
@@ -993,13 +1034,15 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_9.6" xml:lang="olt">
                 <app>
                 <lem>wadimna</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>wadinna / wadina</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_9.7" xml:lang="olt">
                 <app>
                 <lem>Awi<lb break="no"/>mis∻</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>?</rdg>
+                </app>
+</w>
         </l>
         <l n="10" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_10">
 
@@ -1064,8 +1107,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_15.1" xml:lang="olt">
                 <app>
                 <lem>Nedara</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>Nedera</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_15.2" xml:lang="olt">neſanga</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_15.3" xml:lang="olt">Ma:</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_15.4" xml:lang="olt">k:</w>
@@ -1136,8 +1180,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_21.4" xml:lang="olt">
                 <app>
                 <lem>ſʒweria</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>ſʒwere</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_21.5" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_21.6" xml:lang="olt">pekaus</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_21.7" xml:lang="olt">budụ</w>
@@ -1230,8 +1275,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_29.1" xml:lang="olt">
                 <app>
                 <lem>balſan</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>bel</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_29.2" xml:lang="olt">ſchaukia</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_29.3" xml:lang="olt">klauſiti</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_29.4" xml:lang="olt">a</w>
@@ -1262,8 +1308,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.5" xml:lang="olt">
                 <app>
                 <lem>angelais</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>ir ang &gt;</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.6" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.7" xml:lang="olt">dangaus</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.8" xml:lang="olt">butụ.</w>
@@ -1282,8 +1329,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_32.9" xml:lang="olt">
                 <app>
                 <lem>Trecʒia</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>Tc</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_32.10" xml:lang="olt">kaip</w>
         </l>
         <l n="33" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_33">
@@ -1313,8 +1361,17 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_34.8" xml:lang="olt">
                 <app>
                 <lem>kri<lb break="no"/>ſʒui</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>kri<lb break="no"/>ſʒui,</rdg>
+                </app>
+                <app>
+                <lem>kri<lb break="no"/>ſʒui</lem>
+                <rdg>w</rdg>
+                </app>
+                <app>
+                <lem>kri<lb break="no"/>ſʒui</lem>
+                <rdg>kantibei &lt; ti</rdg>
+                </app>
+</w>
         </l>
         <l n="35" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_35">
 
@@ -1322,15 +1379,33 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_35.1" xml:lang="olt">
                 <app>
                 <lem>tatai</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>kri<lb break="no"/>ſʒui,</rdg>
+                </app>
+                <app>
+                <lem>tatai</lem>
+                <rdg>w</rdg>
+                </app>
+                <app>
+                <lem>tatai</lem>
+                <rdg>kantibei &lt; ti</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_35.2" xml:lang="olt">eſt,</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_35.3" xml:lang="olt">wargoſa,</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_35.4" xml:lang="olt">
                 <app>
                 <lem>kantribei</lem>
-                <rdg></rdg>
-                </app></w>,
+                <rdg>kri<lb break="no"/>ſʒui,</rdg>
+                </app>
+                <app>
+                <lem>kantribei</lem>
+                <rdg>w</rdg>
+                </app>
+                <app>
+                <lem>kantribei</lem>
+                <rdg>kantibei &lt; ti</rdg>
+                </app>
+</w>,
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_35.6" xml:lang="olt">patam</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_35.7" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_35.8" xml:lang="olt">gar<lb break="no"/>bei.</w>
@@ -1356,13 +1431,23 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_37.5" xml:lang="olt">
                 <app>
                 <lem>tai</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>&lt;&lt;...&gt;&gt;</rdg>
+                </app>
+                <app>
+                <lem>tai</lem>
+                <rdg>&lt;&lt;...&gt;&gt;</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_37.6" xml:lang="olt">
                 <app>
                 <lem>eſt</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>&lt;&lt;...&gt;&gt;</rdg>
+                </app>
+                <app>
+                <lem>eſt</lem>
+                <rdg>&lt;&lt;...&gt;&gt;</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_37.7" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_37.8" xml:lang="olt">kriſʒui</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_37.9" xml:lang="olt">tai</w>
@@ -1450,8 +1535,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_7.2" xml:lang="olt">
                 <app>
                 <lem>ſcha</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>ſche</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_7.3" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_7.4" xml:lang="olt">del</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_7.5" xml:lang="olt">ir</w>
@@ -1487,8 +1573,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_9.5" xml:lang="olt">
                 <app>
                 <lem>buſim</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>pagarbinti &gt;</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_9.6" xml:lang="olt">apgarbinti.</w>
         </l>
         <l n="10" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_10">
@@ -1502,8 +1589,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_10.6" xml:lang="olt">
                 <app>
                 <lem>ir</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>r</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_10.7" xml:lang="olt">k:</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_10.8" xml:lang="olt">wiſsi</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_10.9" xml:lang="olt">tur</w>
@@ -1630,8 +1718,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_21.5" xml:lang="olt">
                 <app>
                 <lem>Jeſauſpi</lem>
-                <rdg></rdg>
-                </app></w>:
+                <rdg>:</rdg>
+                </app>
+</w>:
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_21.7" xml:lang="olt">weſchpate</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_21.8" xml:lang="olt">a</w>
         </l>
@@ -1643,15 +1732,25 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_22.3" xml:lang="olt">
                 <app>
                 <lem>Tare</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>Tere</rdg>
+                </app>
+                <app>
+                <lem>Tare</lem>
+                <rdg>naru</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_22.4" xml:lang="olt">Jeſ:</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_22.5" xml:lang="olt">Jeigu</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_22.6" xml:lang="olt">
                 <app>
                 <lem>narecʒiau</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>Tere</rdg>
+                </app>
+                <app>
+                <lem>narecʒiau</lem>
+                <rdg>naru</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_22.7" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_22.8" xml:lang="olt">laikiti</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_22.9" xml:lang="olt">ik</w>
@@ -1698,8 +1797,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_26.1" xml:lang="olt">
                 <app>
                 <lem>iump</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>iam</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_26.2" xml:lang="olt">rupi,</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_26.3" xml:lang="olt">kas</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_26.4" xml:lang="olt">iam</w>
@@ -1858,8 +1958,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_2.2" xml:lang="olt">
                 <app>
                 <lem>barrimnas</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>barrimmas / barrimas</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_2.3" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_2.4" xml:lang="olt">wiſsụ</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_2.5" xml:lang="olt">muſụ</w>
@@ -1877,8 +1978,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_3.4" xml:lang="olt">
                 <app>
                 <lem>kas</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>t</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_3.5" xml:lang="olt">taw</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_3.6" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_3.7" xml:lang="olt">tai,</w>
@@ -1937,8 +2039,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_7.6" xml:lang="olt">
                 <app>
                 <lem>kelti</lem>
-                <rdg></rdg>
-                </app></w>.
+                <rdg>ket</rdg>
+                </app>
+</w>.
         </l>
         <l n="8" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_8">
 
@@ -2019,8 +2122,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_14.3" xml:lang="olt">
                 <app>
                 <lem>daug</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>a</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_14.4" xml:lang="olt">iun,</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_14.5" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_14.6" xml:lang="olt">ſawens</w>
@@ -2081,8 +2185,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_19.6" xml:lang="olt">
                 <app>
                 <lem>2</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>3</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_19.7" xml:lang="olt">tardams:</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_19.8" xml:lang="olt">Wiſsi</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_19.9" xml:lang="olt">kure</w>
@@ -2099,8 +2204,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_20.6" xml:lang="olt">
                 <app>
                 <lem>perſekdineijmụ</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>perſeke</rdg>
+                </app>
+</w>
         </l>
         <l n="21" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_21">
 
@@ -2168,8 +2274,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_26.3" xml:lang="olt">
                 <app>
                 <lem>angu</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>ane</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_26.4" xml:lang="olt">inſiſtaghimụ</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_26.5" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_26.6" xml:lang="olt">ſweti<lb break="no"/>mụ</w>
@@ -2291,8 +2398,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_37.2" xml:lang="olt">
                 <app>
                 <lem>impolamas</lem>
-                <rdg></rdg>
-                </app></w>,
+                <rdg>impolimas</rdg>
+                </app>
+</w>,
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_37.4" xml:lang="olt">Cħus</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_37.5" xml:lang="olt">Je:</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_37.6" xml:lang="olt">kalba:</w>
@@ -2326,8 +2434,13 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_39.9" xml:lang="olt">
                 <app>
                 <lem>Jeigu</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>pr</rdg>
+                </app>
+                <app>
+                <lem>Jeigu</lem>
+                <rdg>pra tai &gt;</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_39.10" xml:lang="olt">praſtai</w>
         </l>
         <pb n="41v"/>
@@ -2362,8 +2475,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_3.2" xml:lang="olt">
                 <app>
                 <lem>rupingai</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>&lt;&lt;...&gt;&gt;</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_3.3" xml:lang="olt">a</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_3.4" xml:lang="olt">pilnai</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_3.5" xml:lang="olt">turrime</w>
@@ -2419,8 +2533,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.7" xml:lang="olt">
                 <app>
                 <lem>4</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>5</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.8" xml:lang="olt">makin,</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.9" xml:lang="olt">tardams:</w>
         </l>
@@ -2566,8 +2681,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_20.4" xml:lang="olt">
                 <app>
                 <lem>idant</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>ie</rdg>
+                </app>
+</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_20.5" xml:lang="olt">galletumbim</w>
         </l>
         <l n="21" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_21">
@@ -2862,8 +2978,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._42r_6.8" xml:lang="olt">
                 <app>
                 <lem>Jdant</lem>
-                <rdg></rdg>
-                </app></w>
+                <rdg>t</rdg>
+                </app>
+</w>
         </l>
         <l n="7" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._42r_7">
 
