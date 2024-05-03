@@ -42,8 +42,8 @@
 		"prefix": "erratum",
 		"body": [
 			"<app type=\"err\">",
-			"  <lem>${1:alteration}</lem>",
-			"  <rdg>${TM_SELECTED_TEXT:${2:text}}</rdg>",
+			"  <lem>${TM_SELECTED_TEXT:${2:text}}</lem>",
+			"  <rdg>${1:correction}</rdg>",
 			"</app>"
 		]
 	},
