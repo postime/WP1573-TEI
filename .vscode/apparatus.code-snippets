@@ -72,8 +72,8 @@
 		"scope": "xml",
 		"prefix": "del-bielauk",
 		"body": [
-			"<del rend=\"${1|erasure,overstrike,overwrite|}\">",
-			"${3:text or gap}",
+			"<del>",
+			"${2:text or gap}",
 			"</del>",
 		]
 	},
@@ -81,8 +81,8 @@
 		"scope": "xml",
 		"prefix": "del-others",
 		"body": [
-			"<del rend=\"${1|erasure,overstrike,overwrite|}\" hand=\"$2\">",
-			"${3:text or gap}",
+			"<del hand=\"$1\">",
+			"${2:text or gap}",
 			"</del>",
 		]
 	}
