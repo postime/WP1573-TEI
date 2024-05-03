@@ -68,11 +68,9 @@
         <w xml:id="WP_1573_Dom._Palm._124r_5.1" xml:lang="olt">Schas</w>
         <w xml:id="WP_1573_Dom._Palm._124r_5.2" xml:lang="olt">Dienas</w>
         <w xml:id="WP_1573_Dom._Palm._124r_5.3" xml:lang="olt">
-                <app>
-                <lem>Egłia</lem>
-                <rdg>Egła</rdg>
-                </app>
-</w>
+            <app>
+            <lem>Egłia</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124r_5.4" xml:lang="olt">m:</w>
         <w xml:id="WP_1573_Dom._Palm._124r_5.5" xml:lang="olt">k:</w>
         <w xml:id="WP_1573_Dom._Palm._124r_5.6" xml:lang="olt">ir</w>
@@ -171,11 +169,9 @@
         <w xml:id="WP_1573_Dom._Palm._124r_13.8" xml:lang="olt">pagal</w>
         <w xml:id="WP_1573_Dom._Palm._124r_13.9" xml:lang="olt">tas</w>
         <w xml:id="WP_1573_Dom._Palm._124r_13.10" xml:lang="olt">
-                <app>
-                <lem>Hiſto<lb break="no"/>rias</lem>
-                <rdg>Hiſto<lb break="no"/>ra</rdg>
-                </app>
-</w>
+            <app>
+            <lem>Hiſto<lb break="no"/>rias</lem>
+            </app></w>
         </l>
         <l n="14" xml:id="WP_1573_Dom._Palm._124r_14">
 
@@ -218,15 +214,9 @@
         <w xml:id="WP_1573_Dom._Palm._124r_17.3" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_Dom._Palm._124r_17.4" xml:lang="olt">Baſʒnicʒias</w>
         <w xml:id="WP_1573_Dom._Palm._124r_17.5" xml:lang="olt">
-                <app>
-                <lem>pirkancʒiu<lb break="no"/>iụ</lem>
-                <rdg>pr</rdg>
-                </app>
-                <app>
-                <lem>pirkancʒiu<lb break="no"/>iụ</lem>
-                <rdg>a</rdg>
-                </app>
-</w>
+            <app>
+            <lem>pirkancʒiu<lb break="no"/>iụ</lem>
+            </app></w>
         </l>
         <l n="18" xml:id="WP_1573_Dom._Palm._124r_18">
 
@@ -234,15 +224,9 @@
         <w xml:id="WP_1573_Dom._Palm._124r_18.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Palm._124r_18.2" xml:lang="olt">pardodancʒiuniụ</w>
         <w xml:id="WP_1573_Dom._Palm._124r_18.3" xml:lang="olt">
-                <app>
-                <lem>Jai</lem>
-                <rdg>pr</rdg>
-                </app>
-                <app>
-                <lem>Jai</lem>
-                <rdg>a</rdg>
-                </app>
-</w>.
+            <app>
+            <lem>Jai</lem>
+            </app></w>.
         <w xml:id="WP_1573_Dom._Palm._124r_18.5" xml:lang="olt">2</w>
         <w xml:id="WP_1573_Dom._Palm._124r_18.6" xml:lang="olt">Gidimas</w>
         <w xml:id="WP_1573_Dom._Palm._124r_18.7" xml:lang="olt">raiſchu<lb break="no"/>iụ</w>
@@ -255,58 +239,28 @@
         <w xml:id="WP_1573_Dom._Palm._124r_19.3" xml:lang="olt">Baſʒnicʒiai.</w>
         <w xml:id="WP_1573_Dom._Palm._124r_19.4" xml:lang="olt">3</w>
         <w xml:id="WP_1573_Dom._Palm._124r_19.5" xml:lang="olt">
-                <app>
-                <lem>Apginimas</lem>
-                <rdg>Apginina</rdg>
-                </app>
-</w>
+            <app>
+            <lem>Apginimas</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124r_19.6" xml:lang="olt">wai<lb break="no"/>keliụ</w>
         </l>
         <l n="20" xml:id="WP_1573_Dom._Palm._124r_20">
 
 
         <w xml:id="WP_1573_Dom._Palm._124r_20.1" xml:lang="olt">
-                <app>
-                <lem>ſchaukencʒiuiu</lem>
-                <rdg>ſchaukencʒun</rdg>
-                </app>
-                <app>
-                <lem>ſchaukencʒiuiu</lem>
-                <rdg>Hošianna</rdg>
-                </app>
-                <app>
-                <lem>ſchaukencʒiuiu</lem>
-                <rdg>ſudu</rdg>
-                </app>
-</w>
+            <app>
+            <lem>ſchaukencʒiuiu</lem>
+            <rdg>Hošianna</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124r_20.2" xml:lang="lat">
-                <app>
-                <lem>Hošiamna</lem>
-                <rdg>ſchaukencʒun</rdg>
-                </app>
-                <app>
-                <lem>Hošiamna</lem>
-                <rdg>Hošianna</rdg>
-                </app>
-                <app>
-                <lem>Hošiamna</lem>
-                <rdg>ſudu</rdg>
-                </app>
-</w>
+            <app>
+            <lem>Hošiamna</lem>
+            <rdg>ſudu</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124r_20.3" xml:lang="olt">
-                <app>
-                <lem>ſunu</lem>
-                <rdg>ſchaukencʒun</rdg>
-                </app>
-                <app>
-                <lem>ſunu</lem>
-                <rdg>Hošianna</rdg>
-                </app>
-                <app>
-                <lem>ſunu</lem>
-                <rdg>ſudu</rdg>
-                </app>
-</w>
+            <app>
+            <lem>ſunu</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124r_20.4" xml:lang="olt">Dawidu.</w>
         </l>
         <l n="21" xml:id="WP_1573_Dom._Palm._124r_21">
@@ -369,11 +323,9 @@
         <w xml:id="WP_1573_Dom._Palm._124r_26.5" xml:lang="olt">ius</w>
         <w xml:id="WP_1573_Dom._Palm._124r_26.6" xml:lang="olt">ghị</w>
         <w xml:id="WP_1573_Dom._Palm._124r_26.7" xml:lang="olt">
-                <app>
-                <lem>padari<lb break="no"/>te</lem>
-                <rdg>padare<lb break="no"/>te</rdg>
-                </app>
-</w>
+            <app>
+            <lem>padari<lb break="no"/>te</lem>
+            </app></w>
         </l>
         <l n="27" xml:id="WP_1573_Dom._Palm._124r_27">
 
@@ -490,11 +442,9 @@
         <w xml:id="WP_1573_Dom._Palm._124v_1.4" xml:lang="olt">k:</w>
         <w xml:id="WP_1573_Dom._Palm._124v_1.5" xml:lang="olt">preſch</w>
         <w xml:id="WP_1573_Dom._Palm._124v_1.6" xml:lang="olt">
-                <app>
-                <lem>pamụ</lem>
-                <rdg>panụ</rdg>
-                </app>
-</w>
+            <app>
+            <lem>pamụ</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124v_1.7" xml:lang="olt">Dewu</w>
         <w xml:id="WP_1573_Dom._Palm._124v_1.8" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Palm._124v_1.9" xml:lang="olt">preſch</w>
@@ -522,11 +472,9 @@
         <w xml:id="WP_1573_Dom._Palm._124v_3.4" xml:lang="olt">)</w>
         <w xml:id="WP_1573_Dom._Palm._124v_3.5" xml:lang="olt">tadangi</w>
         <w xml:id="WP_1573_Dom._Palm._124v_3.6" xml:lang="olt">
-                <app>
-                <lem>kiek<lb break="no"/>wenas</lem>
-                <rdg>kiek<lb break="no"/>k</rdg>
-                </app>
-</w>
+            <app>
+            <lem>kiek<lb break="no"/>wenas</lem>
+            </app></w>
         </l>
         <l n="4" xml:id="WP_1573_Dom._Palm._124v_4">
 
@@ -566,103 +514,39 @@
 
         <w xml:id="WP_1573_Dom._Palm._124v_7.1" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Dom._Palm._124v_7.2" xml:lang="olt">
-                <app>
-                <lem>neiſchraſdinetu</lem>
-                <rdg>neiſchraſi</rdg>
-                </app>
-                <app>
-                <lem>neiſchraſdinetu</lem>
-                <rdg>nepraſsiane</rdg>
-                </app>
-</w>
+            <app>
+            <lem>neiſchraſdinetu</lem>
+            <rdg>nepraſsiane</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124v_7.3" xml:lang="olt">
-                <app>
-                <lem>nepraſsimaninetụ</lem>
-                <rdg>neiſchraſi</rdg>
-                </app>
-                <app>
-                <lem>nepraſsimaninetụ</lem>
-                <rdg>nepraſsiane</rdg>
-                </app>
-</w>
+            <app>
+            <lem>nepraſsimaninetụ</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124v_7.4" xml:lang="olt">
-                <app>
-                <lem>ki<lb break="no"/>tais</lem>
-                <rdg>ki<lb break="no"/>tas</rdg>
-                </app>
-                <app>
-                <lem>ki<lb break="no"/>tais</lem>
-                <rdg>pramanimas</rdg>
-                </app>
-                <app>
-                <lem>ki<lb break="no"/>tais</lem>
-                <rdg>atradimais</rdg>
-                </app>
-                <app>
-                <lem>ki<lb break="no"/>tais</lem>
-                <rdg>ſudumaghimais</rdg>
-                </app>
-</w>
+            <app>
+            <lem>ki<lb break="no"/>tais</lem>
+            </app></w>
         </l>
         <l n="8" xml:id="WP_1573_Dom._Palm._124v_8">
 
 
         <w xml:id="WP_1573_Dom._Palm._124v_8.1" xml:lang="olt">
-                <app>
-                <lem>pramanimais</lem>
-                <rdg>ki<lb break="no"/>tas</rdg>
-                </app>
-                <app>
-                <lem>pramanimais</lem>
-                <rdg>pramanimas</rdg>
-                </app>
-                <app>
-                <lem>pramanimais</lem>
-                <rdg>atradimais</rdg>
-                </app>
-                <app>
-                <lem>pramanimais</lem>
-                <rdg>ſudumaghimais</rdg>
-                </app>
-</w>
+            <app>
+            <lem>pramanimais</lem>
+            <rdg>atradimais</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124v_8.2" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Palm._124v_8.3" xml:lang="olt">
-                <app>
-                <lem>tradimais</lem>
-                <rdg>ki<lb break="no"/>tas</rdg>
-                </app>
-                <app>
-                <lem>tradimais</lem>
-                <rdg>pramanimas</rdg>
-                </app>
-                <app>
-                <lem>tradimais</lem>
-                <rdg>atradimais</rdg>
-                </app>
-                <app>
-                <lem>tradimais</lem>
-                <rdg>ſudumaghimais</rdg>
-                </app>
-</w>
+            <app>
+            <lem>tradimais</lem>
+            <rdg>ki<lb break="no"/>tas</rdg>
+            <rdg>ſudumaghimais</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124v_8.4" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_Dom._Palm._124v_8.5" xml:lang="olt">
-                <app>
-                <lem>dumaghimais</lem>
-                <rdg>ki<lb break="no"/>tas</rdg>
-                </app>
-                <app>
-                <lem>dumaghimais</lem>
-                <rdg>pramanimas</rdg>
-                </app>
-                <app>
-                <lem>dumaghimais</lem>
-                <rdg>atradimais</rdg>
-                </app>
-                <app>
-                <lem>dumaghimais</lem>
-                <rdg>ſudumaghimais</rdg>
-                </app>
-</w>
+            <app>
+            <lem>dumaghimais</lem>
+            </app></w>
         </l>
         <l n="9" xml:id="WP_1573_Dom._Palm._124v_9">
 
@@ -714,11 +598,10 @@
         <w xml:id="WP_1573_Dom._Palm._124v_13.3" xml:lang="olt">ira,</w>
         <w xml:id="WP_1573_Dom._Palm._124v_13.4" xml:lang="olt">Kaip</w>
         <w xml:id="WP_1573_Dom._Palm._124v_13.5" xml:lang="olt">
-                <app>
-                <lem>pirmai</lem>
-                <rdg>pirnr</rdg>
-                </app>
-</w>
+            <app>
+            <lem>pirmai</lem>
+            <rdg>pirnr</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124v_13.6" xml:lang="olt">ira</w>
         </l>
         <l n="14" xml:id="WP_1573_Dom._Palm._124v_14">
@@ -726,11 +609,9 @@
 
         <w xml:id="WP_1573_Dom._Palm._124v_14.1" xml:lang="olt">daren</w>
         <w xml:id="WP_1573_Dom._Palm._124v_14.2" xml:lang="olt">
-                <app>
-                <lem>papiſte</lem>
-                <rdg>papeſch</rdg>
-                </app>
-</w>
+            <app>
+            <lem>papiſte</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124v_14.3" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Dom._Palm._124v_14.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Palm._124v_14.5" xml:lang="olt">nu</w>
@@ -765,11 +646,9 @@
         <w xml:id="WP_1573_Dom._Palm._124v_17.2" xml:lang="olt">kuros</w>
         <w xml:id="WP_1573_Dom._Palm._124v_17.3" xml:lang="olt">wadinna</w>
         <w xml:id="WP_1573_Dom._Palm._124v_17.4" xml:lang="lat">
-                <app>
-                <lem>Jndulgentiæ</lem>
-                <rdg>indulgentiæ</rdg>
-                </app>
-</w>
+            <app>
+            <lem>Jndulgentiæ</lem>
+            </app></w>
         </l>
         <l n="18" xml:id="WP_1573_Dom._Palm._124v_18">
 
@@ -825,25 +704,15 @@
         <w xml:id="WP_1573_Dom._Palm._124v_22.2" xml:lang="olt">ludija</w>
         <w xml:id="WP_1573_Dom._Palm._124v_22.3" xml:lang="olt">but</w>
         <w xml:id="WP_1573_Dom._Palm._124v_22.4" xml:lang="olt">
-                <app>
-                <lem>kareliụm</lem>
-                <rdg>kareliụ &lt; ke</rdg>
-                </app>
-                <app>
-                <lem>kareliụm</lem>
-                <rdg>p</rdg>
-                </app>
-</w>,
+            <app>
+            <lem>kareliụm</lem>
+            <rdg>kareliụ &lt; ke</rdg>
+            <rdg>p</rdg>
+            </app></w>,
         <w xml:id="WP_1573_Dom._Palm._124v_22.6" xml:lang="olt">
-                <app>
-                <lem>Biſʒkupu</lem>
-                <rdg>kareliụ &lt; ke</rdg>
-                </app>
-                <app>
-                <lem>Biſʒkupu</lem>
-                <rdg>p</rdg>
-                </app>
-</w>,
+            <app>
+            <lem>Biſʒkupu</lem>
+            </app></w>,
         <w xml:id="WP_1573_Dom._Palm._124v_22.8" xml:lang="olt">tarpe<lb break="no"/>niku,</w>
         </l>
         <l n="23" xml:id="WP_1573_Dom._Palm._124v_23">
@@ -881,11 +750,9 @@
 
         <w xml:id="WP_1573_Dom._Palm._124v_26.1" xml:lang="olt">kure</w>
         <w xml:id="WP_1573_Dom._Palm._124v_26.2" xml:lang="olt">
-                <app>
-                <lem>prawai</lem>
-                <rdg>prawu</rdg>
-                </app>
-</w>
+            <app>
+            <lem>prawai</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._124v_26.3" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Dom._Palm._124v_26.4" xml:lang="olt">Vredu</w>
         <w xml:id="WP_1573_Dom._Palm._124v_26.5" xml:lang="olt">ſtiprei</w>
@@ -1132,11 +999,9 @@
         <w xml:id="WP_1573_Dom._Palm._125r_10.5" xml:lang="olt">to</w>
         <w xml:id="WP_1573_Dom._Palm._125r_10.6" xml:lang="olt">cʒeſu</w>
         <w xml:id="WP_1573_Dom._Palm._125r_10.7" xml:lang="olt">
-                <app>
-                <lem>bua</lem>
-                <rdg>Baſʒncʒe &gt;</rdg>
-                </app>
-</w>
+            <app>
+            <lem>bua</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._125r_10.8" xml:lang="olt">Baſʒnicʒe</w>
         </l>
         <l n="11" xml:id="WP_1573_Dom._Palm._125r_11">
@@ -1177,11 +1042,9 @@
         <w xml:id="WP_1573_Dom._Palm._125r_14.1" xml:lang="olt">but</w>
         <w xml:id="WP_1573_Dom._Palm._125r_14.2" xml:lang="olt">apcʒiſtiti.</w>
         <w xml:id="WP_1573_Dom._Palm._125r_14.3" xml:lang="olt">
-                <app>
-                <lem>Scha</lem>
-                <rdg>apencʒ &gt;</rdg>
-                </app>
-</w>
+            <app>
+            <lem>Scha</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._125r_14.4" xml:lang="olt">atpencʒ</w>
         </l>
         <l n="15" xml:id="WP_1573_Dom._Palm._125r_15">
@@ -1354,11 +1217,9 @@
         <w xml:id="WP_1573_Dom._Palm._125r_30.3" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Palm._125r_30.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._Palm._125r_30.5" xml:lang="olt">
-                <app>
-                <lem>ſacramentai</lem>
-                <rdg>ſar</rdg>
-                </app>
-</w>
+            <app>
+            <lem>ſacramentai</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._125r_30.6" xml:lang="olt">pagal</w>
         <w xml:id="WP_1573_Dom._Palm._125r_30.7" xml:lang="olt">inſtati<lb break="no"/>mạ</w>
         </l>
@@ -1428,11 +1289,9 @@
 
 
         <w xml:id="WP_1573_Dom._Palm._125v_1.1" xml:lang="olt">
-                <app>
-                <lem>gVli</lem>
-                <rdg>gl</rdg>
-                </app>
-</w>,
+            <app>
+            <lem>gVli</lem>
+            </app></w>,
         <w xml:id="WP_1573_Dom._Palm._125v_1.3" xml:lang="olt">kurios</w>
         <w xml:id="WP_1573_Dom._Palm._125v_1.4" xml:lang="olt">Barberius</w>
         <w xml:id="WP_1573_Dom._Palm._125v_1.5" xml:lang="olt">∻</w>
@@ -1467,25 +1326,14 @@
         <w xml:id="WP_1573_Dom._Palm._125v_4.1" xml:lang="olt">Ʒakanụ</w>
         <w xml:id="WP_1573_Dom._Palm._125v_4.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Palm._125v_4.3" xml:lang="olt">
-                <app>
-                <lem>Egłnm</lem>
-                <rdg>Egłum</rdg>
-                </app>
-                <app>
-                <lem>Egłnm</lem>
-                <rdg>nauijụ</rdg>
-                </app>
-</w>
+            <app>
+            <lem>Egłnm</lem>
+            <rdg>nauijụ</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._125v_4.4" xml:lang="olt">
-                <app>
-                <lem>naijụ</lem>
-                <rdg>Egłum</rdg>
-                </app>
-                <app>
-                <lem>naijụ</lem>
-                <rdg>nauijụ</rdg>
-                </app>
-</w>
+            <app>
+            <lem>naijụ</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._125v_4.5" xml:lang="olt">Ʒakanu.</w>
         </l>
         <l n="5" xml:id="WP_1573_Dom._Palm._125v_5">
@@ -1516,11 +1364,9 @@
 
         <w xml:id="WP_1573_Dom._Palm._125v_7.1" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Palm._125v_7.2" xml:lang="olt">
-                <app>
-                <lem>aprinktas</lem>
-                <rdg>e</rdg>
-                </app>
-</w>
+            <app>
+            <lem>aprinktas</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._125v_7.3" xml:lang="olt">cʒeſni</w>
         <w xml:id="WP_1573_Dom._Palm._125v_7.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Palm._125v_7.5" xml:lang="olt">garbei</w>
@@ -1779,11 +1625,9 @@
         <w xml:id="WP_1573_Dom._Palm._125v_30.1" xml:lang="olt">ghis</w>
         <w xml:id="WP_1573_Dom._Palm._125v_30.2" xml:lang="olt">ligas</w>
         <w xml:id="WP_1573_Dom._Palm._125v_30.3" xml:lang="olt">
-                <app>
-                <lem>atimna</lem>
-                <rdg>atimma / atima</rdg>
-                </app>
-</w>,
+            <app>
+            <lem>atimna</lem>
+            </app></w>,
         <w xml:id="WP_1573_Dom._Palm._125v_30.5" xml:lang="olt">atima</w>
         <w xml:id="WP_1573_Dom._Palm._125v_30.6" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Palm._125v_30.7" xml:lang="olt">preſʒaſtis</w>
@@ -1824,15 +1668,10 @@
 
 
         <w xml:id="WP_1573_Dom._Palm._125v_34.1" xml:lang="olt">
-                <app>
-                <lem>ghe</lem>
-                <rdg>ge</rdg>
-                </app>
-                <app>
-                <lem>ghe</lem>
-                <rdg>baudʒiami &gt;</rdg>
-                </app>
-</w>
+            <app>
+            <lem>ghe</lem>
+            <rdg>baudʒiami &gt;</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._125v_34.2" xml:lang="olt">draudʒiami</w>
         <w xml:id="WP_1573_Dom._Palm._125v_34.3" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Palm._125v_34.4" xml:lang="olt">barami</w>
@@ -1845,11 +1684,9 @@
         <w xml:id="WP_1573_Dom._Palm._125v_35.1" xml:lang="olt">Cħus</w>
         <w xml:id="WP_1573_Dom._Palm._125v_35.2" xml:lang="olt">Jeſ:</w>
         <w xml:id="WP_1573_Dom._Palm._125v_35.3" xml:lang="olt">
-                <app>
-                <lem>uſʒiſtaija</lem>
-                <rdg>uſʒſiſtaija</rdg>
-                </app>
-</w>
+            <app>
+            <lem>uſʒiſtaija</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._125v_35.4" xml:lang="olt">uſʒ</w>
         <w xml:id="WP_1573_Dom._Palm._125v_35.5" xml:lang="olt">ios</w>
         <w xml:id="WP_1573_Dom._Palm._125v_35.6" xml:lang="olt">gindamas</w>
@@ -2029,11 +1866,9 @@
         <w xml:id="WP_1573_Dom._Palm._126r_13.5" xml:lang="olt">neka</w>
         <w xml:id="WP_1573_Dom._Palm._126r_13.6" xml:lang="olt">neſʒinna</w>
         <w xml:id="WP_1573_Dom._Palm._126r_13.7" xml:lang="olt">
-                <app>
-                <lem>ape</lem>
-                <rdg>e</rdg>
-                </app>
-</w>
+            <app>
+            <lem>ape</lem>
+            </app></w>
         </l>
         <l n="14" xml:id="WP_1573_Dom._Palm._126r_14">
 
@@ -2091,11 +1926,9 @@
         <w xml:id="WP_1573_Dom._Palm._126r_18.2" xml:lang="olt">latriſtes</w>
         <w xml:id="WP_1573_Dom._Palm._126r_18.3" xml:lang="olt">ſmirdiſtes,</w>
         <w xml:id="WP_1573_Dom._Palm._126r_18.4" xml:lang="olt">
-                <app>
-                <lem>piktus</lem>
-                <rdg>pikte</rdg>
-                </app>
-</w>
+            <app>
+            <lem>piktus</lem>
+            </app></w>
         </l>
         <l n="19" xml:id="WP_1573_Dom._Palm._126r_19">
 
@@ -2149,11 +1982,9 @@
         <w xml:id="WP_1573_Dom._Palm._126r_23.6" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_Dom._Palm._126r_23.7" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Palm._126r_23.8" xml:lang="olt">
-                <app>
-                <lem>pa<lb break="no"/>tis</lem>
-                <rdg>pa<lb break="no"/>ts</rdg>
-                </app>
-</w>
+            <app>
+            <lem>pa<lb break="no"/>tis</lem>
+            </app></w>
         </l>
         <l n="24" xml:id="WP_1573_Dom._Palm._126r_24">
 
@@ -2223,11 +2054,9 @@
 
         <w xml:id="WP_1573_Dom._Palm._126r_30.1" xml:lang="olt">ira,</w>
         <w xml:id="WP_1573_Dom._Palm._126r_30.2" xml:lang="olt">
-                <app>
-                <lem>ir</lem>
-                <rdg>wal &gt;</rdg>
-                </app>
-</w>
+            <app>
+            <lem>ir</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._126r_30.3" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_Dom._Palm._126r_30.4" xml:lang="olt">walnai</w>
         <w xml:id="WP_1573_Dom._Palm._126r_30.5" xml:lang="olt">auginị</w>
@@ -2262,11 +2091,9 @@
         <w xml:id="WP_1573_Dom._Palm._126r_33.3" xml:lang="olt">Cħun</w>
         <w xml:id="WP_1573_Dom._Palm._126r_33.4" xml:lang="olt">Jeſụ</w>
         <w xml:id="WP_1573_Dom._Palm._126r_33.5" xml:lang="olt">
-                <app>
-                <lem>iſchpaſʒinti</lem>
-                <rdg>iſchpaſʒini</rdg>
-                </app>
-</w>
+            <app>
+            <lem>iſchpaſʒinti</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._126r_33.6" xml:lang="olt">widui</w>
         <w xml:id="WP_1573_Dom._Palm._126r_33.7" xml:lang="olt">preſʒe<lb break="no"/>ninkụ</w>
         </l>
@@ -2353,11 +2180,10 @@
         <w xml:id="WP_1573_Dom._Palm._126v_6.3" xml:lang="olt">natura</w>
         <w xml:id="WP_1573_Dom._Palm._126v_6.4" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._Palm._126v_6.5" xml:lang="olt">
-                <app>
-                <lem>prigimimas</lem>
-                <rdg>prigimina</rdg>
-                </app>
-</w>
+            <app>
+            <lem>prigimimas</lem>
+            <rdg>prigimina</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._126v_6.6" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Dom._Palm._126v_6.7" xml:lang="olt">macʒ<lb break="no"/>nibe</w>
         </l>
@@ -2450,26 +2276,15 @@
         <w xml:id="WP_1573_Dom._Palm._126v_14.2" xml:lang="olt">apteiſinima</w>
         <w xml:id="WP_1573_Dom._Palm._126v_14.3" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Palm._126v_14.4" xml:lang="olt">
-                <app>
-                <lem>naſrais</lem>
-                <rdg>naſras</rdg>
-                </app>
-                <app>
-                <lem>naſrais</lem>
-                <rdg>iſchr</rdg>
-                </app>
-</w>
+            <app>
+            <lem>naſrais</lem>
+            <rdg>iſchr</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._126v_14.5" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Palm._126v_14.6" xml:lang="olt">
-                <app>
-                <lem>iſchpaſʒinimas</lem>
-                <rdg>naſras</rdg>
-                </app>
-                <app>
-                <lem>iſchpaſʒinimas</lem>
-                <rdg>iſchr</rdg>
-                </app>
-</w>
+            <app>
+            <lem>iſchpaſʒinimas</lem>
+            </app></w>
         </l>
         <l n="15" xml:id="WP_1573_Dom._Palm._126v_15">
 
@@ -2533,11 +2348,9 @@
         <w xml:id="WP_1573_Dom._Palm._126v_20.3" xml:lang="olt">iụ</w>
         <w xml:id="WP_1573_Dom._Palm._126v_20.4" xml:lang="olt">ieib</w>
         <w xml:id="WP_1573_Dom._Palm._126v_20.5" xml:lang="olt">
-                <app>
-                <lem>didʒauſuiụ</lem>
-                <rdg>didi</rdg>
-                </app>
-</w>
+            <app>
+            <lem>didʒauſuiụ</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._126v_20.6" xml:lang="olt">nepreteliụ</w>
         </l>
         <l n="21" xml:id="WP_1573_Dom._Palm._126v_21">
@@ -2672,11 +2485,9 @@
 
 
         <w xml:id="WP_1573_Dom._Palm._126v_33.1" xml:lang="olt">
-                <app>
-                <lem>pentị</lem>
-                <rdg>pantị</rdg>
-                </app>
-</w>
+            <app>
+            <lem>pentị</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._126v_33.2" xml:lang="olt">ſeklas</w>
         <w xml:id="WP_1573_Dom._Palm._126v_33.3" xml:lang="olt">materiſʒkies,</w>
         <w xml:id="WP_1573_Dom._Palm._126v_33.4" xml:lang="olt">to</w>
@@ -2770,11 +2581,9 @@
         <w xml:id="WP_1573_Dom._Palm._127r_5.5" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_Dom._Palm._127r_5.6" xml:lang="olt">ſunarius,</w>
         <w xml:id="WP_1573_Dom._Palm._127r_5.7" xml:lang="olt">
-                <app>
-                <lem>kame</lem>
-                <rdg>ke</rdg>
-                </app>
-</w>
+            <app>
+            <lem>kame</lem>
+            </app></w>
         </l>
         <l n="6" xml:id="WP_1573_Dom._Palm._127r_6">
 
@@ -2796,11 +2605,9 @@
         <w xml:id="WP_1573_Dom._Palm._127r_7.2" xml:lang="olt">iſchrada</w>
         <w xml:id="WP_1573_Dom._Palm._127r_7.3" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._Palm._127r_7.4" xml:lang="olt">
-                <app>
-                <lem>tardams</lem>
-                <rdg>tarde</rdg>
-                </app>
-</w>:
+            <app>
+            <lem>tardams</lem>
+            </app></w>:
         <w xml:id="WP_1573_Dom._Palm._127r_7.6" xml:lang="olt">Dewui</w>
         <w xml:id="WP_1573_Dom._Palm._127r_7.7" xml:lang="olt">te</w>
         <w xml:id="WP_1573_Dom._Palm._127r_7.8" xml:lang="olt">eſsi</w>
@@ -2823,11 +2630,10 @@
         <w xml:id="WP_1573_Dom._Palm._127r_9.2" xml:lang="olt">Je:</w>
         <w xml:id="WP_1573_Dom._Palm._127r_9.3" xml:lang="olt">Cħun</w>
         <w xml:id="WP_1573_Dom._Palm._127r_9.4" xml:lang="olt">
-                <app>
-                <lem>pannu</lem>
-                <rdg>pamu</rdg>
-                </app>
-</w>
+            <app>
+            <lem>pannu</lem>
+            <rdg>pamu</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._127r_9.5" xml:lang="olt">muſụ,</w>
         <w xml:id="WP_1573_Dom._Palm._127r_9.6" xml:lang="olt">Tadangi</w>
         <w xml:id="WP_1573_Dom._Palm._127r_9.7" xml:lang="olt">ir</w>
@@ -2849,27 +2655,17 @@
 
 
         <w xml:id="WP_1573_Dom._Palm._127r_11.1" xml:lang="olt">
-                <app>
-                <lem>nuſsik</lem>
-                <rdg>nuſsitik</rdg>
-                </app>
-                <app>
-                <lem>nuſsik</lem>
-                <rdg>Tadal</rdg>
-                </app>
-</w>
+            <app>
+            <lem>nuſsik</lem>
+            <rdg>Tadal</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._127r_11.2" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Dom._Palm._127r_11.3" xml:lang="olt">ghin.</w>
         <w xml:id="WP_1573_Dom._Palm._127r_11.4" xml:lang="olt">
-                <app>
-                <lem>Tadel</lem>
-                <rdg>nuſsitik</rdg>
-                </app>
-                <app>
-                <lem>Tadel</lem>
-                <rdg>Tadal</rdg>
-                </app>
-</w>
+            <app>
+            <lem>Tadel</lem>
+            <rdg>nuſsitik</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._127r_11.5" xml:lang="olt">m:</w>
         <w xml:id="WP_1573_Dom._Palm._127r_11.6" xml:lang="olt">k:</w>
         <w xml:id="WP_1573_Dom._Palm._127r_11.7" xml:lang="olt">ir</w>
@@ -2891,11 +2687,9 @@
         <w xml:id="WP_1573_Dom._Palm._127r_13.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Palm._127r_13.2" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_Dom._Palm._127r_13.3" xml:lang="olt">
-                <app>
-                <lem>ſunaramus</lem>
-                <rdg>ſunarannu</rdg>
-                </app>
-</w>,
+            <app>
+            <lem>ſunaramus</lem>
+            </app></w>,
         <w xml:id="WP_1573_Dom._Palm._127r_13.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Palm._127r_13.6" xml:lang="olt">ſtipru</w>
         <w xml:id="WP_1573_Dom._Palm._127r_13.7" xml:lang="olt">weru</w>
@@ -2926,11 +2720,10 @@
         <w xml:id="WP_1573_Dom._Palm._127r_16.1" xml:lang="olt">ſʒiwatạ</w>
         <w xml:id="WP_1573_Dom._Palm._127r_16.2" xml:lang="olt">kuram</w>
         <w xml:id="WP_1573_Dom._Palm._127r_16.3" xml:lang="olt">
-                <app>
-                <lem>taͤ</lem>
-                <rdg>to &lt; e</rdg>
-                </app>
-</w>
+            <app>
+            <lem>taͤ</lem>
+            <rdg>to &lt; e</rdg>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._127r_16.4" xml:lang="olt">eſsi</w>
         <w xml:id="WP_1573_Dom._Palm._127r_16.5" xml:lang="olt">garbe</w>
         <w xml:id="WP_1573_Dom._Palm._127r_16.6" xml:lang="olt">cʒeſnis</w>
@@ -2947,11 +2740,9 @@
         <w xml:id="WP_1573_Dom._Palm._127r_17.5" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._Palm._127r_17.6" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._Palm._127r_17.7" xml:lang="olt">
-                <app>
-                <lem>amſʒinụiụ</lem>
-                <rdg>amſʒim</rdg>
-                </app>
-</w>
+            <app>
+            <lem>amſʒinụiụ</lem>
+            </app></w>
         <w xml:id="WP_1573_Dom._Palm._127r_17.8" xml:lang="olt">Amſʒu</w>
         <w xml:id="WP_1573_Dom._Palm._127r_17.9" xml:lang="olt">Amē.</w>
         </l>
