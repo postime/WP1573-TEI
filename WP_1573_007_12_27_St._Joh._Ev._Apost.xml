@@ -997,6 +997,7 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_9.7" xml:lang="olt">
             <app>
             <lem>Awi<lb break="no"/>mis∻</lem>
+            <rdg>?</rdg>
             </app></w>
         </l>
         <l n="10" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_10">
@@ -1260,7 +1261,6 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.5" xml:lang="olt">
             <app>
             <lem>angelais</lem>
-            <rdg>ir ang &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.6" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.7" xml:lang="olt">dangaus</w>
@@ -1311,6 +1311,7 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_34.8" xml:lang="olt">
             <app>
             <lem>kri<lb break="no"/>ſʒui</lem>
+            <rdg>kri<lb break="no"/>ſʒui,</rdg>
             </app></w>
         </l>
         <l n="35" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_35">
@@ -1484,7 +1485,6 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_9.5" xml:lang="olt">
             <app>
             <lem>buſim</lem>
-            <rdg>pagarbinti &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_9.6" xml:lang="olt">apgarbinti.</w>
         </l>
@@ -2324,7 +2324,6 @@
             <app>
             <lem>Jeigu</lem>
             <rdg>pr</rdg>
-            <rdg>pra tai &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41r_39.10" xml:lang="olt">praſtai</w>
         </l>

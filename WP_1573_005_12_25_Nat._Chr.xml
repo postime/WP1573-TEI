@@ -78,6 +78,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._26r_6.4" xml:lang="olt">
             <app>
             <lem>priſaki<lb break="no"/>mas</lem>
+            <rdg>priſaki<lb break="no"/>na</rdg>
             </app></w>
         </l>
         <l n="7" xml:id="WP_1573_12_25_Nat._Chr._26r_7">
@@ -338,6 +339,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._26r_28.8" xml:lang="olt">
             <app>
             <lem>teipa<lb break="no"/>iegi</lem>
+            <rdg>ti</rdg>
             </app></w>
         </l>
         <l n="29" xml:id="WP_1573_12_25_Nat._Chr._26r_29">
@@ -1078,6 +1080,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._27r_25.6" xml:lang="olt">
             <app>
             <lem>uſʒgemā<lb break="no"/>cʒiam</lem>
+            <rdg>uſʒgemā<lb break="no"/>cʒiem</rdg>
             </app></w>
         </l>
         <l n="26" xml:id="WP_1573_12_25_Nat._Chr._27r_26">
@@ -1260,7 +1263,6 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._27v_9.5" xml:lang="olt">
             <app>
             <lem>tardams:</lem>
-            <rdg>ſiuntas &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_12_25_Nat._Chr._27v_9.6" xml:lang="olt">ſiunſtas</w>
         <w xml:id="WP_1573_12_25_Nat._Chr._27v_9.7" xml:lang="olt">bua</w>
@@ -1302,6 +1304,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._27v_12.7" xml:lang="olt">
             <app>
             <lem>Sam<lb break="no"/>ſoni</lem>
+            <rdg>a</rdg>
             </app></w>
         </l>
         <l n="13" xml:id="WP_1573_12_25_Nat._Chr._27v_13">
@@ -1699,6 +1702,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._28r_16.6" xml:lang="olt">
             <app>
             <lem>pa<lb break="no"/>gimde</lem>
+            <rdg>pa<lb break="no"/>gimge</rdg>
             </app></w>
         </l>
         <l n="17" xml:id="WP_1573_12_25_Nat._Chr._28r_17">
@@ -1951,6 +1955,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._28v_6.8" xml:lang="olt">
             <app>
             <lem>pra<lb break="no"/>ſideijens</lem>
+            <rdg>pra<lb break="no"/>ſideijo</rdg>
             </app></w>
         </l>
         <l n="7" xml:id="WP_1573_12_25_Nat._Chr._28v_7">
@@ -2440,6 +2445,8 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._29r_19.4" xml:lang="olt">
             <app>
             <lem>uſʒſuilaikiu<lb break="no"/>ſiuiụ</lem>
+            <rdg>uſʒui</rdg>
+            <rdg>uſʒuſilaikiu<lb break="no"/>ſiuiụ</rdg>
             </app></w>
         </l>
         <l n="20" xml:id="WP_1573_12_25_Nat._Chr._29r_20">
@@ -2695,6 +2702,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._29v_11.5" xml:lang="lat">
             <app>
             <lem>Ba<lb break="no"/>laam</lem>
+            <rdg>Ba<lb break="no"/>lam</rdg>
             </app></w>
         </l>
         <l n="12" xml:id="WP_1573_12_25_Nat._Chr._29v_12">
@@ -3215,6 +3223,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._30r_26.10" xml:lang="olt">
             <app>
             <lem>ku<lb break="no"/>reſawe</lem>
+            <rdg>ku<lb break="no"/>re ſawe</rdg>
             </app></w>
         </l>
         <l n="27" xml:id="WP_1573_12_25_Nat._Chr._30r_27">
@@ -3645,6 +3654,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._30v_31.6" xml:lang="olt">
             <app>
             <lem>giedada<lb break="no"/>ma</lem>
+            <rdg>giedama</rdg>
             </app></w>
         </l>
         <l n="32" xml:id="WP_1573_12_25_Nat._Chr._30v_32">
@@ -6118,6 +6128,7 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._34r_26.7" xml:lang="olt">
             <app>
             <lem>wai<lb break="no"/>kelis,</lem>
+            <rdg>)</rdg>
             </app></w>
         </l>
         <l n="27" xml:id="WP_1573_12_25_Nat._Chr._34r_27">

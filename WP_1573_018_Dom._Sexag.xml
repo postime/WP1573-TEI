@@ -140,6 +140,7 @@
         <w xml:id="WP_1573_Dom._Sexag._83v_20.7" xml:lang="olt">
             <app>
             <lem>dau<lb break="no"/>gime</lem>
+            <rdg>dau<lb break="no"/>gibe</rdg>
             </app></w>
         </l>
         <l n="21" xml:id="WP_1573_Dom._Sexag._83v_21">
@@ -477,7 +478,6 @@
         <w xml:id="WP_1573_Dom._Sexag._84r_7.4" xml:lang="olt">
             <app>
             <lem>11</lem>
-            <rdg>tardams pagirti &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Sexag._84r_7.5" xml:lang="olt">tardams:</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_7.6" xml:lang="olt">pagirti</w>
@@ -491,13 +491,11 @@
         <w xml:id="WP_1573_Dom._Sexag._84r_8.3" xml:lang="olt">
             <app>
             <lem>Diewa,</lem>
-            <rdg>r &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Sexag._84r_8.4" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_8.5" xml:lang="olt">
             <app>
             <lem>ſerkti</lem>
-            <rdg>ghe, ſaugagia &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Sexag._84r_8.6" xml:lang="olt">ghia,</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_8.7" xml:lang="olt">∻</w>
@@ -670,6 +668,7 @@
         <w xml:id="WP_1573_Dom._Sexag._84r_21.6" xml:lang="olt">
             <app>
             <lem>napraſ<lb break="no"/>nai</lem>
+            <rdg>napraſ<lb break="no"/>nei &lt; naſ</rdg>
             </app></w>
         </l>
         <l n="22" xml:id="WP_1573_Dom._Sexag._84r_22">
@@ -1371,7 +1370,6 @@
         <w xml:id="WP_1573_Dom._Sexag._85r_2.10" xml:lang="olt">
             <app>
             <lem>cʒepiju,</lem>
-            <rdg>Apo<lb break="no"/>lo &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Sexag._85r_2.11" xml:lang="lat">Apol<lb break="no"/>lo</w>
         </l>
@@ -1511,6 +1509,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85r_12.9" xml:lang="olt">
             <app>
             <lem>phal<lb break="no"/>ſʒiwụiụ</lem>
+            <rdg>phal<lb break="no"/>ſc</rdg>
             </app></w>
         </l>
         <l n="13" xml:id="WP_1573_Dom._Sexag._85r_13">
@@ -1587,6 +1586,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85r_19.6" xml:lang="olt">
             <app>
             <lem>gi<lb break="no"/>wenimụ</lem>
+            <rdg>gi<lb break="no"/>weninu</rdg>
             </app></w>
         </l>
         <l n="20" xml:id="WP_1573_Dom._Sexag._85r_20">
@@ -1600,6 +1600,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85r_20.7" xml:lang="olt">
             <app>
             <lem>pa<lb break="no"/>peſʒiſchkiụ</lem>
+            <rdg>pa<lb break="no"/>peſʒninkụ</rdg>
             </app></w>
         </l>
         <l n="21" xml:id="WP_1573_Dom._Sexag._85r_21">
@@ -1636,7 +1637,6 @@
         <w xml:id="WP_1573_Dom._Sexag._85r_23.2" xml:lang="olt">
             <app>
             <lem>del</lem>
-            <rdg>tewụ augibiụ ∻ weſʒpatụ ir &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Sexag._85r_23.3" xml:lang="olt">tewụ,</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_23.4" xml:lang="olt">augibiụ,</w>
@@ -1940,7 +1940,6 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_9.6" xml:lang="olt">
             <app>
             <lem>regimaſias</lem>
-            <rdg>Balphaniſtes &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Sexag._85v_9.7" xml:lang="olt">Balwaphaniſtes</w>
         </l>
@@ -2097,6 +2096,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_21.7" xml:lang="olt">
             <app>
             <lem>na<lb break="no"/>praſnai</lem>
+            <rdg>na<lb break="no"/>praſnai,</rdg>
             </app></w>
         </l>
         <l n="22" xml:id="WP_1573_Dom._Sexag._85v_22">
@@ -2214,6 +2214,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_29.8" xml:lang="olt">
             <app>
             <lem>ſitwa<lb break="no"/>rai</lem>
+            <rdg>Eitwa<lb break="no"/>rai</rdg>
             </app></w>
         </l>
         <l n="30" xml:id="WP_1573_Dom._Sexag._85v_30">
@@ -2327,6 +2328,7 @@
         <w xml:id="WP_1573_Dom._Sexag._86r_2.6" xml:lang="olt">
             <app>
             <lem>manij<lb break="no"/>mas</lem>
+            <rdg>nan</rdg>
             </app></w>
         </l>
         <l n="3" xml:id="WP_1573_Dom._Sexag._86r_3">
@@ -2728,7 +2730,6 @@
         <w xml:id="WP_1573_Dom._Sexag._86r_37.1" xml:lang="olt">
             <app>
             <lem>Olas,</lem>
-            <rdg>ta &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Sexag._86r_37.2" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._Sexag._86r_37.3" xml:lang="olt">ira,</w>
@@ -2740,7 +2741,6 @@
         <w xml:id="WP_1573_Dom._Sexag._86r_37.5" xml:lang="olt">
             <app>
             <lem>ſʒmanes</lem>
-            <rdg>te ſu &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Sexag._86r_37.6" xml:lang="olt">te</w>
         <w xml:id="WP_1573_Dom._Sexag._86r_37.7" xml:lang="olt">kure</w>
@@ -2782,6 +2782,7 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_2.9" xml:lang="olt">
             <app>
             <lem>linkſ<lb break="no"/>mas</lem>
+            <rdg>linkſ<lb break="no"/>mas,</rdg>
             </app></w>
         </l>
         <l n="3" xml:id="WP_1573_Dom._Sexag._86v_3">
@@ -2824,6 +2825,7 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_5.8" xml:lang="olt">
             <app>
             <lem>kai<lb break="no"/>ka</lem>
+            <rdg>laika</rdg>
             </app></w>
         </l>
         <l n="6" xml:id="WP_1573_Dom._Sexag._86v_6">
@@ -2838,6 +2840,7 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_6.7" xml:lang="olt">
             <app>
             <lem>me<lb break="no"/>gimdamas</lem>
+            <rdg>me<lb break="no"/>gindamas</rdg>
             </app></w>
         </l>
         <l n="7" xml:id="WP_1573_Dom._Sexag._86v_7">
@@ -3076,6 +3079,7 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_26.7" xml:lang="olt">
             <app>
             <lem>per<lb break="no"/>gadinima</lem>
+            <rdg>ira</rdg>
             </app></w>
         </l>
         <l n="27" xml:id="WP_1573_Dom._Sexag._86v_27">
@@ -3228,6 +3232,7 @@
         <w xml:id="WP_1573_Dom._Sexag._87r_1.10" xml:lang="olt">
             <app>
             <lem>De<lb break="no"/>wa</lem>
+            <rdg>b</rdg>
             </app></w>
         </l>
         <l n="2" xml:id="WP_1573_Dom._Sexag._87r_2">
@@ -3448,6 +3453,7 @@
         <w xml:id="WP_1573_Dom._Sexag._87r_17.7" xml:lang="olt">
             <app>
             <lem>neti<lb break="no"/>krughị</lem>
+            <rdg>neti<lb break="no"/>ke</rdg>
             </app></w>
         </l>
         <l n="18" xml:id="WP_1573_Dom._Sexag._87r_18">
@@ -3817,6 +3823,7 @@
         <w xml:id="WP_1573_Dom._Sexag._87v_4.5" xml:lang="olt">
             <app>
             <lem>nuken<lb break="no"/>teti</lem>
+            <rdg>nuken<lb break="no"/>ti</rdg>
             </app></w>
         </l>
         <l n="5" xml:id="WP_1573_Dom._Sexag._87v_5">
@@ -4509,6 +4516,7 @@
         <w xml:id="WP_1573_Dom._Sexag._88r_18.7" xml:lang="olt">
             <app>
             <lem>par<lb break="no"/>eijus</lem>
+            <rdg>par<lb break="no"/>eijm</rdg>
             </app></w>
         </l>
         <l n="19" xml:id="WP_1573_Dom._Sexag._88r_19">
@@ -4578,6 +4586,7 @@
         <w xml:id="WP_1573_Dom._Sexag._88r_23.8" xml:lang="olt">
             <app>
             <lem>weſʒ<lb break="no"/>patis</lem>
+            <rdg>weſʒ<lb break="no"/>pates</rdg>
             </app></w>
         </l>
         <l n="24" xml:id="WP_1573_Dom._Sexag._88r_24">
@@ -4651,6 +4660,7 @@
         <w xml:id="WP_1573_Dom._Sexag._88r_29.7" xml:lang="olt">
             <app>
             <lem>kai<lb break="no"/>pagi</lem>
+            <rdg>kai<lb break="no"/>b</rdg>
             </app></w>
         </l>
         <l n="30" xml:id="WP_1573_Dom._Sexag._88r_30">
@@ -4665,7 +4675,7 @@
         <w xml:id="WP_1573_Dom._Sexag._88r_30.7" xml:lang="olt">
             <app>
             <lem>dau<lb break="no"/>giaus</lem>
-            <rdg>kai<lb break="no"/>b</rdg>
+            <rdg>ta</rdg>
             </app></w>
         </l>
         <l n="31" xml:id="WP_1573_Dom._Sexag._88r_31">

@@ -139,6 +139,7 @@
         <w xml:id="WP_1573_Dom._3_Epiph._69r_6.6" xml:lang="olt">
             <app>
             <lem>geri<lb break="no"/>be</lem>
+            <rdg>geri<lb break="no"/>bi</rdg>
             </app></w>
         </l>
         <l n="7" xml:id="WP_1573_Dom._3_Epiph._69r_7">
@@ -355,7 +356,6 @@
         <w xml:id="WP_1573_Dom._3_Epiph._69r_23.4" xml:lang="olt">
             <app>
             <lem>dienas</lem>
-            <rdg>Egłai du &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._3_Epiph._69r_23.5" xml:lang="olt">Egłai</w>
         <w xml:id="WP_1573_Dom._3_Epiph._69r_23.6" xml:lang="olt">mumus</w>
@@ -396,7 +396,6 @@
         <w xml:id="WP_1573_Dom._3_Epiph._69r_26.7" xml:lang="olt">
             <app>
             <lem>ia</lem>
-            <rdg>iſchrade<lb break="no"/> &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._3_Epiph._69r_26.8" xml:lang="olt">iſchrade,</w>
         </l>
@@ -915,6 +914,7 @@
         <w xml:id="WP_1573_Dom._3_Epiph._69v_32.7" xml:lang="olt">
             <app>
             <lem>ſunki<lb break="no"/>nima.</lem>
+            <rdg>ſunki<lb break="no"/>nama</rdg>
             </app></w>
         </l>
         <l n="33" xml:id="WP_1573_Dom._3_Epiph._69v_33">
@@ -1397,11 +1397,12 @@
         <w xml:id="WP_1573_Dom._3_Epiph._70r_34.6" xml:lang="olt">
             <app>
             <lem>(</lem>
-            <rdg>nie<lb break="no"/>kad dumadama &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._3_Epiph._70r_34.7" xml:lang="olt">
             <app>
             <lem>nie<lb break="no"/>kaNedumadama</lem>
+            <rdg>nie<lb break="no"/>kad dumadama</rdg>
+            <rdg>nie<lb break="no"/>ka Nedumadama</rdg>
             </app></w>
         </l>
         <l n="35" xml:id="WP_1573_Dom._3_Epiph._70r_35">
@@ -1741,7 +1742,6 @@
         <w xml:id="WP_1573_Dom._3_Epiph._70v_25.2" xml:lang="lat">
             <app>
             <lem>Marcus</lem>
-            <rdg>łiſta &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._3_Epiph._70v_25.3" xml:lang="olt">egłiſta</w>
         <w xml:id="WP_1573_Dom._3_Epiph._70v_25.4" xml:lang="olt">1</w>
@@ -2034,7 +2034,6 @@
         <w xml:id="WP_1573_Dom._3_Epiph._71r_9.1" xml:lang="olt">
             <app>
             <lem>mums,</lem>
-            <rdg>kai pegi &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._3_Epiph._71r_9.2" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Dom._3_Epiph._71r_9.3" xml:lang="olt">pa</w>

@@ -490,6 +490,7 @@
         <w xml:id="WP_1573_Dom._1_Nat._42v_12.7" xml:lang="olt">
             <app>
             <lem>ap<lb break="no"/>raſchitā.</lem>
+            <rdg>,</rdg>
             </app></w>
         </l>
         <l n="13" xml:id="WP_1573_Dom._1_Nat._42v_13">
@@ -554,6 +555,7 @@
         <w xml:id="WP_1573_Dom._1_Nat._42v_17.9" xml:lang="olt">
             <app>
             <lem>du<lb break="no"/>matumbim</lem>
+            <rdg>du<lb break="no"/>nna</rdg>
             </app></w>
         </l>
         <l n="18" xml:id="WP_1573_Dom._1_Nat._42v_18">
@@ -1275,11 +1277,11 @@
         <w xml:id="WP_1573_Dom._1_Nat._43r_32.6" xml:lang="olt">
             <app>
             <lem>naretumbit</lem>
-            <rdg>ſchir<lb break="no"/>demis &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._1_Nat._43r_32.7" xml:lang="olt">
             <app>
             <lem>ſchir<lb break="no"/>deſ</lem>
+            <rdg>ſchir<lb break="no"/>demis</rdg>
             </app></w>
         </l>
         <l n="33" xml:id="WP_1573_Dom._1_Nat._43r_33">
@@ -1580,6 +1582,7 @@
         <w xml:id="WP_1573_Dom._1_Nat._43v_19.6" xml:lang="olt">
             <app>
             <lem>angin<lb break="no"/>dams</lem>
+            <rdg>augin<lb break="no"/>dams</rdg>
             </app></w>
         </l>
         <l n="20" xml:id="WP_1573_Dom._1_Nat._43v_20">
@@ -1875,6 +1878,7 @@
         <w xml:id="WP_1573_Dom._1_Nat._44r_3.8" xml:lang="olt">
             <app>
             <lem>neprijman<lb break="no"/>cʒius</lem>
+            <rdg>neprijnna</rdg>
             </app></w>
         </l>
         <l n="4" xml:id="WP_1573_Dom._1_Nat._44r_4">
@@ -2442,13 +2446,11 @@
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.2" xml:lang="olt">
             <app>
             <lem>wel</lem>
-            <rdg>kalba &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.3" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.4" xml:lang="olt">
             <app>
             <lem>·</lem>
-            <rdg>mariaſpi &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.5" xml:lang="olt">Mariaſpi,</w>
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.6" xml:lang="olt">kaip</w>

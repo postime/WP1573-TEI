@@ -32,11 +32,12 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._49v_25.2" xml:lang="olt">
             <app>
             <lem>TRIVN</lem>
-            <rdg>K &gt; ICHMINGV<lb break="no"/>iun &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._49v_25.3" xml:lang="olt">
             <app>
             <lem>ICHMINtinGV<lb break="no"/>iun</lem>
+            <rdg>K &gt; ICHMINGV<lb break="no"/>iun</rdg>
+            <rdg>ISCHMINtinGV<lb break="no"/>iun</rdg>
             </app></w>
         </l>
         <l n="26" xml:id="WP_1573_01_06_Epiph._Dom._49v_26">
@@ -255,6 +256,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._50r_13.7" xml:lang="olt">
             <app>
             <lem>ta<lb break="no"/>tandi</lem>
+            <rdg>ta<lb break="no"/>dangi</rdg>
             </app></w>
         </l>
         <l n="14" xml:id="WP_1573_01_06_Epiph._Dom._50r_14">
@@ -269,7 +271,6 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._50r_14.7" xml:lang="olt">
             <app>
             <lem>kad</lem>
-            <rdg>ta<lb break="no"/>dangi</rdg>
             <rdg>kai</rdg>
             </app></w>
         </l>
@@ -463,7 +464,6 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._50r_30.1" xml:lang="olt">
             <app>
             <lem>ka</lem>
-            <rdg>nu &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50r_30.2" xml:lang="olt">ſtipriname,</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50r_30.3" xml:lang="olt">
@@ -590,7 +590,6 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_4.4" xml:lang="olt">
             <app>
             <lem>kure</lem>
-            <rdg>neieſhkaija &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_4.5" xml:lang="olt">neieſchkaija</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_4.6" xml:lang="olt">manens,</w>
@@ -892,6 +891,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.7" xml:lang="olt">
             <app>
             <lem>Eſi<lb break="no"/>aſʒaus</lem>
+            <rdg>Eſi<lb break="no"/>aſʒaſ</rdg>
             </app></w>
         </l>
         <l n="32" xml:id="WP_1573_01_06_Epiph._Dom._50v_32">
@@ -1280,6 +1280,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._51r_28.10" xml:lang="olt">
             <app>
             <lem>priſi<lb break="no"/>naͤna</lem>
+            <rdg>priſi<lb break="no"/>maͤna</rdg>
             </app></w>
         </l>
         <l n="29" xml:id="WP_1573_01_06_Epiph._Dom._51r_29">
@@ -1373,6 +1374,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._51r_36.6" xml:lang="olt">
             <app>
             <lem>uſʒuſsiſmu<lb break="no"/>tighis</lem>
+            <rdg>uſu</rdg>
             </app></w>
         </l>
         <l n="37" xml:id="WP_1573_01_06_Epiph._Dom._51r_37">
@@ -1622,7 +1624,6 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.1" xml:lang="olt">
             <app>
             <lem>Bet</lem>
-            <rdg>taſsai bijaghimaſs &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.2" xml:lang="olt">taſsai</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.3" xml:lang="olt">iun</w>
@@ -1953,7 +1954,6 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_12.5" xml:lang="olt">
             <app>
             <lem>iſch</lem>
-            <rdg>Maras &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_12.6" xml:lang="olt">Marias</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_12.7" xml:lang="olt">Mergas,</w>
@@ -2001,6 +2001,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_15.9" xml:lang="olt">
             <app>
             <lem>para<lb break="no"/>de</lem>
+            <rdg>pada<lb break="no"/>re</rdg>
             </app></w>
         </l>
         <l n="16" xml:id="WP_1573_01_06_Epiph._Dom._52r_16">
@@ -2435,6 +2436,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._52v_16.5" xml:lang="olt">
             <app>
             <lem>per<lb break="no"/>kraipe</lem>
+            <rdg>per<lb break="no"/>kreipe</rdg>
             </app></w>
         </l>
         <l n="17" xml:id="WP_1573_01_06_Epiph._Dom._52v_17">
@@ -2647,6 +2649,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._52v_34.4" xml:lang="olt">
             <app>
             <lem>kap<lb break="no"/>lanumus</lem>
+            <rdg>kap<lb break="no"/>lanụ</rdg>
             </app></w>
         </l>
         <l n="35" xml:id="WP_1573_01_06_Epiph._Dom._52v_35">
@@ -3170,7 +3173,6 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._53v_8.6" xml:lang="olt">
             <app>
             <lem>ſawā</lem>
-            <rdg>guldidami &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._53v_8.7" xml:lang="olt">guldik</w>
         </l>
@@ -3337,6 +3339,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._53v_22.6" xml:lang="olt">
             <app>
             <lem>ſirata<lb break="no"/>mus</lem>
+            <rdg>ſr</rdg>
             </app></w>
         </l>
         <l n="23" xml:id="WP_1573_01_06_Epiph._Dom._53v_23">
@@ -3594,7 +3597,6 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.4" xml:lang="olt">
             <app>
             <lem>Kitaip</lem>
-            <rdg>tam li<lb break="no"/>gei &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.5" xml:lang="olt">tamgi</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.6" xml:lang="olt">li<lb break="no"/>gei,</w>
@@ -3623,16 +3625,16 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_10.6" xml:lang="olt">
             <app>
             <lem>ir</lem>
-            <rdg>artimui &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_10.7" xml:lang="olt">
             <app>
             <lem>artimun</lem>
-            <rdg>ſawam &gt;</rdg>
+            <rdg>artimui</rdg>
             </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_10.8" xml:lang="olt">
             <app>
             <lem>ſawann</lem>
+            <rdg>ſawam</rdg>
             <rdg>ſawan</rdg>
             </app></w>
         </l>
@@ -3680,6 +3682,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_14.6" xml:lang="olt">
             <app>
             <lem>apma<lb break="no"/>rinimais</lem>
+            <rdg>apma<lb break="no"/>rinimas</rdg>
             </app></w>
         </l>
         <l n="15" xml:id="WP_1573_01_06_Epiph._Dom._54r_15">

@@ -754,6 +754,7 @@
         <w xml:id="WP_1573_Dom._Septuag._80v_34.6" xml:lang="olt">
             <app>
             <lem>ma<lb break="no"/>nenſpi</lem>
+            <rdg>nn</rdg>
             </app></w>
         </l>
         <l n="35" xml:id="WP_1573_Dom._Septuag._80v_35">
@@ -962,6 +963,7 @@
         <w xml:id="WP_1573_Dom._Septuag._81r_10.8" xml:lang="olt">
             <app>
             <lem>ſu<lb break="no"/>dereijmas</lem>
+            <rdg>ſu<lb break="no"/>deri</rdg>
             </app></w>
         </l>
         <l n="11" xml:id="WP_1573_Dom._Septuag._81r_11">
@@ -1302,6 +1304,7 @@
         <w xml:id="WP_1573_Dom._Septuag._81r_35.8" xml:lang="olt">
             <app>
             <lem>praſʒu<lb break="no"/>wuſumpi</lem>
+            <rdg>prabu</rdg>
             </app></w>
         </l>
         <l n="36" xml:id="WP_1573_Dom._Septuag._81r_36">
@@ -1541,6 +1544,7 @@
         <w xml:id="WP_1573_Dom._Septuag._81v_16.7" xml:lang="olt">
             <app>
             <lem>iſch<lb break="no"/>gannitas,</lem>
+            <rdg>;</rdg>
             </app></w>
         </l>
         <l n="17" xml:id="WP_1573_Dom._Septuag._81v_17">
@@ -2123,6 +2127,7 @@
         <w xml:id="WP_1573_Dom._Septuag._82r_22.8" xml:lang="olt">
             <app>
             <lem>ſudama<lb break="no"/>iame</lem>
+            <rdg>ſuduma<lb break="no"/>iame</rdg>
             </app></w>
         </l>
         <l n="23" xml:id="WP_1573_Dom._Septuag._82r_23">
@@ -2465,6 +2470,7 @@
         <w xml:id="WP_1573_Dom._Septuag._82v_10.6" xml:lang="olt">
             <app>
             <lem>at<lb break="no"/>imti</lem>
+            <rdg>at<lb break="no"/>minti</rdg>
             </app></w>
         </l>
         <l n="11" xml:id="WP_1573_Dom._Septuag._82v_11">
@@ -2504,6 +2510,7 @@
         <w xml:id="WP_1573_Dom._Septuag._82v_13.7" xml:lang="olt">
             <app>
             <lem>ne<lb break="no"/>weri</lem>
+            <rdg>ne<lb break="no"/>werni</rdg>
             </app></w>
         </l>
         <l n="14" xml:id="WP_1573_Dom._Septuag._82v_14">
@@ -2517,6 +2524,7 @@
         <w xml:id="WP_1573_Dom._Septuag._82v_14.6" xml:lang="olt">
             <app>
             <lem>padar<lb break="no"/>riti</lem>
+            <rdg>padar<lb break="no"/>iti,</rdg>
             </app></w>
         </l>
         <l n="15" xml:id="WP_1573_Dom._Septuag._82v_15">
@@ -2899,6 +2907,7 @@
         <w xml:id="WP_1573_Dom._Septuag._83r_9.8" xml:lang="olt">
             <app>
             <lem>pirm<lb break="no"/>maiſais</lem>
+            <rdg>pir<lb break="no"/>na</rdg>
             </app></w>
         </l>
         <l n="10" xml:id="WP_1573_Dom._Septuag._83r_10">
@@ -3089,6 +3098,7 @@
         <w xml:id="WP_1573_Dom._Septuag._83r_25.8" xml:lang="olt">
             <app>
             <lem>ſchwe<lb break="no"/>tughị</lem>
+            <rdg>ſchwē<lb break="no"/>tughị</rdg>
             </app></w>
         </l>
         <l n="26" xml:id="WP_1573_Dom._Septuag._83r_26">
@@ -3146,7 +3156,6 @@
         <w xml:id="WP_1573_Dom._Septuag._83r_30.6" xml:lang="olt">
             <app>
             <lem>Bet</lem>
-            <rdg>ia &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Septuag._83r_30.7" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Septuag._83r_30.8" xml:lang="olt">waina</w>
@@ -3307,7 +3316,6 @@
         <w xml:id="WP_1573_Dom._Septuag._83v_2.4" xml:lang="olt">
             <app>
             <lem>k:</lem>
-            <rdg>b: ſ: &gt;</rdg>
             </app></w>
         <w xml:id="WP_1573_Dom._Septuag._83v_2.5" xml:lang="olt">b:</w>
         <w xml:id="WP_1573_Dom._Septuag._83v_2.6" xml:lang="olt">ir</w>
