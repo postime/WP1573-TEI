@@ -22,8 +22,8 @@
 		"prefix": "alt-bielauk",
 		"body": [
 			"<app>",
-			"  <lem>${1:alteration}</lem>",
-			"  <rdg>${TM_SELECTED_TEXT:${2:text}}</rdg>",
+			"  <lem>${TM_SELECTED_TEXT:${1:text}}</lem>",
+			"  <rdg>${2:footnote}</rdg>",
 			"</app>"
 		]
 	},
@@ -32,8 +32,8 @@
 		"prefix": "alt-others",
 		"body": [
 			"<app hand=\"$1\">",
-			"  <lem>${TM_SELECTED_TEXT:${2:text}}</lem>",
-			"  <rdg>${3:alteration}</rdg>",
+			"  <lem>${2:text}</lem>",
+			"  <rdg>${TM_SELECTED_TEXT:${3:footnote}}</rdg>",
 			"</app>"
 		]
 	},
