@@ -67,9 +67,9 @@
 
         <w xml:id="WP_1573_Dom._1_Adv._1r_7.1" xml:lang="olt">
           <app>  
-            <lem>Jr</lem>
-            <rdg>Je<lb break="no"/>ruſalenn</rdg>
-            <rdg>Je<lb break="no"/>ruſalem Jr</rdg>
+            <lem>Je<lb break="no"/>rusalemJr</lem>
+            <rdg>Je<lb break="no"/>ruſalenn</rdg> 
+            <rdg>Je<lb break="no"/>ruſalem Jr</rdg> 
           </app></w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_7.2" xml:lang="olt">atteija</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_7.3" xml:lang="olt">kiemap</w>
@@ -3131,12 +3131,12 @@
             <lem>Pra</lem>
             <rdg>T</rdg>
           </app></w>
-       <app>
-         <lem> <w xml:id="WP_1573_Dom._1_Adv._5r_25.3" xml:lang="olt">tai</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._1_Adv._5r_25.3" xml:lang="olt">tai</w>
           <w xml:id="WP_1573_Dom._1_Adv._5r_25.4" xml:lang="olt">iau</w>
           <w xml:id="WP_1573_Dom._1_Adv._5r_25.5" xml:lang="olt">tada</w></lem>
-         <rdg>tai tada</rdg>
-       </app>
+          <rdg>tai tada</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._1_Adv._5r_25.6" xml:lang="olt">pirmiaus</w>
         <w xml:id="WP_1573_Dom._1_Adv._5r_25.7" xml:lang="olt">didʒiaus</w>
         </l>
