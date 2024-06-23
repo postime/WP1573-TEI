@@ -2101,13 +2101,12 @@
         </l>
         <l n="9" xml:id="WP_1573_Dom._4_Adv._21v_9">
 
-        <w xml:id="WP_1573_Dom._4_Adv._21v_9.1" xml:lang="olt">
-          <app>  
-            <lem>meldima</lem>
-            <rdg>meldima tikeghimu</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._4_Adv._21v_9.2" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_Dom._4_Adv._21v_9.3" xml:lang="olt">tikeghimu</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Adv._21v_9.1" xml:lang="olt">meldima</w>
+          <w xml:id="WP_1573_Dom._4_Adv._21v_9.2" xml:lang="olt">a</w>
+          <w xml:id="WP_1573_Dom._4_Adv._21v_9.3" xml:lang="olt">tikeghimu</w></lem>
+          <rdg>meldima tikeghimu</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._4_Adv._21v_9.4" xml:lang="olt">kittụ</w>
         <w xml:id="WP_1573_Dom._4_Adv._21v_9.5" xml:lang="olt">Diewu,</w>
         <w xml:id="WP_1573_Dom._4_Adv._21v_9.6" xml:lang="olt">nuſsiti<lb break="no"/>keghimas</w>
@@ -2291,14 +2290,13 @@
         <punct>
 ,</punct>
         <w xml:id="WP_1573_Dom._4_Adv._21v_26.3" xml:lang="olt">necʒiſtaſtis,</w>
-        <w xml:id="WP_1573_Dom._4_Adv._21v_26.4" xml:lang="olt">
-          <app>  
-            <lem>ſawa</lem>
-            <rdg>ſawa walnas gi<lb break="no"/>wenimas</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._4_Adv._21v_26.5" xml:lang="olt">walnas</w>
-        <w xml:id="WP_1573_Dom._4_Adv._21v_26.6" xml:lang="olt">∻</w>
-        <w xml:id="WP_1573_Dom._4_Adv._21v_26.7" xml:lang="olt">gi<lb break="no"/>wenimas,</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Adv._21v_26.4" xml:lang="olt">ſawa</w>
+          <w xml:id="WP_1573_Dom._4_Adv._21v_26.5" xml:lang="olt">walnas</w>
+          <w xml:id="WP_1573_Dom._4_Adv._21v_26.6" xml:lang="olt">∻</w>
+          <w xml:id="WP_1573_Dom._4_Adv._21v_26.7" xml:lang="olt">gi<lb break="no"/>wenimas,</w></lem>
+          <rdg>ſawa walnas gi<lb break="no"/>wenimas</rdg>
+        </app>
         </l>
         <l n="27" xml:id="WP_1573_Dom._4_Adv._21v_27">
 
@@ -3304,12 +3302,11 @@
           </app></w>
         <w xml:id="WP_1573_Dom._4_Adv._23r_17.2" xml:lang="olt">ias</w>
         <w xml:id="WP_1573_Dom._4_Adv._23r_17.3" xml:lang="olt">gimiu</w>
-        <w xml:id="WP_1573_Dom._4_Adv._23r_17.4" xml:lang="lat">Rom:</w>
-        <w xml:id="WP_1573_Dom._4_Adv._23r_17.5" xml:lang="lat">
-          <app>  
-            <lem>2.</lem>
-            <rdg>9.</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Adv._23r_17.4" xml:lang="lat">Rom:</w>
+          <w xml:id="WP_1573_Dom._4_Adv._23r_17.5" xml:lang="lat">2.</w></lem>
+          <rdg>9.</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._4_Adv._23r_17.6" xml:lang="olt">Nei</w>
         </l>
         <l n="18" xml:id="WP_1573_Dom._4_Adv._23r_18">
@@ -4367,12 +4364,11 @@
         </l>
         <l n="17" xml:id="WP_1573_Dom._4_Adv._24v_17">
 
-        <w xml:id="WP_1573_Dom._4_Adv._24v_17.1" xml:lang="olt">
-          <app>  
-            <lem>Jr</lem>
-            <rdg>a ghẹ</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._4_Adv._24v_17.2" xml:lang="olt">ghen</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Adv._24v_17.1" xml:lang="olt">Jr</w>
+          <w xml:id="WP_1573_Dom._4_Adv._24v_17.2" xml:lang="olt">ghen</w></lem>
+          <rdg>a ghẹ</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._4_Adv._24v_17.3" xml:lang="olt">graudina,</w>
         <w xml:id="WP_1573_Dom._4_Adv._24v_17.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._4_Adv._24v_17.5" xml:lang="olt">wercʒia</w>
@@ -4929,12 +4925,11 @@
         </l>
         <l n="4" xml:id="WP_1573_Dom._4_Adv._25v_4">
 
-        <w xml:id="WP_1573_Dom._4_Adv._25v_4.1" xml:lang="olt">
-          <app>  
-            <lem>a</lem>
-            <rdg>apſchaukima</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._4_Adv._25v_4.2" xml:lang="olt">apſchaukima</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Adv._25v_4.1" xml:lang="olt">a</w>
+          <w xml:id="WP_1573_Dom._4_Adv._25v_4.2" xml:lang="olt">apſchaukima</w></lem>
+          <rdg>apſchaukima</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._4_Adv._25v_4.3" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._4_Adv._25v_4.4" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._4_Adv._25v_4.5" xml:lang="olt">Vreda</w>

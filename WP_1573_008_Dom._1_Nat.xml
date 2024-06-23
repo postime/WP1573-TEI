@@ -2040,12 +2040,11 @@
 
         <w xml:id="WP_1573_Dom._1_Nat._44r_27.1" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_Dom._1_Nat._44r_27.2" xml:lang="olt">S</w>
-        <w xml:id="WP_1573_Dom._1_Nat._44r_27.3" xml:lang="olt">Petras</w>
-        <w xml:id="WP_1573_Dom._1_Nat._44r_27.4" xml:lang="olt">
-          <app>  
-            <lem>1:</lem>
-            <rdg>Jacubas</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._1_Nat._44r_27.3" xml:lang="olt">Petras</w>
+          <w xml:id="WP_1573_Dom._1_Nat._44r_27.4" xml:lang="olt">1:</w></lem>
+          <rdg>Jacubas</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._1_Nat._44r_27.5" xml:lang="olt">Sʒinnancʒiam</w>
         <w xml:id="WP_1573_Dom._1_Nat._44r_27.6" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._1_Nat._44r_27.7" xml:lang="olt">nedarancʒiam</w>

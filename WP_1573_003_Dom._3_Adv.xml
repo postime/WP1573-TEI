@@ -1591,13 +1591,12 @@
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.4" xml:lang="olt">mes,</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.5" xml:lang="olt">m:</w>
-        <w xml:id="WP_1573_Dom._3_Adv._15r_4.6" xml:lang="olt">
-          <app>  
-            <lem>k</lem>
-            <rdg>k: b,</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Adv._15r_4.7" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._3_Adv._15r_4.8" xml:lang="olt">k,</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Adv._15r_4.6" xml:lang="olt">k</w>
+          <w xml:id="WP_1573_Dom._3_Adv._15r_4.7" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Dom._3_Adv._15r_4.8" xml:lang="olt">k,</w></lem>
+          <rdg>k: b,</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.9" xml:lang="olt">b:</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.10" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._3_Adv._15r_4.11" xml:lang="olt">ſ:</w>
@@ -1950,12 +1949,8 @@
         </l>
         <pb n="15v"/>
         <l n="1" xml:id="WP_1573_Dom._3_Adv._15v_1">
-
-        <w xml:id="WP_1573_Dom._3_Adv._15v_1.1" xml:lang="olt">
-          <app>  
-            <lem>nepaſsipiktins</lem>
-            <rdg>10</rdg>
-          </app></w>
+       
+        <w xml:id="WP_1573_Dom._3_Adv._15v_1.1" xml:lang="olt">nepaſsipiktins</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_1.2" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_1.3" xml:lang="olt">manens.</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_1.4" xml:lang="olt">Tas</w>
@@ -2336,8 +2331,11 @@
         <pb n="16r"/>
         <l n="1" xml:id="WP_1573_Dom._3_Adv._16r_1">
 
-        <w xml:id="WP_1573_Dom._3_Adv._16r_1.1" xml:lang="olt">61</w>
-        <w xml:id="WP_1573_Dom._3_Adv._16r_1.2" xml:lang="olt">Perſonai</w>
+       <app>
+         <lem> <w xml:id="WP_1573_Dom._3_Adv._16r_1.1" xml:lang="olt">61</w>
+          <w xml:id="WP_1573_Dom._3_Adv._16r_1.2" xml:lang="olt">Perſonai</w></lem>
+         <rdg>10</rdg>
+       </app>
         <w xml:id="WP_1573_Dom._3_Adv._16r_1.3" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_1.4" xml:lang="olt">meſsiaſʒaus</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_1.5" xml:lang="olt">tardams:</w>

@@ -885,12 +885,11 @@
         </l>
         <l n="6" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6">
 
-        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6.1" xml:lang="olt">
-          <app>  
-            <lem>a</lem>
-            <rdg>awis</rdg>
-          </app></w>
-        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6.2" xml:lang="olt">awis</w>
+        <app>
+          <lem><w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6.1" xml:lang="olt">a</w>
+          <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6.2" xml:lang="olt">awis</w></lem>
+          <rdg>awis</rdg>
+        </app>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_6.3" xml:lang="olt">
           <app>  
             <lem>neiſchkraikitụ</lem>
@@ -1176,12 +1175,11 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.3" xml:lang="olt">chacʒeigi</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.5" xml:lang="olt">angelais</w>
-        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.6" xml:lang="olt">
-          <app>  
-            <lem>iſch</lem>
-            <rdg>ir ang</rdg>
-          </app></w>
-        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.7" xml:lang="olt">dangaus</w>
+        <app>
+          <lem><w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.6" xml:lang="olt">iſch</w>
+          <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.7" xml:lang="olt">dangaus</w></lem>
+          <rdg>ir ang</rdg>
+        </app>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_31.8" xml:lang="olt">butụ.</w>
         </l>
         <l n="32" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_32">
@@ -2260,12 +2258,11 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.4" xml:lang="olt">S</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.5" xml:lang="olt">Paw:</w>
-        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.6" xml:lang="olt">Teſ:</w>
-        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.7" xml:lang="olt">
-          <app>  
-            <lem>4</lem>
-            <rdg>5</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.6" xml:lang="olt">Teſ:</w>
+          <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.7" xml:lang="olt">4</w></lem>
+          <rdg>5</rdg>
+        </app>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.8" xml:lang="olt">makin,</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_7.9" xml:lang="olt">tardams:</w>
         </l>
