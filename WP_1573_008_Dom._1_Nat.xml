@@ -2284,17 +2284,12 @@
 
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.1" xml:lang="olt">Kan</w>
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.2" xml:lang="olt">wel</w>
-        <w xml:id="WP_1573_Dom._1_Nat._44v_8.3" xml:lang="olt">
-          <app>  
-            <lem>kalba</lem>
-            <rdg>kalba</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._1_Nat._44v_8.4" xml:lang="olt">·</w>
-        <w xml:id="WP_1573_Dom._1_Nat._44v_8.5" xml:lang="olt">
-          <app>  
-            <lem>Mariaſpi,</lem>
-            <rdg>mariaſpi</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._1_Nat._44v_8.3" xml:lang="olt">kalba</w>
+          <w xml:id="WP_1573_Dom._1_Nat._44v_8.4" xml:lang="olt">·</w>
+          <w xml:id="WP_1573_Dom._1_Nat._44v_8.5" xml:lang="olt">Mariaſpi,</w></lem>
+          <rdg>kalba · mariaſpi</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.6" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.7" xml:lang="olt">ias</w>
         <w xml:id="WP_1573_Dom._1_Nat._44v_8.8" xml:lang="olt">duſchen</w>
