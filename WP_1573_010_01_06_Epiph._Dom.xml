@@ -1512,17 +1512,13 @@
         <l n="21" xml:id="WP_1573_01_06_Epiph._Dom._51v_21">
 
         <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.1" xml:lang="olt">Bet</w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.2" xml:lang="olt">
-          <app>  
-            <lem>taſsai</lem>
-            <rdg>taſsai bijaghimaſs</rdg>
-          </app></w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.3" xml:lang="olt">iun</w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.4" xml:lang="olt">
-          <app>  
-            <lem>bijaghimaſs</lem>
-            <rdg>bijaghiman</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.2" xml:lang="olt">taſsai</w>
+          <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.3" xml:lang="olt">iun</w>
+          <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.4" xml:lang="olt">bijaghimaſs</w></lem>
+          <rdg>bijaghiman</rdg>
+          <rdg>taſsai bijaghimaſs</rdg>
+        </app>
         <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.5" xml:lang="olt">iſchrada</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.6" xml:lang="olt">iun</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._51v_21.7" xml:lang="olt">didi</w>
@@ -3338,12 +3334,11 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.2" xml:lang="olt">tan</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.3" xml:lang="olt">iſchpaſʒinnimụ.</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.4" xml:lang="olt">Kitaip</w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.5" xml:lang="olt">
-          <app>  
-            <lem>tamgi</lem>
-            <rdg>tam li<lb break="no"/>gei</rdg>
-          </app></w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.6" xml:lang="olt">li<lb break="no"/>gei,</w>
+      <app>
+        <lem>  <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.5" xml:lang="olt">tamgi</w>
+          <w xml:id="WP_1573_01_06_Epiph._Dom._54r_8.6" xml:lang="olt">li<lb break="no"/>gei,</w></lem>
+        <rdg>tam li<lb break="no"/>gei</rdg>
+      </app>
         </l>
         <l n="9" xml:id="WP_1573_01_06_Epiph._Dom._54r_9">
 

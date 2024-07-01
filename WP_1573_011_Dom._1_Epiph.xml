@@ -1625,13 +1625,12 @@
         <w xml:id="WP_1573_Dom._1_Epiph._57r_30.4" xml:lang="olt">greku,</w>
         <w xml:id="WP_1573_Dom._1_Epiph._57r_30.5" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_Dom._1_Epiph._57r_30.6" xml:lang="olt">ka</w>
-        <w xml:id="WP_1573_Dom._1_Epiph._57r_30.7" xml:lang="olt">
-          <app>  
-            <lem>nemaſʒas</lem>
-            <rdg>nemaſʒas kriſʒus</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._1_Epiph._57r_30.8" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._1_Epiph._57r_30.9" xml:lang="olt">kriſʒus</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._1_Epiph._57r_30.7" xml:lang="olt">nemaſʒas</w>
+          <w xml:id="WP_1573_Dom._1_Epiph._57r_30.8" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Dom._1_Epiph._57r_30.9" xml:lang="olt">kriſʒus</w></lem>
+          <rdg>nemaſʒas kriſʒus</rdg>
+        </app>
         </l>
         <l n="31" xml:id="WP_1573_Dom._1_Epiph._57r_31">
 
@@ -2445,13 +2444,12 @@
         <w xml:id="WP_1573_Dom._1_Epiph._58r_29.3" xml:lang="olt">diewe</w>
         <w xml:id="WP_1573_Dom._1_Epiph._58r_29.4" xml:lang="olt">doik</w>
         <w xml:id="WP_1573_Dom._1_Epiph._58r_29.5" xml:lang="olt">tai,</w>
-        <w xml:id="WP_1573_Dom._1_Epiph._58r_29.6" xml:lang="olt">Jdant</w>
-        <w xml:id="WP_1573_Dom._1_Epiph._58r_29.7" xml:lang="olt">ne</w>
-        <w xml:id="WP_1573_Dom._1_Epiph._58r_29.8" xml:lang="olt">
-          <app>  
-            <lem>Maſʒia</lem>
-            <rdg>Jdant Maſʒia &lt; Jdant Jdant</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._1_Epiph._58r_29.6" xml:lang="olt">Jdant</w>
+          <w xml:id="WP_1573_Dom._1_Epiph._58r_29.7" xml:lang="olt">ne</w>
+          <w xml:id="WP_1573_Dom._1_Epiph._58r_29.8" xml:lang="olt">Maſʒia</w></lem>
+          <rdg>Jdant Maſʒia &lt; Jdant Jdant</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._1_Epiph._58r_29.9" xml:lang="olt">butụ</w>
         <w xml:id="WP_1573_Dom._1_Epiph._58r_29.10" xml:lang="olt">ta<lb break="no"/>kiụ,</w>
         </l>

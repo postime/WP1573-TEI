@@ -392,16 +392,15 @@
         <w xml:id="WP_1573_01_01_Nov._Ann._45r_11.3" xml:lang="olt">kiekwenas</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._45r_11.4" xml:lang="olt">
           <app>  
-            <lem>wiriſchkas</lem>
+            <lem>wiriſchkas,</lem>
             <rdg>wer</rdg>
           </app></w>
-        <punct>
+        <w xml:id="WP_1573_01_01_Nov._Ann._45r_11.6" xml:lang="olt">
+          <app>
+            <lem>appipiauſti<lb break="no"/>kite<lem>
+            <rdg>piauſti</rdg>
+          <app></w>
 
-          <app>  
-            <lem>,</lem>
-            <rdg>, piauſti<lb break="no"/></rdg>
-          </app></punct>
-        <w xml:id="WP_1573_01_01_Nov._Ann._45r_11.6" xml:lang="olt">appipiauſti<lb break="no"/>kite</w>
         </l>
         <l n="12" xml:id="WP_1573_01_01_Nov._Ann._45r_12">
 
@@ -618,13 +617,12 @@
           </app></w>
         <w xml:id="WP_1573_01_01_Nov._Ann._45r_30.2" xml:lang="olt">dienā</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._45r_30.3" xml:lang="olt">appiauſtitas</w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._45r_30.4" xml:lang="olt">
-          <app>  
-            <lem>bua</lem>
-            <rdg>bua abraham</rdg>
-          </app></w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._45r_30.5" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._45r_30.6" xml:lang="olt">Abraham</w>
+        <app>
+          <lem><w xml:id="WP_1573_01_01_Nov._Ann._45r_30.4" xml:lang="olt">bua</w>
+          <w xml:id="WP_1573_01_01_Nov._Ann._45r_30.5" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_01_01_Nov._Ann._45r_30.6" xml:lang="olt">Abraham</w></lem>
+          <rdg>bua abraham</rdg>
+        </app>
         <w xml:id="WP_1573_01_01_Nov._Ann._45r_30.7" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._45r_30.8" xml:lang="olt">Hiſmael</w>
         </l>
@@ -2076,13 +2074,12 @@
         <w xml:id="WP_1573_01_01_Nov._Ann._47r_7.3" xml:lang="olt">tik</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._47r_7.4" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._47r_7.5" xml:lang="olt">nauio</w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._47r_7.6" xml:lang="olt">
-          <app>  
-            <lem>atſigimimu</lem>
-            <rdg>atſigimimu atſi<lb break="no"/>naughinimu</rdg>
-          </app></w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._47r_7.7" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._47r_7.8" xml:lang="olt">atſi<lb break="no"/>naughinimu</w>
+        <app>
+          <lem><w xml:id="WP_1573_01_01_Nov._Ann._47r_7.6" xml:lang="olt">atſigimimu</w>
+          <w xml:id="WP_1573_01_01_Nov._Ann._47r_7.7" xml:lang="olt">a</w>
+          <w xml:id="WP_1573_01_01_Nov._Ann._47r_7.8" xml:lang="olt">atſi<lb break="no"/>naughinimu</w></lem>
+          <rdg>atſigimimu atſi<lb break="no"/>naughinimu</rdg>
+        </app>
         </l>
         <l n="8" xml:id="WP_1573_01_01_Nov._Ann._47r_8">
 
@@ -3535,12 +3532,11 @@
         </l>
         <l n="32" xml:id="WP_1573_01_01_Nov._Ann._48v_32">
 
-        <w xml:id="WP_1573_01_01_Nov._Ann._48v_32.1" xml:lang="olt">
-          <app>  
-            <lem>teip</lem>
-            <rdg>akis</rdg>
-          </app></w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._48v_32.2" xml:lang="olt">akis</w>
+        <app>
+          <lem><w xml:id="WP_1573_01_01_Nov._Ann._48v_32.1" xml:lang="olt">teip</w>
+          <w xml:id="WP_1573_01_01_Nov._Ann._48v_32.2" xml:lang="olt">akis</w></lem>
+          <rdg>akis</rdg>
+        </app>
         <w xml:id="WP_1573_01_01_Nov._Ann._48v_32.3" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._48v_32.4" xml:lang="olt">nieka</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._48v_32.5" xml:lang="olt">giedinga</w>
