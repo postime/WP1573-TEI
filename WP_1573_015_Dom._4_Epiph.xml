@@ -104,14 +104,13 @@
 
         <w xml:id="WP_1573_Dom._4_Epiph._75r_32.1" xml:lang="olt">kitaip</w>
         <w xml:id="WP_1573_Dom._4_Epiph._75r_32.2" xml:lang="olt">negal</w>
-        <w xml:id="WP_1573_Dom._4_Epiph._75r_32.3" xml:lang="olt">
-          <app>  
-            <lem>but</lem>
-            <rdg>but paſʒinnata</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._4_Epiph._75r_32.4" xml:lang="olt">ſʒinata</w>
-        <w xml:id="WP_1573_Dom._4_Epiph._75r_32.5" xml:lang="olt">nei</w>
-        <w xml:id="WP_1573_Dom._4_Epiph._75r_32.6" xml:lang="olt">paſʒinnata,</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Epiph._75r_32.3" xml:lang="olt">but</w>
+          <w xml:id="WP_1573_Dom._4_Epiph._75r_32.4" xml:lang="olt">ſʒinata</w>
+          <w xml:id="WP_1573_Dom._4_Epiph._75r_32.5" xml:lang="olt">nei</w>
+          <w xml:id="WP_1573_Dom._4_Epiph._75r_32.6" xml:lang="olt">paſʒinnata,</w></lem>
+          <rdg>but paſʒinnata</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._4_Epiph._75r_32.7" xml:lang="olt">liſchei</w>
         <w xml:id="WP_1573_Dom._4_Epiph._75r_32.8" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_Dom._4_Epiph._75r_32.9" xml:lang="olt">but</w>
@@ -356,12 +355,11 @@
         <w xml:id="WP_1573_Dom._4_Epiph._75v_21.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._4_Epiph._75v_21.5" xml:lang="olt">ſche</w>
         <w xml:id="WP_1573_Dom._4_Epiph._75v_21.6" xml:lang="olt">apłoſụ</w>
-        <w xml:id="WP_1573_Dom._4_Epiph._75v_21.7" xml:lang="olt">regi</w>
-        <w xml:id="WP_1573_Dom._4_Epiph._75v_21.8" xml:lang="olt">
-          <app>  
-            <lem>me</lem>
-            <rdg>regime</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Epiph._75v_21.7" xml:lang="olt">regi</w>
+          <w xml:id="WP_1573_Dom._4_Epiph._75v_21.8" xml:lang="olt">me</w></lem>
+          <rdg>regime</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._4_Epiph._75v_21.9" xml:lang="olt">kaip</w>
         </l>
         <l n="22" xml:id="WP_1573_Dom._4_Epiph._75v_22">
@@ -746,13 +744,12 @@
         <w xml:id="WP_1573_Dom._4_Epiph._76r_14.4" xml:lang="olt">k:</w>
         <w xml:id="WP_1573_Dom._4_Epiph._76r_14.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._4_Epiph._76r_14.6" xml:lang="olt">k:</w>
-        <w xml:id="WP_1573_Dom._4_Epiph._76r_14.7" xml:lang="olt">
-          <app>  
-            <lem>b:</lem>
-            <rdg>b: ſ:</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._4_Epiph._76r_14.8" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._4_Epiph._76r_14.9" xml:lang="olt">ſ:</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Epiph._76r_14.7" xml:lang="olt">b:</w>
+          <w xml:id="WP_1573_Dom._4_Epiph._76r_14.8" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Dom._4_Epiph._76r_14.9" xml:lang="olt">ſ:</w></lem>
+          <rdg>b: ſ:</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._4_Epiph._76r_14.10" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Dom._4_Epiph._76r_14.11" xml:lang="olt">Cħun</w>
         <w xml:id="WP_1573_Dom._4_Epiph._76r_14.12" xml:lang="olt">Jeſụ</w>
@@ -1693,13 +1690,12 @@
         <w xml:id="WP_1573_Dom._4_Epiph._77r_15.4" xml:lang="olt">tikeghimas,</w>
         <w xml:id="WP_1573_Dom._4_Epiph._77r_15.5" xml:lang="olt">irgi</w>
         <w xml:id="WP_1573_Dom._4_Epiph._77r_15.6" xml:lang="olt">tam</w>
-        <w xml:id="WP_1573_Dom._4_Epiph._77r_15.7" xml:lang="olt">
-          <app>  
-            <lem>pacʒiam</lem>
-            <rdg>pacʒiam we<lb break="no"/>nam</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._4_Epiph._77r_15.8" xml:lang="olt">A</w>
-        <w xml:id="WP_1573_Dom._4_Epiph._77r_15.9" xml:lang="olt">we<lb break="no"/>nam</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Epiph._77r_15.7" xml:lang="olt">pacʒiam</w>
+          <w xml:id="WP_1573_Dom._4_Epiph._77r_15.8" xml:lang="olt">A</w>
+          <w xml:id="WP_1573_Dom._4_Epiph._77r_15.9" xml:lang="olt">we<lb break="no"/>nam</w></lem>
+          <rdg>pacʒiam we<lb break="no"/>nam</rdg>
+        </app>
         </l>
         <l n="16" xml:id="WP_1573_Dom._4_Epiph._77r_16">
 

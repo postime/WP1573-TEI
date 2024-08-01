@@ -401,12 +401,11 @@
         <w xml:id="WP_1573_Dom._1_Epiph._55v_28.1" xml:lang="olt">priminlawa</w>
         <w xml:id="WP_1573_Dom._1_Epiph._55v_28.2" xml:lang="olt">ſaw</w>
         <w xml:id="WP_1573_Dom._1_Epiph._55v_28.3" xml:lang="olt">anụ</w>
-        <w xml:id="WP_1573_Dom._1_Epiph._55v_28.4" xml:lang="olt">nuſʒa</w>
-        <w xml:id="WP_1573_Dom._1_Epiph._55v_28.5" xml:lang="olt">
-          <app>  
-            <lem>deijmụ</lem>
-            <rdg>nuſʒadeijmụ</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._1_Epiph._55v_28.4" xml:lang="olt">nuſʒa</w>
+          <w xml:id="WP_1573_Dom._1_Epiph._55v_28.5" xml:lang="olt">deijmụ</w></lem>
+          <rdg>nuſʒadeijmụ</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._1_Epiph._55v_28.6" xml:lang="olt">pana</w>
         </l>
         <l n="29" xml:id="WP_1573_Dom._1_Epiph._55v_29">

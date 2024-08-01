@@ -1437,14 +1437,13 @@
 
         <w xml:id="WP_1573_Dom._Sexag._85r_14.1" xml:lang="olt">kure</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_14.2" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_Dom._Sexag._85r_14.3" xml:lang="olt">ſu</w>
-        <w xml:id="WP_1573_Dom._Sexag._85r_14.4" xml:lang="olt">phalcʒiawaghị</w>
-        <w xml:id="WP_1573_Dom._Sexag._85r_14.5" xml:lang="olt">ſu</w>
-        <w xml:id="WP_1573_Dom._Sexag._85r_14.6" xml:lang="olt">
-          <app>  
-            <lem>maiſchị</lem>
-            <rdg>ſuphalcʒiawaghị ſumaiſchị</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._Sexag._85r_14.3" xml:lang="olt">ſu</w>
+          <w xml:id="WP_1573_Dom._Sexag._85r_14.4" xml:lang="olt">phalcʒiawaghị</w>
+          <w xml:id="WP_1573_Dom._Sexag._85r_14.5" xml:lang="olt">ſu</w>
+          <w xml:id="WP_1573_Dom._Sexag._85r_14.6" xml:lang="olt">maiſchị</w></lem>
+          <rdg>ſuphalcʒiawaghị ſumaiſchị</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._Sexag._85r_14.7" xml:lang="olt">a</w>
         </l>
         <l n="15" xml:id="WP_1573_Dom._Sexag._85r_15">
@@ -2579,13 +2578,12 @@
             <rdg>t</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Sexag._86r_37.5" xml:lang="olt">ſʒmanes</w>
-        <w xml:id="WP_1573_Dom._Sexag._86r_37.6" xml:lang="olt">
-          <app>  
-            <lem>te</lem>
-            <rdg>te ſu</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._Sexag._86r_37.7" xml:lang="olt">kure</w>
-        <w xml:id="WP_1573_Dom._Sexag._86r_37.8" xml:lang="olt">ſu</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._Sexag._86r_37.6" xml:lang="olt">te</w>
+          <w xml:id="WP_1573_Dom._Sexag._86r_37.7" xml:lang="olt">kure</w>
+          <w xml:id="WP_1573_Dom._Sexag._86r_37.8" xml:lang="olt">ſu</w></lem>
+          <rdg>te ſu</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._Sexag._86r_37.9" xml:lang="olt">dʒaukſmu</w>
         </l>
         <pb n="86v"/>

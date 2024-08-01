@@ -3197,12 +3197,11 @@
 
         <w xml:id="WP_1573_01_06_Epiph._Dom._53v_32.1" xml:lang="olt">Vbagus,</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._53v_32.2" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._53v_32.3" xml:lang="olt">priſsi</w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._53v_32.4" xml:lang="olt">
-          <app>  
-            <lem>walantemus</lem>
-            <rdg>priſsiwalantemus</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_01_06_Epiph._Dom._53v_32.3" xml:lang="olt">priſsi</w>
+          <w xml:id="WP_1573_01_06_Epiph._Dom._53v_32.4" xml:lang="olt">walantemus</w></lem>
+          <rdg>priſsiwalantemus</rdg>
+        </app>
         <w xml:id="WP_1573_01_06_Epiph._Dom._53v_32.5" xml:lang="olt">tarnamus</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._53v_32.6" xml:lang="olt">ſʒa<lb break="no"/>dʒia</w>
         </l>

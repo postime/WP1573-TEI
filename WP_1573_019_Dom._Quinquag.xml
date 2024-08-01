@@ -2123,12 +2123,11 @@
             <lem>Claudit</lem>
             <rdg>,</rdg>
           </app></w>
-        <w xml:id="WP_1573_Dom._Quinquag._90v_19.3" xml:lang="lat">pŽna</w>
-        <w xml:id="WP_1573_Dom._Quinquag._90v_19.4" xml:lang="lat">
-          <app>  
-            <lem>aperit</lem>
-            <rdg>aperit pŽna</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._Quinquag._90v_19.3" xml:lang="lat">pŽna</w>
+          <w xml:id="WP_1573_Dom._Quinquag._90v_19.4" xml:lang="lat">aperit</w></lem>
+          <rdg>aperit pŽna</rdg>
+        </app>
         <punct>
 .</punct>
         <w xml:id="WP_1573_Dom._Quinquag._90v_19.6" xml:lang="olt">Akis</w>
@@ -2634,12 +2633,11 @@
         <w xml:id="WP_1573_Dom._Quinquag._91r_22.3" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_Dom._Quinquag._91r_22.4" xml:lang="olt">pats</w>
         <w xml:id="WP_1573_Dom._Quinquag._91r_22.5" xml:lang="olt">nareijens</w>
-        <w xml:id="WP_1573_Dom._Quinquag._91r_22.6" xml:lang="olt">
-          <app>  
-            <lem>eſt.</lem>
-            <rdg>eſt, ka</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._Quinquag._91r_22.7" xml:lang="olt">Ka</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._Quinquag._91r_22.6" xml:lang="olt">eſt.</w>
+          <w xml:id="WP_1573_Dom._Quinquag._91r_22.7" xml:lang="olt">Ka</w></lem>
+          <rdg>eſt, ka</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._Quinquag._91r_22.8" xml:lang="olt">ghiſsai</w>
         </l>
         <l n="23" xml:id="WP_1573_Dom._Quinquag._91r_23">

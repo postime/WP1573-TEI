@@ -329,13 +329,12 @@
         <w xml:id="WP_1573_Dom._3_Epiph._69r_23.2" xml:lang="olt">k:</w>
         <w xml:id="WP_1573_Dom._3_Epiph._69r_23.3" xml:lang="olt">ſchas</w>
         <w xml:id="WP_1573_Dom._3_Epiph._69r_23.4" xml:lang="olt">dienas</w>
-        <w xml:id="WP_1573_Dom._3_Epiph._69r_23.5" xml:lang="olt">
-          <app>  
-            <lem>Egłai</lem>
-            <rdg>Egłai du</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Epiph._69r_23.6" xml:lang="olt">mumus</w>
-        <w xml:id="WP_1573_Dom._3_Epiph._69r_23.7" xml:lang="olt">du</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Epiph._69r_23.5" xml:lang="olt">Egłai</w>
+          <w xml:id="WP_1573_Dom._3_Epiph._69r_23.6" xml:lang="olt">mumus</w>
+          <w xml:id="WP_1573_Dom._3_Epiph._69r_23.7" xml:lang="olt">du</w></lem>
+          <rdg>Egłai du</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._3_Epiph._69r_23.8" xml:lang="olt">giwu</w>
         <w xml:id="WP_1573_Dom._3_Epiph._69r_23.9" xml:lang="olt">paweiſdu,</w>
         <w xml:id="WP_1573_Dom._3_Epiph._69r_23.10" xml:lang="olt">ku<lb break="no"/>rodu</w>

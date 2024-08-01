@@ -3074,13 +3074,12 @@
         <w xml:id="WP_1573_Dom._Septuag._83v_2.2" xml:lang="olt">k:</w>
         <w xml:id="WP_1573_Dom._Septuag._83v_2.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Septuag._83v_2.4" xml:lang="olt">k:</w>
-        <w xml:id="WP_1573_Dom._Septuag._83v_2.5" xml:lang="olt">
-          <app>  
-            <lem>b:</lem>
-            <rdg>b: ſ:</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._Septuag._83v_2.6" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._Septuag._83v_2.7" xml:lang="olt">ſ:</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._Septuag._83v_2.5" xml:lang="olt">b:</w>
+          <w xml:id="WP_1573_Dom._Septuag._83v_2.6" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Dom._Septuag._83v_2.7" xml:lang="olt">ſ:</w></lem>
+          <rdg>b: ſ:</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._Septuag._83v_2.8" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Dom._Septuag._83v_2.9" xml:lang="olt">Cħun</w>
         <w xml:id="WP_1573_Dom._Septuag._83v_2.10" xml:lang="olt">Je:,</w>

@@ -1452,12 +1452,11 @@
 
         <w xml:id="WP_1573_Dom._5_Epiph._78v_20.1" xml:lang="olt">Weikeſni</w>
         <w xml:id="WP_1573_Dom._5_Epiph._78v_20.2" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_Dom._5_Epiph._78v_20.3" xml:lang="olt">grei</w>
-        <w xml:id="WP_1573_Dom._5_Epiph._78v_20.4" xml:lang="olt">
-          <app>  
-            <lem>teſni</lem>
-            <rdg>greiteſni</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._5_Epiph._78v_20.3" xml:lang="olt">grei</w>
+          <w xml:id="WP_1573_Dom._5_Epiph._78v_20.4" xml:lang="olt">teſni</w></lem>
+          <rdg>greiteſni</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._5_Epiph._78v_20.5" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._5_Epiph._78v_20.6" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._5_Epiph._78v_20.7" xml:lang="olt">prijemima</w>
