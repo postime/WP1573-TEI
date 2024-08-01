@@ -3564,11 +3564,12 @@
         <l n="13" xml:id="WP_1573_Dom._2_Adv._10v_13">
 
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.1" xml:lang="olt">Salomo:</w>
-        <app>
-          <lem><w xml:id="WP_1573_Dom._2_Adv._10v_13.2" xml:lang="lat">pro:</w>
-          <w xml:id="WP_1573_Dom._2_Adv._10v_13.3" xml:lang="lat">16</w></lem>
-          <rdg>6</rdg>
-        </app>
+        <w xml:id="WP_1573_Dom._2_Adv._10v_13.2" xml:lang="lat">pro:</w>
+        <w xml:id="WP_1573_Dom._2_Adv._10v_13.3" xml:lang="lat">
+          <app>  
+            <lem>16</lem>
+            <rdg>6</rdg>
+          </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.4" xml:lang="olt">tardams:</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.5" xml:lang="olt">Gaileſis</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.6" xml:lang="olt">a</w>
@@ -4618,11 +4619,12 @@
         </l>
         <l n="8" xml:id="WP_1573_Dom._2_Adv._12r_8">
 
-        <app>
-          <lem><w xml:id="WP_1573_Dom._2_Adv._12r_8.1" xml:lang="olt">Joha:</w>
-          <w xml:id="WP_1573_Dom._2_Adv._12r_8.2" xml:lang="olt">15:</w></lem>
-          <rdg>18:</rdg>
-        </app>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_8.1" xml:lang="olt">Joha:</w>
+        <w xml:id="WP_1573_Dom._2_Adv._12r_8.2" xml:lang="olt">
+          <app>
+            <lem>15:</lem>
+            <rdg>18:</rdg>
+          </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.3" xml:lang="olt">Jeigu</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.4" xml:lang="olt">anſai</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.5" xml:lang="olt">balſas</w>

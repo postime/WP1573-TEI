@@ -2219,8 +2219,8 @@
         <w xml:id="WP_1573_Dom._3_Adv._15v_27.3" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_27.4" xml:lang="olt">
           <app>  
-            <lem>uſʒmakieghimu:</lem>
-            <rdg>,</rdg>
+            <lem>uſʒmakieghimu:</lem> <!-- The footnote "changed from: ','" pertains only to the punctuation mark, but since the word got tokenised together with the punctuation mark, the footnote attached to the whole thing, giving the impression that the word was added during the change as well. -->
+            <rdg>uſʒmakieghimu,</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_27.5" xml:lang="olt">De<lb break="no"/>was</w>
         </l>
@@ -2253,16 +2253,15 @@
         <w xml:id="WP_1573_Dom._3_Adv._15v_30.4" xml:lang="olt">akluiụ</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_30.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._3_Adv._15v_30.6" xml:lang="olt">auſis</w>
-        <w xml:id="WP_1573_Dom._3_Adv._15v_30.7" xml:lang="olt">kurcʒụ<lb break="no"/>iụ.</w>
+        <w xml:id="WP_1573_Dom._3_Adv._15v_30.7" xml:lang="olt">
+          <app>
+            <lem>kurcʒụ<lb break="no"/>iụ.</lem>
+            <rdg>kurcʒụ<lb break="no"/>iụ,</rdg> <!-- Another punctuation alteration issue. Welver changed '.' to ','. This turned out messy in the conversion because it's split over two lines of text.-->
+          </app></w>
         </l>
         <l n="31" xml:id="WP_1573_Dom._3_Adv._15v_31">
 
-        <punct>
 
-          <app>  
-            <lem>.</lem>
-            <rdg>kurcʒụ<lb break="no"/>iụ,</rdg>
-          </app></punct>
         <w xml:id="WP_1573_Dom._3_Adv._15v_31.2" xml:lang="olt">
           <app>  
             <lem>tada</lem>
@@ -2331,11 +2330,12 @@
         <pb n="16r"/>
         <l n="1" xml:id="WP_1573_Dom._3_Adv._16r_1">
 
-       <app>
-         <lem> <w xml:id="WP_1573_Dom._3_Adv._16r_1.1" xml:lang="olt">61</w>
-          <w xml:id="WP_1573_Dom._3_Adv._16r_1.2" xml:lang="olt">Perſonai</w></lem>
-         <rdg>10</rdg>
-       </app>
+        <w xml:id="WP_1573_Dom._3_Adv._16r_1.1" xml:lang="olt">
+          <app>
+            <lem>61</lem>
+            <rdg>10</rdg>
+          </app> </w>
+        <w xml:id="WP_1573_Dom._3_Adv._16r_1.2" xml:lang="olt">Perſonai</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_1.3" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_1.4" xml:lang="olt">meſsiaſʒaus</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_1.5" xml:lang="olt">tardams:</w>
@@ -4274,7 +4274,8 @@
         <w xml:id="WP_1573_Dom._3_Adv._18v_3.1" xml:lang="olt">Ja</w>
         <w xml:id="WP_1573_Dom._3_Adv._18v_3.2" xml:lang="olt">paweiſdu</w>
         <w xml:id="WP_1573_Dom._3_Adv._18v_3.3" xml:lang="olt">teipaiegi</w>
-        <w xml:id="WP_1573_Dom._3_Adv._18v_3.4" xml:lang="olt">|lM3</w>
+        <w xml:id="WP_1573_Dom._3_Adv._18v_3.4" xml:lang="olt">|lM3</w> <!-- This is an insertion in margine. The digital edition reads 'Line: M3' here, to indicate that the words 'ſawu budu' from marginal note M3 are to be inserted. I've supplied them below.-->
+        <add>ſawu budu</add>
         <w xml:id="WP_1573_Dom._3_Adv._18v_3.5" xml:lang="olt">wiſsi</w>
         </l>
         <l n="4" xml:id="WP_1573_Dom._3_Adv._18v_4">
