@@ -32,8 +32,8 @@
 		"prefix": "alt-others",
 		"body": [
 			"<app hand=\"$1\">",
-			"  <lem>${2:text}</lem>",
-			"  <rdg>${TM_SELECTED_TEXT:${3:footnote}}</rdg>",
+			"  <lem>${TM_SELECTED_TEXT:${2:text}}</lem>",
+			"  <rdg>${3:footnote}</rdg>",
 			"</app>"
 		]
 	},
