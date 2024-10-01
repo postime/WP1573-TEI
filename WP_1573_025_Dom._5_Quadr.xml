@@ -1480,16 +1480,15 @@
         <w xml:id="WP_1573_Dom._5_Quadr._120r_24.5" xml:lang="olt">to</w>
         <w xml:id="WP_1573_Dom._5_Quadr._120r_24.6" xml:lang="olt">ipati</w>
         <w xml:id="WP_1573_Dom._5_Quadr._120r_24.7" xml:lang="olt">ſʒenklu.</w>
-        <w xml:id="WP_1573_Dom._5_Quadr._120r_24.8" xml:lang="olt">
-          <app>  
-            <lem>Su<lb break="no"/>nus</lem>
-            <rdg>Su<lb break="no"/>nus Diewa</rdg>
-          </app></w>
-        </l>
-        <l n="25" xml:id="WP_1573_Dom._5_Quadr._120r_25">
-
-        <w xml:id="WP_1573_Dom._5_Quadr._120r_25.1" xml:lang="olt">p:</w>
-        <w xml:id="WP_1573_Dom._5_Quadr._120r_25.2" xml:lang="olt">Diewa</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._5_Quadr._120r_24.8" xml:lang="olt">Su<lb break="no"/>nus</w>
+          </l>
+          <l n="25" xml:id="WP_1573_Dom._5_Quadr._120r_25">
+  
+          <w xml:id="WP_1573_Dom._5_Quadr._120r_25.1" xml:lang="olt">p:</w>
+          <w xml:id="WP_1573_Dom._5_Quadr._120r_25.2" xml:lang="olt">Diewa</w></lem>
+          <rdg>Su<lb break="no"/>nus Diewa</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._5_Quadr._120r_25.3" xml:lang="olt">radi</w>
         <w xml:id="WP_1573_Dom._5_Quadr._120r_25.4" xml:lang="olt">klauſa</w>
         <w xml:id="WP_1573_Dom._5_Quadr._120r_25.5" xml:lang="olt">ſʒadʒia</w>
@@ -3010,12 +3009,11 @@
         <w xml:id="WP_1573_Dom._5_Quadr._122r_21.2" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._5_Quadr._122r_21.3" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._5_Quadr._122r_21.4" xml:lang="olt">tur</w>
-        <w xml:id="WP_1573_Dom._5_Quadr._122r_21.5" xml:lang="olt">
-          <app>  
-            <lem>rupeti?</lem>
-            <rdg>rupeti nereikia</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._5_Quadr._122r_21.6" xml:lang="olt">nereikia</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._5_Quadr._122r_21.5" xml:lang="olt">rupeti?</w>
+          <w xml:id="WP_1573_Dom._5_Quadr._122r_21.6" xml:lang="olt">nereikia</w></lem>
+          <rdg>rupeti nereikia</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._5_Quadr._122r_21.7" xml:lang="olt">nei</w>
         <w xml:id="WP_1573_Dom._5_Quadr._122r_21.8" xml:lang="olt">maſʒia</w>
         <w xml:id="WP_1573_Dom._5_Quadr._122r_21.9" xml:lang="olt">At<lb break="no"/>mink</w>

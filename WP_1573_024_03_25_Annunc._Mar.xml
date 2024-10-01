@@ -713,13 +713,12 @@
         <l n="23" xml:id="WP_1573_03_25_Annunc._Mar._115r_23">
 
         <w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.1" xml:lang="olt">abeijaghima</w>
-        <w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.2" xml:lang="olt">
-          <app>  
-            <lem>hadnas,</lem>
-            <rdg>hadnas, eſti</rdg>
-          </app></w>
-        <w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.3" xml:lang="olt">tai</w>
-        <w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.4" xml:lang="olt">eſti,</w>
+        <app>
+          <lem><w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.2" xml:lang="olt">hadnas,</w>
+          <w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.3" xml:lang="olt">tai</w>
+          <w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.4" xml:lang="olt">eſti,</w></lem>
+          <rdg>hadnas, eſti</rdg>
+        </app>
         <w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.5" xml:lang="olt">wertas</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.6" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._115r_23.7" xml:lang="olt">tikeghi<lb break="no"/>ma.</w>
@@ -1844,13 +1843,12 @@
           </app></w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._116v_16.4" xml:lang="olt">ieib</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._116v_16.5" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_03_25_Annunc._Mar._116v_16.6" xml:lang="olt">
-          <app>  
-            <lem>gierauſis</lem>
-            <rdg>gierauſis nu<lb break="no"/>pelnuſsi</rdg>
-          </app></w>
-        <w xml:id="WP_1573_03_25_Annunc._Mar._116v_16.7" xml:lang="olt">ne</w>
-        <w xml:id="WP_1573_03_25_Annunc._Mar._116v_16.8" xml:lang="olt">nu<lb break="no"/>pelnuſsi</w>
+        <app>
+          <lem><w xml:id="WP_1573_03_25_Annunc._Mar._116v_16.6" xml:lang="olt">gierauſis</w>
+          <w xml:id="WP_1573_03_25_Annunc._Mar._116v_16.7" xml:lang="olt">ne</w>
+          <w xml:id="WP_1573_03_25_Annunc._Mar._116v_16.8" xml:lang="olt">nu<lb break="no"/>pelnuſsi</w></lem>
+          <rdg>gierauſis nu<lb break="no"/>pelnuſsi</rdg>
+        </app>
         </l>
         <l n="17" xml:id="WP_1573_03_25_Annunc._Mar._116v_17">
 
@@ -1875,13 +1873,12 @@
         <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.1" xml:lang="olt">A</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.2" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.3" xml:lang="olt">to,</w>
-        <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.4" xml:lang="olt">
-          <app>  
-            <lem>Jdant</lem>
-            <rdg>Jdant nebutụ</rdg>
-          </app></w>
-        <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.5" xml:lang="olt">kas</w>
-        <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.6" xml:lang="olt">nebutụ</w>
+        <app>
+          <lem><w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.4" xml:lang="olt">Jdant</w>
+          <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.5" xml:lang="olt">kas</w>
+          <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.6" xml:lang="olt">nebutụ</w></lem>
+          <rdg>Jdant nebutụ</rdg>
+        </app>
         <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.7" xml:lang="olt">ſkirima</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.8" xml:lang="olt">muſu</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._116v_19.9" xml:lang="olt">dar<lb break="no"/>bams.</w>

@@ -71,16 +71,15 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._127r_23.4" xml:lang="olt">Epłas</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127r_23.5" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127r_23.6" xml:lang="olt">gramatas</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._127r_23.7" xml:lang="olt">
-          <app>  
-            <lem>m:</lem>
-            <rdg>m: k:</rdg>
-          </app></w>
-        </l>
-        <l n="24" xml:id="WP_1573_Fer._5_Magn._mat._127r_24">
-
-        <w xml:id="WP_1573_Fer._5_Magn._mat._127r_24.1" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._127r_24.2" xml:lang="olt">k:</w>
+        <app>
+          <lem><w xml:id="WP_1573_Fer._5_Magn._mat._127r_23.7" xml:lang="olt">m:</w>
+          </l>
+          <l n="24" xml:id="WP_1573_Fer._5_Magn._mat._127r_24">
+  
+          <w xml:id="WP_1573_Fer._5_Magn._mat._127r_24.1" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Fer._5_Magn._mat._127r_24.2" xml:lang="olt">k:</w></lem>
+          <rdg>m: k:</rdg>
+        </app>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127r_24.3" xml:lang="olt">b:</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127r_24.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127r_24.5" xml:lang="olt">ſ:</w>
@@ -1854,12 +1853,11 @@
         </l>
         <l n="15" xml:id="WP_1573_Fer._5_Magn._mat._129v_15">
 
-        <w xml:id="WP_1573_Fer._5_Magn._mat._129v_15.1" xml:lang="olt">
-          <app>  
-            <lem>a</lem>
-            <rdg>ira</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._129v_15.2" xml:lang="olt">uſʒkietawị</w>
+        <app>
+          <lem><w xml:id="WP_1573_Fer._5_Magn._mat._129v_15.1" xml:lang="olt">a</w>
+          <w xml:id="WP_1573_Fer._5_Magn._mat._129v_15.2" xml:lang="olt">uſʒkietawị</w></lem>
+          <rdg>ira</rdg>
+        </app>
         <w xml:id="WP_1573_Fer._5_Magn._mat._129v_15.3" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._129v_15.4" xml:lang="olt">ſʒirdija</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._129v_15.5" xml:lang="olt">ſawa,</w>
@@ -2540,12 +2538,11 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_8.3" xml:lang="olt">hadnai</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_8.4" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_8.5" xml:lang="olt">wertai</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._130v_8.6" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._130v_8.7" xml:lang="olt">
-          <app>  
-            <lem>hadnai</lem>
-            <rdg>ir nehadnai</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Fer._5_Magn._mat._130v_8.6" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Fer._5_Magn._mat._130v_8.7" xml:lang="olt">hadnai</w></lem>
+          <rdg>ir nehadnai</rdg>
+        </app>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_8.8" xml:lang="olt">tap</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_8.9" xml:lang="olt">
           <app>  

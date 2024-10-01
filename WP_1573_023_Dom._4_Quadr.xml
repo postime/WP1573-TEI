@@ -569,12 +569,11 @@
         <l n="27" xml:id="WP_1573_Dom._4_Quadr._110r_27">
 
         <w xml:id="WP_1573_Dom._4_Quadr._110r_27.1" xml:lang="olt">puſse</w>
-        <w xml:id="WP_1573_Dom._4_Quadr._110r_27.2" xml:lang="olt">
-          <app>  
-            <lem>reſʒgies</lem>
-            <rdg>✝ angu pintiniu</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._4_Quadr._110r_27.3" xml:lang="olt">buti,</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Quadr._110r_27.2" xml:lang="olt">reſʒgies</w>
+          <w xml:id="WP_1573_Dom._4_Quadr._110r_27.3" xml:lang="olt">buti,</w></lem>
+          <rdg>reſʒgies ✝ angu pintiniu buti,</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._4_Quadr._110r_27.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._4_Quadr._110r_27.5" xml:lang="olt">priwalgiuſemus</w>
         <w xml:id="WP_1573_Dom._4_Quadr._110r_27.6" xml:lang="olt">12</w>
@@ -1448,16 +1447,12 @@
         <w xml:id="WP_1573_Dom._4_Quadr._111v_5.3" xml:lang="olt">grekụ</w>
         <w xml:id="WP_1573_Dom._4_Quadr._111v_5.4" xml:lang="olt">atleidima,</w>
         <w xml:id="WP_1573_Dom._4_Quadr._111v_5.5" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._4_Quadr._111v_5.6" xml:lang="olt">
-          <app>  
-            <lem>pa</lem>
-            <rdg>✝ ſchas</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._4_Quadr._111v_5.7" xml:lang="olt">
-          <app>  
-            <lem>ſner<lb break="no"/>ties</lem>
-            <rdg>ſmer<lb break="no"/>ties</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._4_Quadr._111v_5.6" xml:lang="olt">pa</w>
+          <w xml:id="WP_1573_Dom._4_Quadr._111v_5.7" xml:lang="olt">ſner<lb break="no"/>ties</w></lem>
+          <rdg>pa ✝ ſchas ſner<lb break="no"/>ties</rdg>
+          <rdg>ſmer<lb break="no"/>ties</rdg>
+        </app>
         </l>
         <l n="6" xml:id="WP_1573_Dom._4_Quadr._111v_6">
 

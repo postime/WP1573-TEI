@@ -103,12 +103,11 @@
         <w xml:id="WP_1573_Dom._3_Quadr._104v_13.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._3_Quadr._104v_13.2" xml:lang="olt">karaliſtes</w>
         <w xml:id="WP_1573_Dom._3_Quadr._104v_13.3" xml:lang="olt">ſchetana.</w>
-        <w xml:id="WP_1573_Dom._3_Quadr._104v_13.4" xml:lang="olt">
-          <app>  
-            <lem>2</lem>
-            <rdg>✝ gniewaie̗s</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Quadr._104v_13.5" xml:lang="olt">Preſchineghimas</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Quadr._104v_13.4" xml:lang="olt">2</w>
+          <w xml:id="WP_1573_Dom._3_Quadr._104v_13.5" xml:lang="olt">Preſchineghimas</w></lem>
+          <rdg>2 ✝ gniewaie̗s Preſchineghimas</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._3_Quadr._104v_13.6" xml:lang="olt">ter<lb break="no"/>pei</w>
         </l>
         <l n="14" xml:id="WP_1573_Dom._3_Quadr._104v_14">
@@ -184,12 +183,11 @@
         <l n="20" xml:id="WP_1573_Dom._3_Quadr._104v_20">
 
         <w xml:id="WP_1573_Dom._3_Quadr._104v_20.1" xml:lang="olt">ſ:</w>
-        <w xml:id="WP_1573_Dom._3_Quadr._104v_20.2" xml:lang="olt">
-          <app>  
-            <lem>Luk:</lem>
-            <rdg>✝ Jr</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Quadr._104v_20.3" xml:lang="olt">Bua</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Quadr._104v_20.2" xml:lang="olt">Luk:</w>
+          <w xml:id="WP_1573_Dom._3_Quadr._104v_20.3" xml:lang="olt">Bua</w></lem>
+          <rdg>Luk: ✝ Jr Bua</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._3_Quadr._104v_20.4" xml:lang="olt">Jeſus</w>
         <w xml:id="WP_1573_Dom._3_Quadr._104v_20.5" xml:lang="olt">
           <app>  
@@ -651,12 +649,11 @@
 
         <w xml:id="WP_1573_Dom._3_Quadr._105r_24.1" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._3_Quadr._105r_24.2" xml:lang="olt">ſʒadʒia</w>
-        <w xml:id="WP_1573_Dom._3_Quadr._105r_24.3" xml:lang="olt">
-          <app>  
-            <lem>pana</lem>
-            <rdg>✝ Diewa</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Quadr._105r_24.4" xml:lang="olt">iſchgannitas</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Quadr._105r_24.3" xml:lang="olt">pana</w>
+          <w xml:id="WP_1573_Dom._3_Quadr._105r_24.4" xml:lang="olt">iſchgannitas</w></lem>
+          <rdg>pana ✝ Diewa iſchgannitas</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._3_Quadr._105r_24.5" xml:lang="olt">ſtaiſs</w>
         <w xml:id="WP_1573_Dom._3_Quadr._105r_24.6" xml:lang="olt">est,</w>
         <w xml:id="WP_1573_Dom._3_Quadr._105r_24.7" xml:lang="olt">net</w>
@@ -1163,12 +1160,11 @@
             <lem>neſang</lem>
             <rdg>neſeng</rdg>
           </app></w>
-        <w xml:id="WP_1573_Dom._3_Quadr._105v_33.7" xml:lang="olt">
-          <app>  
-            <lem>ner</lem>
-            <rdg>✝ Kurs</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Quadr._105v_33.8" xml:lang="olt">ta</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Quadr._105v_33.7" xml:lang="olt">ner</w>
+          <w xml:id="WP_1573_Dom._3_Quadr._105v_33.8" xml:lang="olt">ta</w></lem>
+          <rdg>ner ✝ Kurs ta</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._3_Quadr._105v_33.9" xml:lang="olt">ger<lb break="no"/>raus</w>
         </l>
         <l n="34" xml:id="WP_1573_Dom._3_Quadr._105v_34">
@@ -1439,13 +1435,12 @@
         </l>
         <l n="19" xml:id="WP_1573_Dom._3_Quadr._106r_19">
 
-        <w xml:id="WP_1573_Dom._3_Quadr._106r_19.1" xml:lang="olt">
-          <app>  
-            <lem>tai</lem>
-            <rdg>tai kadel</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Quadr._106r_19.2" xml:lang="olt">iam</w>
-        <w xml:id="WP_1573_Dom._3_Quadr._106r_19.3" xml:lang="olt">kadel</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Quadr._106r_19.1" xml:lang="olt">tai</w>
+          <w xml:id="WP_1573_Dom._3_Quadr._106r_19.2" xml:lang="olt">iam</w>
+          <w xml:id="WP_1573_Dom._3_Quadr._106r_19.3" xml:lang="olt">kadel</w></lem>
+          <rdg>tai kadel</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_19.4" xml:lang="olt">perleidʒia</w>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_19.5" xml:lang="olt">panas</w>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_19.6" xml:lang="olt">Diewas.</w>
@@ -1477,20 +1472,20 @@
         <w xml:id="WP_1573_Dom._3_Quadr._106r_21.2" xml:lang="olt">
           <app>  
             <lem>ira.</lem>
-            <rdg>?</rdg>
+            <rdg>ira?</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_21.3" xml:lang="olt">kạ</w>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_21.4" xml:lang="olt">
           <app>  
             <lem>dara.</lem>
-            <rdg>?</rdg>
+            <rdg>dara?</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_21.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_21.6" xml:lang="olt">kadel</w>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_21.7" xml:lang="olt">
           <app>  
             <lem>dara.</lem>
-            <rdg>?</rdg>
+            <rdg>dara?</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_21.8" xml:lang="olt">Kas</w>
         <w xml:id="WP_1573_Dom._3_Quadr._106r_21.9" xml:lang="olt">ira</w>
@@ -3392,12 +3387,11 @@
         <l n="14" xml:id="WP_1573_Dom._3_Quadr._108v_14">
 
         <w xml:id="WP_1573_Dom._3_Quadr._108v_14.1" xml:lang="olt">ſawa</w>
-        <w xml:id="WP_1573_Dom._3_Quadr._108v_14.2" xml:lang="olt">
-          <app>  
-            <lem>gieribes</lem>
-            <rdg>✝ doſt mumus</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Quadr._108v_14.3" xml:lang="olt">dawanai</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Quadr._108v_14.2" xml:lang="olt">gieribes</w>
+          <w xml:id="WP_1573_Dom._3_Quadr._108v_14.3" xml:lang="olt">dawanai</w></lem>
+          <rdg>gieribes ✝ doſt mumus dawanai</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._3_Quadr._108v_14.4" xml:lang="olt">ſawạ</w>
         <w xml:id="WP_1573_Dom._3_Quadr._108v_14.5" xml:lang="olt">
           <app>  

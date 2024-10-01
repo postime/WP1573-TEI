@@ -77,12 +77,11 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.1" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.2" xml:lang="olt">wenas</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.3" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.4" xml:lang="olt">
-          <app>  
-            <lem>iuſụ,</lem>
-            <rdg>&lt;&lt;,&gt;&gt;</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.5" xml:lang="olt">iſchdos</w>
+        <app>
+          <lem><w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.4" xml:lang="olt">iuſụ,</w>
+          <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.5" xml:lang="olt">iſchdos</w></lem>
+          <rdg>iuſụ &lt;&lt;,&gt;&gt; iſchdos</rdg>
+        </app>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.6" xml:lang="olt">mane.</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.7" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.8" xml:lang="olt">uſʒu<lb break="no"/>ſiſmutigen</w>
@@ -963,13 +962,12 @@
 
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.1" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.2" xml:lang="olt">nepriweſs,</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.3" xml:lang="olt">
-          <app>  
-            <lem>taſai</lem>
-            <rdg>taſai turri</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.4" xml:lang="olt">iau</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.5" xml:lang="olt">turri</w>
+        <app>
+          <lem><w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.3" xml:lang="olt">taſai</w>
+          <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.4" xml:lang="olt">iau</w>
+          <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.5" xml:lang="olt">turri</w></lem>
+          <rdg>taſai turri</rdg>
+        </app>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.6" xml:lang="olt">but</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.7" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.8" xml:lang="olt">ir</w>
