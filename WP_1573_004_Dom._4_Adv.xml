@@ -3302,11 +3302,12 @@
           </app></w>
         <w xml:id="WP_1573_Dom._4_Adv._23r_17.2" xml:lang="olt">ias</w>
         <w xml:id="WP_1573_Dom._4_Adv._23r_17.3" xml:lang="olt">gimiu</w>
-        <app>
-          <lem><w xml:id="WP_1573_Dom._4_Adv._23r_17.4" xml:lang="lat">Rom:</w>
-          <w xml:id="WP_1573_Dom._4_Adv._23r_17.5" xml:lang="lat">2.</w></lem>
-          <rdg>9.</rdg>
-        </app>
+        <w xml:id="WP_1573_Dom._4_Adv._23r_17.4" xml:lang="lat">Rom:</w>
+        <w xml:id="WP_1573_Dom._4_Adv._23r_17.5" xml:lang="lat">
+          <app>  
+            <lem>2.</lem>
+            <rdg>9.</rdg>
+          </app></w>
         <w xml:id="WP_1573_Dom._4_Adv._23r_17.6" xml:lang="olt">Nei</w>
         </l>
         <l n="18" xml:id="WP_1573_Dom._4_Adv._23r_18">
