@@ -307,7 +307,7 @@
         <l n="12" xml:id="WP_1573_Dom._2_Adv._6r_12">
 
         <w xml:id="WP_1573_Dom._2_Adv._6r_12.1" xml:lang="olt">
-          <app>  
+          <app type="err">
             <lem>Schenkus</lem>
             <rdg>Schenklus</rdg>
           </app></w>
@@ -444,11 +444,8 @@
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.3" xml:lang="olt">daſʒnai</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.4" xml:lang="olt">regime,</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_25.5" xml:lang="olt">ir</w>
-        <app>
-          <lem><w xml:id="WP_1573_Dom._2_Adv._6r_25.6" xml:lang="olt">indiwneſniụ</w>
-          <w xml:id="WP_1573_Dom._2_Adv._6r_25.7" xml:lang="olt">pirm</w></lem>
-          <rdg>indiwneſniụ</rdg>
-        </app>
+        <w xml:id="WP_1573_Dom._2_Adv._6r_25.6" xml:lang="olt">indiwneſniụ</w>
+        <add>pirm</add>
         </l>
         <l n="26" xml:id="WP_1573_Dom._2_Adv._6r_26">
 
@@ -460,7 +457,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.6" xml:lang="olt">Cronikas</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.7" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Adv._6r_26.8" xml:lang="olt">
-          <app>  
+          <app type="err">
             <lem>hiſtoias</lem>
             <rdg>hiſtorias</rdg>
           </app></w>
@@ -907,8 +904,8 @@
         <l n="1" xml:id="WP_1573_Dom._2_Adv._7r_1">
 
         <w xml:id="WP_1573_Dom._2_Adv._7r_1.1" xml:lang="olt">
-          <app>  
-            <lem>negirdetu</lem>
+          <app type="err">
+           <lem>negirdetu</lem>
             <rdg>girdetu</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_1.2" xml:lang="olt">ligụ</w>
@@ -1207,7 +1204,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.4" xml:lang="olt">bus,</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.5" xml:lang="olt">Tewai</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.6" xml:lang="olt">ſu</w>
-        <w xml:id="WP_1573_Dom._2_Adv._7r_32.7" xml:lang="olt">
+        <w xml:id="WP_1573_Dom._2_Adv._7r_32.7" xml:lang="olt"> <!-- Instant correction + erratum pro, how to annotate?-->
           <app>  
             <lem>ſumum</lem>
             <rdg>ſu mu</rdg>
@@ -1790,9 +1787,10 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.1" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.2" xml:lang="olt">weiſdeijma</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_17.3" xml:lang="olt">
-          <app>  
-            <lem>ia?</lem>
+        <w xml:id="WP_1573_Dom._2_Adv._8r_17.3" xml:lang="olt">ia</w>
+        <w xml:id="" xml:lang="olt"> <!-- Bielauk changes , to ?. How to annotate changes to punctuation marks, since they don't normally get a <w> line?-->
+          <app>
+            <lem>?</lem>
             <rdg>,</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_17.4" xml:lang="olt">ghis</w>
@@ -2035,7 +2033,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.7" xml:lang="olt">tarens</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.8" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.9" xml:lang="olt">
-          <app>  
+          <app type="err">
             <lem>Hieroninas</lem>
             <rdg>Hieronimas</rdg>
           </app></w>
@@ -2778,9 +2776,10 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.1" xml:lang="olt">geribiu</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.2" xml:lang="olt">pana</w>
-        <w xml:id="WP_1573_Dom._2_Adv._9v_4.3" xml:lang="olt">
-          <app>  
-            <lem>Diewa,</lem>
+        <w xml:id="WP_1573_Dom._2_Adv._9v_4.3" xml:lang="olt">Diewa</w>
+        <w xml:id="" xml:lang="olt"> <!-- Bielauk changes "." to ",". How to annotate?-->
+          <app>
+            <lem>,</lem>
             <rdg>.</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_4.4" xml:lang="olt">Anno</w>
@@ -2898,7 +2897,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_14.5" xml:lang="olt">kure</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_14.6" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_14.7" xml:lang="olt">
-          <app>  
+          <app type="err">
             <lem>ne<lb break="no"/>malingi</lem>
             <rdg>ne<lb break="no"/>malaningi</rdg>
           </app></w>
@@ -3038,7 +3037,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._9v_28.3" xml:lang="olt">del</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_28.4" xml:lang="olt">iuſụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_28.5" xml:lang="olt">
-          <app>  
+          <app type="err">
             <lem>ſʒmagunn</lem>
             <rdg>ſʒmagum</rdg>
           </app></w>
@@ -3189,7 +3188,7 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._10r_10.1" xml:lang="olt">didʒiaus</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_10.2" xml:lang="olt">ſaw</w>
-        <w xml:id="WP_1573_Dom._2_Adv._10r_10.3" xml:lang="olt">laiketi</w>
+        <w xml:id="WP_1573_Dom._2_Adv._10r_10.3" xml:lang="olt">laiketi</w> <!-- There's a correction by Sappuhn here: He underlines "laiketi" and writes "laikate" in the margin. Noted in the print edition as underlined + addition in margin. TITUS notes the word in the margin, but not what it's intended to replace. -->
         <w xml:id="WP_1573_Dom._2_Adv._10r_10.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_10.5" xml:lang="olt">
           <app>  
@@ -3566,7 +3565,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.1" xml:lang="olt">Salomo:</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.2" xml:lang="lat">pro:</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_13.3" xml:lang="lat">
-          <app>  
+          <app type="err">
             <lem>16</lem>
             <rdg>6</rdg>
           </app></w>
@@ -3960,7 +3959,8 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_18.2" xml:lang="olt">
           <app>  
             <lem>uſʒrudawimas</lem>
-            <rdg>uſʒrude &lt; uſʒra</rdg>
+            <rdg>uſʒra</rdg>
+            <rdg>uſʒrude</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_18.3" xml:lang="olt">
           <app>  
@@ -3989,7 +3989,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.1" xml:lang="olt">kit</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.2" xml:lang="olt">nebus</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.3" xml:lang="olt">liſchei</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_20.4" xml:lang="olt">
+        <w xml:id="WP_1573_Dom._2_Adv._11r_20.4" xml:lang="olt"> <!--Alteration + erratum pro, how to annotate?-->
           <app>  
             <lem>atdeghimas</lem>
             <rdg>ate</rdg>
@@ -4018,7 +4018,7 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_22.5" xml:lang="olt">gala</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_22.6" xml:lang="olt">ſʒmagaus</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_22.7" xml:lang="olt">
-          <app>  
+          <app hand="W">
             <lem>ate<lb break="no"/>ghimas</lem>
             <rdg>atden<lb break="no"/>ghimas</rdg>
           </app></w>
@@ -4184,7 +4184,7 @@
         <l n="2" xml:id="WP_1573_Dom._2_Adv._11v_2">
 
         <w xml:id="WP_1573_Dom._2_Adv._11v_2.1" xml:lang="olt">
-          <app>  
+          <app type="err">
             <lem>biaurunụ</lem>
             <rdg>biaurumụ</rdg>
           </app></w>
@@ -4198,14 +4198,12 @@
         <l n="3" xml:id="WP_1573_Dom._2_Adv._11v_3">
 
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.1" xml:lang="olt">tardams:</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_3.2" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_3.3" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_3.4" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11v_3.5" xml:lang="olt">
-          <app>  
-            <lem>&lt;&lt;....&gt;&gt;</lem>
-            <rdg>Bus iſchradita geda tawa</rdg>
-          </app></w>
+        <del>
+          <w xml:id="WP_1573_Dom._2_Adv._11v_3.2" xml:lang="olt">Bus</w>
+          <w xml:id="WP_1573_Dom._2_Adv._11v_3.3" xml:lang="olt">iſchradita</w>
+          <w xml:id="WP_1573_Dom._2_Adv._11v_3.4" xml:lang="olt">geda</w>
+          <w xml:id="WP_1573_Dom._2_Adv._11v_3.5" xml:lang="olt">tawa</w>
+        </del>
         <w xml:id="WP_1573_Dom._2_Adv._11v_3.6" xml:lang="olt">Atais</w>
         </l>
         <l n="4" xml:id="WP_1573_Dom._2_Adv._11v_4">
@@ -4232,11 +4230,13 @@
         <l n="6" xml:id="WP_1573_Dom._2_Adv._11v_6">
 
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.1" xml:lang="olt">kalba</w>
-        <app>
-          <lem><w xml:id="WP_1573_Dom._2_Adv._11v_6.2" xml:lang="olt">teip</w>
-          <w xml:id="WP_1573_Dom._2_Adv._11v_6.3" xml:lang="olt">7</w></lem>
-          <rdg>teip:</rdg>
-        </app>
+
+        <w xml:id="WP_1573_Dom._2_Adv._11v_6.2" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_Dom._2_Adv._11v_6.3" xml:lang="olt">
+          <app>
+            <lem>7</lem>
+            <rdg>:</rdg> <!--Bielauk wrote ":" too early. Instead of crossing it out, he wrote "7" on top of it when continuing the sentence. !-->
+          </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.4" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._2_Adv._11v_6.5" xml:lang="olt">
           <app>  
@@ -4257,7 +4257,7 @@
         <punct>
 ,</punct>
         <w xml:id="WP_1573_Dom._2_Adv._11v_7.5" xml:lang="olt">
-          <app>  
+          <app type="err">
             <lem>ku</lem>
             <rdg>kur</rdg>
           </app></w>
@@ -4369,7 +4369,7 @@
         <l n="18" xml:id="WP_1573_Dom._2_Adv._11v_18">
 
         <w xml:id="WP_1573_Dom._2_Adv._11v_18.1" xml:lang="olt">
-          <app>  
+          <app type="err">
             <lem>Papeikite</lem>
             <rdg>Papeikete</rdg>
           </app></w>
@@ -4621,9 +4621,9 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.1" xml:lang="olt">Joha:</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.2" xml:lang="olt">
-          <app>
-            <lem>15:</lem>
-            <rdg>18:</rdg>
+          <app type="err">
+           <lem>15:</lem>
+           <rdg>18:</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.3" xml:lang="olt">Jeigu</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_8.4" xml:lang="olt">anſai</w>
@@ -4900,7 +4900,7 @@
         <l n="34" xml:id="WP_1573_Dom._2_Adv._12r_34">
 
         <w xml:id="WP_1573_Dom._2_Adv._12r_34.1" xml:lang="olt">
-          <app>  
+          <app type="err">
             <lem>Jantekite</lem>
             <rdg>Jautekite</rdg>
           </app></w>
