@@ -251,11 +251,10 @@
 
         <w xml:id="WP_1573_Dom._24_Trin._272r_18.1" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Dom._24_Trin._272r_18.2" xml:lang="olt">ſwetụ</w>
-        <w xml:id="WP_1573_Dom._24_Trin._272r_18.3" xml:lang="olt">
-          <app>  
-            <lem>ineija</lem>
-            <rdg>ineija,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._24_Trin._272r_18.3" xml:lang="olt">ineija</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._24_Trin._272r_18.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._24_Trin._272r_18.5" xml:lang="olt">per</w>
         <w xml:id="WP_1573_Dom._24_Trin._272r_18.6" xml:lang="olt">grekụ</w>

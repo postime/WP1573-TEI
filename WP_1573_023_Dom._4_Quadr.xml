@@ -153,11 +153,10 @@
         <w xml:id="WP_1573_Dom._4_Quadr._109v_25.1" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._4_Quadr._109v_25.2" xml:lang="olt">ſchas</w>
         <w xml:id="WP_1573_Dom._4_Quadr._109v_25.3" xml:lang="olt">Dienas</w>
-        <w xml:id="WP_1573_Dom._4_Quadr._109v_25.4" xml:lang="olt">
-          <app>  
-            <lem>Egłai</lem>
-            <rdg>Egłai,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._4_Quadr._109v_25.4" xml:lang="olt">Egłai</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._4_Quadr._109v_25.5" xml:lang="olt">kura</w>
         <w xml:id="WP_1573_Dom._4_Quadr._109v_25.6" xml:lang="olt">gadeninkai,</w>
         <w xml:id="WP_1573_Dom._4_Quadr._109v_25.7" xml:lang="olt">ir</w>

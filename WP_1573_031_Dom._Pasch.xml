@@ -220,11 +220,10 @@
         <w xml:id="WP_1573_Dom._Pasch._152r_20.2" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._Pasch._152r_20.3" xml:lang="olt">iụ</w>
         <w xml:id="WP_1573_Dom._Pasch._152r_20.4" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_Dom._Pasch._152r_20.5" xml:lang="olt">
-          <app>  
-            <lem>gawens.</lem>
-            <rdg>gawens</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Pasch._152r_20.5" xml:lang="olt">gawens</w>
+        <del>
+          <punct>.</punct>
+        </del>
         <w xml:id="WP_1573_Dom._Pasch._152r_20.6" xml:lang="olt">
           <app>  
             <lem>Ba</lem>

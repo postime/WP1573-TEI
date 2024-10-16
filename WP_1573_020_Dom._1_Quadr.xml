@@ -837,11 +837,10 @@
 
         <w xml:id="WP_1573_Dom._1_Quadr._93v_21.1" xml:lang="olt">welſtu</w>
         <w xml:id="WP_1573_Dom._1_Quadr._93v_21.2" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_Dom._1_Quadr._93v_21.3" xml:lang="olt">
-          <app>  
-            <lem>naru</lem>
-            <rdg>naru,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._1_Quadr._93v_21.3" xml:lang="olt">naru</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._1_Quadr._93v_21.4" xml:lang="olt">
           <app>  
             <lem>neturrim</lem>
@@ -1146,11 +1145,10 @@
         <w xml:id="WP_1573_Dom._1_Quadr._94r_6.4" xml:lang="olt">kada</w>
         <w xml:id="WP_1573_Dom._1_Quadr._94r_6.5" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._1_Quadr._94r_6.6" xml:lang="olt">teip</w>
-        <w xml:id="WP_1573_Dom._1_Quadr._94r_6.7" xml:lang="olt">
-          <app>  
-            <lem>ira</lem>
-            <rdg>ira,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._1_Quadr._94r_6.7" xml:lang="olt">ira</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._1_Quadr._94r_6.8" xml:lang="olt">tada</w>
         <w xml:id="WP_1573_Dom._1_Quadr._94r_6.9" xml:lang="olt">iau</w>
         </l>
@@ -3192,11 +3190,10 @@
             <rdg>karaliſtes</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_35.3" xml:lang="olt">ſʒemes,</w>
-        <w xml:id="WP_1573_Dom._1_Quadr._96r_35.4" xml:lang="olt">
-          <app>  
-            <lem>meſtus</lem>
-            <rdg>meſtus,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._1_Quadr._96r_35.4" xml:lang="olt">meſtus</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_35.5" xml:lang="olt">
           <app>  
             <lem>kiemus</lem>

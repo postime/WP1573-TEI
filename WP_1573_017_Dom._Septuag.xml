@@ -223,11 +223,10 @@
         <l n="30" xml:id="WP_1573_Dom._Septuag._80r_30">
 
         <w xml:id="WP_1573_Dom._Septuag._80r_30.1" xml:lang="olt">wel</w>
-        <w xml:id="WP_1573_Dom._Septuag._80r_30.2" xml:lang="olt">
-          <app>  
-            <lem>kalba</lem>
-            <rdg>kalba:</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Septuag._80r_30.2" xml:lang="olt">kalba</w>
+        <add>
+          <punct>:</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Septuag._80r_30.3" xml:lang="olt">wiſsi</w>
         <w xml:id="WP_1573_Dom._Septuag._80r_30.4" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Septuag._80r_30.5" xml:lang="olt">ſugreſchiē,</w>
@@ -1205,11 +1204,10 @@
           </app></w>
         <w xml:id="WP_1573_Dom._Septuag._81r_35.3" xml:lang="olt">Ne</w>
         <w xml:id="WP_1573_Dom._Septuag._81r_35.4" xml:lang="olt">eſmi</w>
-        <w xml:id="WP_1573_Dom._Septuag._81r_35.5" xml:lang="olt">
-          <app>  
-            <lem>ſunſtas</lem>
-            <rdg>ſunſtas,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Septuag._81r_35.5" xml:lang="olt">ſunſtas</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Septuag._81r_35.6" xml:lang="olt">tiktai</w>
         <w xml:id="WP_1573_Dom._Septuag._81r_35.7" xml:lang="olt">awiumpi</w>
         <w xml:id="WP_1573_Dom._Septuag._81r_35.8" xml:lang="olt">
@@ -1425,11 +1423,10 @@
         </l>
         <l n="16" xml:id="WP_1573_Dom._Septuag._81v_16">
 
-        <w xml:id="WP_1573_Dom._Septuag._81v_16.1" xml:lang="olt">
-          <app>  
-            <lem>intikies</lem>
-            <rdg>intikies,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Septuag._81v_16.1" xml:lang="olt">intikies</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Septuag._81v_16.2" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Septuag._81v_16.3" xml:lang="olt">apkrikſʒtitas</w>
         <w xml:id="WP_1573_Dom._Septuag._81v_16.4" xml:lang="olt">bus,</w>

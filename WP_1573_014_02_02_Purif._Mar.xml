@@ -2822,11 +2822,10 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_17.2" xml:lang="olt">S</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_17.3" xml:lang="olt">Paw:</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_17.4" xml:lang="lat">Rom</w>
-        <w xml:id="WP_1573_02_02_Purif._Mar._74v_17.5" xml:lang="lat">
-          <app>  
-            <lem>6:</lem>
-            <rdg>6::</rdg>
-          </app></w>
+        <w xml:id="WP_1573_02_02_Purif._Mar._74v_17.5" xml:lang="lat">6:</w>
+        <add>
+          <punct>:</punct>
+        </add>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_17.6" xml:lang="olt">Neeſte</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_17.7" xml:lang="olt">pa</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_17.8" xml:lang="olt">

@@ -2102,11 +2102,10 @@
         <w xml:id="WP_1573_Dom._3_Quadr._107r_5.3" xml:lang="olt">Cħaus</w>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_5.4" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_5.5" xml:lang="olt">ſchweſibe</w>
-        <w xml:id="WP_1573_Dom._3_Quadr._107r_5.6" xml:lang="olt">
-          <app>  
-            <lem>amſʒina</lem>
-            <rdg>amſʒina,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._3_Quadr._107r_5.6" xml:lang="olt">amſʒina</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_5.7" xml:lang="olt">karaliſ<lb break="no"/>tai</w>
         </l>
         <l n="6" xml:id="WP_1573_Dom._3_Quadr._107r_6">
@@ -2258,11 +2257,10 @@
         <w xml:id="WP_1573_Dom._3_Quadr._107r_18.1" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_18.2" xml:lang="olt">ſʒadʒia</w>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_18.3" xml:lang="olt">pana</w>
-        <w xml:id="WP_1573_Dom._3_Quadr._107r_18.4" xml:lang="olt">
-          <app>  
-            <lem>Diewa</lem>
-            <rdg>Diewa,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._3_Quadr._107r_18.4" xml:lang="olt">Diewa</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_18.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_18.6" xml:lang="olt">wiſsu</w>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_18.7" xml:lang="olt">rupeſtim</w>
@@ -2434,11 +2432,10 @@
         </l>
         <l n="33" xml:id="WP_1573_Dom._3_Quadr._107r_33">
 
-        <w xml:id="WP_1573_Dom._3_Quadr._107r_33.1" xml:lang="olt">
-          <app>  
-            <lem>welinụ</lem>
-            <rdg>welinụ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._3_Quadr._107r_33.1" xml:lang="olt">welinụ</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_33.2" xml:lang="olt">Bet</w>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_33.3" xml:lang="olt">Cħus</w>
         <w xml:id="WP_1573_Dom._3_Quadr._107r_33.4" xml:lang="olt">Jeſus</w>
@@ -3032,11 +3029,10 @@
         <l n="17" xml:id="WP_1573_Dom._3_Quadr._108r_17">
 
         <w xml:id="WP_1573_Dom._3_Quadr._108r_17.1" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Dom._3_Quadr._108r_17.2" xml:lang="olt">
-          <app>  
-            <lem>pulka</lem>
-            <rdg>pulka,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._3_Quadr._108r_17.2" xml:lang="olt">pulka</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._3_Quadr._108r_17.3" xml:lang="olt">tare</w>
         <w xml:id="WP_1573_Dom._3_Quadr._108r_17.4" xml:lang="olt">iam</w>
         <w xml:id="WP_1573_Dom._3_Quadr._108r_17.5" xml:lang="olt">Pagirtas</w>

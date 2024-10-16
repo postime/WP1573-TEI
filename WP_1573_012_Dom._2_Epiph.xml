@@ -1802,11 +1802,10 @@
         <w xml:id="WP_1573_Dom._2_Epiph._62v_14.3" xml:lang="olt">weiki</w>
         <w xml:id="WP_1573_Dom._2_Epiph._62v_14.4" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._2_Epiph._62v_14.5" xml:lang="olt">ant</w>
-        <w xml:id="WP_1573_Dom._2_Epiph._62v_14.6" xml:lang="olt">
-          <app>  
-            <lem>pikta</lem>
-            <rdg>pikta?</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._2_Epiph._62v_14.6" xml:lang="olt">pikta</w>
+        <add>
+          <punct>?</punct>
+        </add>
         </l>
         <l n="15" xml:id="WP_1573_Dom._2_Epiph._62v_15">
 
@@ -3598,11 +3597,10 @@
         <l n="8" xml:id="WP_1573_Dom._2_Epiph._65r_8">
 
         <w xml:id="WP_1573_Dom._2_Epiph._65r_8.1" xml:lang="olt">ta</w>
-        <w xml:id="WP_1573_Dom._2_Epiph._65r_8.2" xml:lang="olt">
-          <app>  
-            <lem>neſsilauſis</lem>
-            <rdg>neſsilauſis,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._2_Epiph._65r_8.2" xml:lang="olt">neſsilauſis</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._2_Epiph._65r_8.3" xml:lang="olt">pakutas</w>
         <w xml:id="WP_1573_Dom._2_Epiph._65r_8.4" xml:lang="olt">ſcha</w>
         <w xml:id="WP_1573_Dom._2_Epiph._65r_8.5" xml:lang="olt">uſʒ</w>

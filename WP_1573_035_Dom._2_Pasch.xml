@@ -868,11 +868,10 @@
         <w xml:id="WP_1573_Dom._2_Pasch._165r_6.1" xml:lang="olt">tris</w>
         <w xml:id="WP_1573_Dom._2_Pasch._165r_6.2" xml:lang="olt">Jaunikaicʒius</w>
         <w xml:id="WP_1573_Dom._2_Pasch._165r_6.3" xml:lang="olt">Dani:</w>
-        <w xml:id="WP_1573_Dom._2_Pasch._165r_6.4" xml:lang="olt">
-          <app>  
-            <lem>3</lem>
-            <rdg>3.</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._2_Pasch._165r_6.4" xml:lang="olt">3</w>
+        <add>
+          <punct>.</punct>
+        </add>
         <w xml:id="WP_1573_Dom._2_Pasch._165r_6.5" xml:lang="olt">cap.</w>
         <w xml:id="WP_1573_Dom._2_Pasch._165r_6.6" xml:lang="olt">Jſch</w>
         </l>
@@ -1194,11 +1193,10 @@
         <l n="34" xml:id="WP_1573_Dom._2_Pasch._165r_34">
 
         <w xml:id="WP_1573_Dom._2_Pasch._165r_34.1" xml:lang="olt">apleiſti</w>
-        <w xml:id="WP_1573_Dom._2_Pasch._165r_34.2" xml:lang="olt">
-          <app>  
-            <lem>butumbim,</lem>
-            <rdg>butumbim</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._2_Pasch._165r_34.2" xml:lang="olt">butumbim</w>
+        <del>
+          <punct>,</punct>
+        </del>
         <w xml:id="WP_1573_Dom._2_Pasch._165r_34.3" xml:lang="olt">
           <app>  
             <lem>nog</lem>

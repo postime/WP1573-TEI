@@ -222,11 +222,10 @@
         <w xml:id="WP_1573_Dom._Quinquag._88v_17.2" xml:lang="olt">Ewa</w>
         <w xml:id="WP_1573_Dom._Quinquag._88v_17.3" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Quinquag._88v_17.4" xml:lang="olt">patratijes,</w>
-        <w xml:id="WP_1573_Dom._Quinquag._88v_17.5" xml:lang="olt">
-          <app>  
-            <lem>pametes</lem>
-            <rdg>pametes,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._88v_17.5" xml:lang="olt">pametes</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._88v_17.6" xml:lang="olt">ſuardes</w>
         <w xml:id="WP_1573_Dom._Quinquag._88v_17.7" xml:lang="olt">a</w>
         </l>
@@ -353,11 +352,10 @@
         <w xml:id="WP_1573_Dom._Quinquag._88v_28.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Quinquag._88v_28.6" xml:lang="olt">ſʒidai</w>
         <w xml:id="WP_1573_Dom._Quinquag._88v_28.7" xml:lang="olt">pirma</w>
-        <w xml:id="WP_1573_Dom._Quinquag._88v_28.8" xml:lang="olt">
-          <app>  
-            <lem>klepaija</lem>
-            <rdg>klepaija,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._88v_28.8" xml:lang="olt">klepaija</w>
+        <add>
+          <punct>,</punct>
+        </add>
         </l>
         <l n="29" xml:id="WP_1573_Dom._Quinquag._88v_29">
 
@@ -1152,16 +1150,14 @@
         <w xml:id="WP_1573_Dom._Quinquag._89v_15.1" xml:lang="olt">wenam</w>
         <w xml:id="WP_1573_Dom._Quinquag._89v_15.2" xml:lang="olt">turrime</w>
         <w xml:id="WP_1573_Dom._Quinquag._89v_15.3" xml:lang="olt">tiketi,</w>
-        <w xml:id="WP_1573_Dom._Quinquag._89v_15.4" xml:lang="olt">
-          <app>  
-            <lem>ſchlawen</lem>
-            <rdg>ſchlawen,</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._Quinquag._89v_15.5" xml:lang="olt">
-          <app>  
-            <lem>garbẹ</lem>
-            <rdg>garbẹ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._89v_15.4" xml:lang="olt">ſchlawen</w>
+        <add>
+          <punct>,</punct>
+        </add>
+        <w xml:id="WP_1573_Dom._Quinquag._89v_15.5" xml:lang="olt">garbẹ</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._89v_15.6" xml:lang="olt">cʒiſti</w>
         </l>
         <l n="16" xml:id="WP_1573_Dom._Quinquag._89v_16">
@@ -1382,16 +1378,14 @@
         <w xml:id="WP_1573_Dom._Quinquag._89v_35.1" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Quinquag._89v_35.2" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._Quinquag._89v_35.3" xml:lang="olt">indiwnai</w>
-        <w xml:id="WP_1573_Dom._Quinquag._89v_35.4" xml:lang="olt">
-          <app>  
-            <lem>biaurias</lem>
-            <rdg>biaurias,</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._Quinquag._89v_35.5" xml:lang="olt">
-          <app>  
-            <lem>piktas</lem>
-            <rdg>piktas,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._89v_35.4" xml:lang="olt">biaurias</w>
+        <add>
+          <punct>,</punct>
+        </add>
+        <w xml:id="WP_1573_Dom._Quinquag._89v_35.5" xml:lang="olt">piktas</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._89v_35.6" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Quinquag._89v_35.7" xml:lang="olt">necʒiſtas</w>
         </l>
@@ -1616,11 +1610,10 @@
 
         <w xml:id="WP_1573_Dom._Quinquag._90r_15.1" xml:lang="olt">tiemus</w>
         <w xml:id="WP_1573_Dom._Quinquag._90r_15.2" xml:lang="olt">blaſnemus</w>
-        <w xml:id="WP_1573_Dom._Quinquag._90r_15.3" xml:lang="olt">
-          <app>  
-            <lem>ſchutamus</lem>
-            <rdg>ſchutamus,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._90r_15.3" xml:lang="olt">ſchutamus</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._90r_15.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Quinquag._90r_15.5" xml:lang="olt">naramus,</w>
         </l>
@@ -1836,16 +1829,14 @@
         </l>
         <l n="33" xml:id="WP_1573_Dom._Quinquag._90r_33">
 
-        <w xml:id="WP_1573_Dom._Quinquag._90r_33.1" xml:lang="olt">
-          <app>  
-            <lem>pracʒiu</lem>
-            <rdg>pracʒiu,</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._Quinquag._90r_33.2" xml:lang="olt">
-          <app>  
-            <lem>wargu</lem>
-            <rdg>wargu,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._90r_33.1" xml:lang="olt">pracʒiu</w>
+        <add>
+          <punct>,</punct>
+        </add>
+        <w xml:id="WP_1573_Dom._Quinquag._90r_33.2" xml:lang="olt">wargu</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._90r_33.3" xml:lang="olt">rupeſtim,</w>
         <w xml:id="WP_1573_Dom._Quinquag._90r_33.4" xml:lang="olt">prakaitu</w>
         <w xml:id="WP_1573_Dom._Quinquag._90r_33.5" xml:lang="olt">didʒiu</w>
@@ -2800,16 +2791,14 @@
         <w xml:id="WP_1573_Dom._Quinquag._91r_36.1" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._Quinquag._91r_36.2" xml:lang="olt">takias</w>
         <w xml:id="WP_1573_Dom._Quinquag._91r_36.3" xml:lang="olt">biaurias,</w>
-        <w xml:id="WP_1573_Dom._Quinquag._91r_36.4" xml:lang="olt">
-          <app>  
-            <lem>ſunkias</lem>
-            <rdg>ſunkias,</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._Quinquag._91r_36.5" xml:lang="olt">
-          <app>  
-            <lem>ſmarkias</lem>
-            <rdg>ſmarkias,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._91r_36.4" xml:lang="olt">ſunkias</w>
+        <add>
+          <punct>,</punct>
+        </add>
+        <w xml:id="WP_1573_Dom._Quinquag._91r_36.5" xml:lang="olt">ſmarkias</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._91r_36.6" xml:lang="olt">a</w>
         </l>
         <l n="37" xml:id="WP_1573_Dom._Quinquag._91r_37">
@@ -2961,11 +2950,10 @@
         <w xml:id="WP_1573_Dom._Quinquag._91v_9.4" xml:lang="olt">Jeſ:,</w>
         <w xml:id="WP_1573_Dom._Quinquag._91v_9.5" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._Quinquag._91v_9.6" xml:lang="olt">ta</w>
-        <w xml:id="WP_1573_Dom._Quinquag._91v_9.7" xml:lang="olt">
-          <app>  
-            <lem>dabakimas</lem>
-            <rdg>dabakimas,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._91v_9.7" xml:lang="olt">dabakimas</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._91v_9.8" xml:lang="olt">pra</w>
         <w xml:id="WP_1573_Dom._Quinquag._91v_9.9" xml:lang="olt">melụ</w>
         </l>
@@ -3668,11 +3656,10 @@
         </l>
         <l n="29" xml:id="WP_1573_Dom._Quinquag._92r_29">
 
-        <w xml:id="WP_1573_Dom._Quinquag._92r_29.1" xml:lang="olt">
-          <app>  
-            <lem>gieribes</lem>
-            <rdg>gieribes,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._92r_29.1" xml:lang="olt">gieribes</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._92r_29.2" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Quinquag._92r_29.3" xml:lang="olt">ilgiaus</w>
         <w xml:id="WP_1573_Dom._Quinquag._92r_29.4" xml:lang="olt">
@@ -3978,11 +3965,10 @@
         <w xml:id="WP_1573_Dom._Quinquag._92v_14.5" xml:lang="olt">Teſsa:</w>
         <w xml:id="WP_1573_Dom._Quinquag._92v_14.6" xml:lang="olt">5</w>
         <w xml:id="WP_1573_Dom._Quinquag._92v_14.7" xml:lang="olt">cap:</w>
-        <w xml:id="WP_1573_Dom._Quinquag._92v_14.8" xml:lang="olt">
-          <app>  
-            <lem>tardams</lem>
-            <rdg>tardams:</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._92v_14.8" xml:lang="olt">tardams</w>
+        <add>
+          <punct>:</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._92v_14.9" xml:lang="olt">kad</w>
         <w xml:id="WP_1573_Dom._Quinquag._92v_14.10" xml:lang="olt">tars:</w>
         <w xml:id="WP_1573_Dom._Quinquag._92v_14.11" xml:lang="olt">
@@ -4065,17 +4051,15 @@
         </l>
         <l n="21" xml:id="WP_1573_Dom._Quinquag._92v_21">
 
-        <w xml:id="WP_1573_Dom._Quinquag._92v_21.1" xml:lang="olt">
-          <app>  
-            <lem>iap</lem>
-            <rdg>iap,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._92v_21.1" xml:lang="olt">iap</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._92v_21.2" xml:lang="olt">ghin</w>
-        <w xml:id="WP_1573_Dom._Quinquag._92v_21.3" xml:lang="olt">
-          <app>  
-            <lem>melſime</lem>
-            <rdg>melſime,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Quinquag._92v_21.3" xml:lang="olt">melſime</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Quinquag._92v_21.4" xml:lang="olt">iam</w>
         <w xml:id="WP_1573_Dom._Quinquag._92v_21.5" xml:lang="olt">tikeſime,</w>
         <w xml:id="WP_1573_Dom._Quinquag._92v_21.6" xml:lang="olt">iſchpaſʒindami</w>

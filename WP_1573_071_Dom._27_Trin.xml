@@ -2156,11 +2156,10 @@
           </app></w>
         <w xml:id="WP_1573_Dom._27_Trin._285r_25.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._27_Trin._285r_25.6" xml:lang="olt">Math:</w>
-        <w xml:id="WP_1573_Dom._27_Trin._285r_25.7" xml:lang="olt">
-          <app>  
-            <lem>15</lem>
-            <rdg>15,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._285r_25.7" xml:lang="olt">15</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._27_Trin._285r_25.8" xml:lang="olt">cap:.</w>
         </l>
         <l n="26" xml:id="WP_1573_Dom._27_Trin._285r_26">

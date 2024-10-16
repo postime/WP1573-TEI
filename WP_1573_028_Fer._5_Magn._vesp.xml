@@ -837,11 +837,10 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_1.3" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_1.4" xml:lang="olt">to</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_1.5" xml:lang="olt">ſawa</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_1.6" xml:lang="olt">
-          <app>  
-            <lem>iʒdradniku</lem>
-            <rdg>iʒdradniku,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_1.6" xml:lang="olt">iʒdradniku</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_1.7" xml:lang="olt">
           <app>  
             <lem>Judaſchum</lem>

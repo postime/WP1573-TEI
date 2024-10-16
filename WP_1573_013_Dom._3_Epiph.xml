@@ -1580,11 +1580,10 @@
         <l n="23" xml:id="WP_1573_Dom._3_Epiph._70v_23">
 
         <w xml:id="WP_1573_Dom._3_Epiph._70v_23.1" xml:lang="olt">ghis</w>
-        <w xml:id="WP_1573_Dom._3_Epiph._70v_23.2" xml:lang="olt">
-          <app>  
-            <lem>wernas</lem>
-            <rdg>wernas,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._3_Epiph._70v_23.2" xml:lang="olt">wernas</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._3_Epiph._70v_23.3" xml:lang="olt">nuſʒadeijmoſa</w>
         <w xml:id="WP_1573_Dom._3_Epiph._70v_23.4" xml:lang="olt">ſawa,</w>
         <w xml:id="WP_1573_Dom._3_Epiph._70v_23.5" xml:lang="olt">kan</w>

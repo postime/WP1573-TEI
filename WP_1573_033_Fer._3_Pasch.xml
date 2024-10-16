@@ -1160,11 +1160,10 @@
 
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.1" xml:lang="olt">girdeijame</w>
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.2" xml:lang="olt">nog</w>
-        <w xml:id="WP_1573_Fer._3_Pasch._157r_26.3" xml:lang="olt">
-          <app>  
-            <lem>Angela</lem>
-            <rdg>Angela)</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._3_Pasch._157r_26.3" xml:lang="olt">Angela</w>
+        <add>
+          <punct>)</punct>
+        </add>
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.4" xml:lang="olt">nuweija</w>
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.5" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.6" xml:lang="olt">Galile<lb break="no"/>ia.</w>

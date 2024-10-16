@@ -3491,16 +3491,14 @@
 
         <w xml:id="WP_1573_01_01_Nov._Ann._48v_28.1" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._48v_28.2" xml:lang="olt">wiſsakiụ</w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._48v_28.3" xml:lang="olt">
-          <app>  
-            <lem>dumụ</lem>
-            <rdg>dumụ,</rdg>
-          </app></w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._48v_28.4" xml:lang="olt">
-          <app>  
-            <lem>piktụ</lem>
-            <rdg>piktụ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_01_01_Nov._Ann._48v_28.3" xml:lang="olt">dumụ</w>
+        <add>
+          <punct>,</punct>
+        </add>
+        <w xml:id="WP_1573_01_01_Nov._Ann._48v_28.4" xml:lang="olt">piktụ</w>
+        <add>
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_01_01_Nov._Ann._48v_28.5" xml:lang="olt">biaurụ,</w>
         </l>
         <l n="29" xml:id="WP_1573_01_01_Nov._Ann._48v_29">

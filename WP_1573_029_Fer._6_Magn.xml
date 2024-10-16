@@ -3515,11 +3515,10 @@
         <w xml:id="WP_1573_Fer._6_Magn._140v_21.6" xml:lang="olt">Paw:</w>
         <w xml:id="WP_1573_Fer._6_Magn._140v_21.7" xml:lang="olt">phil:</w>
         <w xml:id="WP_1573_Fer._6_Magn._140v_21.8" xml:lang="olt">2</w>
-        <w xml:id="WP_1573_Fer._6_Magn._140v_21.9" xml:lang="olt">
-          <app>  
-            <lem>cap:</lem>
-            <rdg>cap</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._6_Magn._140v_21.9" xml:lang="olt">cap</w>
+        <del>
+          <punct>:</punct>
+        </del>
         <w xml:id="WP_1573_Fer._6_Magn._140v_21.10" xml:lang="olt">kal<lb break="no"/>ba,</w>
         </l>
         <l n="22" xml:id="WP_1573_Fer._6_Magn._140v_22">
@@ -4202,16 +4201,14 @@
           </app></w>
         <w xml:id="WP_1573_Fer._6_Magn._141v_6.3" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Fer._6_Magn._141v_6.4" xml:lang="olt">ſawe</w>
-        <w xml:id="WP_1573_Fer._6_Magn._141v_6.5" xml:lang="olt">
-          <app>  
-            <lem>tikincʒiuniụ.</lem>
-            <rdg>tikincʒiuniụ</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Fer._6_Magn._141v_6.6" xml:lang="olt">
-          <app>  
-            <lem>panas,</lem>
-            <rdg>panas</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._6_Magn._141v_6.5" xml:lang="olt">tikincʒiuniụ</w>
+        <del>
+          <punct>.</punct>
+        </del>
+        <w xml:id="WP_1573_Fer._6_Magn._141v_6.6" xml:lang="olt">panas</w>
+        <del>
+          <punct>,</punct>
+        </del>
         <w xml:id="WP_1573_Fer._6_Magn._141v_6.7" xml:lang="olt">De<lb break="no"/>was</w>
         </l>
         <l n="7" xml:id="WP_1573_Fer._6_Magn._141v_7">
