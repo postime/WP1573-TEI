@@ -1198,10 +1198,13 @@
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.4" xml:lang="olt">bus,</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.5" xml:lang="olt">Tewai</w>
         <w xml:id="WP_1573_Dom._2_Adv._7r_32.6" xml:lang="olt">ſu</w>
-        <w xml:id="WP_1573_Dom._2_Adv._7r_32.7" xml:lang="olt"> <!-- Instant correction + erratum pro, how to annotate?-->
+        <w xml:id="WP_1573_Dom._2_Adv._7r_32.7" xml:lang="olt">
           <app>  
             <lem>ſumum</lem>
-            <rdg>ſu mu</rdg>
+            <rdg>ſu mu</rdg>  
+          </app>
+          <app type="err">
+            <lem>ſumum</lem>
             <rdg>ſunum</rdg>
           </app></w>
         </l>
@@ -3967,10 +3970,13 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.1" xml:lang="olt">kit</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.2" xml:lang="olt">nebus</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.3" xml:lang="olt">liſchei</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_20.4" xml:lang="olt"> <!--Alteration + erratum pro, how to annotate?-->
+        <w xml:id="WP_1573_Dom._2_Adv._11r_20.4" xml:lang="olt">
           <app>  
             <lem>atdeghimas</lem>
             <rdg>ate</rdg>
+          </app>
+          <app type="err">
+            <lem>atdeghimas</lem>
             <rdg>atdenghimas</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_20.5" xml:lang="olt">darbụ</w>

@@ -2413,8 +2413,11 @@
         <w xml:id="WP_1573_Dom._3_Adv._16r_13.4" xml:lang="olt">uſʒ</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_13.5" xml:lang="olt">
           <app>  
-            <lem>meſsiaſʒiụ</lem> <!--Instant correction by Bielauk plus alteration by Welver. How to annotate?-->
+            <lem>meſsiaſʒiụ</lem>
             <rdg>meſsieʒiụ</rdg>
+          </app>
+          <app hand="W">
+            <lem>meſsiaſʒiụ</lem>
             <rdg>Meſsiaſʒiụ</rdg>
           </app></w>
         <punct>.</punct>

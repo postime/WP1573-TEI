@@ -783,7 +783,10 @@
           <app>  
             <lem>kurGhiſsai</lem>
             <rdg>kurſ</rdg>
-            <rdg>kur Ghiſsai</rdg> <!--Instant correction and erratum pro, how to annotate?-->
+          </app>
+          <app type="err">
+            <lem>kurGhiſsai</lem>
+            <rdg>kur Ghiſsai</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._4_Adv._19v_23.2" xml:lang="olt">Math:</w>
         <w xml:id="WP_1573_Dom._4_Adv._19v_23.3" xml:lang="olt">10</w>
@@ -2658,7 +2661,7 @@
         <w xml:id="WP_1573_Dom._4_Adv._22r_33.5" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._4_Adv._22r_33.6" xml:lang="olt"><app hand="">
           <lem>tru<lb break="no"/>ba</lem>
-          <rdg>tru<lb break="no"/>be</rdg> <!-- Instant correction across page break ("tru=||be" changed to "tru=||ba"). I've removed the dangling "ba" from the start of the following page and placed the footnote here. Does that makes sense?-->
+          <rdg>tru<lb break="no"/>be</rdg> <!-- Instant correction across page break ("tru=||be" changed to "tru=||ba"). I've removed the dangling "ba" from the start of the following page and placed the footnote here. Does that makes sense formatting-wise?-->
         </app></w>
         </l>
         <l n="M18-19" xml:id="WP_1573_Dom._4_Adv._22r_M18-19">
@@ -3873,10 +3876,16 @@
         <w xml:id="WP_1573_Dom._4_Adv._24r_11.4" xml:lang="olt">nuſsimaſʒinaiuſị</w>
         <w xml:id="WP_1573_Dom._4_Adv._24r_11.5" xml:lang="olt">
           <app>  
+            <lem>anu<lb break="no"/>ſiſʒeminaiuſị</lem> <!-- A sequence of two instant corrections by Bielauk. Later, Welver inserts a dividing line to separate the "a".-->
+            <rdg>anu<lb break="no"/>ſiſi</rdg>
+          </app>
+          <app>
             <lem>anu<lb break="no"/>ſiſʒeminaiuſị</lem>
             <rdg>anu<lb break="no"/>ſiſʒeminaiuſụ</rdg>
-            <rdg>anu<lb break="no"/>ſiſi</rdg>
-            <rdg>a nu<lb break="no"/>ſiſʒeminaiuſị</rdg> <!--Two instant corrections plus an alteration by Welver. How to annotate?-->
+          </app>
+          <app hand="W">
+            <lem>anu<lb break="no"/>ſiſʒeminaiuſị</lem>
+            <rdg>a nu<lb break="no"/>ſiſʒeminaiuſị</rdg>
           </app></w>
         </l>
         <l n="12" xml:id="WP_1573_Dom._4_Adv._24r_12">
@@ -4755,7 +4764,10 @@
           <app>  
             <lem>Anu</lem>
             <rdg>a</rdg>
-            <rdg>A nu</rdg> <!--Instant correction + alteration by Welver. How to annotate?-->
+          </app>
+          <app hand="W">
+            <lem>Anu</lem>
+            <rdg>A nu</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._4_Adv._25v_1.2" xml:lang="olt">ſcha</w>
         <w xml:id="WP_1573_Dom._4_Adv._25v_1.3" xml:lang="olt">cʒeſa</w>

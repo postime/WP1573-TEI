@@ -2419,10 +2419,13 @@
         <w xml:id="WP_1573_Dom._1_Adv._4r_19.1" xml:lang="olt">turri</w>
         <w xml:id="WP_1573_Dom._1_Adv._4r_19.2" xml:lang="olt">ſawei,</w>
         <w xml:id="WP_1573_Dom._1_Adv._4r_19.3" xml:lang="olt">Pirmiauſei</w>
-        <w xml:id="WP_1573_Dom._1_Adv._4r_19.4" xml:lang="olt"> <!--Alteration + erratum, how to annotate?-->
+        <w xml:id="WP_1573_Dom._1_Adv._4r_19.4" xml:lang="olt">
           <app>  
             <lem>grudinimụ</lem>
             <rdg>ga</rdg>
+          </app>
+          <app type="err">
+            <lem>grudinimụ</lem>
             <rdg>graudinimụ</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._1_Adv._4r_19.5" xml:lang="olt">a</w>
