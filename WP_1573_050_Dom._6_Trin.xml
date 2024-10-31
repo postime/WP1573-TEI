@@ -1245,6 +1245,9 @@
         <w xml:id="WP_1573_Dom._6_Trin._214r_2.2" xml:lang="olt">tuſchcʒiu</w>
         <w xml:id="WP_1573_Dom._6_Trin._214r_2.3" xml:lang="olt">be</w>
         <w xml:id="WP_1573_Dom._6_Trin._214r_2.4" xml:lang="olt">ſmaginu</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._6_Trin._214r_2.5" xml:lang="olt">niekam</w>
         <w xml:id="WP_1573_Dom._6_Trin._214r_2.6" xml:lang="olt">ne<lb break="no"/>deranciu,</w>
         </l>
@@ -1253,13 +1256,19 @@
         <w xml:id="WP_1573_Dom._6_Trin._214r_3.1" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._6_Trin._214r_3.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._6_Trin._214r_3.3" xml:lang="olt">drabuſʒin</w>
-        <w xml:id="WP_1573_Dom._6_Trin._214r_3.4" xml:lang="olt">ſe</w>
-        <w xml:id="WP_1573_Dom._6_Trin._214r_3.5" xml:lang="olt">
-          <app>  
-            <lem>nụ</lem>
-            <rdg>ſenụ</rdg>
-          </app></w>
+        <app type="err">
+          <lem> <w xml:id="WP_1573_Dom._6_Trin._214r_3.4" xml:lang="olt">ſe</w>
+                <w xml:id="WP_1573_Dom._6_Trin._214r_3.5" xml:lang="olt">nụ</w></lem>
+          <rdg>ſenụ</rdg>
+        </app>
         <punct>.</punct>
+
+        <ref decls="author" cRef="AAugustinus_9"/></quote> <!--This is a slightly complicated one.
+        GP gives this explanation of the term "Racha" with the qualification that "others think" it,
+        but that's omitted in WP. It seems to be taken from Augustinus's "De sermone Domini
+        in monte", where he concludes that this interpretation is wrong(!). So without context
+        it's rather misleading to attribute this quote to Augustinus...  -->
+
         </l>
         <l n="4" xml:id="WP_1573_Dom._6_Trin._214r_4">
 

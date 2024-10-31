@@ -726,6 +726,8 @@
         </l>
         <l n="16" xml:id="WP_1573_Ascens._Dom._176r_16">
 
+        <quote>
+
         <w xml:id="WP_1573_Ascens._Dom._176r_16.1" xml:lang="olt">Tadangi</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_16.2" xml:lang="olt">m:</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_16.3" xml:lang="olt">k:</w>
@@ -818,6 +820,9 @@
         <w xml:id="WP_1573_Ascens._Dom._176r_25.4" xml:lang="olt">Jeſus</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_25.5" xml:lang="olt">panas</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_25.6" xml:lang="olt">muſụ</w>
+
+        <ref decls="author" cRef="BasilMagn_1"/></quote>
+
         </l>
         <l n="26" xml:id="WP_1573_Ascens._Dom._176r_26">
 
@@ -1035,6 +1040,9 @@
         <l n="11" xml:id="WP_1573_Ascens._Dom._176v_11">
 
         <w xml:id="WP_1573_Ascens._Dom._176v_11.1" xml:lang="lat">magnus</w>
+       
+        <quote>
+       
         <w xml:id="WP_1573_Ascens._Dom._176v_11.2" xml:lang="olt">
           <app>  
             <lem>knigoſa</lem>
@@ -1047,8 +1055,14 @@
         <l n="12" xml:id="WP_1573_Ascens._Dom._176v_12">
 
         <punct>,</punct>
+
+        <ref decls="author" cRef="PsBasil_2"/></quote>
+
         <w xml:id="WP_1573_Ascens._Dom._176v_12.2" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Ascens._Dom._176v_12.3" xml:lang="lat">Bernhardus</w>
+        
+        <quote>
+        
         <w xml:id="WP_1573_Ascens._Dom._176v_12.4" xml:lang="olt">
           <app>  
             <lem>Kaſanj</lem>
@@ -1061,6 +1075,9 @@
         <w xml:id="WP_1573_Ascens._Dom._176v_13.1" xml:lang="olt">apie</w>
         <w xml:id="WP_1573_Ascens._Dom._176v_13.2" xml:lang="olt">uſʒengimu</w>
         <w xml:id="WP_1573_Ascens._Dom._176v_13.3" xml:lang="olt">Cħaus</w>
+
+        <ref decls="author" cRef="BernClair_3"/></quote>
+
         <w xml:id="WP_1573_Ascens._Dom._176v_13.4" xml:lang="olt">plateis</w>
         <w xml:id="WP_1573_Ascens._Dom._176v_13.5" xml:lang="olt">ſʒadeis</w>
         </l>

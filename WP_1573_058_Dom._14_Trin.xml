@@ -2142,6 +2142,9 @@
 
         <w xml:id="WP_1573_Dom._14_Trin._240v_33.1" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_33.2" xml:lang="olt">kalba:</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._14_Trin._240v_33.3" xml:lang="olt">Nemalaniſte</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_33.4" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_33.5" xml:lang="olt">weijas</w>
@@ -2155,6 +2158,9 @@
         <w xml:id="WP_1573_Dom._14_Trin._240v_34.4" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_34.5" xml:lang="olt">pana</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_34.6" xml:lang="olt">Die<lb break="no"/>wa,</w>
+
+        <ref decls="author" cRef="BernClair_5"/></quote>
+
         </l>
         <l n="35" xml:id="WP_1573_Dom._14_Trin._240v_35">
 
@@ -2162,7 +2168,11 @@
         <w xml:id="WP_1573_Dom._14_Trin._240v_35.2" xml:lang="olt">wel</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_35.3" xml:lang="olt">kalbama</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_35.4" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_Dom._14_Trin._240v_35.5" xml:lang="lat">:Ab</w>
+        <punct>:</punct>
+        
+        <quote>
+
+        <w xml:id="WP_1573_Dom._14_Trin._240v_35.5" xml:lang="lat">Ab</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_35.6" xml:lang="lat">ingratis</w>
         </l>
         <l n="36" xml:id="WP_1573_Dom._14_Trin._240v_36">
@@ -2178,6 +2188,9 @@
         <w xml:id="WP_1573_Dom._14_Trin._240v_37.2" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_37.3" xml:lang="olt">but</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_37.4" xml:lang="olt">atimtas,</w>
+
+        <ref decls="author" cRef="BernClair_6"/></quote>
+
         <w xml:id="WP_1573_Dom._14_Trin._240v_37.5" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_37.6" xml:lang="olt">wel</w>
         <w xml:id="WP_1573_Dom._14_Trin._240v_37.7" xml:lang="olt">kal<lb break="no"/>bama</w>
@@ -2190,6 +2203,7 @@
 
         <w xml:id="WP_1573_Dom._14_Trin._241r_1.1" xml:lang="olt">bama</w>
         <w xml:id="WP_1573_Dom._14_Trin._241r_1.2" xml:lang="olt">ira</w>
+        <!--Not an author quote, Latin paraphrase of Prv 17,13. -->
         <w xml:id="WP_1573_Dom._14_Trin._241r_1.3" xml:lang="lat">De</w>
         <w xml:id="WP_1573_Dom._14_Trin._241r_1.4" xml:lang="lat">domo</w>
         <w xml:id="WP_1573_Dom._14_Trin._241r_1.5" xml:lang="lat">ingrati</w>

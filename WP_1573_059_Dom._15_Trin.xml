@@ -1517,6 +1517,9 @@
         <w xml:id="WP_1573_Dom._15_Trin._243r_15.3" xml:lang="olt">ſʒiwatu</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_15.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_15.5" xml:lang="olt">tewụ,</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._15_Trin._243r_15.6" xml:lang="olt">kaipa<lb break="no"/>gi</w>
         </l>
         <l n="16" xml:id="WP_1573_Dom._15_Trin._243r_16">
@@ -1632,6 +1635,9 @@
         <w xml:id="WP_1573_Dom._15_Trin._243r_27.1" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_27.2" xml:lang="olt">Panas</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_27.3" xml:lang="grc">m̄</w>
+
+        <ref decls="author" cRef="PaulAntonHermits"/></quote>
+
         <w xml:id="WP_1573_Dom._15_Trin._243r_27.4" xml:lang="lat">Gregorius</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_27.5" xml:lang="lat">Naıian<lb break="no"/>cienus</w>
         </l>
@@ -1639,6 +1645,9 @@
 
         <w xml:id="WP_1573_Dom._15_Trin._243r_28.1" xml:lang="olt">Monodiai</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_28.2" xml:lang="olt">raſcha,</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._15_Trin._243r_28.3" xml:lang="olt">kaipaieg</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_28.4" xml:lang="olt">kad</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_28.5" xml:lang="olt">gim<lb break="no"/>ditaiei</w>
@@ -1708,6 +1717,12 @@
             <rdg>pennetụ</rdg>
           </app></w>
         <punct>.</punct>
+
+        <ref decls="author" cRef="GregNazianz_1"/></quote>
+
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._15_Trin._243r_35.3" xml:lang="olt">Skaitame</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_35.4" xml:lang="olt">wel,</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_35.5" xml:lang="olt">kaip</w>
@@ -1758,6 +1773,9 @@
         <w xml:id="WP_1573_Dom._15_Trin._243v_4.2" xml:lang="olt">tatʒiau</w>
         <w xml:id="WP_1573_Dom._15_Trin._243v_4.3" xml:lang="olt">ſati</w>
         <w xml:id="WP_1573_Dom._15_Trin._243v_4.4" xml:lang="olt">bua.</w>
+
+        <ref decls="author" cRef="GirlNotEatMiracle"/></quote>
+
         <w xml:id="WP_1573_Dom._15_Trin._243v_4.5" xml:lang="olt">Er</w>
         <w xml:id="WP_1573_Dom._15_Trin._243v_4.6" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._15_Trin._243v_4.7" xml:lang="olt">tai</w>
@@ -2254,6 +2272,9 @@
             <rdg>te</rdg>
           </app></w>
         <punct>.</punct>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._15_Trin._244r_16.6" xml:lang="olt">Schimtas</w>
         </l>
         <l n="17" xml:id="WP_1573_Dom._15_Trin._244r_17">
@@ -2279,6 +2300,9 @@
         <w xml:id="WP_1573_Dom._15_Trin._244r_19.2" xml:lang="lat">non</w>
         <w xml:id="WP_1573_Dom._15_Trin._244r_19.3" xml:lang="lat">šoluunt</w>
         <punct>.</punct>
+
+        <ref decls="author" cRef="AlfonsoV_1"/></quote>
+
         <w xml:id="WP_1573_Dom._15_Trin._244r_19.5" xml:lang="olt">Bet</w>
         <w xml:id="WP_1573_Dom._15_Trin._244r_19.6" xml:lang="olt">cʒia</w>
         <w xml:id="WP_1573_Dom._15_Trin._244r_19.7" xml:lang="olt">paſtaghị</w>

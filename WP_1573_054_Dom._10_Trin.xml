@@ -841,6 +841,9 @@
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.1" xml:lang="olt">Egłai</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.2" xml:lang="olt">ſchas</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.3" xml:lang="olt">Dienas.</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.4" xml:lang="olt">Atteija</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.5" xml:lang="olt">nepre<lb break="no"/>telius</w>
         </l>
@@ -1073,6 +1076,10 @@
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.3" xml:lang="olt">30</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.4" xml:lang="olt">Sidabrinikụ</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.5" xml:lang="olt">pardawị,</w>
+
+        <ref decls="author" cRef="DestrJerusalem"/></quote> <!--Not sure where to
+        begin and end the quotation for the destruction of Jerusalem...-->
+
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.6" xml:lang="olt">Teip</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.7" xml:lang="olt">
           <app>  
@@ -1258,7 +1265,7 @@
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.7" xml:lang="olt">pra</w>
         </l>
         <l n="28" xml:id="WP_1573_Dom._10_Trin._227r_28">
-
+        <!--Attribution of the account of the destruction of Jerusalem.-->
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.1" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.2" xml:lang="olt">didei</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.3" xml:lang="olt">platei</w>

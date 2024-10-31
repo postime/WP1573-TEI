@@ -363,6 +363,9 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_19.5" xml:lang="olt">Egłiſta</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_19.6" xml:lang="olt">10</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_19.7" xml:lang="olt">cap:</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_19.8" xml:lang="olt">tạ</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_19.9" xml:lang="olt">wecʒeru</w>
         </l>
@@ -382,6 +385,9 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_21.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_21.2" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_21.3" xml:lang="olt">artimu.</w>
+
+        <ref decls="author" cRef="AAugustinus_6"/></quote>
+
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_21.4" xml:lang="olt">Tas</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_21.5" xml:lang="olt">ſacramentas</w>
         </l>
@@ -4395,6 +4401,9 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_31.4" xml:lang="olt">kleijaia,</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_31.5" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_31.6" xml:lang="olt">iau</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_31.7" xml:lang="lat">pošt</w>
         </l>
         <l n="32" xml:id="WP_1573_Fer._5_Magn._mat._132v_32">
@@ -4404,6 +4413,9 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_32.3" xml:lang="lat">est</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_32.4" xml:lang="lat">redemptio</w>
         <punct>.</punct>
+
+        <ref decls="author" cRef="BernClair/Luther_1"/></quote>
+
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_32.6" xml:lang="olt">Cħus</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_32.7" xml:lang="olt">priſaka</w>
         </l>
