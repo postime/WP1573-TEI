@@ -1058,9 +1058,11 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.1" xml:lang="olt">kadangi</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.2" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.3" xml:lang="olt">tas</w>
+        <quote>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.4" xml:lang="olt">daktaras</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.5" xml:lang="olt">wardu</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.6" xml:lang="lat">Seneca</w>
+        <ref decls="person" cRef="SenecaY"/></quote>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.7" xml:lang="olt">tar<lb break="no"/>dams:</w>
         </l>
         <l n="23" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_23">
@@ -1092,7 +1094,7 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_25.1" xml:lang="olt">ſwerim</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_25.2" xml:lang="olt">buti,</w>
 
-        <ref decls="author" cRef="SenecaY_1"/></quote>
+        <ref decls="nonbib" cRef="SenecaY_1"/></quote>
 
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_25.3" xml:lang="olt">Antra</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_25.4" xml:lang="olt">kaipagi</w>
@@ -1673,7 +1675,7 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_35.4" xml:lang="olt">drauge</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_35.5" xml:lang="olt">ſkendimas.</w>
 
-        <ref decls="author" cRef="ProverbCent_1"/></quote>
+        <ref decls="nonbib" cRef="ProverbCent_1"/></quote>
 
         </l>
         <l n="36" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_36">
@@ -1696,7 +1698,7 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_37.2" xml:lang="olt">warga</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_37.3" xml:lang="olt">turreti.</w>
 
-        <ref decls="author" cRef="Proverb_1"/></quote>
+        <ref decls="nonbib" cRef="Proverb_1"/></quote>
 
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_37.4" xml:lang="olt">Bet</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_37.5" xml:lang="olt">ka<lb break="no"/>da</w>
@@ -2264,7 +2266,12 @@
         <l n="9" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_9">
 
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_9.1" xml:lang="olt">ir</w>
+        <quote>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_9.2" xml:lang="lat">Cato</w>
+        <ref decls="person" cRef="CatoD"/></quote> <!--"Dionysius Cato" is a new (fictional) author's
+        name under which the Disticha Catonis were published starting in the late 15th century.
+        Presumably that's who WP's author is thinking of here, though the text has also been
+        (erroneously) ascribed to Marcus Porcius Cato (234–149; 184 Censor). Link both here?-->
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_9.3" xml:lang="olt">kalba.</w>
 
         <quote>
@@ -2285,7 +2292,7 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_10.6" xml:lang="olt">netikima</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_10.7" xml:lang="olt">po<lb break="no"/>ætai.</w>
 
-        <ref decls="author" cRef="DistCat_1"/></quote>
+        <ref decls="nonbib" cRef="DistCat_1"/></quote>
 
         </l>
         <l n="11" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11">
@@ -2293,7 +2300,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.1" xml:lang="olt">Teip</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.2" xml:lang="olt">neſs</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.3" xml:lang="olt">ir</w>
+        <quote>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.4" xml:lang="olt">plinius</w>
+        <ref decls="person" cRef="PlinyY"/></quote>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.5" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.6" xml:lang="olt">tardams:</w>
 
@@ -2316,7 +2325,7 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_13.2" xml:lang="olt">giera</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_13.3" xml:lang="olt">nebutụ.</w>
 
-        <ref decls="author" cRef="PlinyYEpist_1"/></quote>
+        <ref decls="nonbib" cRef="PlinyYEpist_1"/></quote>
 
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_13.4" xml:lang="olt">Jeigu</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_13.5" xml:lang="olt">kas</w>

@@ -224,8 +224,10 @@
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.2" xml:lang="olt">dumati</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.3" xml:lang="olt">kaip</w>
+        <quote>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.5" xml:lang="lat">Bernhardus</w>
+        <ref decls="person" cRef="BernClair"/></quote>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.6" xml:lang="olt">iſchraſcha</w>
         </l>
         <l n="23" xml:id="WP_1573_Dom._1_Adv._1r_23">
@@ -264,7 +266,7 @@
         <w xml:id="WP_1573_Dom._1_Adv._1r_26.3" xml:lang="olt">kurio</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_26.4" xml:lang="olt">kielliu</w>
 
-        <ref decls="author" cRef="BernClair_1"/></quote>
+        <ref decls="nonbib" cRef="BernClair_1"/></quote>
 
         </l>
         <l n="27" xml:id="WP_1573_Dom._1_Adv._1r_27">
@@ -368,13 +370,15 @@
             <rdg>ſma<lb break="no"/>giſtei</rdg>
           </app></w>
 
-        <ref decls="author" cRef="SymAthan_1"/></quote>
+        <ref decls="nonbib" cRef="SymAthan_1"/></quote>
 
         </l>
         <l n="2" xml:id="WP_1573_Dom._1_Adv._1v_2">
 
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.1" xml:lang="olt">kaip</w>
+        <quote>
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.2" xml:lang="olt">Attanaſius</w>
+        <ref decls="person" cRef="Athan"/></quote>
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.3" xml:lang="olt">iſchraſcha.</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.4" xml:lang="olt">Jſch</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.5" xml:lang="olt">
@@ -588,15 +592,17 @@
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.5" xml:lang="olt">Kalba</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.6" xml:lang="olt">to</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.7" xml:lang="olt">wardu</w>
+        <quote>
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.8" xml:lang="olt">
           <app type="err">  
             <lem>Virgili<lb break="no"/>us</lem>
             <rdg>Vigili<lb break="no"/>us</rdg>
           </app></w>
+        <ref decls="person" cRef="VigThaps"/></quote>
         </l>
         <l n="21" xml:id="WP_1573_Dom._1_Adv._1v_21">
 
-        <w xml:id="WP_1573_Dom._1_Adv._1v_21.1" xml:lang="lat">Eutijcen</w>
+        <w xml:id="WP_1573_Dom._1_Adv._1v_21.1" xml:lang="lat">Eutijcen</w> <!--Text.-->
         <w xml:id="WP_1573_Dom._1_Adv._1v_21.2" xml:lang="olt">knigoſa</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_21.3" xml:lang="olt">pirmoſa</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_21.4" xml:lang="olt">tardams</w>
@@ -612,7 +618,7 @@
         <w xml:id="WP_1573_Dom._1_Adv._1v_22.4" xml:lang="olt">buwima</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_22.5" xml:lang="olt">deiwiſtes,</w>
 
-        <ref decls="author" cRef="VigCE_1"/></quote>
+        <ref decls="nonbib" cRef="VigCE_1"/></quote>
         
         </l>
         <l n="23" xml:id="WP_1573_Dom._1_Adv._1v_23">

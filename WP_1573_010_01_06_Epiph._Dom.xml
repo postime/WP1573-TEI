@@ -802,7 +802,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_27.4" xml:lang="olt">ſaw</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_27.5" xml:lang="olt">rinkdlawa.</w>
 
-        <ref decls="author" cRef="StraboGeo_1"/></quote>
+        <ref decls="nonbib" cRef="StraboGeo_1"/></quote>
 
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_27.6" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_27.7" xml:lang="olt">ape</w>
@@ -810,8 +810,10 @@
         <l n="28" xml:id="WP_1573_01_06_Epiph._Dom._50v_28">
 
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.1" xml:lang="olt">tai</w>
+        <quote>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.2" xml:lang="lat">Strabo</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.3" xml:lang="olt">hijſtoriographas</w>
+        <ref decls="person" cRef="Strabo"/></quote>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.4" xml:lang="olt">iſchraſcha,</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.5" xml:lang="olt">Daniel</w>
         </l>
@@ -827,7 +829,7 @@
         </l>
         <l n="30" xml:id="WP_1573_01_06_Epiph._Dom._50v_30">
 
-        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.1" xml:lang="olt">Cira</w>
+        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.1" xml:lang="olt">Cira</w>  <!--Cyrus II (the Great).-->
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.2" xml:lang="olt">karelaus,</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.3" xml:lang="olt">daug</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.4" xml:lang="olt">tam</w>
@@ -835,7 +837,7 @@
         </l>
         <l n="31" xml:id="WP_1573_01_06_Epiph._Dom._50v_31">
 
-        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.1" xml:lang="olt">Ciru</w>
+        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.1" xml:lang="olt">Ciru</w> <!--Cyrus II (the Great).-->
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.2" xml:lang="olt">buſencʒiụ</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.3" xml:lang="olt">daiktụ</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.4" xml:lang="olt">praneſches</w>
@@ -866,7 +868,7 @@
             <lem>uſʒgiminna</lem>
             <rdg>uſʒgimimma / uſʒgimima</rdg>
           </app></w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_33.5" xml:lang="lat">Ciri</w>
+        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_33.5" xml:lang="lat">Ciri</w>  <!--Cyrus II (the Great).-->
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_33.6" xml:lang="olt">kareliaus</w>
         </l>
         <l n="34" xml:id="WP_1573_01_06_Epiph._Dom._50v_34">
@@ -1454,7 +1456,7 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._51v_14.5" xml:lang="olt">doſt</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._51v_14.6" xml:lang="olt">amſʒina.</w>
 
-        <ref decls="author" cRef="SongHerod"/></quote>
+        <ref decls="nonbib" cRef="SongHerod"/></quote>
 
         </l>
         <l n="15" xml:id="WP_1573_01_06_Epiph._Dom._51v_15">
@@ -1796,15 +1798,17 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_9.5" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_9.6" xml:lang="olt">Cħus</w>
 
-        <ref decls="author" cRef="SymAthan_2"/></quote>
+        <ref decls="nonbib" cRef="SymAthan_2"/></quote>
 
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_9.7" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_9.8" xml:lang="olt">ir</w>
+        <quote>
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_9.9" xml:lang="olt">Atta✝naſius</w>
         </l>
         <l n="10" xml:id="WP_1573_01_06_Epiph._Dom._52r_10">
 
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_10.1" xml:lang="olt">naſius</w>
+        <ref decls="person" cRef="Athan"/></quote>
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_10.2" xml:lang="olt">iſchraſcha,</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_10.3" xml:lang="olt">Kan</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._52r_10.4" xml:lang="olt">neſanga</w>

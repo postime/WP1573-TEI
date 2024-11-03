@@ -1678,8 +1678,10 @@
         <w xml:id="WP_1573_Dom._Sexag._85r_35.1" xml:lang="olt">Neſanga</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.3" xml:lang="olt">kalba</w>
+        <quote>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.5" xml:lang="olt">auguſtinas</w>
+        <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.6" xml:lang="olt">tardams:</w>
         </l>
         <l n="36" xml:id="WP_1573_Dom._Sexag._85r_36">
@@ -1725,7 +1727,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_1.5" xml:lang="olt">namu</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_1.6" xml:lang="olt">nameie.</w>
 
-        <ref decls="author" cRef="AAugustinus_3"/></quote>
+        <ref decls="nonbib" cRef="AAugustinus_3"/></quote>
 
         </l>
         <l n="2" xml:id="WP_1573_Dom._Sexag._85v_2">

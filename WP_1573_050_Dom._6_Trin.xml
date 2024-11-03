@@ -1263,7 +1263,7 @@
         </app>
         <punct>.</punct>
 
-        <ref decls="author" cRef="AAugustinus_9"/></quote> <!--This is a slightly complicated one.
+        <ref decls="nonbib" cRef="AAugustinus_9"/></quote> <!--This is a slightly complicated one.
         GP gives this explanation of the term "Racha" with the qualification that "others think" it,
         but that's omitted in WP. It seems to be taken from Augustinus's "De sermone Domini
         in monte", where he concludes that this interpretation is wrong(!). So without context

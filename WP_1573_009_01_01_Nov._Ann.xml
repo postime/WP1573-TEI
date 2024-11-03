@@ -2766,8 +2766,10 @@
         <w xml:id="WP_1573_01_01_Nov._Ann._47v_35.1" xml:lang="olt">Tas</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._47v_35.2" xml:lang="olt">mumus</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._47v_35.3" xml:lang="olt">(kaip</w>
+          <quote>
         <w xml:id="WP_1573_01_01_Nov._Ann._47v_35.4" xml:lang="olt">S</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._47v_35.5" xml:lang="lat">Auguštinus</w>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_01_01_Nov._Ann._47v_35.6" xml:lang="olt">kalba)</w>
         </l>
         <l n="36" xml:id="WP_1573_01_01_Nov._Ann._47v_36">
@@ -2802,7 +2804,7 @@
         <w xml:id="WP_1573_01_01_Nov._Ann._48r_1.10" xml:lang="grc">m̄</w>
         <punct>.</punct>
 
-        <ref decls="author" cRef="AAugustinus_1"/></quote>
+        <ref decls="nonbib" cRef="AAugustinus_1"/></quote>
 
         </l>
         <l n="2" xml:id="WP_1573_01_01_Nov._Ann._48r_2">

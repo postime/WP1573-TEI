@@ -569,7 +569,7 @@
         <w xml:id="WP_1573_Dom._Pent._180v_36.3" xml:lang="olt">panu</w>
         <w xml:id="WP_1573_Dom._Pent._180v_36.4" xml:lang="olt">Dewu,</w>
 
-        <ref decls="author" cRef="PsBasil_1"/></quote>
+        <ref decls="nonbib" cRef="PsBasil_1"/></quote>
 
         <w xml:id="WP_1573_Dom._Pent._180v_36.5" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Pent._180v_36.6" xml:lang="olt">ape</w>
@@ -629,7 +629,7 @@
         The quote encoding table contains IDs for all texts cited and mentioned.
         They can be tagged with those and given an appropriate type.-->
 
-        <ref decls="author" cRef="Fulgentius_1"/></quote>
+        <ref decls="nonbib" cRef="Fulgentius_1"/></quote>
 
         <w xml:id="WP_1573_Dom._Pent._181r_3.4" xml:lang="olt">Tadel</w>
         <w xml:id="WP_1573_Dom._Pent._181r_3.5" xml:lang="olt">ir</w>
@@ -1327,7 +1327,7 @@
         <w xml:id="WP_1573_Dom._Pent._181v_33.3" xml:lang="olt">wandinemus</w>
         <w xml:id="WP_1573_Dom._Pent._181v_33.4" xml:lang="olt">dawe.</w>
 
-        <ref decls="author" cRef="BasilMagn_2"/></quote>
+        <ref decls="nonbib" cRef="BasilMagn_2"/></quote>
 
         </l>
         <l n="34" xml:id="WP_1573_Dom._Pent._181v_34">
@@ -1533,7 +1533,7 @@
         <w xml:id="WP_1573_Dom._Pent._182r_18.4" xml:lang="olt">tawa</w>
         <w xml:id="WP_1573_Dom._Pent._182r_18.5" xml:lang="olt">ſpindulị.</w>
 
-        <ref decls="author" cRef="SongVeniSSpirit_1"/></quote>
+        <ref decls="nonbib" cRef="SongVeniSSpirit_1"/></quote>
 
         </l>
         <l n="19" xml:id="WP_1573_Dom._Pent._182r_19">
@@ -1714,7 +1714,7 @@
         <w xml:id="WP_1573_Dom._Pent._182r_34.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Pent._182r_34.4" xml:lang="olt">garbinamas.</w>
 
-        <ref decls="author" cRef="SymNicCon_3"/></quote>
+        <ref decls="nonbib" cRef="SymNicCon_3"/></quote>
 
         <w xml:id="WP_1573_Dom._Pent._182r_34.5" xml:lang="olt">Ne</w>
         <w xml:id="WP_1573_Dom._Pent._182r_34.6" xml:lang="olt">eſme</w>
@@ -1790,7 +1790,7 @@
         <w xml:id="WP_1573_Dom._Pent._182v_5.5" xml:lang="olt">Dewas</w>
         <w xml:id="WP_1573_Dom._Pent._182v_5.6" xml:lang="olt">ira,</w>
 
-        <ref decls="author" cRef="SymAthan_3"/></quote>
+        <ref decls="nonbib" cRef="SymAthan_3"/></quote>
 
         </l>
         <l n="6" xml:id="WP_1573_Dom._Pent._182v_6">
@@ -1949,7 +1949,7 @@
           </app></w>
         <punct>.</punct>
 
-        <ref decls="author" cRef="SongVeniSSpirit_2"/></quote>
+        <ref decls="nonbib" cRef="SongVeniSSpirit_2"/></quote>
 
         <w xml:id="WP_1573_Dom._Pent._182v_19.4" xml:lang="olt">Pats</w>
         <w xml:id="WP_1573_Dom._Pent._182v_19.5" xml:lang="olt">panas</w>

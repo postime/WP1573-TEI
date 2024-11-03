@@ -4490,19 +4490,24 @@
         <l n="9" xml:id="WP_1573_Dom._4_Adv._25r_9">
 
         <w xml:id="WP_1573_Dom._4_Adv._25r_9.1" xml:lang="olt">Jr</w>
+        <quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_9.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_9.3" xml:lang="olt">Biſʒkupas</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_9.4" xml:lang="olt">Ambroſius</w>
+        <ref decls="person" cRef="StAmbr"/></quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_9.5" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_9.6" xml:lang="olt">padarens</w>
+        <quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_9.7" xml:lang="olt">Ce<lb break="no"/>ſaru</w>
         </l>
         <l n="10" xml:id="WP_1573_Dom._4_Adv._25r_10">
 
-        <w xml:id="WP_1573_Dom._4_Adv._25r_10.1" xml:lang="olt">Teodoſiu,</w>
+        <w xml:id="WP_1573_Dom._4_Adv._25r_10.1" xml:lang="olt">Teodoſiu</w>
+        <ref decls="person" cRef="TheodosI"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._4_Adv._25r_10.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_10.3" xml:lang="olt">iſchraſcha</w>
-        <w xml:id="WP_1573_Dom._4_Adv._25r_10.4" xml:lang="lat">Tripartita</w>
+        <w xml:id="WP_1573_Dom._4_Adv._25r_10.4" xml:lang="lat">Tripartita</w> <!--Text.-->
         </l>
         <l n="11" xml:id="WP_1573_Dom._4_Adv._25r_11">
 
@@ -4760,7 +4765,7 @@
         <w xml:id="WP_1573_Dom._4_Adv._25r_32.4" xml:lang="grc">m̄</w>
         <punct>.</punct>
 
-        <ref decls="author" cRef="Cassiodor_1"/></quote>
+        <ref decls="nonbib" cRef="Cassiodor_1"/></quote>
 
         </l>
         <pb n="25v"/>
