@@ -696,9 +696,12 @@
         <w xml:id="WP_1573_Dom._5_Quadr._119r_26.1" xml:lang="olt">anſai</w>
         <w xml:id="WP_1573_Dom._5_Quadr._119r_26.2" xml:lang="olt">chacʒei</w>
         <w xml:id="WP_1573_Dom._5_Quadr._119r_26.3" xml:lang="olt">paganiſʒkas</w>
+        <quote>
         <w xml:id="WP_1573_Dom._5_Quadr._119r_26.4" xml:lang="lat">Poeta</w>
         <w xml:id="WP_1573_Dom._5_Quadr._119r_26.5" xml:lang="olt">wardu</w>
         <w xml:id="WP_1573_Dom._5_Quadr._119r_26.6" xml:lang="lat">Cato</w>
+        <ref decls="person" cRef="Dionysius Cato"/></quote> <!--For the question of which "Cato" the
+        Disticha Catonis get attributed to, cf. fol. 41v9–11 .-->
         <w xml:id="WP_1573_Dom._5_Quadr._119r_26.7" xml:lang="olt">tar<lb break="no"/>dams</w>
         </l>
         <l n="27" xml:id="WP_1573_Dom._5_Quadr._119r_27">
@@ -1061,12 +1064,14 @@
         </l>
         <l n="22" xml:id="WP_1573_Dom._5_Quadr._119v_22">
 
+        <quote>
         <w xml:id="WP_1573_Dom._5_Quadr._119v_22.1" xml:lang="olt">
           <app>  
             <lem>Jſodorus</lem>
             <rdg>Jſodi &lt; Jc</rdg>
             <rdg>Jſidorus</rdg>
           </app></w>
+        <ref decls="person" cRef="IsidorSev"/></quote>
         <w xml:id="WP_1573_Dom._5_Quadr._119v_22.2" xml:lang="olt">Jra</w>
         <w xml:id="WP_1573_Dom._5_Quadr._119v_22.3" xml:lang="olt">tarens.</w>
 
@@ -2791,6 +2796,7 @@
 
         <w xml:id="WP_1573_Dom._5_Quadr._121v_35.3" xml:lang="olt">paſakụ</w>
         <w xml:id="WP_1573_Dom._5_Quadr._121v_35.4" xml:lang="olt">ape</w>
+          <quote>
         <w xml:id="WP_1573_Dom._5_Quadr._121v_35.5" xml:lang="olt">kareliụ</w>
         <w xml:id="WP_1573_Dom._5_Quadr._121v_35.6" xml:lang="lat">Alexandrum</w>
         </l>
@@ -2802,6 +2808,7 @@
         <l n="1" xml:id="WP_1573_Dom._5_Quadr._122r_1">
 
         <w xml:id="WP_1573_Dom._5_Quadr._122r_1.1" xml:lang="olt">Nacʒedonụ</w>
+          <ref decls="person" cRef="AlexGr"/></quote>  
 
         <ref decls="nonbib" cRef="AlexGr/Melanc_2"/></quote>
 

@@ -519,8 +519,10 @@
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.3" xml:lang="olt">Diewap,</w>
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.4" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.5" xml:lang="olt">ir</w>
+        <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.6" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.7" xml:lang="olt">Gregorius</w>
+        <ref decls="person" cRef="GregMagn"/></quote>
         </l>
         <l n="35" xml:id="WP_1573_Dom._1_Quadr._93r_35">
 
@@ -2607,9 +2609,11 @@
         <l n="21" xml:id="WP_1573_Dom._1_Quadr._95v_21">
 
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.1" xml:lang="olt">raſchta</w>
+        <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.3" xml:lang="olt">wardu</w>
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.4" xml:lang="olt">gregorius</w>
+        <ref decls="person" cRef="GregMagn"/></quote>
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.5" xml:lang="olt">kalba:</w>
 
         <quote>
@@ -2896,12 +2900,14 @@
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.1" xml:lang="olt">Paſnikawimụ</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.2" xml:lang="olt">ſchweſei</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.3" xml:lang="olt">raſcha</w>
+        <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.5" xml:lang="olt">
           <app>  
             <lem>Auguſtinas</lem>
             <rdg>Auguſtim</rdg>
           </app></w>
+        <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.6" xml:lang="olt">ka<lb break="no"/>ʒani</w>
         </l>
         <l n="11" xml:id="WP_1573_Dom._1_Quadr._96r_11">
@@ -3611,8 +3617,10 @@
 
         <w xml:id="WP_1573_Dom._1_Quadr._96v_36.2" xml:lang="olt">Kalba</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96v_36.3" xml:lang="olt">wel</w>
+        <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._96v_36.4" xml:lang="lat">Leo</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96v_36.5" xml:lang="olt">Papeſʒus</w>
+        <ref decls="person" cRef="LeoGreat"/></quote>
 
         <quote>
 
@@ -3647,8 +3655,10 @@
         <ref decls="nonbib" cRef="LeoGreat_1"/></quote>
 
         <w xml:id="WP_1573_Dom._1_Quadr._97r_2.5" xml:lang="olt">Wel</w>
+        <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_2.6" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_2.7" xml:lang="lat">Auguštinus</w>
+        <ref decls="person" cRef="AAugustinus"/></quote>
         </l>
         <l n="3" xml:id="WP_1573_Dom._1_Quadr._97r_3">
 

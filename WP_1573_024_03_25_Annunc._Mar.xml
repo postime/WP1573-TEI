@@ -300,8 +300,10 @@
         </l>
         <l n="29" xml:id="WP_1573_03_25_Annunc._Mar._114v_29">
 
+        <quote>
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_29.1" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_29.2" xml:lang="olt">Auguſ:</w>
+        <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_29.3" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_29.4" xml:lang="olt">preſch</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_29.5" xml:lang="olt">ſʒidus</w>
@@ -390,18 +392,22 @@
         <ref decls="nonbib" cRef="PsAAug_10"/></quote>
 
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_35.6" xml:lang="olt">Taſiegi</w>
+        <quote>
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_35.7" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_35.8" xml:lang="lat">Auguštinus</w>
+        <ref decls="person" cRef="AAugustinus"/></quote>
         </l>
         <l n="36" xml:id="WP_1573_03_25_Annunc._Mar._114v_36">
 
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_36.1" xml:lang="olt">kalba</w>
+        <quote>
         <w xml:id="WP_1573_03_25_Annunc._Mar._114v_36.2" xml:lang="olt">
           <app>  
             <lem>Volutianu</lem>
             <rdg>Volutianụ</rdg>
-            <rdg>Volusianu</rdg>
+            <rdg>Volusianu</rdg> <!-- Rufius Antonius Agrypnius Volusianus -->
           </app></w>
+        <ref decls="person" cRef="RAAVolus"/></quote>
         <punct>:</punct>
 
         <quote>
