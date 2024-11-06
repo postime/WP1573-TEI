@@ -2473,8 +2473,10 @@
         <l n="26" xml:id="WP_1573_Dom._24_Trin._275r_26">
 
         <w xml:id="WP_1573_Dom._24_Trin._275r_26.1" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Dom._24_Trin._275r_26.2" xml:lang="olt">Greſera.</w>
-        </l>
+          <quote>
+        <w xml:id="WP_1573_Dom._24_Trin._275r_26.2" xml:lang="olt">Greſera</w>
+          <ref decls="person" cRef="DGreser"/></quote>
+        <punct>.</punct>
         <l n="27" xml:id="WP_1573_Dom._24_Trin._275r_27">
 
         <w xml:id="WP_1573_Dom._24_Trin._275r_27.1" xml:lang="olt">.:Ɔ</w>

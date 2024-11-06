@@ -519,10 +519,10 @@
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.3" xml:lang="olt">Diewap,</w>
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.4" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.5" xml:lang="olt">ir</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.6" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Quadr._93r_34.7" xml:lang="olt">Gregorius</w>
-        <ref decls="person" cRef="GregMagn"/></quote>
+          <ref decls="person" cRef="GregMagn"/></quote>
         </l>
         <l n="35" xml:id="WP_1573_Dom._1_Quadr._93r_35">
 
@@ -2609,11 +2609,11 @@
         <l n="21" xml:id="WP_1573_Dom._1_Quadr._95v_21">
 
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.1" xml:lang="olt">raſchta</w>
-        <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.3" xml:lang="olt">wardu</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.4" xml:lang="olt">gregorius</w>
-        <ref decls="person" cRef="GregMagn"/></quote>
+          <ref decls="person" cRef="GregMagn"/></quote>
         <w xml:id="WP_1573_Dom._1_Quadr._95v_21.5" xml:lang="olt">kalba:</w>
 
         <quote>
@@ -2900,14 +2900,14 @@
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.1" xml:lang="olt">Paſnikawimụ</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.2" xml:lang="olt">ſchweſei</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.3" xml:lang="olt">raſcha</w>
-        <quote>
+         <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.5" xml:lang="olt">
           <app>  
             <lem>Auguſtinas</lem>
             <rdg>Auguſtim</rdg>
           </app></w>
-        <ref decls="person" cRef="AAugustinus"/></quote>
+         <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._1_Quadr._96r_10.6" xml:lang="olt">ka<lb break="no"/>ʒani</w>
         </l>
         <l n="11" xml:id="WP_1573_Dom._1_Quadr._96r_11">
@@ -3540,8 +3540,10 @@
         <w xml:id="WP_1573_Dom._1_Quadr._96v_29.6" xml:lang="olt">eſte</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96v_29.7" xml:lang="olt">paſnikawị,</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96v_29.8" xml:lang="grc">m̄</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._96v_29.9" xml:lang="olt">S</w>
         <w xml:id="WP_1573_Dom._1_Quadr._96v_29.10" xml:lang="olt">Auguſ<lb break="no"/>tinas</w>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         </l>
         <l n="30" xml:id="WP_1573_Dom._1_Quadr._96v_30">
 
@@ -3655,10 +3657,10 @@
         <ref decls="nonbib" cRef="LeoGreat_1"/></quote>
 
         <w xml:id="WP_1573_Dom._1_Quadr._97r_2.5" xml:lang="olt">Wel</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_2.6" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_2.7" xml:lang="lat">Auguštinus</w>
-        <ref decls="person" cRef="AAugustinus"/></quote>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         </l>
         <l n="3" xml:id="WP_1573_Dom._1_Quadr._97r_3">
 
@@ -3753,8 +3755,10 @@
         <w xml:id="WP_1573_Dom._1_Quadr._97r_9.2" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_9.3" xml:lang="olt">tụ</w>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_9.4" xml:lang="olt">ſʒadʒiụ</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_9.5" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_9.6" xml:lang="olt">auguſtina</w>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_9.7" xml:lang="olt">Jeigu</w>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_9.8" xml:lang="olt">ſaka</w>
         <w xml:id="WP_1573_Dom._1_Quadr._97r_9.9" xml:lang="olt">bralei</w>

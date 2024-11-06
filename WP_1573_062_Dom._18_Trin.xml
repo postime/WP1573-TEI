@@ -1341,7 +1341,10 @@
         </l>
         <l n="10" xml:id="WP_1573_Dom._18_Trin._254r_10">
 
-        <w xml:id="WP_1573_Dom._18_Trin._254r_10.1" xml:lang="olt">Greſera.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._18_Trin._254r_10.1" xml:lang="olt">Greſera</w>
+          <ref decls="person" cRef="DGreser"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

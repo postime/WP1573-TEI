@@ -2373,7 +2373,10 @@
         <w xml:id="WP_1573_Dom._7_Trin._219r_16.3" xml:lang="olt">Amē.</w>
         <w xml:id="WP_1573_Dom._7_Trin._219r_16.4" xml:lang="olt">Trumpai</w>
         <w xml:id="WP_1573_Dom._7_Trin._219r_16.5" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Dom._7_Trin._219r_16.6" xml:lang="olt">Hemingia.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._7_Trin._219r_16.6" xml:lang="olt">Hemingia</w>
+          <ref decls="person" cRef="NHemming"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

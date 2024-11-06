@@ -182,8 +182,9 @@
 
         <w xml:id="WP_1573_Dom._Trin._188r_12.1" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._188r_12.2" xml:lang="olt">bua</w>
-        <w xml:id="WP_1573_Dom._Trin._188r_12.3" xml:lang="olt">Anaxagoras</w> <!--No textual quotation or reference given,
-        but remember to tag the persons of Anaxagoras and Pericles.-->
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._188r_12.3" xml:lang="olt">Anaxagoras</w>
+          <ref decls="person" cRef="Anaxagor"/></quote>
         <w xml:id="WP_1573_Dom._Trin._188r_12.4" xml:lang="olt">Paganas,</w>
         <w xml:id="WP_1573_Dom._Trin._188r_12.5" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Dom._Trin._188r_12.6" xml:lang="olt">ta<lb break="no"/>delei,</w>
@@ -928,9 +929,9 @@
         <w xml:id="WP_1573_Dom._Trin._189r_10.1" xml:lang="olt">manụ</w>
         <w xml:id="WP_1573_Dom._Trin._189r_10.2" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._Trin._189r_10.3" xml:lang="olt">Kaip</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._189r_10.4" xml:lang="olt">Baſilius</w>
-        <ref decls="person" cRef="BasilMagn"/></quote>
+          <ref decls="person" cRef="BasilMagn"/></quote>
         <w xml:id="WP_1573_Dom._Trin._189r_10.5" xml:lang="olt">knigoſa</w> <!--Text.-->
         <w xml:id="WP_1573_Dom._Trin._189r_10.6" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._Trin._189r_10.7" xml:lang="olt">Dwaſiụ</w>
@@ -1919,14 +1920,18 @@
         <w xml:id="WP_1573_Dom._Trin._190r_29.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._190r_29.3" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._Trin._190r_29.4" xml:lang="olt">tai</w>
-        <w xml:id="WP_1573_Dom._Trin._190r_29.5" xml:lang="olt">Alexander</w> <!--Person.
-        Alexander Alexandrinus, 312-328. -->
+        <quote>
+        <w xml:id="WP_1573_Dom._Trin._190r_29.5" xml:lang="olt">Alexander</w>
         <w xml:id="WP_1573_Dom._Trin._190r_29.6" xml:lang="olt">Biſʒ<lb break="no"/>kupas</w>
+        <ref decls="person" cRef="AlexAlex"/></quote>
+
         </l>
         <l n="30" xml:id="WP_1573_Dom._Trin._190r_30">
 
         <w xml:id="WP_1573_Dom._Trin._190r_30.1" xml:lang="olt">prieſch</w>
-        <w xml:id="WP_1573_Dom._Trin._190r_30.2" xml:lang="lat">Arrium</w> <!--Person. Arius.-->
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._190r_30.2" xml:lang="lat">Arrium</w>
+          <ref decls="person" cRef="Arius"/></quote>
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._Trin._190r_30.4" xml:lang="olt">baſʒnicʒias</w>
         <w xml:id="WP_1573_Dom._Trin._190r_30.5" xml:lang="olt">Hiſtoriai</w> <!--Text.-->
@@ -2208,7 +2213,7 @@
         <w xml:id="WP_1573_Dom._Trin._190v_19.1" xml:lang="olt">(kaip</w>
           <quote>
         <w xml:id="WP_1573_Dom._Trin._190v_19.2" xml:lang="olt">Atanaſius</w>
-          <ref decls="person" cRef="Athanasius"/></quote>
+          <ref decls="person" cRef="Athan"/></quote>
         <w xml:id="WP_1573_Dom._Trin._190v_19.3" xml:lang="olt">raſcha)</w>
 
         <ref decls="nonbib" cRef="SymAthan_4"/></quote> <!--Reference only.-->
@@ -2617,7 +2622,7 @@
             <rdg>Athanaſia</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Trin._191r_17.5" xml:lang="olt">Biſʒkupa</w>
-          <ref decls="person" cRef="Athanasius"/></quote>
+          <ref decls="person" cRef="Athan"/></quote>
         <punct>.</punct>
 
         <ref decls="nonbib" cRef="SymAthan_6"/></quote>
@@ -2899,17 +2904,31 @@
 
         <w xml:id="WP_1573_Dom._Trin._191v_12.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Trin._191v_12.2" xml:lang="lat">Sabellius,</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_12.3" xml:lang="lat">Arrius,</w>
-        <w xml:id="WP_1573_Dom._Trin._191v_12.4" xml:lang="lat">Cerintus,</w>
+          <ref decls="person" cRef="Arius"/></quote>
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._191v_12.4" xml:lang="lat">Cerintus</w>
+          <ref decls="person" cRef="Cerinthus"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._Trin._191v_12.5" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._Trin._191v_12.6" xml:lang="lat">Ebion,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._191v_12.6" xml:lang="lat">Ebion</w>
+          <ref decls="person" cRef="Ebion"/></quote> <!--"Ebion" was at the time assumed to be the founder
+          of the Jewish Christian Ebionite sect. In fact there was no such person,
+          the name "Ebionim" simply means "the poor ones".-->
+        <punct>,</punct>
         </l>
         <l n="13" xml:id="WP_1573_Dom._Trin._191v_13">
 
         <w xml:id="WP_1573_Dom._Trin._191v_13.1" xml:lang="lat">Martion</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.2" xml:lang="lat">Apelles</w>
+          <ref decls="person" cRef="ApellesGno"/></quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.3" xml:lang="olt">ir</w>
+         <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.4" xml:lang="lat">Apollinaris</w>
+          <ref decls="person" cRef="ApollinJr"/></quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.5" xml:lang="grc">m̄</w>
         </l>
         <l n="14" xml:id="WP_1573_Dom._Trin._191v_14">
@@ -3306,7 +3325,9 @@
         <l n="19" xml:id="WP_1573_Dom._Trin._192r_19">
 
         <w xml:id="WP_1573_Dom._Trin._192r_19.1" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_Dom._Trin._192r_19.2" xml:lang="olt">Cerintus</w> <!--Person. Cerinthos, heretic.-->
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._192r_19.2" xml:lang="olt">Cerintus</w>
+          <ref decls="person" cRef="Cerinthus"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192r_19.3" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Dom._Trin._192r_19.4" xml:lang="olt">piktai</w>
         <w xml:id="WP_1573_Dom._Trin._192r_19.5" xml:lang="olt">ape</w>
@@ -3339,7 +3360,9 @@
 
         <quote>
 
-        <w xml:id="WP_1573_Dom._Trin._192r_22.4" xml:lang="olt">Arriu</w> <!--Person. Arius.-->
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._192r_22.4" xml:lang="olt">Arriu</w>
+          <ref decls="person" cRef="Arius"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192r_22.5" xml:lang="olt">tam</w>
         <w xml:id="WP_1573_Dom._Trin._192r_22.6" xml:lang="olt">ligu</w>
         <w xml:id="WP_1573_Dom._Trin._192r_22.7" xml:lang="olt">Heretiku</w>
@@ -3440,8 +3463,11 @@
 
         <quote>
 
-        <w xml:id="WP_1573_Dom._Trin._192r_31.1" xml:lang="olt">Anaſtaſius</w> <!--Person. Anastasius I.-->
-        <w xml:id="WP_1573_Dom._Trin._192r_31.2" xml:lang="olt">Ceſarus,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._192r_31.1" xml:lang="olt">Anaſtaſius</w> 
+        <w xml:id="WP_1573_Dom._Trin._192r_31.2" xml:lang="olt">Ceſarus</w>
+          <ref decls="person" cRef="AnastI"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._Trin._192r_31.3" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Dom._Trin._192r_31.4" xml:lang="olt">
           <app>  

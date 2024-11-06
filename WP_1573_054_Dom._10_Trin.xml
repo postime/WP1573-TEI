@@ -1270,14 +1270,18 @@
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.2" xml:lang="olt">didei</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.3" xml:lang="olt">platei</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.4" xml:lang="olt">Jſchraſcha</w>
+          <quote>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.5" xml:lang="olt">Joʒephus</w>
+          <ref decls="person" cRef="JosFlavius"/></quote>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.6" xml:lang="olt">knigo<lb break="no"/>ſa</w>
         </l>
         <l n="29" xml:id="WP_1573_Dom._10_Trin._227r_29">
 
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.1" xml:lang="olt">7</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.2" xml:lang="olt">Jr</w>
+          <quote>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.3" xml:lang="lat">Eušeuius</w>
+          <ref decls="person" cRef="EusebC"/></quote>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.4" xml:lang="olt">knigoſa</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.5" xml:lang="olt">5</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.6" xml:lang="olt">ape</w>
@@ -1767,7 +1771,10 @@
         <w xml:id="WP_1573_Dom._10_Trin._228r_9.1" xml:lang="olt">Amen</w>
         <w xml:id="WP_1573_Dom._10_Trin._228r_9.2" xml:lang="olt">Trumpei</w>
         <w xml:id="WP_1573_Dom._10_Trin._228r_9.3" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Dom._10_Trin._228r_9.4" xml:lang="olt">Greſera.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._10_Trin._228r_9.4" xml:lang="olt">Greſera</w>
+          <ref decls="person" cRef="DGreser"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

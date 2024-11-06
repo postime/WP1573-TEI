@@ -2266,9 +2266,9 @@
         <l n="9" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_9">
 
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_9.1" xml:lang="olt">ir</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_9.2" xml:lang="lat">Cato</w>
-        <ref decls="person" cRef="CatoD"/></quote> <!--"Dionysius Cato" is a new (fictional) author's
+          <ref decls="person" cRef="CatoD"/></quote> <!--"Dionysius Cato" is a new (fictional) author's
         name under which the Disticha Catonis were published starting in the late 15th century.
         Presumably that's who WP's author is thinking of here, though the text has also been
         (erroneously) ascribed to Marcus Porcius Cato (234–149; 184 Censor). Link both here?-->
@@ -2701,7 +2701,10 @@
 
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._42r_M9S.1" xml:lang="olt">⌈:Ɔ</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._42r_M9S.2" xml:lang="lat">Concio</w>
-        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._42r_M9S.3" xml:lang="lat">Hemmingij.</w>
+          <quote>
+        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._42r_M9S.3" xml:lang="lat">Hemmingij</w>
+          <ref decls="person" cRef="NHemming"/></quote>
+        <punct>.</punct>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._42r_M9S.4" xml:lang="olt">⌉</w>
         </l>
       </div>

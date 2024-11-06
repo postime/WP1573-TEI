@@ -2335,7 +2335,10 @@
         <l n="14" xml:id="WP_1573_Dom._14_Trin._241r_14">
 
         <w xml:id="WP_1573_Dom._14_Trin._241r_14.1" xml:lang="olt">Jſch</w>
-        <w xml:id="WP_1573_Dom._14_Trin._241r_14.2" xml:lang="olt">Greſera.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._14_Trin._241r_14.2" xml:lang="olt">Greſera</w>
+          <ref decls="person" cRef="DGreser"/></quote>
+        <punct>.</punct>
         <w xml:id="WP_1573_Dom._14_Trin._241r_14.3" xml:lang="olt">∻</w>
         </l>
       </div>

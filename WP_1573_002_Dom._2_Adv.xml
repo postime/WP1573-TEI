@@ -1748,9 +1748,9 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._8r_12.1" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_12.2" xml:lang="olt">kalba</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Adv._8r_12.3" xml:lang="lat">Chrišoštomus</w>
-        <ref decls="person" cRef="JohChrys"/></quote>
+          <ref decls="person" cRef="JohChrys"/></quote>
         <w xml:id="WP_1573_Dom._2_Adv._8r_12.4" xml:lang="olt">tardams</w>
 
         <quote>
@@ -2048,14 +2048,14 @@
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.5" xml:lang="olt">cʒeſu</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.6" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.7" xml:lang="olt">tarens</w>
-        <quote>
+         <quote>
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.8" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_2.9" xml:lang="olt">
           <app type="err">
             <lem>Hieroninas</lem>
             <rdg>Hieronimas</rdg>
           </app></w>
-        <ref decls="person" cRef="SEHieronymus"/></quote>
+          <ref decls="person" cRef="SEHieronymus"/></quote>
         </l>
         <l n="3" xml:id="WP_1573_Dom._2_Adv._8v_3">
 
@@ -2129,10 +2129,10 @@
         <w xml:id="WP_1573_Dom._2_Adv._8v_9.2" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_9.3" xml:lang="olt">anſai</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_9.4" xml:lang="olt">tewas</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Adv._8v_9.5" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_9.6" xml:lang="lat">Bernhardus</w>
-        <ref decls="person" cRef="BernClair"/></quote>
+         <ref decls="person" cRef="BernClair"/></quote>
         </l>
         <l n="10" xml:id="WP_1573_Dom._2_Adv._8v_10">
 
@@ -2363,7 +2363,9 @@
         <w xml:id="WP_1573_Dom._2_Adv._8v_31.2" xml:lang="olt">atteija</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_31.3" xml:lang="olt">Tewap</w>
         <w xml:id="WP_1573_Dom._2_Adv._8v_31.4" xml:lang="olt">wardu</w>
+        <quote>
         <w xml:id="WP_1573_Dom._2_Adv._8v_31.5" xml:lang="olt">Am̄on</w>
+        <ref decls="person" cRef="Ammon"/></quote>
         <w xml:id="WP_1573_Dom._2_Adv._8v_31.6" xml:lang="olt">melſda<lb break="no"/>mas</w>
         </l>
         <l n="32" xml:id="WP_1573_Dom._2_Adv._8v_32">
@@ -2894,10 +2896,10 @@
         <l n="12" xml:id="WP_1573_Dom._2_Adv._9v_12">
 
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.1" xml:lang="olt">raſcha</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.3" xml:lang="olt">Auguſ:</w>
-        <ref decls="person" cRef="AAugustinus"/></quote>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._2_Adv._9v_12.4" xml:lang="olt">
           <app>  
             <lem>tardams</lem>
@@ -3052,9 +3054,9 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._9v_26.1" xml:lang="olt">Kalba</w>
         <w xml:id="WP_1573_Dom._2_Adv._9v_26.2" xml:lang="olt">wel</w>
-        <quote>
+         <quote>
         <w xml:id="WP_1573_Dom._2_Adv._9v_26.3" xml:lang="lat">Chrišoš:</w>
-        <ref decls="person" cRef="JohChrys"/></quote>
+         <ref decls="person" cRef="JohChrys"/></quote>
 
         <quote>
 
@@ -3314,9 +3316,9 @@
         <w xml:id="WP_1573_Dom._2_Adv._10r_18.1" xml:lang="olt">gimuſia</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_18.2" xml:lang="olt">waikelia.</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_18.3" xml:lang="olt">Kalba</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Adv._10r_18.4" xml:lang="lat">Chrišošto:</w>
-        <ref decls="person" cRef="JohChrys"/></quote>
+         <ref decls="person" cRef="JohChrys"/></quote>
         </l>
         <l n="19" xml:id="WP_1573_Dom._2_Adv._10r_19">
 
@@ -3664,9 +3666,9 @@
         </l>
         <l n="18" xml:id="WP_1573_Dom._2_Adv._10v_18">
 
-        <quote>
+         <quote>
         <w xml:id="WP_1573_Dom._2_Adv._10v_18.1" xml:lang="lat">Chrišoš:</w>
-        <ref decls="person" cRef="JohChrys"/></quote>
+          <ref decls="person" cRef="JohChrys"/></quote>
         <w xml:id="WP_1573_Dom._2_Adv._10v_18.2" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_18.3" xml:lang="olt">teip:</w>
 
@@ -3739,10 +3741,10 @@
         <l n="25" xml:id="WP_1573_Dom._2_Adv._10v_25">
 
         <w xml:id="WP_1573_Dom._2_Adv._10v_25.1" xml:lang="olt">Kalba</w>
-        <quote>
+         <quote>
         <w xml:id="WP_1573_Dom._2_Adv._10v_25.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_25.3" xml:lang="olt">Bern:</w>
-        <ref decls="person" cRef="BernClair"/></quote>
+          <ref decls="person" cRef="BernClair"/></quote>
         <w xml:id="WP_1573_Dom._2_Adv._10v_25.4" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_25.5" xml:lang="olt">ſʒadʒiụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_25.6" xml:lang="olt">Salom:</w>
@@ -3828,10 +3830,10 @@
 
         <ref decls="nonbib" cRef="BernClair_2"/></quote>
 
-        <quote>
+         <quote>
         <w xml:id="WP_1573_Dom._2_Adv._10v_33.3" xml:lang="olt">S</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_33.4" xml:lang="olt">Hieroni:</w>
-        <ref decls="person" cRef="SEHieronymus"/></quote>
+         <ref decls="person" cRef="SEHieronymus"/></quote>
         <w xml:id="WP_1573_Dom._2_Adv._10v_33.5" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._2_Adv._10v_33.6" xml:lang="olt">tar<lb break="no"/>dams:</w>
         </l>
@@ -4103,9 +4105,9 @@
         <w xml:id="WP_1573_Dom._2_Adv._11r_23.1" xml:lang="olt">darbụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_23.2" xml:lang="olt">ia,.</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_23.3" xml:lang="olt">Kalba</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Adv._11r_23.4" xml:lang="lat">Chrišošto</w>
-        <ref decls="person" cRef="JohChrys"/></quote>
+         <ref decls="person" cRef="JohChrys"/></quote>
         <punct>:</punct>
         <w xml:id="WP_1573_Dom._2_Adv._11r_23.6" xml:lang="olt">tar<lb break="no"/>dams</w>
         </l>
@@ -4686,10 +4688,10 @@
         <l n="7" xml:id="WP_1573_Dom._2_Adv._12r_7">
 
         <w xml:id="WP_1573_Dom._2_Adv._12r_7.1" xml:lang="olt">neſanga</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Adv._12r_7.2" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_7.3" xml:lang="olt">Auguſ:</w>
-        <ref decls="person" cRef="AAugustinus"/></quote>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._2_Adv._12r_7.4" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_7.5" xml:lang="olt">ſʒadʒiụ</w>
         <w xml:id="WP_1573_Dom._2_Adv._12r_7.6" xml:lang="olt">ſ:</w>

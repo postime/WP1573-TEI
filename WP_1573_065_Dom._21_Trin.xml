@@ -1152,7 +1152,9 @@
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.1" xml:lang="olt">raſchta</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.3" xml:lang="olt">wardu</w>
+          <quote>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.4" xml:lang="olt">Gregorius</w>
+          <ref decls="person" cRef="GregMagn"/></quote>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.5" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.6" xml:lang="olt">ant</w>
         </l>
@@ -2075,7 +2077,10 @@
         </l>
         <l n="6" xml:id="WP_1573_Dom._21_Trin._264v_6">
 
-        <w xml:id="WP_1573_Dom._21_Trin._264v_6.1" xml:lang="olt">Hemingia.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._21_Trin._264v_6.1" xml:lang="olt">Hemingia</w>
+          <ref decls="person" cRef="NHemming"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

@@ -224,10 +224,10 @@
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.2" xml:lang="olt">dumati</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.3" xml:lang="olt">kaip</w>
-        <quote>
+         <quote>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.5" xml:lang="lat">Bernhardus</w>
-        <ref decls="person" cRef="BernClair"/></quote>
+          <ref decls="person" cRef="BernClair"/></quote>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.6" xml:lang="olt">iſchraſcha</w>
         </l>
         <l n="23" xml:id="WP_1573_Dom._1_Adv._1r_23">
@@ -3305,8 +3305,10 @@
         <l n="M10-11S" xml:id="WP_1573_Dom._1_Adv._5v_M10-11S">
 
         <w xml:id="WP_1573_Dom._1_Adv._5v_M10-11S.1" xml:lang="olt">⌈</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Adv._5v_M10-11S.2" xml:lang="lat">N.</w>
         <w xml:id="WP_1573_Dom._1_Adv._5v_M10-11S.3" xml:lang="lat">H.</w>
+          <ref decls="person" cRef="NHemming"/></quote>
         <w xml:id="WP_1573_Dom._1_Adv._5v_M10-11S.4" xml:lang="olt">⌉</w>
         </l>
       </div>

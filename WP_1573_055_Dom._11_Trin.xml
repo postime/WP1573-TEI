@@ -2232,7 +2232,10 @@
         <l n="25" xml:id="WP_1573_Dom._11_Trin._231r_25">
 
         <w xml:id="WP_1573_Dom._11_Trin._231r_25.1" xml:lang="olt">Jſch</w>
-        <w xml:id="WP_1573_Dom._11_Trin._231r_25.2" xml:lang="olt">Greſera.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._11_Trin._231r_25.2" xml:lang="olt">Greſera</w>
+          <ref decls="person" cRef="DGreser"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

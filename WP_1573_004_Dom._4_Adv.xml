@@ -4644,12 +4644,14 @@
             <lem>nog</lem>
             <rdg>m</rdg>
           </app></w>
+        <quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_21.2" xml:lang="olt">Biſʒkupa</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_21.3" xml:lang="olt">
           <app hand="W">
             <lem>ambraſʒieiaus</lem>
             <rdg>Ambraſʒieiaus</rdg>
           </app></w>
+        <ref decls="person" cRef="StAmbr"/></quote>
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._4_Adv._25r_21.5" xml:lang="olt">
           <app type="err">
@@ -4682,7 +4684,9 @@
         <l n="24" xml:id="WP_1573_Dom._4_Adv._25r_24">
 
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.1" xml:lang="olt">ineiti,</w>
+        <quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.2" xml:lang="olt">Ambroſius</w>
+        <ref decls="person" cRef="StAmbr"/></quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.3" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.4" xml:lang="olt">neleida,</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.5" xml:lang="olt">bet</w>
@@ -4988,7 +4992,9 @@
         <w xml:id="WP_1573_Dom._4_Adv._25v_M21S.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_Dom._4_Adv._25v_M21S.2" xml:lang="lat">ex</w>
         <w xml:id="WP_1573_Dom._4_Adv._25v_M21S.3" xml:lang="lat">Poštilla</w>
+          <quote>
         <w xml:id="WP_1573_Dom._4_Adv._25v_M21S.4" xml:lang="lat">Hemmingij</w>
+          <ref decls="person" cRef="NHemming"/></quote>
         <w xml:id="WP_1573_Dom._4_Adv._25v_M21S.5" xml:lang="olt">⌉</w>
         </l>
       </div>

@@ -1620,10 +1620,10 @@
         </l>
         <l n="11" xml:id="WP_1573_Dom._1_Pasch._163r_11">
 
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_11.1" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_11.2" xml:lang="lat">Auguštinus</w>
-        <ref decls="person" cRef="AAugustinus"/></quote>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_11.3" xml:lang="olt">gramatai</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_11.4" xml:lang="olt">fortunatap,</w> <!--Person.
         Fortunatus, a heretical ("Manichaean") presbyter from Hippo Regius.
@@ -1788,10 +1788,10 @@
         </l>
         <l n="29" xml:id="WP_1573_Dom._1_Pasch._163r_29">
 
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_29.1" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_29.2" xml:lang="olt">Auguſ:</w>
-        <ref decls="person" cRef="AAugustinus"/></quote>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_29.3" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_29.4" xml:lang="olt">bua</w>

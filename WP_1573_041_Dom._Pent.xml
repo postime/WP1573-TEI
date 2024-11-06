@@ -602,10 +602,10 @@
         <pb n="181r"/>
         <l n="1" xml:id="WP_1573_Dom._Pent._181r_1">
 
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._Pent._181r_1.1" xml:lang="lat">Bašilius</w>
         <w xml:id="WP_1573_Dom._Pent._181r_1.2" xml:lang="lat">magnus</w>
-        <ref decls="person" cRef="BasilMagn"/></quote>
+          <ref decls="person" cRef="BasilMagn"/></quote>
         <w xml:id="WP_1573_Dom._Pent._181r_1.3" xml:lang="olt">gramatai</w>
         <w xml:id="WP_1573_Dom._Pent._181r_1.4" xml:lang="olt">141</w>
         <w xml:id="WP_1573_Dom._Pent._181r_1.5" xml:lang="olt">Ceſarianumpi</w> <!--Person.-->
@@ -1297,9 +1297,9 @@
         <l n="30" xml:id="WP_1573_Dom._Pent._181v_30">
 
         <w xml:id="WP_1573_Dom._Pent._181v_30.1" xml:lang="olt">Ludija</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._Pent._181v_30.2" xml:lang="olt">Baſilius</w>
-        <ref decls="person" cRef="BasilMagn"/></quote>
+          <ref decls="person" cRef="BasilMagn"/></quote>
         <w xml:id="WP_1573_Dom._Pent._181v_30.3" xml:lang="lat">in</w>
         <w xml:id="WP_1573_Dom._Pent._181v_30.4" xml:lang="lat">Examine</w> <!--Text.-->
         <w xml:id="WP_1573_Dom._Pent._181v_30.5" xml:lang="olt">ſawa,</w>
@@ -1812,9 +1812,9 @@
         </l>
         <l n="7" xml:id="WP_1573_Dom._Pent._182v_7">
 
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._Pent._182v_7.1" xml:lang="olt">Athanaſius</w>
-        <ref decls="person" cRef="Athanasius"/></quote>
+          <ref decls="person" cRef="Athan"/></quote>
         <w xml:id="WP_1573_Dom._Pent._182v_7.2" xml:lang="olt">ludija,</w>
         <w xml:id="WP_1573_Dom._Pent._182v_7.3" xml:lang="olt">Tadelei</w>
         <w xml:id="WP_1573_Dom._Pent._182v_7.4" xml:lang="olt">

@@ -1571,9 +1571,12 @@
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.1" xml:lang="olt">tap</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.2" xml:lang="olt">Pawilap</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.3" xml:lang="olt">Puſtelnikap</w>
+          <quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.4" xml:lang="olt">S</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.5" xml:lang="olt">Anthonius</w>
-        <w xml:id="WP_1573_Dom._15_Trin._243r_20.6" xml:lang="olt">puſ<lb break="no"/>telnikas,</w>
+        <w xml:id="WP_1573_Dom._15_Trin._243r_20.6" xml:lang="olt">puſ<lb break="no"/>telnikas</w>
+         <ref decls="person" cRef="AnthHermit"/></quote>
+        <punct>,</punct>
         </l>
         <l n="21" xml:id="WP_1573_Dom._15_Trin._243r_21">
 
@@ -1589,7 +1592,10 @@
         <w xml:id="WP_1573_Dom._15_Trin._243r_22.2" xml:lang="olt">donas</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_22.3" xml:lang="olt">Tare</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_22.4" xml:lang="olt">Pawilas</w>
-        <w xml:id="WP_1573_Dom._15_Trin._243r_22.5" xml:lang="olt">Anto<lb break="no"/>niap,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._15_Trin._243r_22.5" xml:lang="olt">Anto<lb break="no"/>niap</w>
+          <ref decls="person" cRef="AnthHermit"/></quote>
+        <punct>,</punct>
         </l>
         <l n="23" xml:id="WP_1573_Dom._15_Trin._243r_23">
 
@@ -1638,12 +1644,14 @@
 
         <ref decls="nonbib" cRef="PaulAntonHermits"/></quote>
 
+          <quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_27.4" xml:lang="lat">Gregorius</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_27.5" xml:lang="lat">Naıian<lb break="no"/>cienus</w>
+          <ref decls="person" cRef="GregNazianz"/></quote>
         </l>
         <l n="28" xml:id="WP_1573_Dom._15_Trin._243r_28">
 
-        <w xml:id="WP_1573_Dom._15_Trin._243r_28.1" xml:lang="olt">Monodiai</w>
+        <w xml:id="WP_1573_Dom._15_Trin._243r_28.1" xml:lang="olt">Monodiai</w> <!--Text.-->
         <w xml:id="WP_1573_Dom._15_Trin._243r_28.2" xml:lang="olt">raſcha,</w>
 
         <quote>
@@ -1654,8 +1662,10 @@
         </l>
         <l n="29" xml:id="WP_1573_Dom._15_Trin._243r_29">
 
+          <quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_29.1" xml:lang="lat">Bašilij</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_29.2" xml:lang="lat">magni</w>
+          <ref decls="person" cRef="BasilMagn"/></quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_29.3" xml:lang="olt">del</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_29.4" xml:lang="olt">perſekdineijma</w>
         </l>
@@ -2263,8 +2273,10 @@
         </l>
         <l n="16" xml:id="WP_1573_Dom._15_Trin._244r_16">
 
+        <quote>
         <w xml:id="WP_1573_Dom._15_Trin._244r_16.1" xml:lang="olt">karelus</w>
         <w xml:id="WP_1573_Dom._15_Trin._244r_16.2" xml:lang="olt">Alphonſus</w>
+        <ref decls="person" cRef="AlfonsoV"/></quote>
         <w xml:id="WP_1573_Dom._15_Trin._244r_16.3" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._15_Trin._244r_16.4" xml:lang="olt">
           <app>  
@@ -3388,7 +3400,10 @@
         <l n="19" xml:id="WP_1573_Dom._15_Trin._245v_19">
 
         <w xml:id="WP_1573_Dom._15_Trin._245v_19.1" xml:lang="olt">Jſch</w>
-        <w xml:id="WP_1573_Dom._15_Trin._245v_19.2" xml:lang="olt">Greſera.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._15_Trin._245v_19.2" xml:lang="olt">Greſera</w>
+          <ref decls="person" cRef="DGreser"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

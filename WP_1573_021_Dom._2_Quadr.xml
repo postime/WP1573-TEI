@@ -3857,7 +3857,10 @@
 
         <w xml:id="WP_1573_Dom._2_Quadr._104v_M6S.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_Dom._2_Quadr._104v_M6S.2" xml:lang="lat">Ex</w>
-        <w xml:id="WP_1573_Dom._2_Quadr._104v_M6S.3" xml:lang="lat">Hemmingio.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._2_Quadr._104v_M6S.3" xml:lang="lat">Hemmingio</w>
+          <ref decls="person" cRef="NHemming"/></quote>
+        <punct>.</punct>
         <w xml:id="WP_1573_Dom._2_Quadr._104v_M6S.4" xml:lang="olt">⌉</w>
         </l>
       </div>

@@ -2056,10 +2056,12 @@
         <w xml:id="WP_1573_Dom._3_Trin._203v_7.5" xml:lang="olt">kurj</w>
         <w xml:id="WP_1573_Dom._3_Trin._203v_7.6" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._3_Trin._203v_7.7" xml:lang="olt">
+          <quote>
           <app>  
             <lem>Bern<lb break="no"/>hardus:</lem>
             <rdg>,</rdg>
           </app></w>
+          <ref decls="person" cRef="BernClair"/></quote>
         </l>
         <l n="8" xml:id="WP_1573_Dom._3_Trin._203v_8">
 

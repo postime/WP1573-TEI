@@ -1278,8 +1278,10 @@
         <w xml:id="WP_1573_Dom._16_Trin._247r_36.4" xml:lang="olt">ſanſʒina</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_36.5" xml:lang="olt">iụ,</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_36.6" xml:lang="olt">Jr</w>
+          <quote>
         <w xml:id="WP_1573_Dom._16_Trin._247r_36.7" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_36.8" xml:lang="lat">Bernhardus</w>
+          <ref decls="person" cRef="BernClair"/></quote>
         </l>
         <l n="M5W" xml:id="WP_1573_Dom._16_Trin._247r_M5W">
 
@@ -2197,7 +2199,10 @@
         <w xml:id="WP_1573_Dom._16_Trin._248v_14.2" xml:lang="olt">melſdami</w>
         <w xml:id="WP_1573_Dom._16_Trin._248v_14.3" xml:lang="grc">m̄</w>
         <w xml:id="WP_1573_Dom._16_Trin._248v_14.4" xml:lang="olt">Jſch</w>
-        <w xml:id="WP_1573_Dom._16_Trin._248v_14.5" xml:lang="olt">Hemingia.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._16_Trin._248v_14.5" xml:lang="olt">Hemingia</w>
+          <ref decls="person" cRef="NHemming"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>
