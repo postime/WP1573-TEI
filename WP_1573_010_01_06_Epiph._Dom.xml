@@ -810,10 +810,10 @@
         <l n="28" xml:id="WP_1573_01_06_Epiph._Dom._50v_28">
 
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.1" xml:lang="olt">tai</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.2" xml:lang="lat">Strabo</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.3" xml:lang="olt">hijſtoriographas</w>
-        <ref decls="person" cRef="Strabo"/></quote>
+          <ref decls="person" cRef="Strabo"/></quote>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.4" xml:lang="olt">iſchraſcha,</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_28.5" xml:lang="olt">Daniel</w>
         </l>
@@ -829,15 +829,20 @@
         </l>
         <l n="30" xml:id="WP_1573_01_06_Epiph._Dom._50v_30">
 
-        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.1" xml:lang="olt">Cira</w>  <!--Cyrus II (the Great).-->
-        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.2" xml:lang="olt">karelaus,</w>
+          <quote>
+        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.1" xml:lang="olt">Cira</w>
+        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.2" xml:lang="olt">karelaus</w>
+          <ref decls="person" cRef="CyrusII"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.3" xml:lang="olt">daug</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.4" xml:lang="olt">tam</w>
+          <quote>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_30.5" xml:lang="olt">kareliu</w>
         </l>
         <l n="31" xml:id="WP_1573_01_06_Epiph._Dom._50v_31">
 
-        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.1" xml:lang="olt">Ciru</w> <!--Cyrus II (the Great).-->
+        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.1" xml:lang="olt">Ciru</w>
+          <ref decls="person" cRef="CyrusII"/></quote>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.2" xml:lang="olt">buſencʒiụ</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.3" xml:lang="olt">daiktụ</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_31.4" xml:lang="olt">praneſches</w>

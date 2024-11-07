@@ -1058,11 +1058,12 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.1" xml:lang="olt">kadangi</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.2" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.3" xml:lang="olt">tas</w>
-        <quote>
+         <quote>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.4" xml:lang="olt">daktaras</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.5" xml:lang="olt">wardu</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.6" xml:lang="lat">Seneca</w>
-        <ref decls="person" cRef="SenecaY"/></quote>
+          <ref decls="person" cRef="SenecaY"/></quote> <!--No source found so far for this Latin quote
+          attributed to "Seneca", so we don't know if this is supposed to be Seneca Jr. or Sr. ...-->
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_22.7" xml:lang="olt">tar<lb break="no"/>dams:</w>
         </l>
         <l n="23" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40r_23">
@@ -2300,9 +2301,9 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.1" xml:lang="olt">Teip</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.2" xml:lang="olt">neſs</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.3" xml:lang="olt">ir</w>
-        <quote>
+         <quote>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.4" xml:lang="olt">plinius</w>
-        <ref decls="person" cRef="PlinyY"/></quote>
+          <ref decls="person" cRef="PlinyY"/></quote>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.5" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._41v_11.6" xml:lang="olt">tardams:</w>
 

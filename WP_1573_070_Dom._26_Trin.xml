@@ -1424,8 +1424,10 @@
 
         <w xml:id="WP_1573_Dom._26_Trin._280v_7.1" xml:lang="olt">Historiai</w>
         <w xml:id="WP_1573_Dom._26_Trin._280v_7.2" xml:lang="olt">ape</w>
+          <quote>
         <w xml:id="WP_1573_Dom._26_Trin._280v_7.3" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._26_Trin._280v_7.4" xml:lang="olt">Martinu</w>
+          <ref decls="person" cRef="MartinTours"/></quote>
         <w xml:id="WP_1573_Dom._26_Trin._280v_7.5" xml:lang="olt">ſkaitame,</w>
 
         <quote>
@@ -1434,7 +1436,9 @@
         </l>
         <l n="8" xml:id="WP_1573_Dom._26_Trin._280v_8">
 
+          <quote>
         <w xml:id="WP_1573_Dom._26_Trin._280v_8.1" xml:lang="olt">Martinas</w>
+          <ref decls="person" cRef="MartinTours"/></quote>
         <w xml:id="WP_1573_Dom._26_Trin._280v_8.2" xml:lang="olt">uſʒeghis</w>
         <w xml:id="WP_1573_Dom._26_Trin._280v_8.3" xml:lang="olt">wenu</w>
         <w xml:id="WP_1573_Dom._26_Trin._280v_8.4" xml:lang="olt">nogụ</w>
@@ -1465,7 +1469,9 @@
         <w xml:id="WP_1573_Dom._26_Trin._280v_11.4" xml:lang="olt">Jeſaus</w>
         <w xml:id="WP_1573_Dom._26_Trin._280v_11.5" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_Dom._26_Trin._280v_11.6" xml:lang="olt">kalbus:</w>
+          <quote>
         <w xml:id="WP_1573_Dom._26_Trin._280v_11.7" xml:lang="olt">Mar<lb break="no"/>tinas</w>
+          <ref decls="person" cRef="MartinTours"/></quote>
         </l>
         <l n="12" xml:id="WP_1573_Dom._26_Trin._280v_12">
 
@@ -1496,8 +1502,10 @@
 
         <quote>
 
+          <quote>
         <w xml:id="WP_1573_Dom._26_Trin._280v_15.1" xml:lang="olt">Ludophicas</w>
         <w xml:id="WP_1573_Dom._26_Trin._280v_15.2" xml:lang="olt">lantgraphius</w>
+          <ref decls="person" cRef="LouisIX"/></quote>
         <w xml:id="WP_1573_Dom._26_Trin._280v_15.3" xml:lang="olt">Cħu</w>
         <w xml:id="WP_1573_Dom._26_Trin._280v_15.4" xml:lang="olt">Jeſụ</w>
         </l>

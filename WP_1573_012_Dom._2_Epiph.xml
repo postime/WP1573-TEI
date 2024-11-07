@@ -4561,11 +4561,11 @@
         <l n="21" xml:id="WP_1573_Dom._2_Epiph._66r_21">
 
         <w xml:id="WP_1573_Dom._2_Epiph._66r_21.1" xml:lang="olt">ape</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_21.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_21.3" xml:lang="olt">tewụ</w>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_21.4" xml:lang="olt">Paphnuciụ</w>
-        <ref decls="person" cRef="StPaphn"/></quote>
+          <ref decls="person" cRef="StPaphn"/></quote>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_21.5" xml:lang="olt">wardu,</w>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_21.6" xml:lang="olt">kurſai</w>
         </l>
@@ -4739,11 +4739,13 @@
 
         <w xml:id="WP_1573_Dom._2_Epiph._66r_36.1" xml:lang="olt">Ka</w>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_36.2" xml:lang="olt">girdedamas</w>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_36.3" xml:lang="olt">
           <app>  
             <lem>paphnucas</lem>
             <rdg>phanucas</rdg>
           </app></w>
+          <ref decls="person" cRef="StPaphn"/></quote>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_36.4" xml:lang="olt">tare,</w>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_36.5" xml:lang="olt">wiſsoſa</w>
         <w xml:id="WP_1573_Dom._2_Epiph._66r_36.6" xml:lang="olt">ſtanoſa,</w>

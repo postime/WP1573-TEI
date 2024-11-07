@@ -203,7 +203,9 @@
         <w xml:id="WP_1573_Dom._Trin._188r_14.1" xml:lang="olt">ieib</w>
         <w xml:id="WP_1573_Dom._Trin._188r_14.2" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_Dom._Trin._188r_14.3" xml:lang="olt">ſʒekas</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._188r_14.4" xml:lang="lat">Pericles</w>
+          <ref decls="person" cRef="Pericles"/></quote>
         <w xml:id="WP_1573_Dom._Trin._188r_14.5" xml:lang="olt">neapgines.</w>
         </l>
         <l n="15" xml:id="WP_1573_Dom._Trin._188r_15">
@@ -2897,16 +2899,22 @@
         <w xml:id="WP_1573_Dom._Trin._191v_11.5" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._191v_11.6" xml:lang="olt">pirma</w>
         <w xml:id="WP_1573_Dom._Trin._191v_11.7" xml:lang="olt">bua</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_11.8" xml:lang="lat">Praxeas</w>
+          <ref decls="person" cRef="Praxeas"/></quote>
         <punct>,</punct>
         </l>
         <l n="12" xml:id="WP_1573_Dom._Trin._191v_12">
 
         <w xml:id="WP_1573_Dom._Trin._191v_12.1" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._Trin._191v_12.2" xml:lang="lat">Sabellius,</w>
           <quote>
-        <w xml:id="WP_1573_Dom._Trin._191v_12.3" xml:lang="lat">Arrius,</w>
+        <w xml:id="WP_1573_Dom._Trin._191v_12.2" xml:lang="lat">Sabellius</w>
+          <ref decls="person" cRef="Sabellius"/></quote>
+        <punct>,</punct>
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._191v_12.3" xml:lang="lat">Arrius</w>
           <ref decls="person" cRef="Arius"/></quote>
+        <punct>,</punct>
           <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_12.4" xml:lang="lat">Cerintus</w>
           <ref decls="person" cRef="Cerinthus"/></quote>
@@ -2921,7 +2929,9 @@
         </l>
         <l n="13" xml:id="WP_1573_Dom._Trin._191v_13">
 
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.1" xml:lang="lat">Martion</w>
+          <ref decls="person" cRef="Marcion"/></quote>
           <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.2" xml:lang="lat">Apelles</w>
           <ref decls="person" cRef="ApellesGno"/></quote>
@@ -2939,7 +2949,9 @@
         <w xml:id="WP_1573_Dom._Trin._191v_14.4" xml:lang="olt">atmintij</w>
         <w xml:id="WP_1573_Dom._Trin._191v_14.5" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_Dom._Trin._191v_14.6" xml:lang="olt">knapheus</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_14.7" xml:lang="olt">Oſi<lb break="no"/>andras</w>
+          <ref decls="person" cRef="AOsiander"/></quote>
         </l>
         <l n="15" xml:id="WP_1573_Dom._Trin._191v_15">
 
@@ -3030,7 +3042,9 @@
         <w xml:id="WP_1573_Dom._Trin._191v_23.3" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_Dom._Trin._191v_23.4" xml:lang="olt">kurụ</w>
         <w xml:id="WP_1573_Dom._Trin._191v_23.5" xml:lang="olt">bua</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_23.6" xml:lang="lat">Macedoni<lb break="no"/>us</w>
+          <ref decls="person" cRef="Macedonius"/></quote>
         </l>
         <l n="24" xml:id="WP_1573_Dom._Trin._191v_24">
 
@@ -3510,16 +3524,20 @@
             <lem>aput</lem>
             <rdg>apud</rdg>
           </app></w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._192r_34.5" xml:lang="lat">Pomponium</w>
-        <w xml:id="WP_1573_Dom._Trin._192r_34.6" xml:lang="lat">Læ<lb break="no"/>tum,</w>
-        <!--Person. Julius Pomponius Laetus.-->
+        <w xml:id="WP_1573_Dom._Trin._192r_34.6" xml:lang="lat">Læ<lb break="no"/>tum</w>
+          <ref decls="person" cRef="PLaetus"/></quote>
+        <punct>,</punct>
         </l>
         <l n="35" xml:id="WP_1573_Dom._Trin._192r_35">
 
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._Trin._192r_35.2" xml:lang="olt">ir</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._192r_35.3" xml:lang="lat">Paulum</w>
-        <w xml:id="WP_1573_Dom._Trin._192r_35.4" xml:lang="lat">Diaconum</w> <!--Person. Paulus Diaconus.-->
+        <w xml:id="WP_1573_Dom._Trin._192r_35.4" xml:lang="lat">Diaconum</w>
+          <ref decls="person" cRef="PDiaconus"/></quote>
         <punct>
 
           <app>  
@@ -3574,7 +3592,9 @@
 
         <quote>
 
-        <w xml:id="WP_1573_Dom._Trin._192v_4.2" xml:lang="olt">Oſiandras</w> <!--Person. Osiander.-->
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._192v_4.2" xml:lang="olt">Oſiandras</w>
+          <ref decls="person" cRef="AOsiander"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192v_4.3" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_Dom._Trin._192v_4.4" xml:lang="olt">atmin<lb break="no"/>tei,</w>
         </l>

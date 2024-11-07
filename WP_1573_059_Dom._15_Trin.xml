@@ -1524,9 +1524,11 @@
         </l>
         <l n="16" xml:id="WP_1573_Dom._15_Trin._243r_16">
 
+          <quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_16.1" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_16.2" xml:lang="olt">Pawilụ</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_16.3" xml:lang="olt">puſtelnikụ</w>
+          <ref decls="person" cRef="PaulTheb"/></quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_16.4" xml:lang="olt">per</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_16.5" xml:lang="olt">60</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_16.6" xml:lang="olt">metụ</w>
@@ -1569,8 +1571,10 @@
         <l n="20" xml:id="WP_1573_Dom._15_Trin._243r_20">
 
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.1" xml:lang="olt">tap</w>
+          <quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.2" xml:lang="olt">Pawilap</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.3" xml:lang="olt">Puſtelnikap</w>
+          <ref decls="person" cRef="PaulTheb"/></quote>
           <quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.4" xml:lang="olt">S</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_20.5" xml:lang="olt">Anthonius</w>
@@ -1591,7 +1595,9 @@
         <w xml:id="WP_1573_Dom._15_Trin._243r_22.1" xml:lang="olt">kiepelaitị</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_22.2" xml:lang="olt">donas</w>
         <w xml:id="WP_1573_Dom._15_Trin._243r_22.3" xml:lang="olt">Tare</w>
+          <quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_22.4" xml:lang="olt">Pawilas</w>
+          <ref decls="person" cRef="PaulTheb"/></quote>
           <quote>
         <w xml:id="WP_1573_Dom._15_Trin._243r_22.5" xml:lang="olt">Anto<lb break="no"/>niap</w>
           <ref decls="person" cRef="AnthHermit"/></quote>

@@ -1364,8 +1364,10 @@
 
         <w xml:id="WP_1573_Dom._1_Trin._194v_27.1" xml:lang="olt">{to}riakai,</w>
         <w xml:id="WP_1573_Dom._1_Trin._194v_27.2" xml:lang="olt">kaip</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Trin._194v_27.3" xml:lang="olt">Paulus</w>
         <w xml:id="WP_1573_Dom._1_Trin._194v_27.4" xml:lang="olt">Dijako<lb break="no"/></w>
+          <ref decls="person" cRef="PDiaconus"/></quote>
         </l>
         <l n="28" xml:id="WP_1573_Dom._1_Trin._194v_28">
 
@@ -1664,7 +1666,9 @@
         <w xml:id="WP_1573_Dom._1_Trin._195r_23.3" xml:lang="olt">didei</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_23.4" xml:lang="olt">bagata</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_23.5" xml:lang="olt">ſʒmagaus</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Trin._195r_23.6" xml:lang="olt">Narſe<lb break="no"/>ta</w>
+          <ref decls="person" cRef="Narsis"/></quote>
         </l>
         <l n="24" xml:id="WP_1573_Dom._1_Trin._195r_24">
 
