@@ -4564,6 +4564,7 @@
         <w xml:id="WP_1573_Dom._4_Adv._25r_14.4" xml:lang="olt">nuſsidawị,</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_14.5" xml:lang="olt">kaipaghi</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_14.6" xml:lang="olt">tas</w>
+          <quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_14.7" xml:lang="olt">Ceſa<lb break="no"/>rus</w>
         </l>
         <l n="15" xml:id="WP_1573_Dom._4_Adv._25r_15">
@@ -4574,6 +4575,7 @@
             <rdg>Theode</rdg>
             <rdg>Te</rdg>
           </app></w>
+          <ref decls="person" cRef="TheodosI"/></quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_15.2" xml:lang="olt">del</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_15.3" xml:lang="olt">maſʒia</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_15.4" xml:lang="olt">ſʒalneriụ</w>
@@ -4684,9 +4686,9 @@
         <l n="24" xml:id="WP_1573_Dom._4_Adv._25r_24">
 
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.1" xml:lang="olt">ineiti,</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.2" xml:lang="olt">Ambroſius</w>
-        <ref decls="person" cRef="StAmbr"/></quote>
+          <ref decls="person" cRef="StAmbr"/></quote>
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.3" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.4" xml:lang="olt">neleida,</w>
         <w xml:id="WP_1573_Dom._4_Adv._25r_24.5" xml:lang="olt">bet</w>

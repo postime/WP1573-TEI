@@ -971,12 +971,15 @@
             <rdg>Tri</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._4_Trin._205v_6.8" xml:lang="olt">ape</w>
+          <quote>
         <w xml:id="WP_1573_Dom._4_Trin._205v_6.9" xml:lang="olt">Ceſarụ</w>
         </l>
         <l n="7" xml:id="WP_1573_Dom._4_Trin._205v_7">
 
         <w xml:id="WP_1573_Dom._4_Trin._205v_7.1" xml:lang="olt">Tiberium</w>
-        <w xml:id="WP_1573_Dom._4_Trin._205v_7.2" xml:lang="olt">Conſtantinum.</w>
+        <w xml:id="WP_1573_Dom._4_Trin._205v_7.2" xml:lang="olt">Conſtantinum</w>
+          <ref decls="person" cRef="TiberConst"/></quote>
+        <punct>.</punct>
         </l>
         <l n="8" xml:id="WP_1573_Dom._4_Trin._205v_8">
 

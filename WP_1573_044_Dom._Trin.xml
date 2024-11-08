@@ -3436,8 +3436,10 @@
 
         <quote>
 
-        <w xml:id="WP_1573_Dom._Trin._192r_27.5" xml:lang="olt">Valentụ</w> <!--Person. Flavius Valentinianus.-->
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._192r_27.5" xml:lang="olt">Valentụ</w>
         <w xml:id="WP_1573_Dom._Trin._192r_27.6" xml:lang="olt">Cieſarụ</w>
+          <ref decls="person" cRef="Valens"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192r_27.7" xml:lang="olt">kur<lb break="no"/>ſai</w>
         </l>
         <l n="28" xml:id="WP_1573_Dom._Trin._192r_28">
@@ -3548,7 +3550,8 @@
         <quote>
 
         <w xml:id="WP_1573_Dom._Trin._192r_35.6" xml:lang="olt">Duſcha</w>
-        <w xml:id="WP_1573_Dom._Trin._192r_35.7" xml:lang="lat">The<lb break="no"/>odoricj</w> <!--Person. Theoderich.-->
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._192r_35.7" xml:lang="lat">The<lb break="no"/>odoricj</w>
         </l>
         <l n="M34N" xml:id="WP_1573_Dom._Trin._192r_M34N">
 
@@ -3559,6 +3562,7 @@
         <l n="1" xml:id="WP_1573_Dom._Trin._192v_1">
 
         <w xml:id="WP_1573_Dom._Trin._192v_1.1" xml:lang="lat">odoricj</w>
+          <ref decls="person" cRef="TheodGr"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192v_1.2" xml:lang="lat">a</w>
         <w xml:id="WP_1573_Dom._Trin._192v_1.3" xml:lang="lat">Berna</w>
         <w xml:id="WP_1573_Dom._Trin._192v_1.4" xml:lang="olt">kurſai</w>

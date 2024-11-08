@@ -1374,9 +1374,11 @@
         <quote>
 
         <w xml:id="WP_1573_Dom._1_Trin._194v_28.1" xml:lang="olt">{k}aipagi</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Trin._194v_28.2" xml:lang="olt">Ceſarus</w>
         <w xml:id="WP_1573_Dom._1_Trin._194v_28.3" xml:lang="olt">Tiberijus</w>
         <w xml:id="WP_1573_Dom._1_Trin._194v_28.4" xml:lang="olt">Con<lb break="no"/></w>
+          <ref decls="person" cRef="TiberConst"/></quote>
         </l>
         <l n="29" xml:id="WP_1573_Dom._1_Trin._194v_29">
 
@@ -1478,12 +1480,15 @@
         <w xml:id="WP_1573_Dom._1_Trin._195r_5.4" xml:lang="olt">kad</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_5.5" xml:lang="olt">tas</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_5.6" xml:lang="olt">minetaſsis</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Trin._195r_5.7" xml:lang="olt">Cieſarus</w>
         </l>
         <l n="6" xml:id="WP_1573_Dom._1_Trin._195r_6">
 
         <w xml:id="WP_1573_Dom._1_Trin._195r_6.1" xml:lang="olt">Tieberius</w>
-        <w xml:id="WP_1573_Dom._1_Trin._195r_6.2" xml:lang="olt">Conſtantinus,</w>
+        <w xml:id="WP_1573_Dom._1_Trin._195r_6.2" xml:lang="olt">Conſtantinus</w>
+          <ref decls="person" cRef="TiberConst"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._1_Trin._195r_6.3" xml:lang="olt">wenu</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_6.4" xml:lang="olt">cʒeſu</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_6.5" xml:lang="olt">teip</w>
@@ -1704,8 +1709,11 @@
         <w xml:id="WP_1573_Dom._1_Trin._195r_27.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_27.2" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_27.3" xml:lang="olt">tas</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Trin._195r_27.4" xml:lang="olt">Tiberius</w>
-        <w xml:id="WP_1573_Dom._1_Trin._195r_27.5" xml:lang="olt">Ceſarus,</w>
+        <w xml:id="WP_1573_Dom._1_Trin._195r_27.5" xml:lang="olt">Ceſarus</w>
+          <ref decls="person" cRef="TiberConst"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._1_Trin._195r_27.6" xml:lang="olt">ko</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_27.7" xml:lang="olt">dau<lb break="no"/>giaus</w>
         </l>

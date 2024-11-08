@@ -1257,11 +1257,17 @@
         <l n="27" xml:id="WP_1573_Dom._10_Trin._227r_27">
 
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.1" xml:lang="olt">Rima</w>
-        <w xml:id="WP_1573_Dom._10_Trin._227r_27.2" xml:lang="olt">Veſpaſiano,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._10_Trin._227r_27.2" xml:lang="olt">Veſpaſiano</w>
+          <ref decls="person" cRef="Vespasian"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.4" xml:lang="olt">ſunaus</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.5" xml:lang="olt">ia</w>
-        <w xml:id="WP_1573_Dom._10_Trin._227r_27.6" xml:lang="olt">Tito,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._10_Trin._227r_27.6" xml:lang="olt">Tito</w>
+          <ref decls="person" cRef="Titus"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.7" xml:lang="olt">pra</w>
         </l>
         <l n="28" xml:id="WP_1573_Dom._10_Trin._227r_28">

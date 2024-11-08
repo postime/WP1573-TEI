@@ -592,13 +592,13 @@
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.5" xml:lang="olt">Kalba</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.6" xml:lang="olt">to</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.7" xml:lang="olt">wardu</w>
-        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.8" xml:lang="olt">
           <app type="err">  
             <lem>Virgili<lb break="no"/>us</lem>
             <rdg>Vigili<lb break="no"/>us</rdg>
           </app></w>
-        <ref decls="person" cRef="VigThaps"/></quote>
+         <ref decls="person" cRef="VigThaps"/></quote>
         </l>
         <l n="21" xml:id="WP_1573_Dom._1_Adv._1v_21">
 
