@@ -739,7 +739,10 @@
           <quote>
         <w xml:id="WP_1573_Dom._2_Trin._198r_3.2" xml:lang="lat">Bernhardus</w>
           <ref decls="person" cRef="BernClair"/></quote>
-        <w xml:id="WP_1573_Dom._2_Trin._198r_3.3" xml:lang="lat">Taulerus,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._2_Trin._198r_3.3" xml:lang="lat">Taulerus</w>
+          <ref decls="person" cRef="JTauler"/></quote>
+        <punct>,</punct>
           <quote>
         <w xml:id="WP_1573_Dom._2_Trin._198r_3.4" xml:lang="lat">Hugo</w>
           <ref decls="person" cRef="HughStV"/></quote>

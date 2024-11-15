@@ -1883,7 +1883,10 @@
 
         <w xml:id="WP_1573_Dom._9_Trin._225r_30.1" xml:lang="olt">Jſchrinkta</w>
         <w xml:id="WP_1573_Dom._9_Trin._225r_30.2" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Dom._9_Trin._225r_30.3" xml:lang="olt">Arſacio,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._9_Trin._225r_30.3" xml:lang="olt">Arſacio</w>
+          <ref decls="person" cRef="ASeehof"/></quote>
+        <punct>,</punct>
           <quote>
         <w xml:id="WP_1573_Dom._9_Trin._225r_30.4" xml:lang="olt">Coruino</w>
           <ref decls="person" cRef="Corvin"/></quote>

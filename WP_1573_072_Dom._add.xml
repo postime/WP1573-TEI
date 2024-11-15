@@ -3043,7 +3043,10 @@
         <l n="13" xml:id="WP_1573_Dom._add._290r_13">
 
         <w xml:id="WP_1573_Dom._add._290r_13.1" xml:lang="olt">Jſch</w>
-        <w xml:id="WP_1573_Dom._add._290r_13.2" xml:lang="olt">ſpangenbergio.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._add._290r_13.2" xml:lang="olt">ſpangenbergio</w>
+          <ref decls="person" cRef="JSpangen"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

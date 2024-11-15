@@ -289,7 +289,7 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_13.2" xml:lang="olt">kuna</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_13.3" xml:lang="olt">ka</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_13.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ia</lem>
             <rdg>ir</rdg>
           </app></w>
@@ -523,7 +523,7 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_35.1" xml:lang="lat">1</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_35.2" xml:lang="lat">Corr:</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._127v_35.3" xml:lang="lat">
-          <app>  
+          <app type="err">  
             <lem>10</lem>
             <rdg>12</rdg>
           </app></w>
@@ -768,7 +768,11 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._128r_21.4" xml:lang="olt">
           <app>  
             <lem>naniu</lem>
-            <rdg>nann &lt; a</rdg>
+            <rdg>a</rdg>
+            <rdg>nann</rdg>
+          </app>
+          <app type="err">  
+            <lem>naniu</lem>
             <rdg>nauiu</rdg>
           </app></w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._128r_21.5" xml:lang="olt">priſakimu,</w>
@@ -916,7 +920,7 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._128r_36.1" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._128r_36.2" xml:lang="olt">tikroiu</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._128r_36.3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>kraniu</lem>
             <rdg>krauiu</rdg>
           </app></w>
@@ -995,7 +999,7 @@
 
         <w xml:id="WP_1573_Fer._5_Magn._mat._128v_6.1" xml:lang="olt">kuremus</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._128v_6.2" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>kas</lem>
             <rdg>tas</rdg>
           </app></w>
@@ -1685,7 +1689,7 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._129r_33.3" xml:lang="olt">pagirangi</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._129r_33.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._129r_33.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>nabaſʒeſni</lem>
             <rdg>nabaſʒneſni</rdg>
           </app></w>
@@ -2311,7 +2315,7 @@
             <rdg>muſụ</rdg>
           </app></w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130r_22.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>wiſsunnp</lem>
             <rdg>wiſsump</rdg>
           </app></w>
@@ -2675,11 +2679,11 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_19.1" xml:lang="olt">iemus</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_19.2" xml:lang="olt">palikdamas</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_19.3" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._130v_19.4" xml:lang="olt">
-          <app>  
-            <lem>tardamas:</lem>
-            <rdg>,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._mat._130v_19.4" xml:lang="olt">tardamas</w>
+        <punct><app>
+          <lem>:</lem>
+          <rdg>,</rdg>
+        </app></punct>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_19.5" xml:lang="olt">Tai</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_19.6" xml:lang="olt">da<lb break="no"/>rikite</w>
         </l>
@@ -2738,11 +2742,8 @@
 
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_25.1" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_25.2" xml:lang="olt">greſchnuiụ</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._130v_25.3" xml:lang="olt">
-          <app>  
-            <lem>ataies</lem>
-            <rdg>ataies . ị .</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._mat._130v_25.3" xml:lang="olt">ataies</w>
+        <add hand="W">.ρ.</add>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_25.4" xml:lang="olt">atminkitegi</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_25.5" xml:lang="olt">tadan<lb break="no"/>gi,</w>
         </l>
@@ -2752,11 +2753,11 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_26.2" xml:lang="olt">aſch</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_26.3" xml:lang="olt">eſmi</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_26.4" xml:lang="olt">awinelis</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._130v_26.5" xml:lang="olt">
-          <app>  
-            <lem>Dewa</lem>
-            <rdg>✝ ſʒenklintaſis per tạ &lt; &lt; tu&gt; Awinelị &lt; &lt; ſenụ&gt; ſena Ʒakana</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._mat._130v_26.5" xml:lang="olt">Dewa</w>
+        <add><app>
+          <lem>ſʒenklintaſis per tạ Awinelị ſena Ʒakana</lem>
+          <rdg>ſʒenklintaſis per tu Awinelị ſenụ Ʒakana</rdg> <!--Alteration inside an addition.-->
+        </app></add>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_26.6" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_26.7" xml:lang="olt">tur</w>
         </l>
@@ -2786,7 +2787,7 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_29.3" xml:lang="olt">teiſibị</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_29.4" xml:lang="olt">mana</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._130v_29.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>daugaus</lem>
             <rdg>dangaus</rdg>
           </app></w>
@@ -3176,17 +3177,13 @@
         <l n="25" xml:id="WP_1573_Fer._5_Magn._mat._131r_25">
 
         <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.1" xml:lang="olt">teipaiegi</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.2" xml:lang="olt">eſch,</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.3" xml:lang="olt">
-          <app>  
-            <lem>teipaiegi</lem>
-            <rdg>&lt;&lt;...&gt;&gt; &gt; teipaiegi</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.4" xml:lang="olt">
-          <app>  
-            <lem>eſch,</lem>
-            <rdg>&lt;&lt;...&gt;&gt; &gt; eſch,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.2" xml:lang="olt">eſch</w>
+        <punct>,</punct>
+        <del hand="W">
+        <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.3" xml:lang="olt">teipaiegi</w>
+        <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.4" xml:lang="olt">eſch</w>
+        <punct>,</punct>
+        </del>
         <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.5" xml:lang="olt">Tewas</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.6" xml:lang="olt">mana</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._131r_25.7" xml:lang="olt">ir</w>
@@ -3990,7 +3987,7 @@
         <w xml:id="WP_1573_Fer._5_Magn._mat._132r_28.3" xml:lang="olt">laika,</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132r_28.4" xml:lang="olt">grumdʒia</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132r_28.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>pik</lem>
             <rdg>pik: / pikt</rdg>
           </app></w>
@@ -4096,12 +4093,12 @@
         <l n="2" xml:id="WP_1573_Fer._5_Magn._mat._132v_2">
 
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_2.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>pirniump</lem>
             <rdg>pirmump</rdg>
           </app></w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_2.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>grekunnp</lem>
             <rdg>grekump</rdg>
           </app></w>
@@ -4219,11 +4216,8 @@
         <l n="14" xml:id="WP_1573_Fer._5_Magn._mat._132v_14">
 
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_14.1" xml:lang="olt">Luc:</w>
-        <w xml:id="WP_1573_Fer._5_Magn._mat._132v_14.2" xml:lang="olt">
-          <app>  
-            <lem>14</lem>
-            <rdg>14. ị .</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._mat._132v_14.2" xml:lang="olt">14</w>
+        <add hand="W">.ρ.</add>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_14.3" xml:lang="olt">Tie</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_14.4" xml:lang="olt">teipaiegi</w>
         <w xml:id="WP_1573_Fer._5_Magn._mat._132v_14.5" xml:lang="olt">nehadnai</w>
