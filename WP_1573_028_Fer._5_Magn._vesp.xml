@@ -61,11 +61,8 @@
 
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_5.1" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_5.2" xml:lang="olt">walgant</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_5.3" xml:lang="olt">
-          <app>  
-            <lem>iemus</lem>
-            <rdg>✝ ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_5.3" xml:lang="olt">iemus</w>
+        <add hand="W">,</add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_5.4" xml:lang="olt">tare.</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_5.5" xml:lang="olt">Vſʒ</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_5.6" xml:lang="olt">tieſụ</w>
@@ -77,62 +74,56 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.1" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.2" xml:lang="olt">wenas</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.3" xml:lang="olt">iſch</w>
-        <app>
-          <lem><w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.4" xml:lang="olt">iuſụ,</w>
-          <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.5" xml:lang="olt">iſchdos</w></lem>
-          <rdg>iuſụ &lt;&lt;,&gt;&gt; iſchdos</rdg>
-        </app>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.4" xml:lang="olt">iuſụ</w>
+        <del hand="W">
+        <punct>,</punct>
+        </del>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.5" xml:lang="olt">iſchdos</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.6" xml:lang="olt">mane.</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.7" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_6.8" xml:lang="olt">uſʒu<lb break="no"/>ſiſmutigen</w>
         </l>
         <l n="7" xml:id="WP_1573_Fer._5_Magn._vesp._133v_7">
 
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_7.1" xml:lang="olt">
-          <app>  
-            <lem>didei</lem>
-            <rdg>✝ ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_7.1" xml:lang="olt">didei</w>
+        <add hand="W">,</add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_7.2" xml:lang="olt">pradeija</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_7.3" xml:lang="olt">kiekwenas</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_7.4" xml:lang="olt">
-          <app>  
-            <lem>bilati.</lem>
-            <rdg>✝ iamui:</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_7.4" xml:lang="olt">bilati.</w>
         </l>
         <l n="8" xml:id="WP_1573_Fer._5_Magn._vesp._133v_8">
 
+        <add hand="W">iamui:</add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_8.1" xml:lang="olt">Bau</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_8.2" xml:lang="olt">ne</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_8.3" xml:lang="olt">eſch</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_8.4" xml:lang="olt">eſmi</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_8.5" xml:lang="olt">pane?</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_8.6" xml:lang="olt">
-          <app>  
-            <lem>Gghis</lem>
-            <rdg>???</rdg>
-            <rdg>Ghis</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_8.6" xml:lang="olt"><app>
+          <lem>Gghis</lem>
+          <rdg><gap reason="illegible" quantity="3" unit="characters"/></rdg>
+        </app type="err">
+          <lem>Gghis</lem>
+          <rdg>Ghis</rdg>
+        </app></w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_8.7" xml:lang="olt">atlepdamas,</w>
         </l>
         <l n="9" xml:id="WP_1573_Fer._5_Magn._vesp._133v_9">
 
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_9.1" xml:lang="olt">
-          <app>  
-            <lem>tare,</lem>
-            <rdg>;</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_9.1" xml:lang="olt">tare</w>
+        <punct><app hand="W">
+          <lem>,</lem>
+          <rdg>;</rdg>
+        </app></punct>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_9.2" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_9.3" xml:lang="olt">pamirka</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_9.4" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_9.5" xml:lang="olt">manimi</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_9.6" xml:lang="olt">rankụ</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_9.7" xml:lang="olt">
-          <app>  
-            <lem>blu<lb break="no"/>dạ</lem>
-            <rdg>✝ ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_9.7" xml:lang="olt">blu<lb break="no"/>dạ</w>
+        <add hand="W">
+        <punct>,</punct>
+        </add>
         </l>
         <l n="10" xml:id="WP_1573_Fer._5_Magn._vesp._133v_10">
 
@@ -151,13 +142,13 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_11.4" xml:lang="olt">raſchita</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_11.5" xml:lang="olt">ira.</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_11.6" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>bet</lem>
             <rdg>Bet</rdg>
           </app></w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_11.7" xml:lang="olt">beda</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_11.8" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>ſʒmagu</lem>
             <rdg>ſʒmagui</rdg>
           </app></w>
@@ -170,15 +161,15 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_12.3" xml:lang="olt">ſunus</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_12.4" xml:lang="olt">ſmaniu</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_12.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>iſchdodanas</lem>
             <rdg>iſchdodamas</rdg>
           </app></w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_12.6" xml:lang="olt">
-          <app>  
-            <lem>ira,</lem>
-            <rdg>.</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_12.6" xml:lang="olt">ira</w>
+        <punct><app hand="W">
+          <lem>,</lem>
+          <rdg>.</rdg>
+        </app></punct>
         </l>
         <l n="13" xml:id="WP_1573_Fer._5_Magn._vesp._133v_13">
 
@@ -202,20 +193,19 @@
         <l n="15" xml:id="WP_1573_Fer._5_Magn._vesp._133v_15">
 
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.1" xml:lang="olt">pardawe</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.2" xml:lang="olt">
-          <app>  
-            <lem>ghị</lem>
-            <rdg>✝ ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.2" xml:lang="olt">ghị</w>
+        <add hand="W">
+        <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.3" xml:lang="olt">tare:</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.4" xml:lang="olt">Er</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.5" xml:lang="olt">eſch</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.6" xml:lang="olt">eſmi</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.7" xml:lang="olt">
-          <app>  
-            <lem>miſtrai,</lem>
-            <rdg>?</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.7" xml:lang="olt">miſtrai</w>
+        <punct><app hand="W">
+          <lem>,</lem>
+          <rdg>?</rdg>
+        </app></punct>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_15.8" xml:lang="olt">ta<lb break="no"/>re</w>
         </l>
         <l n="16" xml:id="WP_1573_Fer._5_Magn._vesp._133v_16">
@@ -237,11 +227,9 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_17.2" xml:lang="olt">iſchguldimas</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_17.3" xml:lang="olt">tụ</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_17.4" xml:lang="olt">ſʒadʒiụ</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_17.5" xml:lang="olt">
-          <app>  
-            <lem>takias</lem>
-            <rdg>&lt;&lt;...&gt;&gt;</rdg>
-          </app></w>
+        <del hand="W">
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._133v_17.5" xml:lang="olt">takias</w>
+        </del>
         </l>
         <l n="18" xml:id="WP_1573_Fer._5_Magn._vesp._133v_18">
 
@@ -434,22 +422,20 @@
             <rdg>man</rdg>
           </app></w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_2.3" xml:lang="olt">nekinna,</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_2.4" xml:lang="olt">
-          <app>  
-            <lem>peikia</lem>
-            <rdg>✝ ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_2.4" xml:lang="olt">peikia</w>
+        <add hand="W">
+        <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_2.5" xml:lang="olt">nekutwarija</w>
         </l>
         <l n="3" xml:id="WP_1573_Fer._5_Magn._vesp._134r_3">
 
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_3.1" xml:lang="olt">leidʒia</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_3.2" xml:lang="olt">pra</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_3.3" xml:lang="olt">
-          <app>  
-            <lem>ſʒalị</lem>
-            <rdg>✝ ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_3.3" xml:lang="olt">ſʒalị</w>
+        <add hand="W">
+        <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_3.4" xml:lang="olt">nekubudu</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_3.5" xml:lang="olt">nenaredami</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_3.6" xml:lang="olt">preg</w>
@@ -562,7 +548,7 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_13.2" xml:lang="olt">iſsipilditụ,</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_13.3" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_13.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Judaſchus</lem>
             <rdg>Judaſchaus</rdg>
           </app></w>
@@ -608,11 +594,10 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_17.1" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_17.2" xml:lang="olt">walia</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_17.3" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_17.4" xml:lang="olt">
-          <app>  
-            <lem>naras</lem>
-            <rdg>✝ ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_17.4" xml:lang="olt">naras</w>
+        <add hand="W">
+        <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_17.5" xml:lang="olt">kam</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_17.6" xml:lang="olt">
           <app>  
@@ -792,11 +777,9 @@
         <l n="32" xml:id="WP_1573_Fer._5_Magn._vesp._134r_32">
 
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_32.1" xml:lang="olt">kas</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_32.2" xml:lang="olt">
-          <app>  
-            <lem>ſakitụ,</lem>
-            <rdg>ſakitụ, ị :</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_32.2" xml:lang="olt">ſakitụ</w>
+        <punct>,</punct>
+        <add hand="W">ρ:</add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_32.3" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_32.4" xml:lang="olt">tada</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134r_32.5" xml:lang="olt">ta</w>
@@ -954,12 +937,11 @@
 
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.1" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.2" xml:lang="olt">nepriweſs,</w>
-        <app>
-          <lem><w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.3" xml:lang="olt">taſai</w>
-          <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.4" xml:lang="olt">iau</w>
-          <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.5" xml:lang="olt">turri</w></lem>
-          <rdg>taſai turri</rdg>
-        </app>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.3" xml:lang="olt">taſai</w>
+        <add>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.4" xml:lang="olt">iau</w>
+        </add>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.5" xml:lang="olt">turri</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.6" xml:lang="olt">but</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.7" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_12.8" xml:lang="olt">ir</w>
@@ -1033,11 +1015,8 @@
 
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_18.1" xml:lang="olt">mumis</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_18.2" xml:lang="olt">2</w>
-        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_18.3" xml:lang="olt">
-          <app>  
-            <lem>cap:</lem>
-            <rdg>cap: ị :</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_18.3" xml:lang="olt">cap:</w>
+        <add hand="W">ρ:</add>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_18.4" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_18.5" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_18.6" xml:lang="olt">Paw:</w>
@@ -1079,7 +1058,7 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_21.6" xml:lang="olt">kaipa</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_21.7" xml:lang="olt">gi</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._134v_21.8" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ne<lb break="no"/></lem>
             <rdg>ne</rdg>
           </app></w>
@@ -1306,7 +1285,7 @@
         <w xml:id="WP_1573_Fer._5_Magn._vesp._135r_7.3" xml:lang="olt">ſawe</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._135r_7.4" xml:lang="olt">Pſ:</w>
         <w xml:id="WP_1573_Fer._5_Magn._vesp._135r_7.5" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>57.</lem>
             <rdg>58.</rdg>
           </app></w>
