@@ -1718,13 +1718,12 @@
             <rdg>Thim: / Tim:</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._8_Trin._221v_17.5" xml:lang="olt">2,</w>
-        <w xml:id="WP_1573_Dom._8_Trin._221v_17.6" xml:lang="olt">
-          <app>  
-            <lem>ir</lem>
-            <rdg>ir Joha</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._8_Trin._221v_17.7" xml:lang="olt">1</w>
-        <w xml:id="WP_1573_Dom._8_Trin._221v_17.8" xml:lang="olt">Joha</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._8_Trin._221v_17.6" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Dom._8_Trin._221v_17.7" xml:lang="olt">1</w>
+          <w xml:id="WP_1573_Dom._8_Trin._221v_17.8" xml:lang="olt">Joha</w></lem>
+          <rdg>ir Joha</rdg>
+        </app>
         </l>
         <l n="18" xml:id="WP_1573_Dom._8_Trin._221v_18">
 

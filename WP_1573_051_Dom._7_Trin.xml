@@ -592,13 +592,12 @@
         </l>
         <l n="22" xml:id="WP_1573_Dom._7_Trin._216v_22">
 
-        <w xml:id="WP_1573_Dom._7_Trin._216v_22.1" xml:lang="olt">
-          <app>  
-            <lem>kure</lem>
-            <rdg>kure krikſʒaniſʒkai</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._7_Trin._216v_22.2" xml:lang="olt">nar</w>
-        <w xml:id="WP_1573_Dom._7_Trin._216v_22.3" xml:lang="olt">krikſʒaniſʒkai</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._7_Trin._216v_22.1" xml:lang="olt">kure</w>
+          <w xml:id="WP_1573_Dom._7_Trin._216v_22.2" xml:lang="olt">nar</w>
+          <w xml:id="WP_1573_Dom._7_Trin._216v_22.3" xml:lang="olt">krikſʒaniſʒkai</w></lem>
+          <rdg>kure krikſʒaniſʒkai</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._7_Trin._216v_22.4" xml:lang="olt">giwenti,</w>
         <w xml:id="WP_1573_Dom._7_Trin._216v_22.5" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Dom._7_Trin._216v_22.6" xml:lang="olt">Cħụ</w>

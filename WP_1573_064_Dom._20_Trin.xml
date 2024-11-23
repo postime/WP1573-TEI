@@ -1939,11 +1939,14 @@
         <w xml:id="WP_1573_Dom._20_Trin._260r_14.2" xml:lang="olt">welija</w>
         <w xml:id="WP_1573_Dom._20_Trin._260r_14.3" xml:lang="olt">kittus</w>
         <w xml:id="WP_1573_Dom._20_Trin._260r_14.4" xml:lang="olt">perſekdineti,</w>
-        <w xml:id="WP_1573_Dom._20_Trin._260r_14.5" xml:lang="olt">a</w>
-        </l>
-        <l n="15" xml:id="WP_1573_Dom._20_Trin._260r_15">
-
-        <w xml:id="WP_1573_Dom._20_Trin._260r_15.1" xml:lang="olt">a</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._20_Trin._260r_14.5" xml:lang="olt">a</w>
+          </l>
+          <l n="15" xml:id="WP_1573_Dom._20_Trin._260r_15">
+  
+          <w xml:id="WP_1573_Dom._20_Trin._260r_15.1" xml:lang="olt">a</w></lem>
+          <rdg>a</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._20_Trin._260r_15.2" xml:lang="olt">ne</w>
         <w xml:id="WP_1573_Dom._20_Trin._260r_15.3" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._20_Trin._260r_15.4" xml:lang="olt">patis</w>

@@ -1649,13 +1649,12 @@
             <lem>kriſʒunn</lem>
             <rdg>kriſʒum / kriſʒium</rdg>
           </app></w>
-        <w xml:id="WP_1573_Dom._1_Trin._195r_15.4" xml:lang="olt">
-          <app>  
-            <lem>atrada</lem>
-            <rdg>atrada attemus</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._1_Trin._195r_15.5" xml:lang="olt">tạ</w>
-        <w xml:id="WP_1573_Dom._1_Trin._195r_15.6" xml:lang="olt">attemus</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._1_Trin._195r_15.4" xml:lang="olt">atrada</w>
+          <w xml:id="WP_1573_Dom._1_Trin._195r_15.5" xml:lang="olt">tạ</w>
+          <w xml:id="WP_1573_Dom._1_Trin._195r_15.6" xml:lang="olt">attemus</w></lem>
+          <rdg>atrada attemus</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._1_Trin._195r_15.7" xml:lang="olt">ir</w>
         </l>
         <l n="16" xml:id="WP_1573_Dom._1_Trin._195r_16">
@@ -2655,14 +2654,13 @@
         </l>
         <l n="13" xml:id="WP_1573_Dom._1_Trin._196v_13">
 
-        <w xml:id="WP_1573_Dom._1_Trin._196v_13.1" xml:lang="olt">
-          <app>  
-            <lem>palawima</lem>
-            <rdg>palawima turrim</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._1_Trin._196v_13.2" xml:lang="olt">:m:</w>
-        <w xml:id="WP_1573_Dom._1_Trin._196v_13.3" xml:lang="olt">k:</w>
-        <w xml:id="WP_1573_Dom._1_Trin._196v_13.4" xml:lang="olt">turrim</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._1_Trin._196v_13.1" xml:lang="olt">palawima</w>
+          <w xml:id="WP_1573_Dom._1_Trin._196v_13.2" xml:lang="olt">:m:</w>
+          <w xml:id="WP_1573_Dom._1_Trin._196v_13.3" xml:lang="olt">k:</w>
+          <w xml:id="WP_1573_Dom._1_Trin._196v_13.4" xml:lang="olt">turrim</w></lem>
+          <rdg>palawima turrim</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._1_Trin._196v_13.5" xml:lang="olt">darriti,</w>
         <w xml:id="WP_1573_Dom._1_Trin._196v_13.6" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_Dom._1_Trin._196v_13.7" xml:lang="olt">tame</w>

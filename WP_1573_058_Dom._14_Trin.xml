@@ -1317,13 +1317,12 @@
         <w xml:id="WP_1573_Dom._14_Trin._239v_19.3" xml:lang="olt">Cap:</w>
         <w xml:id="WP_1573_Dom._14_Trin._239v_19.4" xml:lang="olt">Eſch</w>
         <w xml:id="WP_1573_Dom._14_Trin._239v_19.5" xml:lang="olt">eſmi</w>
-        <w xml:id="WP_1573_Dom._14_Trin._239v_19.6" xml:lang="olt">
-          <app>  
-            <lem>eſch</lem>
-            <rdg>eſch eſmi</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._14_Trin._239v_19.7" xml:lang="olt">pats</w>
-        <w xml:id="WP_1573_Dom._14_Trin._239v_19.8" xml:lang="olt">eſmi</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._14_Trin._239v_19.6" xml:lang="olt">eſch</w>
+          <w xml:id="WP_1573_Dom._14_Trin._239v_19.7" xml:lang="olt">pats</w>
+          <w xml:id="WP_1573_Dom._14_Trin._239v_19.8" xml:lang="olt">eſmi</w></lem>
+          <rdg>eſch eſmi</rdg>
+        </app>
         </l>
         <l n="20" xml:id="WP_1573_Dom._14_Trin._239v_20">
 

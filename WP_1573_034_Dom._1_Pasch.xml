@@ -714,17 +714,13 @@
         <w xml:id="WP_1573_Dom._1_Pasch._161v_21.2" xml:lang="olt">anſai</w>
         <w xml:id="WP_1573_Dom._1_Pasch._161v_21.3" xml:lang="olt">Pſ:</w>
         <w xml:id="WP_1573_Dom._1_Pasch._161v_21.4" xml:lang="olt">kalba)</w>
-        <w xml:id="WP_1573_Dom._1_Pasch._161v_21.5" xml:lang="olt">
-          <app>  
-            <lem>Preg</lem>
-            <rdg>Preg pakaiaus</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._1_Pasch._161v_21.6" xml:lang="olt">tam</w>
-        <w xml:id="WP_1573_Dom._1_Pasch._161v_21.7" xml:lang="olt">
-          <app>  
-            <lem>pakaiaus</lem>
-            <rdg>pakaius</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._1_Pasch._161v_21.5" xml:lang="olt">Preg</w>
+          <w xml:id="WP_1573_Dom._1_Pasch._161v_21.6" xml:lang="olt">tam</w>
+          <w xml:id="WP_1573_Dom._1_Pasch._161v_21.7" xml:lang="olt">pakaiaus</w></lem>
+          <rdg>Preg pakaiaus</rdg>
+          <rdg>pakaius</rdg>
+        </app>
         </l>
         <l n="22" xml:id="WP_1573_Dom._1_Pasch._161v_22">
 

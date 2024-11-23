@@ -1616,13 +1616,12 @@
         <l n="6" xml:id="WP_1573_Dom._6_Trin._214v_6">
 
         <w xml:id="WP_1573_Dom._6_Trin._214v_6.1" xml:lang="olt">raſchidams</w>
-        <w xml:id="WP_1573_Dom._6_Trin._214v_6.2" xml:lang="olt">Ephe:</w>
-        <w xml:id="WP_1573_Dom._6_Trin._214v_6.3" xml:lang="olt">3</w>
-        <w xml:id="WP_1573_Dom._6_Trin._214v_6.4" xml:lang="olt">
-          <app>  
-            <lem>cap:</lem>
-            <rdg>Ephes: 4. cap:</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._6_Trin._214v_6.2" xml:lang="olt">Ephe:</w>
+          <w xml:id="WP_1573_Dom._6_Trin._214v_6.3" xml:lang="olt">3</w>
+          <w xml:id="WP_1573_Dom._6_Trin._214v_6.4" xml:lang="olt">cap:</w></lem>
+          <rdg>Ephes: 4. cap:</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._6_Trin._214v_6.5" xml:lang="olt">netiktai</w>
         <w xml:id="WP_1573_Dom._6_Trin._214v_6.6" xml:lang="olt">kierſch<lb break="no"/>ta</w>
         </l>

@@ -136,14 +136,13 @@
 
         <w xml:id="WP_1573_Dom._21_Trin._261v_20.1" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._21_Trin._261v_20.2" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_Dom._21_Trin._261v_20.3" xml:lang="olt">
-          <app>  
-            <lem>karaghimas</lem>
-            <rdg>karaghimas uſʒ</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._21_Trin._261v_20.4" xml:lang="olt">Pana</w>
-        <w xml:id="WP_1573_Dom._21_Trin._261v_20.5" xml:lang="olt">Dewa</w>
-        <w xml:id="WP_1573_Dom._21_Trin._261v_20.6" xml:lang="olt">uſʒ</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._21_Trin._261v_20.3" xml:lang="olt">karaghimas</w>
+          <w xml:id="WP_1573_Dom._21_Trin._261v_20.4" xml:lang="olt">Pana</w>
+          <w xml:id="WP_1573_Dom._21_Trin._261v_20.5" xml:lang="olt">Dewa</w>
+          <w xml:id="WP_1573_Dom._21_Trin._261v_20.6" xml:lang="olt">uſʒ</w></lem>
+          <rdg>karaghimas uſʒ</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._21_Trin._261v_20.7" xml:lang="olt">grekus,</w>
         </l>
         <l n="21" xml:id="WP_1573_Dom._21_Trin._261v_21">
@@ -612,16 +611,15 @@
         <w xml:id="WP_1573_Dom._21_Trin._262v_3.3" xml:lang="olt">ana</w>
         <w xml:id="WP_1573_Dom._21_Trin._262v_3.4" xml:lang="olt">karelaus</w>
         <w xml:id="WP_1573_Dom._21_Trin._262v_3.5" xml:lang="olt">wardu</w>
-        <w xml:id="WP_1573_Dom._21_Trin._262v_3.6" xml:lang="olt">
-          <app>  
-            <lem>Ma<lb break="no"/>naſses,</lem>
-            <rdg>Ma<lb break="no"/>naſses, kaip</rdg>
-          </app></w>
-        </l>
-        <l n="4" xml:id="WP_1573_Dom._21_Trin._262v_4">
-
-        <w xml:id="WP_1573_Dom._21_Trin._262v_4.1" xml:lang="olt">Tas</w>
-        <w xml:id="WP_1573_Dom._21_Trin._262v_4.2" xml:lang="olt">kaip</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._21_Trin._262v_3.6" xml:lang="olt">Ma<lb break="no"/>naſses,</w>
+          </l>
+          <l n="4" xml:id="WP_1573_Dom._21_Trin._262v_4">
+  
+          <w xml:id="WP_1573_Dom._21_Trin._262v_4.1" xml:lang="olt">Tas</w>
+          <w xml:id="WP_1573_Dom._21_Trin._262v_4.2" xml:lang="olt">kaip</w></lem>
+          <rdg>Ma<lb break="no"/>naſses, kaip</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._21_Trin._262v_4.3" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._21_Trin._262v_4.4" xml:lang="lat">4</w>
         <w xml:id="WP_1573_Dom._21_Trin._262v_4.5" xml:lang="lat">Reg:</w>

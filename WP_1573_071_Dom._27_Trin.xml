@@ -1572,16 +1572,15 @@
         <w xml:id="WP_1573_Dom._27_Trin._284v_6.4" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_6.5" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_6.6" xml:lang="olt">kura</w>
-        <w xml:id="WP_1573_Dom._27_Trin._284v_6.7" xml:lang="olt">
-          <app>  
-            <lem>ſʒma<lb break="no"/>gaus</lem>
-            <rdg>ſʒma<lb break="no"/>gaus muſụ</rdg>
-          </app></w>
-        </l>
-        <l n="7" xml:id="WP_1573_Dom._27_Trin._284v_7">
-
-        <w xml:id="WP_1573_Dom._27_Trin._284v_7.1" xml:lang="olt">wardu</w>
-        <w xml:id="WP_1573_Dom._27_Trin._284v_7.2" xml:lang="olt">muſụ</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._27_Trin._284v_6.7" xml:lang="olt">ſʒma<lb break="no"/>gaus</w>
+          </l>
+          <l n="7" xml:id="WP_1573_Dom._27_Trin._284v_7">
+  
+          <w xml:id="WP_1573_Dom._27_Trin._284v_7.1" xml:lang="olt">wardu</w>
+          <w xml:id="WP_1573_Dom._27_Trin._284v_7.2" xml:lang="olt">muſụ</w></lem>
+          <rdg>ſʒma<lb break="no"/>gaus muſụ</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._27_Trin._284v_7.3" xml:lang="olt">mums</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_7.4" xml:lang="olt">turretụ</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_7.5" xml:lang="olt">but</w>

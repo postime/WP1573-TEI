@@ -2021,11 +2021,14 @@
         <w xml:id="WP_1573_Dom._19_Trin._257r_8.2" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._19_Trin._257r_8.3" xml:lang="olt">ſawu</w>
         <w xml:id="WP_1573_Dom._19_Trin._257r_8.4" xml:lang="olt">greku</w>
-        <w xml:id="WP_1573_Dom._19_Trin._257r_8.5" xml:lang="olt">atleidima.</w>
-        <w xml:id="WP_1573_Dom._19_Trin._257r_8.6" xml:lang="olt">Tai</w>
-        <w xml:id="WP_1573_Dom._19_Trin._257r_8.7" xml:lang="olt">ape</w>
-        <w xml:id="WP_1573_Dom._19_Trin._257r_8.8" xml:lang="olt">Vredụ</w>
-        <w xml:id="WP_1573_Dom._19_Trin._257r_8.9" xml:lang="olt">Cħaus.</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._19_Trin._257r_8.5" xml:lang="olt">atleidima.</w>
+          <w xml:id="WP_1573_Dom._19_Trin._257r_8.6" xml:lang="olt">Tai</w>
+          <w xml:id="WP_1573_Dom._19_Trin._257r_8.7" xml:lang="olt">ape</w>
+          <w xml:id="WP_1573_Dom._19_Trin._257r_8.8" xml:lang="olt">Vredụ</w>
+          <w xml:id="WP_1573_Dom._19_Trin._257r_8.9" xml:lang="olt">Cħaus.</w></lem>
+          <rdg>atleidima.</rdg>
+        </app>
         </l>
         <l n="9" xml:id="WP_1573_Dom._19_Trin._257r_9">
 

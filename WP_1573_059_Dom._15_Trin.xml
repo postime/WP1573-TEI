@@ -2396,12 +2396,11 @@
         <w xml:id="WP_1573_Dom._15_Trin._244r_31.1" xml:lang="olt">kadangi</w>
         <w xml:id="WP_1573_Dom._15_Trin._244r_31.2" xml:lang="olt">Cħus</w>
         <w xml:id="WP_1573_Dom._15_Trin._244r_31.3" xml:lang="olt">Jeſus</w>
-        <w xml:id="WP_1573_Dom._15_Trin._244r_31.4" xml:lang="olt">
-          <app>  
-            <lem>cʒia</lem>
-            <rdg>cʒia ne</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._15_Trin._244r_31.5" xml:lang="olt">uſʒdraucʒia</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._15_Trin._244r_31.4" xml:lang="olt">cʒia</w>
+          <w xml:id="WP_1573_Dom._15_Trin._244r_31.5" xml:lang="olt">uſʒdraucʒia</w></lem>
+          <rdg>cʒia ne uſʒdraucʒia</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._15_Trin._244r_31.6" xml:lang="olt">dirpti</w>
         </l>
         <l n="32" xml:id="WP_1573_Dom._15_Trin._244r_32">

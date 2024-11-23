@@ -29,13 +29,12 @@
 
         <w xml:id="WP_1573_Dom._25_Trin._275r_28.1" xml:lang="olt">NEDELIAN</w>
         <w xml:id="WP_1573_Dom._25_Trin._275r_28.2" xml:lang="olt">25</w>
-        <w xml:id="WP_1573_Dom._25_Trin._275r_28.3" xml:lang="olt">
-          <app>  
-            <lem>PA</lem>
-            <rdg>PA TRAI<lb break="no"/>ces</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._25_Trin._275r_28.4" xml:lang="olt">S:</w>
-        <w xml:id="WP_1573_Dom._25_Trin._275r_28.5" xml:lang="olt">TRAI<lb break="no"/>ces</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._25_Trin._275r_28.3" xml:lang="olt">PA</w>
+          <w xml:id="WP_1573_Dom._25_Trin._275r_28.4" xml:lang="olt">S:</w>
+          <w xml:id="WP_1573_Dom._25_Trin._275r_28.5" xml:lang="olt">TRAI<lb break="no"/>ces</w></lem>
+          <rdg>PA TRAI<lb break="no"/>ces</rdg>
+        </app>
         </l>
         <l n="29" xml:id="WP_1573_Dom._25_Trin._275r_29">
 

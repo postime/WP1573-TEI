@@ -206,13 +206,12 @@
         <l n="3" xml:id="WP_1573_Fer._3_Pasch._156r_3">
 
         <w xml:id="WP_1573_Fer._3_Pasch._156r_3.1" xml:lang="olt">kaipagi</w>
-        <w xml:id="WP_1573_Fer._3_Pasch._156r_3.2" xml:lang="olt">
-          <app>  
-            <lem>ghiſsai</lem>
-            <rdg>ghiſsai wenas</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Fer._3_Pasch._156r_3.3" xml:lang="olt">pats</w>
-        <w xml:id="WP_1573_Fer._3_Pasch._156r_3.4" xml:lang="olt">wenas,</w>
+        <app>
+          <lem><w xml:id="WP_1573_Fer._3_Pasch._156r_3.2" xml:lang="olt">ghiſsai</w>
+          <w xml:id="WP_1573_Fer._3_Pasch._156r_3.3" xml:lang="olt">pats</w>
+          <w xml:id="WP_1573_Fer._3_Pasch._156r_3.4" xml:lang="olt">wenas,</w></lem>
+          <rdg>ghiſsai wenas</rdg>
+        </app>
         <w xml:id="WP_1573_Fer._3_Pasch._156r_3.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Fer._3_Pasch._156r_3.6" xml:lang="olt">ne</w>
         <w xml:id="WP_1573_Fer._3_Pasch._156r_3.7" xml:lang="olt">ki<lb break="no"/>tas</w>

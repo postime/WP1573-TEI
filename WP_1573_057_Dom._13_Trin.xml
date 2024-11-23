@@ -1820,17 +1820,13 @@
             <rdg>tʒ</rdg>
           </app></w>
         <punct>,</punct>
-        <w xml:id="WP_1573_Dom._13_Trin._237r_11.4" xml:lang="olt">
-          <app>  
-            <lem>Betſaida</lem>
-            <rdg>Betſaida kapernaunn</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._13_Trin._237r_11.5" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._13_Trin._237r_11.6" xml:lang="olt">
-          <app>  
-            <lem>kapernaunn</lem>
-            <rdg>kapernaum</rdg>
-          </app></w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._13_Trin._237r_11.4" xml:lang="olt">Betſaida</w>
+          <w xml:id="WP_1573_Dom._13_Trin._237r_11.5" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Dom._13_Trin._237r_11.6" xml:lang="olt">kapernaunn</w></lem>
+          <rdg>Betſaida kapernaunn</rdg>
+          <rdg>kapernaum</rdg>
+        </app>
         </l>
         <l n="12" xml:id="WP_1573_Dom._13_Trin._237r_12">
 

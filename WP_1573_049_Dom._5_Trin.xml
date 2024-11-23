@@ -1446,13 +1446,12 @@
         <w xml:id="WP_1573_Dom._5_Trin._209v_35.2" xml:lang="olt">Wera</w>
         <w xml:id="WP_1573_Dom._5_Trin._209v_35.3" xml:lang="olt">nes</w>
         <w xml:id="WP_1573_Dom._5_Trin._209v_35.4" xml:lang="olt">ne</w>
-        <w xml:id="WP_1573_Dom._5_Trin._209v_35.5" xml:lang="olt">
-          <app>  
-            <lem>iſch</lem>
-            <rdg>iſch kitur</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._5_Trin._209v_35.6" xml:lang="olt">kur</w>
-        <w xml:id="WP_1573_Dom._5_Trin._209v_35.7" xml:lang="olt">kitur</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._5_Trin._209v_35.5" xml:lang="olt">iſch</w>
+          <w xml:id="WP_1573_Dom._5_Trin._209v_35.6" xml:lang="olt">kur</w>
+          <w xml:id="WP_1573_Dom._5_Trin._209v_35.7" xml:lang="olt">kitur</w></lem>
+          <rdg>iſch kitur</rdg>
+        </app>
         </l>
         <l n="R" xml:id="WP_1573_Dom._5_Trin._209v_R">
 
@@ -1554,14 +1553,13 @@
         <w xml:id="WP_1573_Dom._5_Trin._210r_9.1" xml:lang="olt">priwaliu</w>
         <w xml:id="WP_1573_Dom._5_Trin._210r_9.2" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._5_Trin._210r_9.3" xml:lang="grc">m̄</w>
-        <w xml:id="WP_1573_Dom._5_Trin._210r_9.4" xml:lang="olt">
-          <app>  
-            <lem>Trecʒia</lem>
-            <rdg>Trecʒia to</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._5_Trin._210r_9.5" xml:lang="olt">m:</w>
-        <w xml:id="WP_1573_Dom._5_Trin._210r_9.6" xml:lang="olt">k:</w>
-        <w xml:id="WP_1573_Dom._5_Trin._210r_9.7" xml:lang="olt">to</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._5_Trin._210r_9.4" xml:lang="olt">Trecʒia</w>
+          <w xml:id="WP_1573_Dom._5_Trin._210r_9.5" xml:lang="olt">m:</w>
+          <w xml:id="WP_1573_Dom._5_Trin._210r_9.6" xml:lang="olt">k:</w>
+          <w xml:id="WP_1573_Dom._5_Trin._210r_9.7" xml:lang="olt">to</w></lem>
+          <rdg>Trecʒia to</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._5_Trin._210r_9.8" xml:lang="olt">mu<lb break="no"/>mis</w>
         </l>
         <l n="10" xml:id="WP_1573_Dom._5_Trin._210r_10">

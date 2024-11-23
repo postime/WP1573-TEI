@@ -1010,16 +1010,15 @@
         <w xml:id="WP_1573_Dom._10_Trin._227r_2.2" xml:lang="olt">wenas</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_2.3" xml:lang="olt">antra</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_2.4" xml:lang="olt">negalleija</w>
-        <w xml:id="WP_1573_Dom._10_Trin._227r_2.5" xml:lang="olt">
-          <app>  
-            <lem>pakaſti,</lem>
-            <rdg>pakaſti Murụ</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._10_Trin._227r_2.6" xml:lang="olt">per</w>
-        </l>
-        <l n="3" xml:id="WP_1573_Dom._10_Trin._227r_3">
-
-        <w xml:id="WP_1573_Dom._10_Trin._227r_3.1" xml:lang="olt">Murụ</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._10_Trin._227r_2.5" xml:lang="olt">pakaſti,</w>
+          <w xml:id="WP_1573_Dom._10_Trin._227r_2.6" xml:lang="olt">per</w>
+          </l>
+          <l n="3" xml:id="WP_1573_Dom._10_Trin._227r_3">
+  
+          <w xml:id="WP_1573_Dom._10_Trin._227r_3.1" xml:lang="olt">Murụ</w></lem>
+          <rdg>pakaſti Murụ</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._10_Trin._227r_3.2" xml:lang="olt">lawanus</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_3.3" xml:lang="olt">ingi</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_3.4" xml:lang="olt">walụ</w>
@@ -1392,12 +1391,11 @@
         <w xml:id="WP_1573_Dom._10_Trin._227v_6.1" xml:lang="olt">ſʒadị</w>
         <w xml:id="WP_1573_Dom._10_Trin._227v_6.2" xml:lang="olt">ſawạ</w>
         <w xml:id="WP_1573_Dom._10_Trin._227v_6.3" xml:lang="olt">ſ:,</w>
-        <w xml:id="WP_1573_Dom._10_Trin._227v_6.4" xml:lang="olt">
-          <app>  
-            <lem>ſ:</lem>
-            <rdg>tas</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._10_Trin._227v_6.5" xml:lang="olt">tas</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._10_Trin._227v_6.4" xml:lang="olt">ſ:</w>
+          <w xml:id="WP_1573_Dom._10_Trin._227v_6.5" xml:lang="olt">tas</w></lem>
+          <rdg>tas</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._10_Trin._227v_6.6" xml:lang="olt">Egłas</w>
         <w xml:id="WP_1573_Dom._10_Trin._227v_6.7" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._10_Trin._227v_6.8" xml:lang="olt">atſun<lb break="no"/>tes</w>

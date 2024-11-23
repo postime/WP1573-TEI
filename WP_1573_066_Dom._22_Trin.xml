@@ -50,8 +50,11 @@
         </l>
         <l n="10" xml:id="WP_1573_Dom._22_Trin._264v_10">
 
-        <w xml:id="WP_1573_Dom._22_Trin._264v_10.1" xml:lang="olt">Jr</w>
-        <w xml:id="WP_1573_Dom._22_Trin._264v_10.2" xml:lang="olt">Bilaies</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._22_Trin._264v_10.1" xml:lang="olt">Jr</w>
+          <w xml:id="WP_1573_Dom._22_Trin._264v_10.2" xml:lang="olt">Bilaies</w></lem>
+          <rdg>Bilaies</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._22_Trin._264v_10.3" xml:lang="olt">weſchpats</w>
         <w xml:id="WP_1573_Dom._22_Trin._264v_10.4" xml:lang="olt">Jeſus</w>
         <w xml:id="WP_1573_Dom._22_Trin._264v_10.5" xml:lang="olt">Priliginta</w>
@@ -1860,7 +1863,7 @@
           <app>  
             <lem>27</lem>
             <rdg>25</rdg>
-            <rdg>ſu manim</rdg>
+            <rdg>26</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._22_Trin._267r_22.8" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._22_Trin._267r_22.9" xml:lang="olt">tur<lb break="no"/>rime,</w>
@@ -1903,7 +1906,7 @@
         <w xml:id="WP_1573_Dom._22_Trin._267r_26.7" xml:lang="olt">
           <app>  
             <lem>ſu<lb break="no"/>maninn</lem>
-            <rdg>26</rdg>
+            <rdg>ſu manim</rdg>
           </app></w>
         </l>
         <l n="27" xml:id="WP_1573_Dom._22_Trin._267r_27">

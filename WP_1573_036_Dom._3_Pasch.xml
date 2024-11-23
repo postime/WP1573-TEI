@@ -927,25 +927,28 @@
         <w xml:id="WP_1573_Dom._3_Pasch._167r_25.5" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._3_Pasch._167r_25.6" xml:lang="olt">ghị</w>
         <w xml:id="WP_1573_Dom._3_Pasch._167r_25.7" xml:lang="olt">ludija</w>
-        <w xml:id="WP_1573_Dom._3_Pasch._167r_25.8" xml:lang="olt">Math:</w>
-        <w xml:id="WP_1573_Dom._3_Pasch._167r_25.9" xml:lang="olt">3.</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Pasch._167r_25.8" xml:lang="olt">Math:</w>
+          <w xml:id="WP_1573_Dom._3_Pasch._167r_25.9" xml:lang="olt">3.</w></lem>
+          <rdg>Math:</rdg>
+        </app>
         </l>
         <l n="26" xml:id="WP_1573_Dom._3_Pasch._167r_26">
+  
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Pasch._167r_26.1" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Dom._3_Pasch._167r_26.2" xml:lang="olt">17.</w></lem>
+          <rdg>3 ir 17</rdg>
+        </app>
 
-        <w xml:id="WP_1573_Dom._3_Pasch._167r_26.1" xml:lang="olt">
-          <app>  
-            <lem>ir</lem>
-            <rdg>3 ir 17</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Pasch._167r_26.2" xml:lang="olt">17.</w>
+
         <w xml:id="WP_1573_Dom._3_Pasch._167r_26.3" xml:lang="lat">Marci</w>
-        <w xml:id="WP_1573_Dom._3_Pasch._167r_26.4" xml:lang="lat">
-          <app>  
-            <lem>1</lem>
-            <rdg>9</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._3_Pasch._167r_26.5" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._3_Pasch._167r_26.6" xml:lang="lat">9.</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._3_Pasch._167r_26.4" xml:lang="lat">1</w>
+          <w xml:id="WP_1573_Dom._3_Pasch._167r_26.5" xml:lang="olt">ir</w>
+          <w xml:id="WP_1573_Dom._3_Pasch._167r_26.6" xml:lang="lat">9.</w></lem>
+          <rdg>9</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._3_Pasch._167r_26.7" xml:lang="lat">Luce</w>
         <w xml:id="WP_1573_Dom._3_Pasch._167r_26.8" xml:lang="lat">3</w>
         <w xml:id="WP_1573_Dom._3_Pasch._167r_26.9" xml:lang="olt">ir</w>

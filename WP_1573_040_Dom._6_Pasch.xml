@@ -1086,13 +1086,12 @@
         <l n="23" xml:id="WP_1573_Dom._6_Pasch._178v_23">
 
         <w xml:id="WP_1573_Dom._6_Pasch._178v_23.1" xml:lang="olt">Jeſụ</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178v_23.2" xml:lang="olt">
-          <app>  
-            <lem>Cħụ,</lem>
-            <rdg>Cħụ, Ghis</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178v_23.3" xml:lang="olt">NE</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178v_23.4" xml:lang="olt">Ghis</w>
+        <app>
+          <lem><w xml:id="WP_1573_Dom._6_Pasch._178v_23.2" xml:lang="olt">Cħụ,</w>
+          <w xml:id="WP_1573_Dom._6_Pasch._178v_23.3" xml:lang="olt">NE</w>
+          <w xml:id="WP_1573_Dom._6_Pasch._178v_23.4" xml:lang="olt">Ghis</w></lem>
+          <rdg>Cħụ, Ghis</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._6_Pasch._178v_23.5" xml:lang="olt">neſs</w>
         <w xml:id="WP_1573_Dom._6_Pasch._178v_23.6" xml:lang="olt">pats</w>
         <w xml:id="WP_1573_Dom._6_Pasch._178v_23.7" xml:lang="olt">Joh:</w>
