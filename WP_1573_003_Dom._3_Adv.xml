@@ -2413,8 +2413,11 @@
         <w xml:id="WP_1573_Dom._3_Adv._16r_13.4" xml:lang="olt">uſʒ</w>
         <w xml:id="WP_1573_Dom._3_Adv._16r_13.5" xml:lang="olt">
           <app>  
-            <lem>meſsiaſʒiụ</lem> <!--Instant correction by Bielauk plus alteration by Welver. How to annotate?-->
+            <lem>meſsiaſʒiụ</lem>
             <rdg>meſsieʒiụ</rdg>
+          </app>
+          <app hand="W">
+            <lem>meſsiaſʒiụ</lem>
             <rdg>Meſsiaſʒiụ</rdg>
           </app></w>
         <punct>.</punct>
@@ -4242,7 +4245,9 @@
         <w xml:id="WP_1573_Dom._3_Adv._18v_M9S.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_Dom._3_Adv._18v_M9S.2" xml:lang="lat">Ex</w>
         <w xml:id="WP_1573_Dom._3_Adv._18v_M9S.3" xml:lang="lat">postilla</w>
+          <quote>
         <w xml:id="WP_1573_Dom._3_Adv._18v_M9S.4" xml:lang="lat">Hemmingij</w>
+          <ref decls="person" cRef="NHemming"/></quote>
         <w xml:id="WP_1573_Dom._3_Adv._18v_M9S.5" xml:lang="olt">⌉</w>
         </l>
       </div>

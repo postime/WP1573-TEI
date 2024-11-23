@@ -1764,8 +1764,10 @@
         <l n="28" xml:id="WP_1573_Dom._7_Trin._218r_28">
 
         <w xml:id="WP_1573_Dom._7_Trin._218r_28.1" xml:lang="olt">wira</w>
+          <quote>
         <w xml:id="WP_1573_Dom._7_Trin._218r_28.2" xml:lang="olt">Martina</w>
         <w xml:id="WP_1573_Dom._7_Trin._218r_28.3" xml:lang="olt">Luthera</w>
+          <ref decls="person" cRef="Luther"/></quote>
         <w xml:id="WP_1573_Dom._7_Trin._218r_28.4" xml:lang="olt">welinas</w>
         <w xml:id="WP_1573_Dom._7_Trin._218r_28.5" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_Dom._7_Trin._218r_28.6" xml:lang="olt">wiſ<lb break="no"/>ſa</w>
@@ -2125,7 +2127,9 @@
         <w xml:id="WP_1573_Dom._7_Trin._218v_28.3" xml:lang="olt">tas</w>
         <w xml:id="WP_1573_Dom._7_Trin._218v_28.4" xml:lang="olt">nauias</w>
         <w xml:id="WP_1573_Dom._7_Trin._218v_28.5" xml:lang="olt">makſlas</w>
+          <quote>
         <w xml:id="WP_1573_Dom._7_Trin._218v_28.6" xml:lang="olt">Luthera</w>
+          <ref decls="person" cRef="Luther"/></quote>
         </l>
         <l n="29" xml:id="WP_1573_Dom._7_Trin._218v_29">
 
@@ -2372,7 +2376,10 @@
         <w xml:id="WP_1573_Dom._7_Trin._219r_16.3" xml:lang="olt">Amē.</w>
         <w xml:id="WP_1573_Dom._7_Trin._219r_16.4" xml:lang="olt">Trumpai</w>
         <w xml:id="WP_1573_Dom._7_Trin._219r_16.5" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Dom._7_Trin._219r_16.6" xml:lang="olt">Hemingia.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._7_Trin._219r_16.6" xml:lang="olt">Hemingia</w>
+          <ref decls="person" cRef="NHemming"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

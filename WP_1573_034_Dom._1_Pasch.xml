@@ -1616,12 +1616,18 @@
         </l>
         <l n="11" xml:id="WP_1573_Dom._1_Pasch._163r_11">
 
+          <quote>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_11.1" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_11.2" xml:lang="lat">Auguštinus</w>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_11.3" xml:lang="olt">gramatai</w>
-        <w xml:id="WP_1573_Dom._1_Pasch._163r_11.4" xml:lang="olt">fortunatap,</w>
+        <w xml:id="WP_1573_Dom._1_Pasch._163r_11.4" xml:lang="olt">fortunatap,</w> <!--Person.
+        Fortunatus, a heretical ("Manichaean") presbyter from Hippo Regius.
+        Cf. Possidius, Vita Augustini, cap. 6.-->
         </l>
         <l n="12" xml:id="WP_1573_Dom._1_Pasch._163r_12">
+
+        <quote>
 
         <w xml:id="WP_1573_Dom._1_Pasch._163r_12.1" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_12.2" xml:lang="olt">Akrute</w>
@@ -1778,8 +1784,11 @@
         </l>
         <l n="29" xml:id="WP_1573_Dom._1_Pasch._163r_29">
 
+          <quote>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_29.1" xml:lang="olt">S:</w>
-        <w xml:id="WP_1573_Dom._1_Pasch._163r_29.2" xml:lang="olt">Auguſ:,</w>
+        <w xml:id="WP_1573_Dom._1_Pasch._163r_29.2" xml:lang="olt">Auguſ:</w>
+          <ref decls="person" cRef="AAugustinus"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_29.3" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_29.4" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_29.5" xml:lang="olt">macʒna</w>
@@ -1788,6 +1797,9 @@
         <l n="30" xml:id="WP_1573_Dom._1_Pasch._163r_30">
 
         <w xml:id="WP_1573_Dom._1_Pasch._163r_30.1" xml:lang="olt">ſtipra.</w>
+
+        <ref decls="nonbib" cRef="AAugustinus_8"/></quote>
+
         <w xml:id="WP_1573_Dom._1_Pasch._163r_30.2" xml:lang="olt">Gali</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_30.3" xml:lang="olt">cʒe</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_30.4" xml:lang="olt">but</w>
@@ -1798,6 +1810,9 @@
         <w xml:id="WP_1573_Dom._1_Pasch._163r_31.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_31.3" xml:lang="olt">anſai</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_31.4" xml:lang="olt">paweiſdas,</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._1_Pasch._163r_31.5" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163r_31.6" xml:lang="olt">bua</w>
         </l>
@@ -1972,6 +1987,9 @@
         <w xml:id="WP_1573_Dom._1_Pasch._163v_15.1" xml:lang="olt">nebeaſsa</w>
         <w xml:id="WP_1573_Dom._1_Pasch._163v_15.2" xml:lang="grc">m̄</w>
         <punct>.</punct>
+
+        <ref decls="nonbib" cRef="Exemplum_Posessed"/></quote>
+
         </l>
         <l n="16" xml:id="WP_1573_Dom._1_Pasch._163v_16">
 

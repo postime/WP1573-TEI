@@ -131,12 +131,17 @@
         <l n="7" xml:id="WP_1573_09_29_St._Mich._290v_7">
 
         <w xml:id="WP_1573_09_29_St._Mich._290v_7.1" xml:lang="olt">kalba</w>
+          <quote>
         <w xml:id="WP_1573_09_29_St._Mich._290v_7.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_09_29_St._Mich._290v_7.3" xml:lang="lat">
           <app>  
             <lem>Jeronimus</lem>
             <rdg>Jr</rdg>
           </app></w>
+          <ref decls="person" cRef="SEHieronymus"/></quote>
+
+        <quote>
+
         <w xml:id="WP_1573_09_29_St._Mich._290v_7.4" xml:lang="olt">Dide</w>
         <w xml:id="WP_1573_09_29_St._Mich._290v_7.5" xml:lang="olt">garbe</w>
         <w xml:id="WP_1573_09_29_St._Mich._290v_7.6" xml:lang="olt">duſchụ</w>
@@ -154,6 +159,9 @@
 
         <w xml:id="WP_1573_09_29_St._Mich._290v_9.1" xml:lang="olt">ſaw</w>
         <w xml:id="WP_1573_09_29_St._Mich._290v_9.2" xml:lang="olt">Angela.</w>
+
+        <ref decls="nonbib" cRef="SEHieronymus_5"/></quote>
+
         <w xml:id="WP_1573_09_29_St._Mich._290v_9.3" xml:lang="olt">Tadelei</w>
         <w xml:id="WP_1573_09_29_St._Mich._290v_9.4" xml:lang="olt">nu</w>
         <w xml:id="WP_1573_09_29_St._Mich._290v_9.5" xml:lang="olt">pirm<lb break="no"/>iauſei</w>
@@ -544,10 +552,14 @@
         <w xml:id="WP_1573_09_29_St._Mich._291r_14.1" xml:lang="olt">garbintumbim,</w>
         <w xml:id="WP_1573_09_29_St._Mich._291r_14.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_09_29_St._Mich._291r_14.3" xml:lang="olt">kalba</w>
+          <quote>
         <w xml:id="WP_1573_09_29_St._Mich._291r_14.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_09_29_St._Mich._291r_14.5" xml:lang="olt">Auguſ:</w>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         </l>
         <l n="15" xml:id="WP_1573_09_29_St._Mich._291r_15">
+
+        <quote>
 
         <w xml:id="WP_1573_09_29_St._Mich._291r_15.1" xml:lang="olt">Tadel</w>
         <w xml:id="WP_1573_09_29_St._Mich._291r_15.2" xml:lang="olt">ſutwertas</w>
@@ -588,6 +600,9 @@
         <w xml:id="WP_1573_09_29_St._Mich._291r_19.3" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_09_29_St._Mich._291r_19.4" xml:lang="olt">io</w>
         <w xml:id="WP_1573_09_29_St._Mich._291r_19.5" xml:lang="olt">karalautụ.</w>
+
+        <ref decls="nonbib" cRef="PsAAug_11"/></quote>
+
         <w xml:id="WP_1573_09_29_St._Mich._291r_19.6" xml:lang="olt">Tai</w>
         <w xml:id="WP_1573_09_29_St._Mich._291r_19.7" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_09_29_St._Mich._291r_19.8" xml:lang="olt">ape</w>
@@ -2208,14 +2223,19 @@
         </l>
         <l n="18" xml:id="WP_1573_09_29_St._Mich._293v_18">
 
+          <quote>
         <w xml:id="WP_1573_09_29_St._Mich._293v_18.1" xml:lang="olt">S</w>
         <w xml:id="WP_1573_09_29_St._Mich._293v_18.2" xml:lang="olt">Auguſ:</w>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_09_29_St._Mich._293v_18.3" xml:lang="olt">
           <app>  
             <lem>kalba</lem>
             <rdg>t</rdg>
           </app></w>
         <punct>,</punct>
+       
+        <quote>
+
         <w xml:id="WP_1573_09_29_St._Mich._293v_18.5" xml:lang="olt">Angelai</w>
         <w xml:id="WP_1573_09_29_St._Mich._293v_18.6" xml:lang="olt">pana</w>
         <w xml:id="WP_1573_09_29_St._Mich._293v_18.7" xml:lang="olt">Dewa</w>
@@ -2244,6 +2264,9 @@
         <w xml:id="WP_1573_09_29_St._Mich._293v_21.1" xml:lang="olt">widui</w>
         <w xml:id="WP_1573_09_29_St._Mich._293v_21.2" xml:lang="olt">gimines</w>
         <w xml:id="WP_1573_09_29_St._Mich._293v_21.3" xml:lang="olt">piktas.</w>
+
+        <ref decls="nonbib" cRef="PsAAug_12"/></quote>
+
         <w xml:id="WP_1573_09_29_St._Mich._293v_21.4" xml:lang="olt">Judith</w>
         <w xml:id="WP_1573_09_29_St._Mich._293v_21.5" xml:lang="olt">tare</w>
         </l>
@@ -3476,7 +3499,9 @@
         <w xml:id="WP_1573_09_29_St._Mich._295v_2.1" xml:lang="olt">Vſʒwidi.</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_2.2" xml:lang="olt">Nes</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_2.3" xml:lang="olt">raſcha</w>
+          <quote>
         <w xml:id="WP_1573_09_29_St._Mich._295v_2.4" xml:lang="olt">Baſilius</w>
+          <ref decls="person" cRef="BasilMagn"/></quote>
         <w xml:id="WP_1573_09_29_St._Mich._295v_2.5" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_2.6" xml:lang="olt">
           <app>  
@@ -3487,6 +3512,9 @@
         <l n="3" xml:id="WP_1573_09_29_St._Mich._295v_3">
 
         <w xml:id="WP_1573_09_29_St._Mich._295v_3.1" xml:lang="olt">34</w>
+
+        <quote>
+
         <w xml:id="WP_1573_09_29_St._Mich._295v_3.2" xml:lang="olt">
           <app>  
             <lem>kiekwenam</lem>
@@ -3514,6 +3542,9 @@
         <w xml:id="WP_1573_09_29_St._Mich._295v_5.1" xml:lang="olt">necʒiſtaiſais</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_5.2" xml:lang="olt">ne</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_5.3" xml:lang="olt">atwara,</w>
+
+        <ref decls="nonbib" cRef="BasilMagn_5"/></quote>
+
         <w xml:id="WP_1573_09_29_St._Mich._295v_5.4" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_5.5" xml:lang="olt">necʒiſtu<lb break="no"/>iụ</w>
         </l>
@@ -3590,13 +3621,18 @@
         <w xml:id="WP_1573_09_29_St._Mich._295v_12.1" xml:lang="olt">Teip</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_12.2" xml:lang="olt">nes</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_12.3" xml:lang="olt">kalba</w>
+          <quote>
         <w xml:id="WP_1573_09_29_St._Mich._295v_12.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_12.5" xml:lang="lat">
           <app>  
             <lem>Bernhardus</lem>
             <rdg>Bernhardes &lt; Pa</rdg>
           </app></w>
+          <ref decls="person" cRef="BernClair"/></quote>
         <punct>,</punct>
+
+        <quote>
+
         <w xml:id="WP_1573_09_29_St._Mich._295v_12.7" xml:lang="olt">kạ</w>
         <w xml:id="WP_1573_09_29_St._Mich._295v_12.8" xml:lang="olt">tu</w>
         </l>

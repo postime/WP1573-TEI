@@ -2958,7 +2958,10 @@
         <w xml:id="WP_1573_Dom._20_Trin._261v_7.1" xml:lang="olt">Amē</w>
         <w xml:id="WP_1573_Dom._20_Trin._261v_7.2" xml:lang="grc">m̄</w>
         <w xml:id="WP_1573_Dom._20_Trin._261v_7.3" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Dom._20_Trin._261v_7.4" xml:lang="olt">Greſera.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._20_Trin._261v_7.4" xml:lang="olt">Greſera</w>
+          <ref decls="person" cRef="DGreser"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

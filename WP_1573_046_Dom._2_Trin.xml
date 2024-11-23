@@ -736,15 +736,27 @@
         <l n="3" xml:id="WP_1573_Dom._2_Trin._198r_3">
 
         <w xml:id="WP_1573_Dom._2_Trin._198r_3.1" xml:lang="olt">bua</w>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Trin._198r_3.2" xml:lang="lat">Bernhardus</w>
-        <w xml:id="WP_1573_Dom._2_Trin._198r_3.3" xml:lang="lat">Taulerus,</w>
-        <w xml:id="WP_1573_Dom._2_Trin._198r_3.4" xml:lang="lat">Hugo,</w>
+          <ref decls="person" cRef="BernClair"/></quote>
+          <quote>
+        <w xml:id="WP_1573_Dom._2_Trin._198r_3.3" xml:lang="lat">Taulerus</w>
+          <ref decls="person" cRef="JTauler"/></quote>
+        <punct>,</punct>
+          <quote>
+        <w xml:id="WP_1573_Dom._2_Trin._198r_3.4" xml:lang="lat">Hugo</w>
+          <ref decls="person" cRef="HughStV"/></quote>
+        <punct>,</punct>
+           <quote>
         <w xml:id="WP_1573_Dom._2_Trin._198r_3.5" xml:lang="lat">Johannes</w>
         </l>
         <l n="4" xml:id="WP_1573_Dom._2_Trin._198r_4">
 
         <w xml:id="WP_1573_Dom._2_Trin._198r_4.1" xml:lang="lat">hušs</w>
+          <ref decls="person" cRef="JanHus"/></quote>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Trin._198r_4.2" xml:lang="lat">Geršon</w>
+          <ref decls="person" cRef="JGerson"/></quote>
         <w xml:id="WP_1573_Dom._2_Trin._198r_4.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Trin._198r_4.4" xml:lang="olt">kitti</w>
         <w xml:id="WP_1573_Dom._2_Trin._198r_4.5" xml:lang="olt">temus</w>
@@ -776,14 +788,18 @@
         </l>
         <l n="7" xml:id="WP_1573_Dom._2_Trin._198r_7">
 
+          <quote>
         <w xml:id="WP_1573_Dom._2_Trin._198r_7.1" xml:lang="olt">Dactaras</w>
         <w xml:id="WP_1573_Dom._2_Trin._198r_7.2" xml:lang="lat">Martinus</w>
         <w xml:id="WP_1573_Dom._2_Trin._198r_7.3" xml:lang="lat">Lutherus</w>
+          <ref decls="person" cRef="Luther"/></quote>
+          <quote>
         <w xml:id="WP_1573_Dom._2_Trin._198r_7.4" xml:lang="lat">Philip<lb break="no"/>pus</w>
         </l>
         <l n="8" xml:id="WP_1573_Dom._2_Trin._198r_8">
 
         <w xml:id="WP_1573_Dom._2_Trin._198r_8.1" xml:lang="lat">Melanchton</w>
+          <ref decls="person" cRef="Melanch"/></quote>
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._2_Trin._198r_8.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Trin._198r_8.4" xml:lang="olt">kitti,</w>

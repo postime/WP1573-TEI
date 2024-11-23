@@ -130,7 +130,7 @@
         <w xml:id="WP_1573_Dom._Sexag._83v_20.5" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Sexag._83v_20.6" xml:lang="olt">dide</w>
         <w xml:id="WP_1573_Dom._Sexag._83v_20.7" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>dau<lb break="no"/>gime</lem>
             <rdg>dau<lb break="no"/>gibe</rdg>
           </app></w>
@@ -221,11 +221,11 @@
         <l n="29" xml:id="WP_1573_Dom._Sexag._83v_29">
 
         <w xml:id="WP_1573_Dom._Sexag._83v_29.1" xml:lang="olt">pakalba</w>
-        <add>
+        <add hand="W?">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._83v_29.2" xml:lang="olt">pawartaija</w>
-        <add>
+        <add hand="W?">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._83v_29.3" xml:lang="olt">giedinna</w>
@@ -410,14 +410,14 @@
         <w xml:id="WP_1573_Dom._Sexag._84r_5.2" xml:lang="lat">2</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_5.3" xml:lang="olt">kalba:</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_5.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Neklauſitaiei</lem>
             <rdg>Ne klauſitaiei</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Sexag._84r_5.5" xml:lang="olt">Ʒakana</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_5.6" xml:lang="olt">teiſus</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_5.7" xml:lang="olt">bus</w>
-        <add>
+        <add hand="W">
           <punct>:</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._84r_5.8" xml:lang="olt">bet</w>
@@ -440,11 +440,10 @@
         <w xml:id="WP_1573_Dom._Sexag._84r_7.2" xml:lang="olt">matriſchkeſpi</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_7.3" xml:lang="olt">Lu:</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_7.4" xml:lang="olt">11</w>
-        <w xml:id="WP_1573_Dom._Sexag._84r_7.5" xml:lang="olt">
-          <app>  
-            <lem>tardams:</lem>
-            <rdg>tardams pagirti</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._84r_7.5" xml:lang="olt">tardams</w>
+        <add>
+        <punct>:</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Sexag._84r_7.6" xml:lang="olt">pagirti</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_7.7" xml:lang="olt">kure</w>
         </l>
@@ -459,12 +458,13 @@
             <rdg>r</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Sexag._84r_8.5" xml:lang="olt">ſerkti</w>
-        <w xml:id="WP_1573_Dom._Sexag._84r_8.6" xml:lang="olt">
-          <app>  
-            <lem>ghia,</lem>
-            <rdg>ghe, ſaugagia</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._84r_8.6" xml:lang="olt"><app>
+          <lem>ghia</lem>
+          <rdg>ghe</rdg>
+        <punct>,</punct>
+        <add>
         <w xml:id="WP_1573_Dom._Sexag._84r_8.7" xml:lang="olt">∻</w>
+        </add>
         <w xml:id="WP_1573_Dom._Sexag._84r_8.8" xml:lang="olt">ſaugagia</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_8.9" xml:lang="olt">ghị.</w>
         </l>
@@ -622,7 +622,8 @@
         <w xml:id="WP_1573_Dom._Sexag._84r_21.6" xml:lang="olt">
           <app>  
             <lem>napraſ<lb break="no"/>nai</lem>
-            <rdg>napraſ<lb break="no"/>nei &lt; naſ</rdg>
+            <rdg>napraſ<lb break="no"/>nei</rdg>
+            <rdg>naſ</rdg>
           </app></w>
         </l>
         <l n="22" xml:id="WP_1573_Dom._Sexag._84r_22">
@@ -720,7 +721,7 @@
         <w xml:id="WP_1573_Dom._Sexag._84r_30.6" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_30.7" xml:lang="olt">tardams;</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_30.8" xml:lang="olt">ſchauk</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         </l>
@@ -748,7 +749,7 @@
         <w xml:id="WP_1573_Dom._Sexag._84r_33.1" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_33.2" xml:lang="olt">Mariụ</w>
         <w xml:id="WP_1573_Dom._Sexag._84r_33.3" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>magdanenụ</lem>
             <rdg>magdalenụ</rdg>
           </app></w>
@@ -1134,11 +1135,11 @@
 
         <w xml:id="WP_1573_Dom._Sexag._84v_28.1" xml:lang="olt">weſʒpats</w>
         <w xml:id="WP_1573_Dom._Sexag._84v_28.2" xml:lang="olt">Jeſus</w>
-        <w xml:id="WP_1573_Dom._Sexag._84v_28.3" xml:lang="olt">
-          <app>  
-            <lem>tardams:</lem>
-            <rdg>,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._84v_28.3" xml:lang="olt">tardams</w>
+        <punct><app>
+          <lem>:</lem>
+          <rdg>,</rdg>
+        </app></punct>
         <w xml:id="WP_1573_Dom._Sexag._84v_28.4" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Dom._Sexag._84v_28.5" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_Dom._Sexag._84v_28.6" xml:lang="olt">auſis</w>
@@ -1421,7 +1422,7 @@
 
         <w xml:id="WP_1573_Dom._Sexag._85r_14.1" xml:lang="olt">kure</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_14.2" xml:lang="olt">ira</w>
-        <app>
+        <app type="err">
           <lem><w xml:id="WP_1573_Dom._Sexag._85r_14.3" xml:lang="olt">ſu</w>
           <w xml:id="WP_1573_Dom._Sexag._85r_14.4" xml:lang="olt">phalcʒiawaghị</w>
           <w xml:id="WP_1573_Dom._Sexag._85r_14.5" xml:lang="olt">ſu</w>
@@ -1499,7 +1500,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85r_21.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_21.4" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_21.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Euangelikus</lem>
             <rdg>Euangelikụ</rdg>
           </app></w>
@@ -1523,14 +1524,13 @@
 
         <w xml:id="WP_1573_Dom._Sexag._85r_23.1" xml:lang="olt">Antra</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_23.2" xml:lang="olt">del</w>
-        <w xml:id="WP_1573_Dom._Sexag._85r_23.3" xml:lang="olt">
-          <app>  
-            <lem>tewụ,</lem>
-            <rdg>tewụ augibiụ ∻ weſʒpatụ ir</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._Sexag._85r_23.4" xml:lang="olt">augibiụ,</w>
+        <w xml:id="WP_1573_Dom._Sexag._85r_23.3" xml:lang="olt">tewụ</w>
+        <add>        <punct>,</punct></add>
+        <w xml:id="WP_1573_Dom._Sexag._85r_23.4" xml:lang="olt">augibiụ</w>
+        <add>        <punct>,</punct></add>
         <w xml:id="WP_1573_Dom._Sexag._85r_23.5" xml:lang="olt">∻</w>
-        <w xml:id="WP_1573_Dom._Sexag._85r_23.6" xml:lang="olt">weſʒpatụ,</w>
+        <w xml:id="WP_1573_Dom._Sexag._85r_23.6" xml:lang="olt">weſʒpatụ</w>
+        <add>        <punct>,</punct></add>
         <w xml:id="WP_1573_Dom._Sexag._85r_23.7" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_23.8" xml:lang="olt">wieſchpat<lb break="no"/>niụ</w>
         </l>
@@ -1623,16 +1623,16 @@
 
         <w xml:id="WP_1573_Dom._Sexag._85r_31.1" xml:lang="olt">Jſch</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_31.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>kaiemus</lem>
             <rdg>ka iemus</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Sexag._85r_31.3" xml:lang="olt">didis</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85r_31.4" xml:lang="olt">ſunkus</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85r_31.5" xml:lang="olt">a</w>
@@ -1678,14 +1678,18 @@
         <w xml:id="WP_1573_Dom._Sexag._85r_35.1" xml:lang="olt">Neſanga</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.3" xml:lang="olt">kalba</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.5" xml:lang="olt">auguſtinas</w>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._Sexag._85r_35.6" xml:lang="olt">tardams:</w>
         </l>
         <l n="36" xml:id="WP_1573_Dom._Sexag._85r_36">
 
+        <quote>
+
         <w xml:id="WP_1573_Dom._Sexag._85r_36.1" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>ka</lem>
             <rdg>ko</rdg>
           </app></w>
@@ -1722,6 +1726,9 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_1.4" xml:lang="olt">weſchpatni</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_1.5" xml:lang="olt">namu</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_1.6" xml:lang="olt">nameie.</w>
+
+        <ref decls="nonbib" cRef="AAugustinus_3"/></quote>
+
         </l>
         <l n="2" xml:id="WP_1573_Dom._Sexag._85v_2">
 
@@ -1789,7 +1796,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_8.1" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_8.2" xml:lang="olt">platintunſi,</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_8.3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Neatimna</lem>
             <rdg>Neatimma / Neatima</rdg>
           </app></w>
@@ -1836,7 +1843,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_12.2" xml:lang="olt">nuſsitik</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_12.3" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_12.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>wiſsụ</lem>
             <rdg>wiſsus</rdg>
           </app></w>
@@ -1872,9 +1879,10 @@
 
         <w xml:id="WP_1573_Dom._Sexag._85v_15.1" xml:lang="olt">
           <app>  
-            <lem>ſʒemepacʒius,</lem>
+            <lem>ſʒemepacʒius</lem>
             <rdg>ſʒemẹ ∻ pacʒius</rdg>
           </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._Sexag._85v_15.2" xml:lang="olt">Eitwarius,</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_15.3" xml:lang="olt">kaukus,</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_15.4" xml:lang="olt">appide<lb break="no"/>mes,</w>
@@ -1882,13 +1890,16 @@
         <l n="16" xml:id="WP_1573_Dom._Sexag._85v_16">
 
         <w xml:id="WP_1573_Dom._Sexag._85v_16.1" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>kelnus</lem>
-            <rdg>kalnus,</rdg>
+            <rdg>kalnus</rdg>
           </app></w>
+        <add hand="W">
+          <punct>,</punct>
+        </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_16.2" xml:lang="olt">akmenis,</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_16.3" xml:lang="olt">medʒius</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_16.4" xml:lang="olt">gaius</w>
@@ -1900,7 +1911,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_17.2" xml:lang="olt">wadinna</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_17.3" xml:lang="olt">alkus)</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_17.4" xml:lang="olt">Vpes</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_17.5" xml:lang="olt">perkunụ,</w>
@@ -1931,7 +1942,7 @@
         <l n="20" xml:id="WP_1573_Dom._Sexag._85v_20">
 
         <w xml:id="WP_1573_Dom._Sexag._85v_20.1" xml:lang="olt">20</w>
-        <add>
+        <add hand="W">
           <punct>:</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_20.2" xml:lang="olt">Neturrek</w>
@@ -1947,16 +1958,15 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_21.4" xml:lang="olt">tawa</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_21.5" xml:lang="olt">tuſchtai</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_21.6" xml:lang="olt">∻</w>
-        <w xml:id="WP_1573_Dom._Sexag._85v_21.7" xml:lang="olt">
-          <app>  
-            <lem>na<lb break="no"/>praſnai</lem>
-            <rdg>na<lb break="no"/>praſnai,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._85v_21.7" xml:lang="olt">na<lb break="no"/>praſnai</w>
+        <add hand="W">
+        <punct>,</punct>
+        </add>
         </l>
         <l n="22" xml:id="WP_1573_Dom._Sexag._85v_22">
 
         <w xml:id="WP_1573_Dom._Sexag._85v_22.1" xml:lang="olt">dawnai</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_22.2" xml:lang="olt">a</w>
@@ -2022,13 +2032,13 @@
 
         <w xml:id="WP_1573_Dom._Sexag._85v_28.1" xml:lang="olt">bieſas</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_28.2" xml:lang="olt">cʒertas</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_28.3" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_28.4" xml:lang="olt">pikulas,</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_28.5" xml:lang="olt">kalnai</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_28.6" xml:lang="olt">Akmeni,</w>
@@ -2036,15 +2046,15 @@
         <l n="29" xml:id="WP_1573_Dom._Sexag._85v_29">
 
         <w xml:id="WP_1573_Dom._Sexag._85v_29.1" xml:lang="olt">medi</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_29.2" xml:lang="olt">gaiui</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_29.3" xml:lang="olt">alkie</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_29.4" xml:lang="olt">Vpei</w>
@@ -2052,7 +2062,7 @@
         <w xml:id="WP_1573_Dom._Sexag._85v_29.6" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_29.7" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_29.8" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>ſitwa<lb break="no"/>rai</lem>
             <rdg>Eitwa<lb break="no"/>rai</rdg>
           </app></w>
@@ -2078,7 +2088,7 @@
         <l n="32" xml:id="WP_1573_Dom._Sexag._85v_32">
 
         <w xml:id="WP_1573_Dom._Sexag._85v_32.1" xml:lang="olt">tardams</w>
-        <add>
+        <add hand="W/N?">
           <punct>:</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._85v_32.2" xml:lang="olt">Wiſsas</w>
@@ -2090,7 +2100,7 @@
 
         <w xml:id="WP_1573_Dom._Sexag._85v_33.1" xml:lang="olt">A</w>
         <w xml:id="WP_1573_Dom._Sexag._85v_33.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>weſʒpas</lem>
             <rdg>weſʒpats</rdg>
           </app></w>
@@ -2181,6 +2191,9 @@
           <app>  
             <lem>darijma</lem>
             <rdg>darama</rdg>
+          </app>
+          <app type="err">  
+            <lem>darijma</lem>
             <rdg>darijmas</rdg>
           </app></w>
         <punct>.</punct>
@@ -2338,18 +2351,19 @@
 
         <w xml:id="WP_1573_Dom._Sexag._86r_19.1" xml:lang="olt">
           <app>  
-            <lem>tardams.</lem>
+            <lem>tardams</lem>
             <rdg>tardans</rdg>
           </app></w>
+        <add><punct>.</punct></add>
         <w xml:id="WP_1573_Dom._Sexag._86r_19.2" xml:lang="olt">Sekla</w>
         <w xml:id="WP_1573_Dom._Sexag._86r_19.3" xml:lang="olt">kuri</w>
         <w xml:id="WP_1573_Dom._Sexag._86r_19.4" xml:lang="olt">pole</w>
         <w xml:id="WP_1573_Dom._Sexag._86r_19.5" xml:lang="olt">ant</w>
-        <w xml:id="WP_1573_Dom._Sexag._86r_19.6" xml:lang="olt">
-          <app>  
-            <lem>kielia,</lem>
+        <w xml:id="WP_1573_Dom._Sexag._86r_19.6" xml:lang="olt">kielia</w>
+        <punct><app>  
+            <lem>,</lem>
             <rdg>m̄</rdg>
-          </app></w>
+          </app></punct>
         </l>
         <l n="20" xml:id="WP_1573_Dom._Sexag._86r_20">
 
@@ -2539,12 +2553,11 @@
             <rdg>t</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Sexag._86r_37.5" xml:lang="olt">ſʒmanes</w>
-        <app>
-          <lem><w xml:id="WP_1573_Dom._Sexag._86r_37.6" xml:lang="olt">te</w>
-          <w xml:id="WP_1573_Dom._Sexag._86r_37.7" xml:lang="olt">kure</w>
-          <w xml:id="WP_1573_Dom._Sexag._86r_37.8" xml:lang="olt">ſu</w></lem>
-          <rdg>te ſu</rdg>
-        </app>
+        <w xml:id="WP_1573_Dom._Sexag._86r_37.6" xml:lang="olt">te</w>
+        <add>        
+        <w xml:id="WP_1573_Dom._Sexag._86r_37.7" xml:lang="olt">kure</w>
+        </add>
+        <w xml:id="WP_1573_Dom._Sexag._86r_37.8" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_Dom._Sexag._86r_37.9" xml:lang="olt">dʒaukſmu</w>
         </l>
         <pb n="86v"/>
@@ -2561,7 +2574,7 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_1.5" xml:lang="olt">te</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_1.6" xml:lang="olt">ſʒaknụ</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_1.7" xml:lang="olt">netur</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._86v_1.8" xml:lang="olt">neſanga</w>
@@ -2576,17 +2589,16 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_2.6" xml:lang="olt">kad</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_2.7" xml:lang="olt">iems</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_2.8" xml:lang="olt">gieras,</w>
-        <w xml:id="WP_1573_Dom._Sexag._86v_2.9" xml:lang="olt">
-          <app>  
-            <lem>linkſ<lb break="no"/>mas</lem>
-            <rdg>linkſ<lb break="no"/>mas,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._86v_2.9" xml:lang="olt">linkſ<lb break="no"/>mas</w>
+        <add hand="W">
+          <punct>,</punct>
+        </add>
         </l>
         <l n="3" xml:id="WP_1573_Dom._Sexag._86v_3">
 
         <w xml:id="WP_1573_Dom._Sexag._86v_3.1" xml:lang="olt">pakagingas,</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_3.2" xml:lang="olt">palaimingas</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._86v_3.3" xml:lang="olt">a</w>
@@ -2608,14 +2620,14 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_5.2" xml:lang="olt">prijma</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_5.3" xml:lang="olt">ſʒadị</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_5.4" xml:lang="olt">Diewa</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._86v_5.5" xml:lang="olt">daug</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_5.6" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_5.7" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_5.8" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>kai<lb break="no"/>ka</lem>
             <rdg>laika</rdg>
           </app></w>
@@ -2629,7 +2641,7 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_6.5" xml:lang="olt">panas</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_6.6" xml:lang="olt">diewas,</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_6.7" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>me<lb break="no"/>gimdamas</lem>
             <rdg>me<lb break="no"/>gindamas</rdg>
           </app></w>
@@ -2675,7 +2687,7 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_10.3" xml:lang="lat">dic</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_10.4" xml:lang="grc">m̄</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_10.5" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>Knremus</lem>
             <rdg>Kuremus</rdg>
           </app></w>
@@ -2800,11 +2812,11 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_22.2" xml:lang="olt">rupeſtis</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_22.3" xml:lang="olt">ſwetiſʒkai,</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_22.4" xml:lang="olt">ſkarbas</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._86v_22.5" xml:lang="olt">labis</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._86v_22.6" xml:lang="olt">bagatiſte</w>
@@ -2935,7 +2947,7 @@
         <w xml:id="WP_1573_Dom._Sexag._86v_36.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_36.3" xml:lang="olt">ghe</w>
         <w xml:id="WP_1573_Dom._Sexag._86v_36.4" xml:lang="olt">neguldeſsi</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._86v_36.5" xml:lang="olt">nei</w>
@@ -3068,7 +3080,7 @@
         <l n="8" xml:id="WP_1573_Dom._Sexag._87r_8">
 
         <w xml:id="WP_1573_Dom._Sexag._87r_8.1" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>timo:</lem>
             <rdg>.1. Timoth:</rdg>
           </app></w>
@@ -3086,11 +3098,11 @@
         <l n="9" xml:id="WP_1573_Dom._Sexag._87r_9">
 
         <w xml:id="WP_1573_Dom._Sexag._87r_9.1" xml:lang="olt">ſʒebangu</w>
-        <w xml:id="WP_1573_Dom._Sexag._87r_9.2" xml:lang="olt">
-          <app>  
-            <lem>tardams,</lem>
-            <rdg>;</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._87r_9.2" xml:lang="olt">tardams</w>
+        <punct><app hand="W">
+          <lem>,</lem>
+          <rdg>;</rdg>
+        </app></punct>
         <w xml:id="WP_1573_Dom._Sexag._87r_9.3" xml:lang="olt">kure</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_9.4" xml:lang="olt">nar</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_9.5" xml:lang="olt">bagatais</w>
@@ -3147,16 +3159,14 @@
         <w xml:id="WP_1573_Dom._Sexag._87r_15.1" xml:lang="olt">Lu:</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_15.2" xml:lang="olt">14</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_15.3" xml:lang="olt">kaip</w>
-        <w xml:id="WP_1573_Dom._Sexag._87r_15.4" xml:lang="olt">
-          <app>  
-            <lem>tai.</lem>
-            <rdg>tai. ị .</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._87r_15.4" xml:lang="olt">tai</w>
+        <punct>.</punct>
+        <add hand="W">ρ.</add>
         <w xml:id="WP_1573_Dom._Sexag._87r_15.5" xml:lang="olt">Tadelei</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_15.6" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_15.7" xml:lang="olt">Paw:</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_15.8" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>tamiieghi</lem>
             <rdg>tamijeghi</rdg>
           </app></w>
@@ -3165,7 +3175,7 @@
         <l n="16" xml:id="WP_1573_Dom._Sexag._87r_16">
 
         <w xml:id="WP_1573_Dom._Sexag._87r_16.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>makimna</lem>
             <rdg>makinna</rdg>
           </app></w>
@@ -3182,7 +3192,7 @@
         <w xml:id="WP_1573_Dom._Sexag._87r_17.1" xml:lang="olt">ſcha</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_17.2" xml:lang="olt">ſweta</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_17.3" xml:lang="olt">liepk</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._87r_17.4" xml:lang="olt">Jdant</w>
@@ -3202,7 +3212,7 @@
         <w xml:id="WP_1573_Dom._Sexag._87r_18.4" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_18.5" xml:lang="olt">Diewụ</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_18.6" xml:lang="olt">giwughin</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         </l>
@@ -3215,6 +3225,9 @@
           <app>  
             <lem>Wiſsa</lem>
             <rdg>dau</rdg>
+          </app>
+          <app hand="W">  
+            <lem>Wiſsa</lem>
             <rdg>wiſsa</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Sexag._87r_19.5" xml:lang="olt">daukſai</w>
@@ -3246,17 +3259,18 @@
         <l n="22" xml:id="WP_1573_Dom._Sexag._87r_22">
 
         <w xml:id="WP_1573_Dom._Sexag._87r_22.1" xml:lang="olt">ant</w>
-        <w xml:id="WP_1573_Dom._Sexag._87r_22.2" xml:lang="olt">
-          <app>  
-            <lem>dawima,</lem>
-            <rdg>; &gt; ,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._87r_22.2" xml:lang="olt">dawima</w>
+        <punct><app hand="W/B?">
+          <lem>,</lem>
+          <rdg>;</rdg>
+          <rdg>,</rdg>
+        </app></punct>
         <w xml:id="WP_1573_Dom._Sexag._87r_22.3" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_Dom._Sexag._87r_22.4" xml:lang="olt">
-          <app>  
-            <lem>ludijma,</lem>
-            <rdg>;</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._87r_22.4" xml:lang="olt">ludijma</w>
+        <punct><app hand="W/B?">
+          <lem>,</lem>
+          <rdg>;</rdg>
+        </app></punct>
         <w xml:id="WP_1573_Dom._Sexag._87r_22.5" xml:lang="olt">gruntiti</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_22.6" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_22.7" xml:lang="olt">fundawati</w>
@@ -3336,7 +3350,7 @@
         <l n="29" xml:id="WP_1573_Dom._Sexag._87r_29">
 
         <w xml:id="WP_1573_Dom._Sexag._87r_29.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>iſchimdi</lem>
             <rdg>iſchimti</rdg>
           </app></w>
@@ -3344,11 +3358,11 @@
         <w xml:id="WP_1573_Dom._Sexag._87r_29.3" xml:lang="olt">gundimus</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_29.4" xml:lang="olt">welina,</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_29.5" xml:lang="olt">kaip</w>
-        <w xml:id="WP_1573_Dom._Sexag._87r_29.6" xml:lang="olt">
-          <app>  
-            <lem>pirmeghi;</lem>
-            <rdg>:</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Sexag._87r_29.6" xml:lang="olt">pirmeghi</w>
+        <punct><app>
+          <lem>;</lem>
+          <rdg>:</rdg>
+        </app></punct>
         </l>
         <l n="30" xml:id="WP_1573_Dom._Sexag._87r_30">
 
@@ -3358,11 +3372,11 @@
         <w xml:id="WP_1573_Dom._Sexag._87r_30.4" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_30.5" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_30.6" xml:lang="olt">atwerſti</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._87r_30.7" xml:lang="olt">atkreipti</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._87r_30.8" xml:lang="olt">angu</w>
@@ -3370,7 +3384,7 @@
         <l n="31" xml:id="WP_1573_Dom._Sexag._87r_31">
 
         <w xml:id="WP_1573_Dom._Sexag._87r_31.1" xml:lang="olt">atwarriti</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._87r_31.2" xml:lang="olt">a</w>
@@ -3419,11 +3433,11 @@
         <l n="35" xml:id="WP_1573_Dom._Sexag._87r_35">
 
         <w xml:id="WP_1573_Dom._Sexag._87r_35.1" xml:lang="olt">ſʒadais</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._87r_35.2" xml:lang="olt">darbu</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._87r_35.3" xml:lang="olt">giwenimu</w>
@@ -3444,7 +3458,7 @@
 
         <w xml:id="WP_1573_Dom._Sexag._87r_37.1" xml:lang="olt">nei</w>
         <w xml:id="WP_1573_Dom._Sexag._87r_37.2" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>paldedami</lem>
             <rdg>peldedami</rdg>
           </app></w>
@@ -3648,7 +3662,7 @@
         <w xml:id="WP_1573_Dom._Sexag._87v_14.2" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Sexag._87v_14.3" xml:lang="olt">prarakai</w>
         <w xml:id="WP_1573_Dom._Sexag._87v_14.4" xml:lang="olt">S:</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._Sexag._87v_14.5" xml:lang="olt">kạ</w>
@@ -3669,7 +3683,8 @@
         <w xml:id="WP_1573_Dom._Sexag._87v_15.7" xml:lang="olt">
           <app>  
             <lem>panụ</lem>
-            <rdg>bani &lt; b</rdg>
+            <rdg>bani</rdg>
+            <rdg>b</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Sexag._87v_15.8" xml:lang="olt">De<lb break="no"/>wụ,</w>
         </l>

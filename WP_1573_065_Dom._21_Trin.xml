@@ -1150,7 +1150,9 @@
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.1" xml:lang="olt">raſchta</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.3" xml:lang="olt">wardu</w>
+          <quote>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.4" xml:lang="olt">Gregorius</w>
+          <ref decls="person" cRef="GregMagn"/></quote>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.5" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_22.6" xml:lang="olt">ant</w>
         </l>
@@ -1161,6 +1163,9 @@
         <w xml:id="WP_1573_Dom._21_Trin._263r_23.3" xml:lang="olt">Dawida</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_23.4" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_23.5" xml:lang="olt">tardams:</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._21_Trin._263r_23.6" xml:lang="lat">Mala</w>
         </l>
         <l n="24" xml:id="WP_1573_Dom._21_Trin._263r_24">
@@ -1193,6 +1198,9 @@
         <w xml:id="WP_1573_Dom._21_Trin._263r_26.1" xml:lang="olt">Diewap</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_26.2" xml:lang="olt">eit</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_26.3" xml:lang="olt">ragina.</w>
+
+        <ref decls="nonbib" cRef="GregMagn_8"/></quote>
+
         <w xml:id="WP_1573_Dom._21_Trin._263r_26.4" xml:lang="olt">Trecʒia</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_26.5" xml:lang="olt">m:</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_26.6" xml:lang="olt">k:</w>
@@ -1265,6 +1273,9 @@
         <w xml:id="WP_1573_Dom._21_Trin._263r_33.2" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_33.3" xml:lang="olt">raſchama</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_33.4" xml:lang="olt">1561</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._21_Trin._263r_33.5" xml:lang="olt">Regetas</w>
         <w xml:id="WP_1573_Dom._21_Trin._263r_33.6" xml:lang="olt">bua</w>
         </l>
@@ -1289,6 +1300,9 @@
         <l n="1" xml:id="WP_1573_Dom._21_Trin._263v_1">
 
         <w xml:id="WP_1573_Dom._21_Trin._263v_1.1" xml:lang="olt">krauiu,</w>
+
+        <ref decls="nonbib" cRef="SkyCrucifix1561"/></quote>
+      
         <w xml:id="WP_1573_Dom._21_Trin._263v_1.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._21_Trin._263v_1.3" xml:lang="olt">kittu</w>
         <w xml:id="WP_1573_Dom._21_Trin._263v_1.4" xml:lang="olt">daug</w>
@@ -2061,7 +2075,10 @@
         </l>
         <l n="6" xml:id="WP_1573_Dom._21_Trin._264v_6">
 
-        <w xml:id="WP_1573_Dom._21_Trin._264v_6.1" xml:lang="olt">Hemingia.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._21_Trin._264v_6.1" xml:lang="olt">Hemingia</w>
+          <ref decls="person" cRef="NHemming"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

@@ -85,5 +85,14 @@
 			"${2:text or gap}",
 			"</del>",
 		]
-	}
+	},
+		"Person reference": {
+			"scope": "xml",
+			"prefix": "pers",
+			"body": [
+				"					<quote>",
+				"${TM_SELECTED_TEXT:${1:text}}",
+				"  				<ref decls=\"person\" cRef=\"${2:who?}\"/></quote>",
+			]
+		},
 }

@@ -182,7 +182,9 @@
 
         <w xml:id="WP_1573_Dom._Trin._188r_12.1" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._188r_12.2" xml:lang="olt">bua</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._188r_12.3" xml:lang="olt">Anaxagoras</w>
+          <ref decls="person" cRef="Anaxagor"/></quote>
         <w xml:id="WP_1573_Dom._Trin._188r_12.4" xml:lang="olt">Paganas,</w>
         <w xml:id="WP_1573_Dom._Trin._188r_12.5" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Dom._Trin._188r_12.6" xml:lang="olt">ta<lb break="no"/>delei,</w>
@@ -201,7 +203,9 @@
         <w xml:id="WP_1573_Dom._Trin._188r_14.1" xml:lang="olt">ieib</w>
         <w xml:id="WP_1573_Dom._Trin._188r_14.2" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_Dom._Trin._188r_14.3" xml:lang="olt">ſʒekas</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._188r_14.4" xml:lang="lat">Pericles</w>
+          <ref decls="person" cRef="Pericles"/></quote>
         <w xml:id="WP_1573_Dom._Trin._188r_14.5" xml:lang="olt">neapgines.</w>
         </l>
         <l n="15" xml:id="WP_1573_Dom._Trin._188r_15">
@@ -245,9 +249,14 @@
         <w xml:id="WP_1573_Dom._Trin._188r_18.1" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Dom._Trin._188r_18.2" xml:lang="olt">kuniſʒkus</w>
         <w xml:id="WP_1573_Dom._Trin._188r_18.3" xml:lang="olt">daiktus,</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._Trin._188r_18.4" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._188r_18.5" xml:lang="olt">bua</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._188r_18.6" xml:lang="lat">Pli<lb break="no"/>nius,</w>
+          <ref decls="person" cRef="PlinyE"/></quote>
         </l>
         <l n="19" xml:id="WP_1573_Dom._Trin._188r_19">
 
@@ -266,7 +275,7 @@
         </l>
         <l n="20" xml:id="WP_1573_Dom._Trin._188r_20">
 
-        <w xml:id="WP_1573_Dom._Trin._188r_20.1" xml:lang="lat">hištoriæ</w>
+        <w xml:id="WP_1573_Dom._Trin._188r_20.1" xml:lang="lat">hištoriæ</w> <!--Text.-->
         <w xml:id="WP_1573_Dom._Trin._188r_20.2" xml:lang="olt">
           <app>  
             <lem>knigaſsa</lem>
@@ -279,6 +288,9 @@
         <w xml:id="WP_1573_Dom._Trin._188r_20.7" xml:lang="olt">ludija</w>
         <w xml:id="WP_1573_Dom._Trin._188r_20.8" xml:lang="grc">m̄</w>
         <punct>.</punct>
+
+        <ref decls="nonbib" cRef="PlinyE_1"/></quote> <!--No quote/paraphrase, just reference.-->
+
         </l>
         <l n="21" xml:id="WP_1573_Dom._Trin._188r_21">
 
@@ -698,10 +710,13 @@
         <l n="27" xml:id="WP_1573_Dom._Trin._188v_27">
 
         <w xml:id="WP_1573_Dom._Trin._188v_27.1" xml:lang="olt">ira,</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._Trin._188v_27.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._188v_27.3" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._Trin._188v_27.4" xml:lang="olt">tai</w>
-        <w xml:id="WP_1573_Dom._Trin._188v_27.5" xml:lang="lat">Hištoria</w>
+        <w xml:id="WP_1573_Dom._Trin._188v_27.5" xml:lang="lat">Hištoria</w> <!--Text.-->
         <w xml:id="WP_1573_Dom._Trin._188v_27.6" xml:lang="lat">tripartita</w>
         <w xml:id="WP_1573_Dom._Trin._188v_27.7" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._Trin._188v_27.8" xml:lang="olt">tri<lb break="no"/>linkai</w>
@@ -721,6 +736,9 @@
         <l n="29" xml:id="WP_1573_Dom._Trin._188v_29">
 
         <w xml:id="WP_1573_Dom._Trin._188v_29.1" xml:lang="olt">ludija.</w>
+
+        <ref decls="nonbib" cRef="Cassiodor_2"/></quote> <!--No quote/paraphrase, just reference.-->
+
         <w xml:id="WP_1573_Dom._Trin._188v_29.2" xml:lang="olt">Nog</w>
         <w xml:id="WP_1573_Dom._Trin._188v_29.3" xml:lang="olt">takiụ</w>
         <w xml:id="WP_1573_Dom._Trin._188v_29.4" xml:lang="olt">dumu</w>
@@ -913,8 +931,10 @@
         <w xml:id="WP_1573_Dom._Trin._189r_10.1" xml:lang="olt">manụ</w>
         <w xml:id="WP_1573_Dom._Trin._189r_10.2" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._Trin._189r_10.3" xml:lang="olt">Kaip</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._189r_10.4" xml:lang="olt">Baſilius</w>
-        <w xml:id="WP_1573_Dom._Trin._189r_10.5" xml:lang="olt">knigoſa</w>
+          <ref decls="person" cRef="BasilMagn"/></quote>
+        <w xml:id="WP_1573_Dom._Trin._189r_10.5" xml:lang="olt">knigoſa</w> <!--Text.-->
         <w xml:id="WP_1573_Dom._Trin._189r_10.6" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._Trin._189r_10.7" xml:lang="olt">Dwaſiụ</w>
         </l>
@@ -924,6 +944,9 @@
         <w xml:id="WP_1573_Dom._Trin._189r_11.2" xml:lang="olt">8</w>
         <w xml:id="WP_1573_Dom._Trin._189r_11.3" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._Trin._189r_11.4" xml:lang="olt">raſcha:</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._Trin._189r_11.5" xml:lang="olt">Regi</w>
         <w xml:id="WP_1573_Dom._Trin._189r_11.6" xml:lang="olt">ne</w>
         <w xml:id="WP_1573_Dom._Trin._189r_11.7" xml:lang="olt">gimi</w>
@@ -944,6 +967,9 @@
         <w xml:id="WP_1573_Dom._Trin._189r_12.6" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Trin._189r_12.7" xml:lang="olt">nara</w>
         <w xml:id="WP_1573_Dom._Trin._189r_12.8" xml:lang="olt">ia.</w>
+
+        <ref decls="nonbib" cRef="BasilMagn_3"/></quote>
+
         </l>
         <l n="13" xml:id="WP_1573_Dom._Trin._189r_13">
 
@@ -1848,6 +1874,10 @@
         </l>
         <l n="26" xml:id="WP_1573_Dom._Trin._190r_26">
 
+        <!--Does the following qualify as a paraphrase of Cassiodorus? The print edition
+        gives the span of the reference as only covering the attribution ("like bishop Alexander
+        has extensively written in his history [etc]")-->
+
         <w xml:id="WP_1573_Dom._Trin._190r_26.1" xml:lang="olt">Ner</w>
         <w xml:id="WP_1573_Dom._Trin._190r_26.2" xml:lang="olt">tada</w>
         <w xml:id="WP_1573_Dom._Trin._190r_26.3" xml:lang="olt">ſunus</w>
@@ -1886,19 +1916,27 @@
         <l n="29" xml:id="WP_1573_Dom._Trin._190r_29">
 
         <w xml:id="WP_1573_Dom._Trin._190r_29.1" xml:lang="olt">dideſnis,</w>
+
+         <quote>
+
         <w xml:id="WP_1573_Dom._Trin._190r_29.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._190r_29.3" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._Trin._190r_29.4" xml:lang="olt">tai</w>
+        <quote>
         <w xml:id="WP_1573_Dom._Trin._190r_29.5" xml:lang="olt">Alexander</w>
         <w xml:id="WP_1573_Dom._Trin._190r_29.6" xml:lang="olt">Biſʒ<lb break="no"/>kupas</w>
+        <ref decls="person" cRef="AlexAlex"/></quote>
+
         </l>
         <l n="30" xml:id="WP_1573_Dom._Trin._190r_30">
 
         <w xml:id="WP_1573_Dom._Trin._190r_30.1" xml:lang="olt">prieſch</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._190r_30.2" xml:lang="lat">Arrium</w>
+          <ref decls="person" cRef="Arius"/></quote>
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._Trin._190r_30.4" xml:lang="olt">baſʒnicʒias</w>
-        <w xml:id="WP_1573_Dom._Trin._190r_30.5" xml:lang="olt">Hiſtoriai</w>
+        <w xml:id="WP_1573_Dom._Trin._190r_30.5" xml:lang="olt">Hiſtoriai</w> <!--Text.-->
         </l>
         <l n="31" xml:id="WP_1573_Dom._Trin._190r_31">
 
@@ -1917,6 +1955,9 @@
 
         <w xml:id="WP_1573_Dom._Trin._190r_32.1" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Trin._190r_32.2" xml:lang="olt">raſches.</w>
+
+        <ref decls="nonbib" cRef="Cassiodor_3"/></quote>
+
         <w xml:id="WP_1573_Dom._Trin._190r_32.3" xml:lang="olt">Ba</w>
         <w xml:id="WP_1573_Dom._Trin._190r_32.4" xml:lang="olt">ieigu</w>
         <w xml:id="WP_1573_Dom._Trin._190r_32.5" xml:lang="olt">kaip</w>
@@ -2039,6 +2080,8 @@
         <w xml:id="WP_1573_Dom._Trin._190v_5.5" xml:lang="olt">iſsakiti.</w>
         </l>
         <l n="6" xml:id="WP_1573_Dom._Trin._190v_6">
+        
+        <quote>
 
         <w xml:id="WP_1573_Dom._Trin._190v_6.1" xml:lang="olt">Tai</w>
         <w xml:id="WP_1573_Dom._Trin._190v_6.2" xml:lang="olt">perſona</w>
@@ -2072,6 +2115,9 @@
         <w xml:id="WP_1573_Dom._Trin._190v_9.1" xml:lang="olt">darbu</w>
         <w xml:id="WP_1573_Dom._Trin._190v_9.2" xml:lang="olt">Dwaſias</w>
         <w xml:id="WP_1573_Dom._Trin._190v_9.3" xml:lang="olt">ſ:</w>
+
+        <ref decls="nonbib" cRef="SymNicCon_4"/></quote>
+
         <w xml:id="WP_1573_Dom._Trin._190v_9.4" xml:lang="olt">Jra</w>
         <w xml:id="WP_1573_Dom._Trin._190v_9.5" xml:lang="olt">tadangi</w>
         <w xml:id="WP_1573_Dom._Trin._190v_9.6" xml:lang="olt">ſunus</w>
@@ -2164,9 +2210,16 @@
         </l>
         <l n="19" xml:id="WP_1573_Dom._Trin._190v_19">
 
+        <quote>
+
         <w xml:id="WP_1573_Dom._Trin._190v_19.1" xml:lang="olt">(kaip</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._190v_19.2" xml:lang="olt">Atanaſius</w>
+          <ref decls="person" cRef="Athan"/></quote>
         <w xml:id="WP_1573_Dom._Trin._190v_19.3" xml:lang="olt">raſcha)</w>
+
+        <ref decls="nonbib" cRef="SymAthan_4"/></quote> <!--Reference only.-->
+
         <w xml:id="WP_1573_Dom._Trin._190v_19.4" xml:lang="olt">tikrai</w>
         <w xml:id="WP_1573_Dom._Trin._190v_19.5" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._Trin._190v_19.6" xml:lang="olt">garbi<lb break="no"/>nama,</w>
@@ -2262,6 +2315,8 @@
         </l>
         <l n="28" xml:id="WP_1573_Dom._Trin._190v_28">
 
+        <quote>
+
         <w xml:id="WP_1573_Dom._Trin._190v_28.1" xml:lang="olt">Jra</w>
         <w xml:id="WP_1573_Dom._Trin._190v_28.2" xml:lang="olt">tadangi</w>
         <w xml:id="WP_1573_Dom._Trin._190v_28.3" xml:lang="olt">ſunus</w>
@@ -2296,6 +2351,9 @@
             <rdg>iu</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Trin._190v_30.8" xml:lang="olt">ſʒmagiſtes.</w>
+
+        <ref decls="nonbib" cRef="SymAthan_5"/></quote>
+
         </l>
         <l n="31" xml:id="WP_1573_Dom._Trin._190v_31">
 
@@ -2499,7 +2557,7 @@
         <w xml:id="WP_1573_Dom._Trin._191r_12.5" xml:lang="olt">ſunaus.</w>
         </l>
         <l n="13" xml:id="WP_1573_Dom._Trin._191r_13">
-
+          <!--This is paraphrased from the Athanasian Creed-->
         <w xml:id="WP_1573_Dom._Trin._191r_13.1" xml:lang="olt">A</w>
         <w xml:id="WP_1573_Dom._Trin._191r_13.2" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Dom._Trin._191r_13.3" xml:lang="olt">Dwaſia</w>
@@ -2515,6 +2573,8 @@
         <w xml:id="WP_1573_Dom._Trin._191r_14.3" xml:lang="olt">tewu</w>
         <w xml:id="WP_1573_Dom._Trin._191r_14.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._Trin._191r_14.5" xml:lang="olt">ſunu,</w>
+                <!--...-->
+                <!--This is verbatim from the Nicene Creed-->
         <w xml:id="WP_1573_Dom._Trin._191r_14.6" xml:lang="olt">Diewas</w>
         <w xml:id="WP_1573_Dom._Trin._191r_14.7" xml:lang="olt">tikras</w>
         <w xml:id="WP_1573_Dom._Trin._191r_14.8" xml:lang="olt">iſch</w>
@@ -2523,6 +2583,7 @@
         <l n="15" xml:id="WP_1573_Dom._Trin._191r_15">
 
         <w xml:id="WP_1573_Dom._Trin._191r_15.1" xml:lang="olt">tikra,</w>
+                <!--...-->
         <w xml:id="WP_1573_Dom._Trin._191r_15.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._191r_15.3" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._Trin._191r_15.4" xml:lang="olt">tai</w>
@@ -2535,6 +2596,9 @@
 
         <w xml:id="WP_1573_Dom._Trin._191r_16.1" xml:lang="olt">Baſʒnicʒia</w>
         <w xml:id="WP_1573_Dom._Trin._191r_16.2" xml:lang="olt">krikſʒaniſʒka,</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._Trin._191r_16.3" xml:lang="olt">pagal</w>
         <w xml:id="WP_1573_Dom._Trin._191r_16.4" xml:lang="olt">apraſʒimā</w>
         <w xml:id="WP_1573_Dom._Trin._191r_16.5" xml:lang="olt">Ni<lb break="no"/>ceno</w>
@@ -2547,13 +2611,24 @@
             <rdg>Sijnodo</rdg>
           </app></w>
         <punct>,</punct>
+
+        <ref decls="nonbib" cRef="SymNicCon_5"/></quote>
+
         <w xml:id="WP_1573_Dom._Trin._191r_17.3" xml:lang="olt">ir</w>
+
+        <quote>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191r_17.4" xml:lang="olt">
           <app>  
             <lem>Atanaſia</lem>
             <rdg>Athanaſia</rdg>
           </app></w>
-        <w xml:id="WP_1573_Dom._Trin._191r_17.5" xml:lang="olt">Biſʒkupa.</w>
+        <w xml:id="WP_1573_Dom._Trin._191r_17.5" xml:lang="olt">Biſʒkupa</w>
+          <ref decls="person" cRef="Athan"/></quote>
+        <punct>.</punct>
+
+        <ref decls="nonbib" cRef="SymAthan_6"/></quote>
+
         </l>
         <l n="18" xml:id="WP_1573_Dom._Trin._191r_18">
 
@@ -2824,24 +2899,46 @@
         <w xml:id="WP_1573_Dom._Trin._191v_11.5" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._191v_11.6" xml:lang="olt">pirma</w>
         <w xml:id="WP_1573_Dom._Trin._191v_11.7" xml:lang="olt">bua</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_11.8" xml:lang="lat">Praxeas</w>
+          <ref decls="person" cRef="Praxeas"/></quote>
         <punct>,</punct>
         </l>
         <l n="12" xml:id="WP_1573_Dom._Trin._191v_12">
 
         <w xml:id="WP_1573_Dom._Trin._191v_12.1" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._Trin._191v_12.2" xml:lang="lat">Sabellius,</w>
-        <w xml:id="WP_1573_Dom._Trin._191v_12.3" xml:lang="lat">Arrius,</w>
-        <w xml:id="WP_1573_Dom._Trin._191v_12.4" xml:lang="lat">Cerintus,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._191v_12.2" xml:lang="lat">Sabellius</w>
+          <ref decls="person" cRef="Sabellius"/></quote>
+        <punct>,</punct>
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._191v_12.3" xml:lang="lat">Arrius</w>
+          <ref decls="person" cRef="Arius"/></quote>
+        <punct>,</punct>
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._191v_12.4" xml:lang="lat">Cerintus</w>
+          <ref decls="person" cRef="Cerinthus"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._Trin._191v_12.5" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._Trin._191v_12.6" xml:lang="lat">Ebion,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._191v_12.6" xml:lang="lat">Ebion</w>
+          <ref decls="person" cRef="Ebion"/></quote> <!--"Ebion" was at the time assumed to be the founder
+          of the Jewish Christian Ebionite sect. In fact there was no such person,
+          the name "Ebionim" simply means "the poor ones".-->
+        <punct>,</punct>
         </l>
         <l n="13" xml:id="WP_1573_Dom._Trin._191v_13">
 
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.1" xml:lang="lat">Martion</w>
+          <ref decls="person" cRef="Marcion"/></quote>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.2" xml:lang="lat">Apelles</w>
+          <ref decls="person" cRef="ApellesGno"/></quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.3" xml:lang="olt">ir</w>
+         <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.4" xml:lang="lat">Apollinaris</w>
+          <ref decls="person" cRef="ApollinJr"/></quote>
         <w xml:id="WP_1573_Dom._Trin._191v_13.5" xml:lang="grc">m̄</w>
         </l>
         <l n="14" xml:id="WP_1573_Dom._Trin._191v_14">
@@ -2852,7 +2949,9 @@
         <w xml:id="WP_1573_Dom._Trin._191v_14.4" xml:lang="olt">atmintij</w>
         <w xml:id="WP_1573_Dom._Trin._191v_14.5" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_Dom._Trin._191v_14.6" xml:lang="olt">knapheus</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_14.7" xml:lang="olt">Oſi<lb break="no"/>andras</w>
+          <ref decls="person" cRef="AOsiander"/></quote>
         </l>
         <l n="15" xml:id="WP_1573_Dom._Trin._191v_15">
 
@@ -2943,7 +3042,9 @@
         <w xml:id="WP_1573_Dom._Trin._191v_23.3" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_Dom._Trin._191v_23.4" xml:lang="olt">kurụ</w>
         <w xml:id="WP_1573_Dom._Trin._191v_23.5" xml:lang="olt">bua</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._191v_23.6" xml:lang="lat">Macedoni<lb break="no"/>us</w>
+          <ref decls="person" cRef="Macedonius"/></quote>
         </l>
         <l n="24" xml:id="WP_1573_Dom._Trin._191v_24">
 
@@ -3220,6 +3321,9 @@
 
         <w xml:id="WP_1573_Dom._Trin._192r_17.1" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Dom._Trin._192r_17.2" xml:lang="olt">niekingai,</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._Trin._192r_17.3" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._192r_17.4" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._Trin._192r_17.5" xml:lang="olt">paweiſ<lb break="no"/>das</w>
@@ -3235,7 +3339,9 @@
         <l n="19" xml:id="WP_1573_Dom._Trin._192r_19">
 
         <w xml:id="WP_1573_Dom._Trin._192r_19.1" xml:lang="olt">ira</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._192r_19.2" xml:lang="olt">Cerintus</w>
+          <ref decls="person" cRef="Cerinthus"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192r_19.3" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Dom._Trin._192r_19.4" xml:lang="olt">piktai</w>
         <w xml:id="WP_1573_Dom._Trin._192r_19.5" xml:lang="olt">ape</w>
@@ -3248,12 +3354,15 @@
         <w xml:id="WP_1573_Dom._Trin._192r_20.3" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._Trin._192r_20.4" xml:lang="olt">pirtis</w>
         <w xml:id="WP_1573_Dom._Trin._192r_20.5" xml:lang="olt">apgrua,</w>
+
+        <ref decls="nonbib" cRef="EusebC_1"/></quote>
+
         </l>
         <l n="21" xml:id="WP_1573_Dom._Trin._192r_21">
 
         <w xml:id="WP_1573_Dom._Trin._192r_21.1" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._192r_21.2" xml:lang="olt">raſcha</w>
-        <w xml:id="WP_1573_Dom._Trin._192r_21.3" xml:lang="olt">Baſʒnicʒias</w>
+        <w xml:id="WP_1573_Dom._Trin._192r_21.3" xml:lang="olt">Baſʒnicʒias</w> <!---Text.-->
         <w xml:id="WP_1573_Dom._Trin._192r_21.4" xml:lang="olt">Hiſtoria</w>
         <w xml:id="WP_1573_Dom._Trin._192r_21.5" xml:lang="olt">knigoſa</w>
         </l>
@@ -3262,7 +3371,12 @@
         <w xml:id="WP_1573_Dom._Trin._192r_22.1" xml:lang="olt">4</w>
         <w xml:id="WP_1573_Dom._Trin._192r_22.2" xml:lang="olt">Cap:</w>
         <w xml:id="WP_1573_Dom._Trin._192r_22.3" xml:lang="olt">14.</w>
+
+        <quote>
+
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._192r_22.4" xml:lang="olt">Arriu</w>
+          <ref decls="person" cRef="Arius"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192r_22.5" xml:lang="olt">tam</w>
         <w xml:id="WP_1573_Dom._Trin._192r_22.6" xml:lang="olt">ligu</w>
         <w xml:id="WP_1573_Dom._Trin._192r_22.7" xml:lang="olt">Heretiku</w>
@@ -3300,13 +3414,16 @@
         <w xml:id="WP_1573_Dom._Trin._192r_25.3" xml:lang="olt">ganna</w>
         <w xml:id="WP_1573_Dom._Trin._192r_25.4" xml:lang="olt">wargei</w>
         <w xml:id="WP_1573_Dom._Trin._192r_25.5" xml:lang="olt">iſchdweſe,</w>
+
+        <ref decls="nonbib" cRef="Cassiodor_4"/></quote>
+
         <w xml:id="WP_1573_Dom._Trin._192r_25.6" xml:lang="olt">Teipa<lb break="no"/>ieg</w>
         </l>
         <l n="26" xml:id="WP_1573_Dom._Trin._192r_26">
 
         <w xml:id="WP_1573_Dom._Trin._192r_26.1" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._Trin._192r_26.2" xml:lang="olt">tai</w>
-        <w xml:id="WP_1573_Dom._Trin._192r_26.3" xml:lang="olt">Baſʒnicʒias</w>
+        <w xml:id="WP_1573_Dom._Trin._192r_26.3" xml:lang="olt">Baſʒnicʒias</w> <!--Text.-->
         <w xml:id="WP_1573_Dom._Trin._192r_26.4" xml:lang="olt">Hiſtoria</w>
         <w xml:id="WP_1573_Dom._Trin._192r_26.5" xml:lang="olt">knigoſa</w>
         </l>
@@ -3316,8 +3433,13 @@
         <w xml:id="WP_1573_Dom._Trin._192r_27.2" xml:lang="olt">Cap:</w>
         <w xml:id="WP_1573_Dom._Trin._192r_27.3" xml:lang="olt">10</w>
         <w xml:id="WP_1573_Dom._Trin._192r_27.4" xml:lang="olt">raſcha</w>
+
+        <quote>
+
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._192r_27.5" xml:lang="olt">Valentụ</w>
         <w xml:id="WP_1573_Dom._Trin._192r_27.6" xml:lang="olt">Cieſarụ</w>
+          <ref decls="person" cRef="Valens"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192r_27.7" xml:lang="olt">kur<lb break="no"/>ſai</w>
         </l>
         <l n="28" xml:id="WP_1573_Dom._Trin._192r_28">
@@ -3349,11 +3471,19 @@
         <w xml:id="WP_1573_Dom._Trin._192r_30.3" xml:lang="olt">ſunamu</w>
         <w xml:id="WP_1573_Dom._Trin._192r_30.4" xml:lang="olt">ghị</w>
         <w xml:id="WP_1573_Dom._Trin._192r_30.5" xml:lang="olt">ſudeghinaija.</w>
+
+        <ref decls="nonbib" cRef="Cassiodor_5"/></quote>
+
         </l>
         <l n="31" xml:id="WP_1573_Dom._Trin._192r_31">
 
-        <w xml:id="WP_1573_Dom._Trin._192r_31.1" xml:lang="olt">Anaſtaſius</w>
-        <w xml:id="WP_1573_Dom._Trin._192r_31.2" xml:lang="olt">Ceſarus,</w>
+        <quote>
+
+          <quote>
+        <w xml:id="WP_1573_Dom._Trin._192r_31.1" xml:lang="olt">Anaſtaſius</w> 
+        <w xml:id="WP_1573_Dom._Trin._192r_31.2" xml:lang="olt">Ceſarus</w>
+          <ref decls="person" cRef="AnastI"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._Trin._192r_31.3" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_Dom._Trin._192r_31.4" xml:lang="olt">
           <app>  
@@ -3380,6 +3510,9 @@
         <w xml:id="WP_1573_Dom._Trin._192r_33.1" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._Trin._192r_33.2" xml:lang="olt">perkunas</w>
         <w xml:id="WP_1573_Dom._Trin._192r_33.3" xml:lang="olt">uſʒmuſʒe,</w>
+
+        <ref decls="nonbib" cRef="Exemp_Anastasius"/></quote>
+
         <w xml:id="WP_1573_Dom._Trin._192r_33.4" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._Trin._192r_33.5" xml:lang="olt">ape</w>
         </l>
@@ -3393,22 +3526,31 @@
             <lem>aput</lem>
             <rdg>apud</rdg>
           </app></w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._192r_34.5" xml:lang="lat">Pomponium</w>
-        <w xml:id="WP_1573_Dom._Trin._192r_34.6" xml:lang="lat">Læ<lb break="no"/>tum,</w>
+        <w xml:id="WP_1573_Dom._Trin._192r_34.6" xml:lang="lat">Læ<lb break="no"/>tum</w>
+          <ref decls="person" cRef="PLaetus"/></quote>
+        <punct>,</punct>
         </l>
         <l n="35" xml:id="WP_1573_Dom._Trin._192r_35">
 
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._Trin._192r_35.2" xml:lang="olt">ir</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._192r_35.3" xml:lang="lat">Paulum</w>
         <w xml:id="WP_1573_Dom._Trin._192r_35.4" xml:lang="lat">Diaconum</w>
+          <ref decls="person" cRef="PDiaconus"/></quote>
         <punct>
 
           <app>  
             <lem>,</lem>
             <rdg>ị :</rdg>
           </app></punct>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._Trin._192r_35.6" xml:lang="olt">Duſcha</w>
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._192r_35.7" xml:lang="lat">The<lb break="no"/>odoricj</w>
         </l>
         <l n="M34N" xml:id="WP_1573_Dom._Trin._192r_M34N">
@@ -3420,6 +3562,7 @@
         <l n="1" xml:id="WP_1573_Dom._Trin._192v_1">
 
         <w xml:id="WP_1573_Dom._Trin._192v_1.1" xml:lang="lat">odoricj</w>
+          <ref decls="person" cRef="TheodGr"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192v_1.2" xml:lang="lat">a</w>
         <w xml:id="WP_1573_Dom._Trin._192v_1.3" xml:lang="lat">Berna</w>
         <w xml:id="WP_1573_Dom._Trin._192v_1.4" xml:lang="olt">kurſai</w>
@@ -3448,7 +3591,14 @@
         <l n="4" xml:id="WP_1573_Dom._Trin._192v_4">
 
         <w xml:id="WP_1573_Dom._Trin._192v_4.1" xml:lang="olt">inmetamụ.</w>
+
+        <ref decls="nonbib" cRef="Exemp_Theoderic"/></quote>
+
+        <quote>
+
+          <quote>
         <w xml:id="WP_1573_Dom._Trin._192v_4.2" xml:lang="olt">Oſiandras</w>
+          <ref decls="person" cRef="AOsiander"/></quote>
         <w xml:id="WP_1573_Dom._Trin._192v_4.3" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_Dom._Trin._192v_4.4" xml:lang="olt">atmin<lb break="no"/>tei,</w>
         </l>
@@ -3480,6 +3630,9 @@
         <w xml:id="WP_1573_Dom._Trin._192v_7.5" xml:lang="olt">kalbant</w>
         <w xml:id="WP_1573_Dom._Trin._192v_7.6" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._Trin._192v_7.7" xml:lang="olt">raſchtu.</w>
+
+        <ref decls="nonbib" cRef="DeathOsiander"/></quote>
+
         </l>
         <l n="8" xml:id="WP_1573_Dom._Trin._192v_8">
 

@@ -51,7 +51,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._71r_31.7" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71r_31.8" xml:lang="olt">Luk:</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71r_31.9" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Egliſta</lem>
             <rdg>Egłiſta</rdg>
           </app></w>
@@ -204,11 +204,10 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_9.4" xml:lang="olt">waikelis,</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_9.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_9.6" xml:lang="olt">ghi</w>
-        <w xml:id="WP_1573_02_02_Purif._Mar._71v_9.7" xml:lang="olt">
-          <app>  
-            <lem>dris</lem>
-            <rdg>&lt;&lt;...&gt;&gt; &gt; tris</rdg>
-          </app></w>
+        <del hand="W">
+        <w xml:id="WP_1573_02_02_Purif._Mar._71v_9.7" xml:lang="olt">dris</w>
+        </del>
+        <add hand="W">tris</add> <!--"dris" scribbled out, insertion sign # written above, "tris" supplied in margine.-->
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_9.8" xml:lang="olt">deſchimtis</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_9.9" xml:lang="olt">ir</w>
         </l>
@@ -224,12 +223,11 @@
         <l n="11" xml:id="WP_1573_02_02_Purif._Mar._71v_11">
 
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_11.1" xml:lang="olt">Neka</w>
-        <app>
-          <lem><w xml:id="WP_1573_02_02_Purif._Mar._71v_11.2" xml:lang="olt">ſ:</w>
-          <w xml:id="WP_1573_02_02_Purif._Mar._71v_11.3" xml:lang="olt">te</w>
-          <w xml:id="WP_1573_02_02_Purif._Mar._71v_11.4" xml:lang="olt">ne</w></lem>
-          <rdg>ſ: ne</rdg>
-        </app>
+        <w xml:id="WP_1573_02_02_Purif._Mar._71v_11.2" xml:lang="olt">ſ:</w>
+        <add>
+        <w xml:id="WP_1573_02_02_Purif._Mar._71v_11.3" xml:lang="olt">te</w>
+        </add>
+        <w xml:id="WP_1573_02_02_Purif._Mar._71v_11.4" xml:lang="olt">ne</w></lem>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_11.5" xml:lang="olt">liti,</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_11.6" xml:lang="olt">nei</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_11.7" xml:lang="olt">te</w>
@@ -323,11 +321,9 @@
             <lem>uſʒu</lem>
             <rdg>uſu</rdg>
           </app></w>
-        <w xml:id="WP_1573_02_02_Purif._Mar._71v_19.4" xml:lang="olt">
-          <app>  
-            <lem>grekụ</lem>
-            <rdg>&lt;&lt;...&gt;&gt;</rdg>
-          </app></w>
+        <del hand="W">
+        <w xml:id="WP_1573_02_02_Purif._Mar._71v_19.4" xml:lang="olt">grekụ</w>
+        </del>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_19.5" xml:lang="olt">grekụ</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_19.6" xml:lang="olt">durump</w>
         </l>
@@ -339,7 +335,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_20.4" xml:lang="olt">te</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_20.5" xml:lang="olt">dot</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_20.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>kablanu</lem>
             <rdg>kaplanu</rdg>
           </app></w>
@@ -401,7 +397,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_25.8" xml:lang="olt">
           <app>  
             <lem>wai<lb break="no"/>du</lem>
-            <rdg>du Waiku</rdg>
+            <rdg>Waiku</rdg> <!--"...du" is underlined, correction given in margine (cf. M25W).-->
           </app></w>
         </l>
         <l n="26" xml:id="WP_1573_02_02_Purif._Mar._71v_26">
@@ -487,12 +483,11 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_33.2" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_33.3" xml:lang="olt">paties</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_33.4" xml:lang="olt">pana</w>
-        <w xml:id="WP_1573_02_02_Purif._Mar._71v_33.5" xml:lang="olt">die</w>
-        <w xml:id="WP_1573_02_02_Purif._Mar._71v_33.6" xml:lang="olt">
-          <app>  
-            <lem>wa</lem>
-            <rdg>diewa</rdg>
-          </app></w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_02_02_Purif._Mar._71v_33.5" xml:lang="olt">die</w>
+          <w xml:id="WP_1573_02_02_Purif._Mar._71v_33.6" xml:lang="olt">wa</w></lem>
+          <rdg>diewa</rdg>
+        </app>
         <w xml:id="WP_1573_02_02_Purif._Mar._71v_33.7" xml:lang="olt">
           <app>  
             <lem>dara</lem>
@@ -563,7 +558,7 @@
 
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_1.1" xml:lang="olt">pia</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_1.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>pimingus</lem>
             <rdg>pinigus / pinnigus</rdg>
           </app></w>
@@ -581,7 +576,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_2.1" xml:lang="olt">awinelị</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_2.2" xml:lang="olt">wenu</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_2.3" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>wetu</lem>
             <rdg>metu</rdg>
           </app></w>
@@ -717,6 +712,9 @@
           <app>  
             <lem>praſsimainẹ</lem>
             <rdg>praſsimainị</rdg>
+          </app>
+          <app type="err">  
+            <lem>praſsimainẹ</lem>
             <rdg>praſsimanẹ</rdg>
           </app></w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_13.3" xml:lang="olt">bua</w>
@@ -732,6 +730,9 @@
           <app>  
             <lem>Papapeſʒium</lem>
             <rdg>Pape</rdg>
+          </app>
+          <app type="err">
+            <lem>Papapeſʒium</lem>
             <rdg>Pa papeſʒium</rdg>
           </app></w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_14.3" xml:lang="olt">,)</w>
@@ -758,7 +759,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_16.1" xml:lang="olt">ſʒwakiemis</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_16.2" xml:lang="olt">ſchwẹſtamis,</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_16.3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>kura</lem>
             <rdg>kuras</rdg>
           </app></w>
@@ -966,7 +967,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_35.1" xml:lang="olt">anglemis</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_35.2" xml:lang="olt">a</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72r_35.3" xml:lang="olt">
-          <app>  
+          <app hand="W?">  
             <lem>nedeguleis</lem>
             <rdg>nodeguleis</rdg>
           </app></w>
@@ -997,7 +998,11 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_1.9" xml:lang="olt">
           <app>  
             <lem>medum</lem>
-            <rdg>medụ &lt; mem</rdg>
+            <rdg>medụ</rdg>
+          </app>
+          <app>
+            <lem>medum</lem>
+            <rdg>mem</rdg>
           </app></w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_1.10" xml:lang="olt">ſu<lb break="no"/>maiſchitais,</w>
         </l>
@@ -1011,11 +1016,9 @@
             <rdg>deug</rdg>
           </app></w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_2.4" xml:lang="olt">blaſʒnidami</w>
-        <w xml:id="WP_1573_02_02_Purif._Mar._72v_2.5" xml:lang="lat">
-          <app>  
-            <lem>dic</lem>
-            <rdg>( dic )</rdg>
-          </app></w>
+        <add hand="W"><punct>(</punct></add>
+        <w xml:id="WP_1573_02_02_Purif._Mar._72v_2.5" xml:lang="lat">dic</w>
+        <add hand="W"><punct>)</punct></add>
         </l>
         <l n="3" xml:id="WP_1573_02_02_Purif._Mar._72v_3">
 
@@ -1032,7 +1035,7 @@
 
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_4.1" xml:lang="olt">welina</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_4.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>iunnpi</lem>
             <rdg>iumpi</rdg>
           </app></w>
@@ -1090,14 +1093,14 @@
 
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_9.1" xml:lang="olt">Je:</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_9.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Cħaus</lem>
             <rdg>Cħau</rdg>
           </app></w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_9.3" xml:lang="olt">apſaugaik,</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_9.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_9.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>tanedoik</lem>
             <rdg>ta nedoik</rdg>
           </app></w>
@@ -1261,7 +1264,7 @@
         <punct>.</punct>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_25.3" xml:lang="olt">Jeigu</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_25.4" xml:lang="olt">per</w>
-        <app>
+        <app type="err">
           <lem><w xml:id="WP_1573_02_02_Purif._Mar._72v_25.5" xml:lang="olt">gim</w>
           <w xml:id="WP_1573_02_02_Purif._Mar._72v_25.6" xml:lang="olt">dimụ</w></lem>
           <rdg>gimdimụ</rdg>
@@ -1332,11 +1335,11 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_32.1" xml:lang="olt">wa</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_32.2" xml:lang="olt">wiſsagalincʒiaia</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_32.3" xml:lang="olt">ſargibai</w>
-        <app>
-          <lem><w xml:id="WP_1573_02_02_Purif._Mar._72v_32.4" xml:lang="olt">a</w>
-          <w xml:id="WP_1573_02_02_Purif._Mar._72v_32.5" xml:lang="olt">apginimi</w></lem>
-          <rdg>a ginimi</rdg>
-        </app>
+        <w xml:id="WP_1573_02_02_Purif._Mar._72v_32.4" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_02_02_Purif._Mar._72v_32.5" xml:lang="olt"><app>
+          <lem>apginimi</lem>
+          <rdg>ginimi</rdg>
+        </app></w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_32.6" xml:lang="olt">ira,</w>
         </l>
         <l n="33" xml:id="WP_1573_02_02_Purif._Mar._72v_33">
@@ -1351,11 +1354,11 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_33.4" xml:lang="olt">gimdima,</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_33.5" xml:lang="olt">ko</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._72v_33.6" xml:lang="olt">neſanga</w>
-        <app>
-          <lem><w xml:id="WP_1573_02_02_Purif._Mar._72v_33.7" xml:lang="olt">iaſ</w>
-          <w xml:id="WP_1573_02_02_Purif._Mar._72v_33.8" xml:lang="olt">di<lb break="no"/>deſnei</w></lem>
-          <rdg>ia di<lb break="no"/>deſnei</rdg>
-        </app>
+        <w xml:id="WP_1573_02_02_Purif._Mar._72v_33.7" xml:lang="olt"><app>
+          <lem>iaſ</lem>
+          <rdg>ia</rdg>
+        </app></w>
+        <w xml:id="WP_1573_02_02_Purif._Mar._72v_33.8" xml:lang="olt">di<lb break="no"/>deſnei</w>
         </l>
         <l n="34" xml:id="WP_1573_02_02_Purif._Mar._72v_34">
 
@@ -1602,11 +1605,14 @@
         <l n="20" xml:id="WP_1573_02_02_Purif._Mar._73r_20">
 
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_20.1" xml:lang="olt">kaip</w>
-        <app>
+        <app hand="W">
           <lem><w xml:id="WP_1573_02_02_Purif._Mar._73r_20.2" xml:lang="olt">Joſephas</w>
           <w xml:id="WP_1573_02_02_Purif._Mar._73r_20.3" xml:lang="olt">41</w>
           <w xml:id="WP_1573_02_02_Purif._Mar._73r_20.4" xml:lang="olt">cap:</w></lem>
-          <rdg>Jobas 41 cap:</rdg>
+          <rdg>Jobas</rdg> <!-- The edition gives W's alteration as "Jobas 41 cap:",
+          but in fact his version leaves only the word "Jobas" here.
+          W crosses out "Josephas 41 cap:", writes "Jobas" above it,
+          and writes "Hiob 41" in the margins of the actual quotation in lines 17-18.-->
         </app>
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_20.5" xml:lang="olt">kalba,</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_20.6" xml:lang="olt">iogi</w>
@@ -1706,11 +1712,11 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_29.2" xml:lang="olt">per</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_29.3" xml:lang="olt">macʒniben</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_29.4" xml:lang="olt">ſtipribes</w>
-        <app>
-          <lem><w xml:id="WP_1573_02_02_Purif._Mar._73r_29.5" xml:lang="olt">ia</w>
-          <w xml:id="WP_1573_02_02_Purif._Mar._73r_29.6" xml:lang="olt">apſiwilki<lb break="no"/>te</w></lem>
-          <rdg>ia. Apſiwilki<lb break="no"/>te</rdg>
-        </app>
+        <w xml:id="WP_1573_02_02_Purif._Mar._73r_29.5" xml:lang="olt">ia</w>
+        <add hand="W">
+        <punct>.</punct>
+        </add>
+        <w xml:id="WP_1573_02_02_Purif._Mar._73r_29.6" xml:lang="olt">apſiwilki<lb break="no"/>te</w>
         </l>
         <l n="30" xml:id="WP_1573_02_02_Purif._Mar._73r_30">
 
@@ -1725,11 +1731,13 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_31.1" xml:lang="olt">ſtaweti</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_31.2" xml:lang="olt">preſch</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_31.3" xml:lang="olt">gundinimus</w>
-        <app>
-          <lem><w xml:id="WP_1573_02_02_Purif._Mar._73r_31.4" xml:lang="olt">welina,</w>
-          <w xml:id="WP_1573_02_02_Purif._Mar._73r_31.5" xml:lang="olt">Jr</w></lem>
-          <rdg>welina ị : Jr</rdg>
-        </app>
+        <w xml:id="WP_1573_02_02_Purif._Mar._73r_31.4" xml:lang="olt">welina</w>
+        <punct><app hand="W">
+          <lem>,</lem>
+          <rdg>ρ:</rdg>
+        </app></punct>
+        
+        <w xml:id="WP_1573_02_02_Purif._Mar._73r_31.5" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73r_31.6" xml:lang="olt">Helmị</w>
         </l>
         <l n="32" xml:id="WP_1573_02_02_Purif._Mar._73r_32">
@@ -1890,7 +1898,7 @@
 
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_10.1" xml:lang="olt">kur</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_10.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>narimcʒias</lem>
             <rdg>narincʒias</rdg>
           </app></w>
@@ -1944,12 +1952,12 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.1" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.2" xml:lang="olt">prigimima</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.3" xml:lang="olt">prijmtas</w>
-        <app>
-          <lem><w xml:id="WP_1573_02_02_Purif._Mar._73v_15.4" xml:lang="olt">6</w>
-          <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.5" xml:lang="olt">nedeles,</w>
-          <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.6" xml:lang="olt">ir</w></lem>
-          <rdg>6, ir</rdg>
-        </app>
+        <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.4" xml:lang="olt">6</w>
+        <add>        
+        <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.5" xml:lang="olt">nedeles</w>
+        </add>
+        <punct>,</punct>
+        <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.6" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.7" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_15.8" xml:lang="olt">Baſʒnicʒias</w>
         </l>
@@ -1984,7 +1992,7 @@
 
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_18.1" xml:lang="olt">Marias,</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_18.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Patam</lem>
             <rdg>Pa tam</rdg>
           </app></w>
@@ -2071,11 +2079,11 @@
         </l>
         <l n="26" xml:id="WP_1573_02_02_Purif._Mar._73v_26">
 
-        <w xml:id="WP_1573_02_02_Purif._Mar._73v_26.1" xml:lang="olt">
-          <app>  
-            <lem>dʒiaugſma.</lem>
-            <rdg>,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_02_02_Purif._Mar._73v_26.1" xml:lang="olt">dʒiaugſma</w>
+        <punct><app>
+          <lem>.</lem>
+          <rdg>,</rdg>
+        </app></punct>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_26.2" xml:lang="olt">Tartụ</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_26.3" xml:lang="olt">kas</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_26.4" xml:lang="olt">buagu</w>
@@ -2091,11 +2099,12 @@
           </app></w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_27.3" xml:lang="olt">Moiſeſʒaus</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_27.4" xml:lang="olt">angu</w>
-        <w xml:id="WP_1573_02_02_Purif._Mar._73v_27.5" xml:lang="olt">
-          <app>  
-            <lem>pane<lb break="no"/>walita?</lem>
-            <rdg>,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_02_02_Purif._Mar._73v_27.5" xml:lang="olt">pane<lb break="no"/>walita</w>
+        <punct><app>
+          <lem>?</lem>
+          <rdg>,</rdg>
+        </app></punct>
+
         </l>
         <l n="28" xml:id="WP_1573_02_02_Purif._Mar._73v_28">
 
@@ -2116,7 +2125,11 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_29.4" xml:lang="olt">
           <app>  
             <lem>materụ</lem>
-            <rdg>materị &lt; matere</rdg>
+            <rdg>materị</rdg>
+          </app>
+          <app>
+            <lem>materụ</lem>
+            <rdg>matere</rdg>
           </app></w>
         <punct>,</punct>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_29.6" xml:lang="olt">kuras</w>
@@ -2130,7 +2143,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_30.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_30.4" xml:lang="olt">gimda</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_30.5" xml:lang="lat">
-          <app>  
+          <app type="err">  
             <lem>Leni:</lem>
             <rdg>Leui:</rdg>
           </app></w>
@@ -2183,7 +2196,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_35.1" xml:lang="olt">macʒes</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_35.2" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_35.3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ia</lem>
             <rdg>ias</rdg>
           </app></w>
@@ -2196,7 +2209,7 @@
 
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_36.1" xml:lang="olt">kitụ</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._73v_36.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>materị</lem>
             <rdg>materụ</rdg>
           </app></w>
@@ -2627,7 +2640,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_2.3" xml:lang="olt">Cħus</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_2.4" xml:lang="olt">Je:</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_2.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>kuri</lem>
             <rdg>kuro / kurio</rdg>
           </app></w>
@@ -2646,7 +2659,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_3.4" xml:lang="olt">reikia</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_3.5" xml:lang="olt">cʒiſtais</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_3.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>atai<lb break="no"/>ſais</lem>
             <rdg>a tai<lb break="no"/>ſais</rdg>
           </app></w>
@@ -2768,11 +2781,11 @@
 
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_14.1" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_14.2" xml:lang="olt">nog</w>
-        <w xml:id="WP_1573_02_02_Purif._Mar._74v_14.3" xml:lang="olt">
-          <app>  
-            <lem>muſụ?</lem>
-            <rdg>,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_02_02_Purif._Mar._74v_14.3" xml:lang="olt">muſụ</w>
+        <punct><app>
+          <lem>?</lem>
+          <rdg>,</rdg>
+        </app></punct>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_14.4" xml:lang="olt">Atſakau,</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_14.5" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_14.6" xml:lang="olt">tai</w>
@@ -2946,7 +2959,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_31.4" xml:lang="olt">Ape</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_31.5" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_31.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>tei</lem>
             <rdg>teip</rdg>
           </app></w>
@@ -2961,7 +2974,11 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_32.5" xml:lang="olt">ſchmo</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_32.6" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_32.7" xml:lang="olt">
-          <app>  
+          <app hand="B?"> <!--N.B.: "B?" entries are the only case where the order is
+          "final form in text, previous form in footnotes" AND there's a hand indicated.
+          Elsewhere, the presence or absence of a hand also implies the chronological ordering
+          of the lemma vs. the footnote. Have to make sure these "B?" cases are visualised correctly
+          in the digital edition.-->  
             <lem>Jeruſalem</lem>
             <rdg>Jeruſelem</rdg>
           </app></w>
@@ -2995,7 +3012,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_35.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_35.5" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._74v_35.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ianiei</lem>
             <rdg>iamei</rdg>
           </app></w>
@@ -3070,7 +3087,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._75r_5.2" xml:lang="olt">iau</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._75r_5.3" xml:lang="olt">ſʒmagus</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._75r_5.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>weraſis</lem>
             <rdg>wernaſis</rdg>
           </app></w>
@@ -3205,7 +3222,7 @@
         <w xml:id="WP_1573_02_02_Purif._Mar._75r_16.4" xml:lang="olt">kiteip</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._75r_16.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_02_02_Purif._Mar._75r_16.6" xml:lang="olt">
-          <app>  
+          <app hand="B?">  
             <lem>falſchiwai</lem>
             <rdg>falſchimai</rdg>
           </app></w>

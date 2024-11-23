@@ -2220,7 +2220,10 @@
         <l n="6" xml:id="WP_1573_Dom._25_Trin._278v_6">
 
         <w xml:id="WP_1573_Dom._25_Trin._278v_6.1" xml:lang="olt">dalles</w>
-        <w xml:id="WP_1573_Dom._25_Trin._278v_6.2" xml:lang="olt">Hemingia.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._25_Trin._278v_6.2" xml:lang="olt">Hemingia</w>
+          <ref decls="person" cRef="NHemming"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

@@ -224,11 +224,15 @@
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.2" xml:lang="olt">dumati</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.3" xml:lang="olt">kaip</w>
+         <quote>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.5" xml:lang="lat">Bernhardus</w>
+          <ref decls="person" cRef="BernClair"/></quote>
         <w xml:id="WP_1573_Dom._1_Adv._1r_22.6" xml:lang="olt">iſchraſcha</w>
         </l>
         <l n="23" xml:id="WP_1573_Dom._1_Adv._1r_23">
+
+        <quote>
 
         <w xml:id="WP_1573_Dom._1_Adv._1r_23.1" xml:lang="olt">Pirmiauſei</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_23.2" xml:lang="olt">kas</w>
@@ -261,6 +265,9 @@
         <w xml:id="WP_1573_Dom._1_Adv._1r_26.2" xml:lang="olt">ſcheſta</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_26.3" xml:lang="olt">kurio</w>
         <w xml:id="WP_1573_Dom._1_Adv._1r_26.4" xml:lang="olt">kielliu</w>
+
+        <ref decls="nonbib" cRef="BernClair_1"/></quote>
+
         </l>
         <l n="27" xml:id="WP_1573_Dom._1_Adv._1r_27">
 
@@ -351,6 +358,9 @@
         <w xml:id="WP_1573_Dom._1_Adv._1v_1.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_1.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_1.4" xml:lang="olt">apłụ.</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._1_Adv._1v_1.5" xml:lang="olt">maſʒeſnis</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_1.6" xml:lang="olt">tewu</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_1.7" xml:lang="olt">tikrai</w>
@@ -359,11 +369,16 @@
             <lem>ſʒma<lb break="no"/>giſtei</lem>
             <rdg>ſma<lb break="no"/>giſtei</rdg>
           </app></w>
+
+        <ref decls="nonbib" cRef="SymAthan_1"/></quote>
+
         </l>
         <l n="2" xml:id="WP_1573_Dom._1_Adv._1v_2">
 
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.1" xml:lang="olt">kaip</w>
+        <quote>
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.2" xml:lang="olt">Attanaſius</w>
+        <ref decls="person" cRef="Athan"/></quote>
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.3" xml:lang="olt">iſchraſcha.</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.4" xml:lang="olt">Jſch</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_2.5" xml:lang="olt">
@@ -577,18 +592,22 @@
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.5" xml:lang="olt">Kalba</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.6" xml:lang="olt">to</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.7" xml:lang="olt">wardu</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Adv._1v_20.8" xml:lang="olt">
           <app type="err">  
             <lem>Virgili<lb break="no"/>us</lem>
             <rdg>Vigili<lb break="no"/>us</rdg>
           </app></w>
+         <ref decls="person" cRef="VigThaps"/></quote>
         </l>
         <l n="21" xml:id="WP_1573_Dom._1_Adv._1v_21">
 
-        <w xml:id="WP_1573_Dom._1_Adv._1v_21.1" xml:lang="lat">Eutijcen</w>
+        <w xml:id="WP_1573_Dom._1_Adv._1v_21.1" xml:lang="lat">Eutijcen</w> <!--Text.-->
         <w xml:id="WP_1573_Dom._1_Adv._1v_21.2" xml:lang="olt">knigoſa</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_21.3" xml:lang="olt">pirmoſa</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_21.4" xml:lang="olt">tardams</w>
+
+        <quote>
         <w xml:id="WP_1573_Dom._1_Adv._1v_21.5" xml:lang="olt">Newe<lb break="no"/>nas</w>
         </l>
         <l n="22" xml:id="WP_1573_Dom._1_Adv._1v_22">
@@ -598,6 +617,9 @@
         <w xml:id="WP_1573_Dom._1_Adv._1v_22.3" xml:lang="olt">tuſchcʒias</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_22.4" xml:lang="olt">buwima</w>
         <w xml:id="WP_1573_Dom._1_Adv._1v_22.5" xml:lang="olt">deiwiſtes,</w>
+
+        <ref decls="nonbib" cRef="VigCE_1"/></quote>
+        
         </l>
         <l n="23" xml:id="WP_1573_Dom._1_Adv._1v_23">
 
@@ -2419,10 +2441,13 @@
         <w xml:id="WP_1573_Dom._1_Adv._4r_19.1" xml:lang="olt">turri</w>
         <w xml:id="WP_1573_Dom._1_Adv._4r_19.2" xml:lang="olt">ſawei,</w>
         <w xml:id="WP_1573_Dom._1_Adv._4r_19.3" xml:lang="olt">Pirmiauſei</w>
-        <w xml:id="WP_1573_Dom._1_Adv._4r_19.4" xml:lang="olt"> <!--Alteration + erratum, how to annotate?-->
+        <w xml:id="WP_1573_Dom._1_Adv._4r_19.4" xml:lang="olt">
           <app>  
             <lem>grudinimụ</lem>
             <rdg>ga</rdg>
+          </app>
+          <app type="err">
+            <lem>grudinimụ</lem>
             <rdg>graudinimụ</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._1_Adv._4r_19.5" xml:lang="olt">a</w>
@@ -2611,7 +2636,7 @@
         <w xml:id="WP_1573_Dom._1_Adv._4v_6.1" xml:lang="olt">karaliſtẹ</w>
         <w xml:id="WP_1573_Dom._1_Adv._4v_6.2" xml:lang="olt">Diewa,</w>
         <add>kur</add>
-        <w xml:id="WP_1573_Dom._1_Adv._4v_6.4" xml:lang="olt">bua</w></lem>
+        <w xml:id="WP_1573_Dom._1_Adv._4v_6.4" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_Dom._1_Adv._4v_6.5" xml:lang="olt">welinas</w>
         <w xml:id="WP_1573_Dom._1_Adv._4v_6.6" xml:lang="olt">per</w>
         </l>
@@ -3280,8 +3305,10 @@
         <l n="M10-11S" xml:id="WP_1573_Dom._1_Adv._5v_M10-11S">
 
         <w xml:id="WP_1573_Dom._1_Adv._5v_M10-11S.1" xml:lang="olt">⌈</w>
+          <quote>
         <w xml:id="WP_1573_Dom._1_Adv._5v_M10-11S.2" xml:lang="lat">N.</w>
         <w xml:id="WP_1573_Dom._1_Adv._5v_M10-11S.3" xml:lang="lat">H.</w>
+          <ref decls="person" cRef="NHemming"/></quote>
         <w xml:id="WP_1573_Dom._1_Adv._5v_M10-11S.4" xml:lang="olt">⌉</w>
         </l>
       </div>

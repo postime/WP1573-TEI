@@ -2056,12 +2056,16 @@
         <w xml:id="WP_1573_Dom._3_Trin._203v_7.5" xml:lang="olt">kurj</w>
         <w xml:id="WP_1573_Dom._3_Trin._203v_7.6" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._3_Trin._203v_7.7" xml:lang="olt">
+          <quote>
           <app>  
             <lem>Bern<lb break="no"/>hardus:</lem>
             <rdg>,</rdg>
           </app></w>
+          <ref decls="person" cRef="BernClair"/></quote>
         </l>
         <l n="8" xml:id="WP_1573_Dom._3_Trin._203v_8">
+
+        <quote>
 
         <w xml:id="WP_1573_Dom._3_Trin._203v_8.1" xml:lang="olt">Meloghi</w>
         <w xml:id="WP_1573_Dom._3_Trin._203v_8.2" xml:lang="lat">Cain</w>
@@ -2083,6 +2087,9 @@
         <l n="10" xml:id="WP_1573_Dom._3_Trin._203v_10">
 
         <w xml:id="WP_1573_Dom._3_Trin._203v_10.1" xml:lang="olt">piktibe.</w>
+
+        <ref decls="nonbib" cRef="BernClair_4"/></quote>
+
         <w xml:id="WP_1573_Dom._3_Trin._203v_10.2" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_Dom._3_Trin._203v_10.3" xml:lang="olt">Paw:</w>
         <w xml:id="WP_1573_Dom._3_Trin._203v_10.4" xml:lang="lat">Rom</w>

@@ -841,6 +841,9 @@
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.1" xml:lang="olt">Egłai</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.2" xml:lang="olt">ſchas</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.3" xml:lang="olt">Dienas.</w>
+
+        <quote>
+
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.4" xml:lang="olt">Atteija</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_19.5" xml:lang="olt">nepre<lb break="no"/>telius</w>
         </l>
@@ -1072,6 +1075,10 @@
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.3" xml:lang="olt">30</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.4" xml:lang="olt">Sidabrinikụ</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.5" xml:lang="olt">pardawị,</w>
+
+        <ref decls="nonbib" cRef="DestrJerusalem"/></quote> <!--Not sure where to
+        begin and end the quotation for the destruction of Jerusalem...-->
+
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.6" xml:lang="olt">Teip</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_8.7" xml:lang="olt">
           <app>  
@@ -1249,27 +1256,37 @@
         <l n="27" xml:id="WP_1573_Dom._10_Trin._227r_27">
 
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.1" xml:lang="olt">Rima</w>
-        <w xml:id="WP_1573_Dom._10_Trin._227r_27.2" xml:lang="olt">Veſpaſiano,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._10_Trin._227r_27.2" xml:lang="olt">Veſpaſiano</w>
+          <ref decls="person" cRef="Vespasian"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.4" xml:lang="olt">ſunaus</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.5" xml:lang="olt">ia</w>
-        <w xml:id="WP_1573_Dom._10_Trin._227r_27.6" xml:lang="olt">Tito,</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._10_Trin._227r_27.6" xml:lang="olt">Tito</w>
+          <ref decls="person" cRef="Titus"/></quote>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._10_Trin._227r_27.7" xml:lang="olt">pra</w>
         </l>
         <l n="28" xml:id="WP_1573_Dom._10_Trin._227r_28">
-
+        <!--Attribution of the account of the destruction of Jerusalem.-->
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.1" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.2" xml:lang="olt">didei</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.3" xml:lang="olt">platei</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.4" xml:lang="olt">Jſchraſcha</w>
+          <quote>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.5" xml:lang="olt">Joʒephus</w>
+          <ref decls="person" cRef="JosFlavius"/></quote>
         <w xml:id="WP_1573_Dom._10_Trin._227r_28.6" xml:lang="olt">knigo<lb break="no"/>ſa</w>
         </l>
         <l n="29" xml:id="WP_1573_Dom._10_Trin._227r_29">
 
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.1" xml:lang="olt">7</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.2" xml:lang="olt">Jr</w>
+          <quote>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.3" xml:lang="lat">Eušeuius</w>
+          <ref decls="person" cRef="EusebC"/></quote>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.4" xml:lang="olt">knigoſa</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.5" xml:lang="olt">5</w>
         <w xml:id="WP_1573_Dom._10_Trin._227r_29.6" xml:lang="olt">ape</w>
@@ -1758,7 +1775,10 @@
         <w xml:id="WP_1573_Dom._10_Trin._228r_9.1" xml:lang="olt">Amen</w>
         <w xml:id="WP_1573_Dom._10_Trin._228r_9.2" xml:lang="olt">Trumpei</w>
         <w xml:id="WP_1573_Dom._10_Trin._228r_9.3" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Dom._10_Trin._228r_9.4" xml:lang="olt">Greſera.</w>
+          <quote>
+        <w xml:id="WP_1573_Dom._10_Trin._228r_9.4" xml:lang="olt">Greſera</w>
+          <ref decls="person" cRef="DGreser"/></quote>
+        <punct>.</punct>
         </l>
       </div>
     </body>

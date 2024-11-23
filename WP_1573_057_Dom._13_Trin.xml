@@ -1427,9 +1427,13 @@
         <w xml:id="WP_1573_Dom._13_Trin._236v_10.2" xml:lang="lat">Acto:</w>
         <w xml:id="WP_1573_Dom._13_Trin._236v_10.3" xml:lang="lat">15.</w>
         <w xml:id="WP_1573_Dom._13_Trin._236v_10.4" xml:lang="olt">Kaip</w>
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_10.5" xml:lang="lat">Auguštinus</w>
+          <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_10.6" xml:lang="olt">ir</w>
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_10.7" xml:lang="lat">Hiero<lb break="no"/>nimus</w>
+          <ref decls="person" cRef="SEHieronymus"/></quote>
         </l>
         <l n="11" xml:id="WP_1573_Dom._13_Trin._236v_11">
 
@@ -1467,12 +1471,18 @@
         </l>
         <l n="14" xml:id="WP_1573_Dom._13_Trin._236v_14">
 
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_14.1" xml:lang="lat">Chrišoštomus</w>
+          <ref decls="person" cRef="JohChrys"/></quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_14.2" xml:lang="olt">ir</w>
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_14.3" xml:lang="lat">Epiphanius</w>
+          <ref decls="person" cRef="EpiphSalam"/></quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_14.4" xml:lang="olt">del</w>
         <w xml:id="WP_1573_Dom._13_Trin._236v_14.5" xml:lang="olt">knigu</w>
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_14.6" xml:lang="lat">Origenis</w>
+          <ref decls="person" cRef="Origen"/></quote>
         </l>
         <l n="15" xml:id="WP_1573_Dom._13_Trin._236v_15">
 
@@ -1565,19 +1575,27 @@
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._13_Trin._236v_23.4" xml:lang="olt">kaki</w>
         <w xml:id="WP_1573_Dom._13_Trin._236v_23.5" xml:lang="olt">bua</w>
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_23.6" xml:lang="lat">
           <app>  
             <lem>Arrius</lem>
             <rdg>arrius</rdg>
           </app></w>
+          <ref decls="person" cRef="Arius"/></quote>
         <punct>,</punct>
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_23.8" xml:lang="lat">Paulus</w>
         </l>
         <l n="24" xml:id="WP_1573_Dom._13_Trin._236v_24">
 
         <w xml:id="WP_1573_Dom._13_Trin._236v_24.1" xml:lang="lat">Samošathenus,</w>
+          <ref decls="person" cRef="PaulSamos"/></quote>
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_24.2" xml:lang="lat">Neštorius</w>
+          <ref decls="person" cRef="Nestorius"/></quote>
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_24.3" xml:lang="lat">Marcion</w>
+          <ref decls="person" cRef="Marcion"/></quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_24.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._13_Trin._236v_24.5" xml:lang="olt">ki<lb break="no"/>ti.</w>
         </l>
@@ -2288,7 +2306,9 @@
         <w xml:id="WP_1573_Dom._13_Trin._237v_21.2" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_Dom._13_Trin._237v_21.3" xml:lang="olt">pirmas</w>
         <w xml:id="WP_1573_Dom._13_Trin._237v_21.4" xml:lang="olt">dalias</w>
+          <quote>
         <w xml:id="WP_1573_Dom._13_Trin._237v_21.5" xml:lang="olt">Greſera</w>
+          <ref decls="person" cRef="DGreser"/></quote>
         <w xml:id="WP_1573_Dom._13_Trin._237v_21.6" xml:lang="olt">iſchrinkta.</w>
         </l>
       </div>
