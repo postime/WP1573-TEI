@@ -321,7 +321,8 @@
         <w xml:id="WP_1573_Dom._Pasch._152r_28.10" xml:lang="olt">
           <app>  
             <lem>nu<lb break="no"/>mires</lem>
-            <rdg>na &lt; m</rdg>
+            <rdg>na</rdg>
+            <rdg>m</rdg>
           </app></w>
         </l>
         <l n="29" xml:id="WP_1573_Dom._Pasch._152r_29">
@@ -363,7 +364,8 @@
         <w xml:id="WP_1573_Dom._Pasch._152r_32.1" xml:lang="olt">
           <app>  
             <lem>nuklupimu</lem>
-            <rdg>nuklupimụ &lt; mi</rdg>
+            <rdg>nuklupimụ</rdg>
+            <rdg>mi</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._Pasch._152r_32.2" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._Pasch._152r_32.3" xml:lang="olt">ſugreſchimu</w>
@@ -419,7 +421,7 @@
 
         <w xml:id="WP_1573_Dom._Pasch._152v_4.1" xml:lang="olt">iſchganimụ</w>
         <w xml:id="WP_1573_Dom._Pasch._152v_4.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ſnwerſtụ</lem>
             <rdg>ſunwerſtụ</rdg>
           </app></w>
@@ -1769,7 +1771,7 @@
         <l n="25" xml:id="WP_1573_Dom._Pasch._154r_25">
 
         <w xml:id="WP_1573_Dom._Pasch._154r_25.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>2</lem>
             <rdg>3</rdg>
           </app></w>
