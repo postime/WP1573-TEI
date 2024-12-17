@@ -318,12 +318,11 @@
         <w xml:id="WP_1573_Fer._2_Pasch._155r_9.1" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Fer._2_Pasch._155r_9.2" xml:lang="olt">takias</w>
         <w xml:id="WP_1573_Fer._2_Pasch._155r_9.3" xml:lang="olt">budas,</w>
-        <w xml:id="WP_1573_Fer._2_Pasch._155r_9.4" xml:lang="olt">wiſsa</w>
-        <w xml:id="WP_1573_Fer._2_Pasch._155r_9.5" xml:lang="olt">
-          <app type="err">  
-            <lem>da</lem>
-            <rdg>wiſsada</rdg>
-          </app></w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_Fer._2_Pasch._155r_9.4" xml:lang="olt">wiſsa</w>
+          <w xml:id="WP_1573_Fer._2_Pasch._155r_9.5" xml:lang="olt">da</w></lem>
+          <rdg>wiſsada</rdg>
+        </app>
         <w xml:id="WP_1573_Fer._2_Pasch._155r_9.6" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_Fer._2_Pasch._155r_9.7" xml:lang="olt">but</w>
         <w xml:id="WP_1573_Fer._2_Pasch._155r_9.8" xml:lang="olt">laikitas</w>

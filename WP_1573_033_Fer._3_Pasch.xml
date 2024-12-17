@@ -206,12 +206,11 @@
         <l n="3" xml:id="WP_1573_Fer._3_Pasch._156r_3">
 
         <w xml:id="WP_1573_Fer._3_Pasch._156r_3.1" xml:lang="olt">kaipagi</w>
-        <app>
-          <lem><w xml:id="WP_1573_Fer._3_Pasch._156r_3.2" xml:lang="olt">ghiſsai</w>
-          <w xml:id="WP_1573_Fer._3_Pasch._156r_3.3" xml:lang="olt">pats</w>
-          <w xml:id="WP_1573_Fer._3_Pasch._156r_3.4" xml:lang="olt">wenas,</w></lem>
-          <rdg>ghiſsai wenas</rdg>
-        </app>
+        <w xml:id="WP_1573_Fer._3_Pasch._156r_3.2" xml:lang="olt">ghiſsai</w>
+        <add>
+        <w xml:id="WP_1573_Fer._3_Pasch._156r_3.3" xml:lang="olt">pats</w>
+        </add>
+        <w xml:id="WP_1573_Fer._3_Pasch._156r_3.4" xml:lang="olt">wenas,</w>
         <w xml:id="WP_1573_Fer._3_Pasch._156r_3.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Fer._3_Pasch._156r_3.6" xml:lang="olt">ne</w>
         <w xml:id="WP_1573_Fer._3_Pasch._156r_3.7" xml:lang="olt">ki<lb break="no"/>tas</w>
@@ -702,12 +701,11 @@
         <w xml:id="WP_1573_Fer._3_Pasch._156v_16.3" xml:lang="olt">akim</w>
         <w xml:id="WP_1573_Fer._3_Pasch._156v_16.4" xml:lang="olt">iuſụ</w>
         <w xml:id="WP_1573_Fer._3_Pasch._156v_16.5" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_Fer._3_Pasch._156v_16.6" xml:lang="olt">ran</w>
-        <w xml:id="WP_1573_Fer._3_Pasch._156v_16.7" xml:lang="olt">
-          <app type="err">  
-            <lem>kas</lem>
-            <rdg>rankas</rdg>
-          </app></w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_Fer._3_Pasch._156v_16.6" xml:lang="olt">ran</w>
+          <w xml:id="WP_1573_Fer._3_Pasch._156v_16.7" xml:lang="olt">kas</w></lem>
+          <rdg>rankas</rdg>
+        </app>
         <w xml:id="WP_1573_Fer._3_Pasch._156v_16.8" xml:lang="olt">maſgaies</w>
         </l>
         <l n="17" xml:id="WP_1573_Fer._3_Pasch._156v_17">
@@ -1160,10 +1158,11 @@
 
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.1" xml:lang="olt">girdeijame</w>
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.2" xml:lang="olt">nog</w>
-        <w xml:id="WP_1573_Fer._3_Pasch._157r_26.3" xml:lang="olt">Angela</w>
-        <add type="err">
-          <punct>)</punct>
-        </add>
+        <w xml:id="WP_1573_Fer._3_Pasch._157r_26.3" xml:lang="olt">
+        <app type="err">
+          <lem>Angela</lem>
+          <rdg>Angela)</rdg>
+        </app></w>
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.4" xml:lang="olt">nuweija</w>
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.5" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Fer._3_Pasch._157r_26.6" xml:lang="olt">Galile<lb break="no"/>ia.</w>
@@ -1349,13 +1348,11 @@
         <l n="10" xml:id="WP_1573_Fer._3_Pasch._157v_10">
 
         <w xml:id="WP_1573_Fer._3_Pasch._157v_10.1" xml:lang="olt">pinnigus,</w>
-        <w xml:id="WP_1573_Fer._3_Pasch._157v_10.2" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
-        <w xml:id="WP_1573_Fer._3_Pasch._157v_10.3" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
-        <w xml:id="WP_1573_Fer._3_Pasch._157v_10.4" xml:lang="olt">
-          <app>  
-            <lem>&lt;&lt;....&gt;&gt;</lem>
-            <rdg>a tatʒiau neſaka</rdg>
-          </app></w>
+        <del>
+        <w xml:id="WP_1573_Fer._3_Pasch._157v_10.2" xml:lang="olt">a</w>
+        <w xml:id="WP_1573_Fer._3_Pasch._157v_10.3" xml:lang="olt">tatʒiau</w>
+        <w xml:id="WP_1573_Fer._3_Pasch._157v_10.4" xml:lang="olt">neſaka</w>
+        </del>
         <w xml:id="WP_1573_Fer._3_Pasch._157v_10.5" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Fer._3_Pasch._157v_10.6" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_Fer._3_Pasch._157v_10.7" xml:lang="olt">ſakitụ</w>
@@ -1822,7 +1819,7 @@
         </l>
         <l n="21" xml:id="WP_1573_Fer._3_Pasch._158r_21">
 
-        <w xml:id="WP_1573_Fer._3_Pasch._158r_21.1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Fer._3_Pasch._158r_21.1" xml:lang="olt">alt</w>
         <w xml:id="WP_1573_Fer._3_Pasch._158r_21.2" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_Fer._3_Pasch._158r_21.3" xml:lang="olt">ghị</w>
         <w xml:id="WP_1573_Fer._3_Pasch._158r_21.4" xml:lang="olt">pabucʒiawa.</w>
@@ -1844,9 +1841,8 @@
         <w xml:id="WP_1573_Fer._3_Pasch._158r_22.3" xml:lang="olt">
           <app>  
             <lem>Joſephụ</lem>
-            <rdg>Joſephui</rdg>
+            <rdg>Joſephui:</rdg>
           </app></w>
-        <punct>:</punct>
         <w xml:id="WP_1573_Fer._3_Pasch._158r_22.4" xml:lang="olt">Vkị</w>
         <w xml:id="WP_1573_Fer._3_Pasch._158r_22.5" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_Fer._3_Pasch._158r_22.6" xml:lang="olt">ſwetin<lb break="no"/>damas</w>

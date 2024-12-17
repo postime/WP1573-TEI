@@ -716,15 +716,15 @@
         <w xml:id="WP_1573_Dom._1_Pasch._161v_21.2" xml:lang="olt">anſai</w>
         <w xml:id="WP_1573_Dom._1_Pasch._161v_21.3" xml:lang="olt">Pſ:</w>
         <w xml:id="WP_1573_Dom._1_Pasch._161v_21.4" xml:lang="olt">kalba)</w>
-        <app>
-          <lem><w xml:id="WP_1573_Dom._1_Pasch._161v_21.5" xml:lang="olt">Preg</w>
-          <w xml:id="WP_1573_Dom._1_Pasch._161v_21.6" xml:lang="olt">tam</w>
-          <w xml:id="WP_1573_Dom._1_Pasch._161v_21.7" xml:lang="olt">pakaiaus</w></lem>
-          <rdg>Preg pakaiaus</rdg>
+        <w xml:id="WP_1573_Dom._1_Pasch._161v_21.5" xml:lang="olt">Preg</w>
+        <add>
+        <w xml:id="WP_1573_Dom._1_Pasch._161v_21.6" xml:lang="olt">tam</w>
+        </add>
+        <w xml:id="WP_1573_Dom._1_Pasch._161v_21.7" xml:lang="olt">
         <app type="err">
-          <lem><w xml:id="WP_1573_Dom._1_Pasch._161v_21.7" xml:lang="olt">pakaiaus</w></lem>
+          <lem>pakaiaus</lem>
           <rdg>pakaius</rdg>
-        </app>
+        </app></w>
         </l>
         <l n="22" xml:id="WP_1573_Dom._1_Pasch._161v_22">
 
@@ -787,12 +787,11 @@
         <w xml:id="WP_1573_Dom._1_Pasch._161v_28.2" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_Dom._1_Pasch._161v_28.3" xml:lang="olt">melaija</w>
         <w xml:id="WP_1573_Dom._1_Pasch._161v_28.4" xml:lang="olt">ingi</w>
-        <w xml:id="WP_1573_Dom._1_Pasch._161v_28.5" xml:lang="olt">mala</w>
-        <w xml:id="WP_1573_Dom._1_Pasch._161v_28.6" xml:lang="olt">
-          <app type="err">  
-            <lem>nẹ</lem>
-            <rdg>malanẹ</rdg>
-          </app></w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_Dom._1_Pasch._161v_28.5" xml:lang="olt">mala</w>
+          <w xml:id="WP_1573_Dom._1_Pasch._161v_28.6" xml:lang="olt">nẹ</w></lem>
+          <rdg>malanẹ</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._1_Pasch._161v_28.7" xml:lang="olt">ſa<lb break="no"/>wạ</w>
         </l>
         <l n="29" xml:id="WP_1573_Dom._1_Pasch._161v_29">
