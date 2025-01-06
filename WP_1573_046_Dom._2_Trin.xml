@@ -258,16 +258,18 @@
           <app>  
             <lem>Egłaụ</lem>
             <rdg>Egłas</rdg>
+          </app>
+          <app type="err">  
+            <lem>Egłaụ</lem>
             <rdg>Egłụ</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._2_Trin._197r_24.6" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._2_Trin._197r_24.7" xml:lang="olt">A</w>
         <w xml:id="WP_1573_Dom._2_Trin._197r_24.8" xml:lang="olt">to</w>
-        <w xml:id="WP_1573_Dom._2_Trin._197r_24.9" xml:lang="olt">
-          <app>  
-            <lem>paſsi<lb break="no"/>dumimu</lem>
-            <rdg>paſsi<lb break="no"/>dumimu,</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._2_Trin._197r_24.9" xml:lang="olt">paſsi<lb break="no"/>dumimu</w>
+        <del>
+          <punct>,</punct>
+        </del>
         </l>
         <l n="25" xml:id="WP_1573_Dom._2_Trin._197r_25">
 
@@ -643,7 +645,7 @@
         <w xml:id="WP_1573_Dom._2_Trin._197v_28.3" xml:lang="lat">15.</w>
         <w xml:id="WP_1573_Dom._2_Trin._197v_28.4" xml:lang="olt">Cʒeſa</w>
         <w xml:id="WP_1573_Dom._2_Trin._197v_28.5" xml:lang="olt">
-          <app>  
+          <app hand="N">  
             <lem>Achas</lem>
             <rdg>Achab</rdg>
           </app></w>
@@ -654,16 +656,17 @@
         <l n="29" xml:id="WP_1573_Dom._2_Trin._197v_29">
 
         <w xml:id="WP_1573_Dom._2_Trin._197v_29.1" xml:lang="olt">
-          <app>  
-            <lem>Eſia:</lem>
-            <rdg>Elia:</rdg>
+          <app hand="N">  
+            <lem>Eſia</lem>
+            <rdg>Elia</rdg>
           </app></w>
+        <punct>:</punct>
         <w xml:id="WP_1573_Dom._2_Trin._197v_29.2" xml:lang="lat">3</w>
         <w xml:id="WP_1573_Dom._2_Trin._197v_29.3" xml:lang="lat">Reg</w>
         <w xml:id="WP_1573_Dom._2_Trin._197v_29.4" xml:lang="lat">17.</w>
         <w xml:id="WP_1573_Dom._2_Trin._197v_29.5" xml:lang="olt">Cʒeſa</w>
         <w xml:id="WP_1573_Dom._2_Trin._197v_29.6" xml:lang="olt">
-          <app>  
+          <app hand="N">  
             <lem>terann</lem>
             <rdg>Joram</rdg>
           </app></w>
@@ -928,7 +931,7 @@
         <w xml:id="WP_1573_Dom._2_Trin._198r_21.4" xml:lang="olt">Kaip</w>
         <w xml:id="WP_1573_Dom._2_Trin._198r_21.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._2_Trin._198r_21.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>mu</lem>
             <rdg>nu</rdg>
           </app></w>
@@ -2416,7 +2419,7 @@
         <w xml:id="WP_1573_Dom._2_Trin._200v_3.3" xml:lang="olt">Diewa</w>
         <w xml:id="WP_1573_Dom._2_Trin._200v_3.4" xml:lang="olt">temus</w>
         <w xml:id="WP_1573_Dom._2_Trin._200v_3.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>wiſsenus</lem>
             <rdg>wiſsemus</rdg>
           </app></w>
