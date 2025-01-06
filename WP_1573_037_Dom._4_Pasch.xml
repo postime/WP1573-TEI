@@ -519,7 +519,7 @@
         <w xml:id="WP_1573_Dom._4_Pasch._169v_31.4" xml:lang="olt">Paw:</w>
         <w xml:id="WP_1573_Dom._4_Pasch._169v_31.5" xml:lang="olt">Rim</w>
         <w xml:id="WP_1573_Dom._4_Pasch._169v_31.6" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>4</lem>
             <rdg>10</rdg>
           </app></w>
@@ -636,7 +636,7 @@
         <w xml:id="WP_1573_Dom._4_Pasch._170r_6.1" xml:lang="olt">daugiaus</w>
         <w xml:id="WP_1573_Dom._4_Pasch._170r_6.2" xml:lang="olt">iau</w>
         <w xml:id="WP_1573_Dom._4_Pasch._170r_6.3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>beneſluſʒidami</lem>
             <rdg>nebeſluſʒidami</rdg>
           </app></w>
@@ -907,7 +907,7 @@
         <w xml:id="WP_1573_Dom._4_Pasch._170r_33.4" xml:lang="olt">baramas,</w>
         <w xml:id="WP_1573_Dom._4_Pasch._170r_33.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._4_Pasch._170r_33.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>karaianas</lem>
             <rdg>karaiamas</rdg>
           </app></w>
@@ -966,7 +966,7 @@
         <w xml:id="WP_1573_Dom._4_Pasch._170v_1.7" xml:lang="olt">negali</w>
         <w xml:id="WP_1573_Dom._4_Pasch._170v_1.8" xml:lang="olt">tam</w>
         <w xml:id="WP_1573_Dom._4_Pasch._170v_1.9" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>paſ<lb break="no"/>ſitiwiti</lem>
             <rdg>praſ<lb break="no"/>ſitiwiti</rdg>
           </app></w>
@@ -1378,7 +1378,7 @@
         <w xml:id="WP_1573_Dom._4_Pasch._171r_5.5" xml:lang="olt">Dwaſia</w>
         <w xml:id="WP_1573_Dom._4_Pasch._171r_5.6" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._4_Pasch._171r_5.7" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>bras</lem>
             <rdg>bars</rdg>
           </app></w>
@@ -1448,7 +1448,8 @@
         <w xml:id="WP_1573_Dom._4_Pasch._171r_11.6" xml:lang="olt">
           <app>  
             <lem>nenarintị</lem>
-            <rdg>nenr &lt; ner</rdg>
+            <rdg>nenr</rdg>
+            <rdg>ner</rdg>
           </app></w>
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._4_Pasch._171r_11.8" xml:lang="olt">a</w>
@@ -1544,7 +1545,7 @@
         <w xml:id="WP_1573_Dom._4_Pasch._171r_20.4" xml:lang="olt">ſunarei.</w>
         <w xml:id="WP_1573_Dom._4_Pasch._171r_20.5" xml:lang="olt">Kanugidrị</w>
         <w xml:id="WP_1573_Dom._4_Pasch._171r_20.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>teſsiarkai</lem>
             <rdg>teſsiardai</rdg>
           </app></w>
