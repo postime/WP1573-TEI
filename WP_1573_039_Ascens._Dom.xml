@@ -108,7 +108,7 @@
 
         <w xml:id="WP_1573_Ascens._Dom._175r_25.1" xml:lang="olt">ſakiti</w>
         <w xml:id="WP_1573_Ascens._Dom._175r_25.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Egłnụ</lem>
             <rdg>Egłiụ / Egłụ</rdg>
           </app></w>
@@ -325,7 +325,7 @@
         <w xml:id="WP_1573_Ascens._Dom._175v_17.5" xml:lang="olt">68</w>
         <w xml:id="WP_1573_Ascens._Dom._175v_17.6" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Ascens._Dom._175v_17.7" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Vſʒen<lb break="no"/>ge</lem>
             <rdg>Vſʒen<lb break="no"/>gei</rdg>
           </app></w>
@@ -444,7 +444,7 @@
 
         <w xml:id="WP_1573_Ascens._Dom._175v_27.1" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Ascens._Dom._175v_27.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>pelkas</lem>
             <rdg>peklas</rdg>
           </app></w>
@@ -543,11 +543,11 @@
         <w xml:id="WP_1573_Ascens._Dom._175v_35.5" xml:lang="olt">bilau</w>
         <w xml:id="WP_1573_Ascens._Dom._175v_35.6" xml:lang="olt">iumis,</w>
         <w xml:id="WP_1573_Ascens._Dom._175v_35.7" xml:lang="olt">negali</w>
-        <w xml:id="WP_1573_Ascens._Dom._175v_35.8" xml:lang="olt">
-          <app>  
-            <lem>ſunus,</lem>
-            <rdg>ſunus<lb break="no"/></rdg>
-          </app></w>
+        <w xml:id="WP_1573_Ascens._Dom._175v_35.8" xml:lang="olt">ſunus</w>
+        <punct><app>  
+            <lem>,</lem>
+            <rdg>=</rdg>
+          </app></punct>
         </l>
         <l n="R" xml:id="WP_1573_Ascens._Dom._175v_R">
 
@@ -595,6 +595,9 @@
           <app>  
             <lem>macʒmibē</lem>
             <rdg>mag</rdg>
+          </app>
+          <app type="err">  
+            <lem>macʒmibē</lem>
             <rdg>macʒnibē</rdg>
           </app></w>
         <w xml:id="WP_1573_Ascens._Dom._176r_4.6" xml:lang="olt">ſaw</w>
@@ -621,7 +624,7 @@
         <w xml:id="WP_1573_Ascens._Dom._176r_6.3" xml:lang="olt">ludija</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_6.4" xml:lang="olt">Pſal:</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_6.5" xml:lang="olt">
-          <app>  
+          <app hand="S?">  
             <lem>117</lem>
             <rdg>:118:</rdg>
           </app></w>
@@ -636,7 +639,7 @@
         <w xml:id="WP_1573_Ascens._Dom._176r_7.4" xml:lang="olt">macʒnibẹ.</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_7.5" xml:lang="olt">Pſal:</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_7.6" xml:lang="olt">
-          <app>  
+          <app hand="S?">  
             <lem>97</lem>
             <rdg>98</rdg>
           </app></w>
@@ -845,7 +848,7 @@
         <w xml:id="WP_1573_Ascens._Dom._176r_27.4" xml:lang="olt">6</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_27.5" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Ascens._Dom._176r_27.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Amphilocliap</lem>
             <rdg>Amphilochap / Amphilochiap</rdg> <!--Person. Amphilochius of Iconium.-->
           </app></w>
@@ -1292,11 +1295,11 @@
         <w xml:id="WP_1573_Ascens._Dom._176v_34.3" xml:lang="olt">tameieg</w>
         <w xml:id="WP_1573_Ascens._Dom._176v_34.4" xml:lang="olt">4</w>
         <w xml:id="WP_1573_Ascens._Dom._176v_34.5" xml:lang="olt">cap:</w>
-        <w xml:id="WP_1573_Ascens._Dom._176v_34.6" xml:lang="olt">
-          <app>  
-            <lem>Ephe<lb break="no"/></lem>
-            <rdg>Ephe:</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Ascens._Dom._176v_34.6" xml:lang="olt">Ephe</w>
+        <punct><app type="err">  
+            <lem>=</lem>
+            <rdg>:</rdg>
+          </app></punct>
         </l>
         <l n="35" xml:id="WP_1573_Ascens._Dom._176v_35">
 
@@ -1507,7 +1510,7 @@
         <w xml:id="WP_1573_Ascens._Dom._177r_17.5" xml:lang="olt">ira,</w>
         <w xml:id="WP_1573_Ascens._Dom._177r_17.6" xml:lang="olt">kas</w>
         <w xml:id="WP_1573_Ascens._Dom._177r_17.7" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>muns</lem>
             <rdg>mums</rdg>
           </app></w>
