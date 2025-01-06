@@ -41,7 +41,7 @@
 
         <w xml:id="WP_1573_Dom._5_Pasch._171v_17.1" xml:lang="olt">KVRV</w>
         <w xml:id="WP_1573_Dom._5_Pasch._171v_17.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>PARACHE</lem>
             <rdg>PARASCHE</rdg>
           </app></w>
@@ -419,7 +419,7 @@
         <w xml:id="WP_1573_Dom._5_Pasch._172r_27.4" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172r_27.5" xml:lang="olt">mumis</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172r_27.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>wiſsenus</lem>
             <rdg>wiſsemus</rdg>
           </app></w>
@@ -467,7 +467,7 @@
         <w xml:id="WP_1573_Dom._5_Pasch._172r_32.1" xml:lang="olt">lepia</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172r_32.2" xml:lang="olt">Pſal:</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172r_32.3" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>49</lem>
             <rdg>50.</rdg>
           </app></w>
@@ -513,7 +513,7 @@
         <l n="1" xml:id="WP_1573_Dom._5_Pasch._172v_1">
 
         <w xml:id="WP_1573_Dom._5_Pasch._172v_1.1" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>taiſai</lem>
             <rdg>taſſai</rdg>
           </app></w>
@@ -629,7 +629,7 @@
 
         <w xml:id="WP_1573_Dom._5_Pasch._172v_12.1" xml:lang="olt">Pſal.</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172v_12.2" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>109</lem>
             <rdg>110.</rdg>
           </app></w>
@@ -643,9 +643,10 @@
         <w xml:id="WP_1573_Dom._5_Pasch._172v_12.6" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172v_12.7" xml:lang="olt">
           <app>  
-            <lem>nepaſ<lb break="no"/>ſigaili.</lem>
+            <lem>nepaſ<lb break="no"/>ſigaili</lem>
             <rdg>nepaſ<lb break="no"/>ſigali</rdg>
           </app></w>
+        <punct>.</punct>
         </l>
         <l n="13" xml:id="WP_1573_Dom._5_Pasch._172v_13">
 
@@ -676,14 +677,14 @@
         <l n="16" xml:id="WP_1573_Dom._5_Pasch._172v_16">
 
         <w xml:id="WP_1573_Dom._5_Pasch._172v_16.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>nus</lem>
             <rdg>mus</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._5_Pasch._172v_16.2" xml:lang="olt">wercʒia</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172v_16.3" xml:lang="olt">Joh:</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172v_16.4" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>15</lem>
             <rdg>16</rdg>
           </app></w>
@@ -773,7 +774,7 @@
         <w xml:id="WP_1573_Dom._5_Pasch._172v_25.4" xml:lang="olt">mana</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172v_25.5" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172v_25.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>nuſsitikeijnu</lem>
             <rdg>nuſsitikeijmu</rdg>
           </app></w>
@@ -825,7 +826,7 @@
         <w xml:id="WP_1573_Dom._5_Pasch._172v_30.2" xml:lang="olt">Dawida</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172v_30.3" xml:lang="olt">Pſal:</w>
         <w xml:id="WP_1573_Dom._5_Pasch._172v_30.4" xml:lang="olt">
-          <app>  
+          <app hand="W?">  <!-- Print edition considers Sappuhn -->
             <lem>27</lem>
             <rdg>28.</rdg>
           </app></w>
@@ -1469,9 +1470,10 @@
         <w xml:id="WP_1573_Dom._5_Pasch._173v_22.2" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._5_Pasch._173v_22.3" xml:lang="olt">
           <app>  
-            <lem>Johan:</lem>
+            <lem>Johan</lem>
             <rdg>Jon</rdg>
           </app></w>
+        <punct>:</punct>
         <w xml:id="WP_1573_Dom._5_Pasch._173v_22.4" xml:lang="olt">9</w>
         <w xml:id="WP_1573_Dom._5_Pasch._173v_22.5" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._5_Pasch._173v_22.6" xml:lang="olt">kaipagi</w>
@@ -1533,7 +1535,7 @@
         <w xml:id="WP_1573_Dom._5_Pasch._173v_28.2" xml:lang="olt">naredams</w>
         <w xml:id="WP_1573_Dom._5_Pasch._173v_28.3" xml:lang="olt">melſtes</w>
         <w xml:id="WP_1573_Dom._5_Pasch._173v_28.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>padeſti</lem>
             <rdg>pradeſti</rdg>
           </app></w>
@@ -1831,9 +1833,9 @@
 
         <w xml:id="WP_1573_Dom._5_Pasch._174r_22.1" xml:lang="olt">iap</w>
         <w xml:id="WP_1573_Dom._5_Pasch._174r_22.2" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>ſʒauktumbim,</lem>
-            <rdg>, ị :</rdg>
+            <rdg>ſʒauktumbim, ị :</rdg> <!-- ρ: inserted-->
           </app></w>
         <w xml:id="WP_1573_Dom._5_Pasch._174r_22.3" xml:lang="olt">Neturrim</w>
         <w xml:id="WP_1573_Dom._5_Pasch._174r_22.4" xml:lang="olt">tadangi</w>
@@ -2096,7 +2098,7 @@
 
         <w xml:id="WP_1573_Dom._5_Pasch._174v_14.1" xml:lang="olt">Pſal:</w>
         <w xml:id="WP_1573_Dom._5_Pasch._174v_14.2" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>49</lem>
             <rdg>50.</rdg>
           </app></w>
@@ -2137,7 +2139,7 @@
         <l n="18" xml:id="WP_1573_Dom._5_Pasch._174v_18">
 
         <w xml:id="WP_1573_Dom._5_Pasch._174v_18.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>nehadnenus</lem>
             <rdg>nehadnemus</rdg>
           </app></w>
@@ -2169,7 +2171,7 @@
         <l n="21" xml:id="WP_1573_Dom._5_Pasch._174v_21">
 
         <w xml:id="WP_1573_Dom._5_Pasch._174v_21.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>maddụ</lem>
             <rdg>maldụ</rdg>
           </app></w>
@@ -2266,7 +2268,7 @@
         <w xml:id="WP_1573_Dom._5_Pasch._174v_31.3" xml:lang="olt">neturrim</w>
         <w xml:id="WP_1573_Dom._5_Pasch._174v_31.4" xml:lang="olt">doties</w>
         <w xml:id="WP_1573_Dom._5_Pasch._174v_31.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>atſikraip</lem>
             <rdg>atſikraipt</rdg>
           </app></w>
