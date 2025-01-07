@@ -324,12 +324,9 @@
         <w xml:id="WP_1573_Dom._8_Trin._219v_22.3" xml:lang="olt">paſʒines.</w>
         <w xml:id="WP_1573_Dom._8_Trin._219v_22.4" xml:lang="olt">S</w>
         <w xml:id="WP_1573_Dom._8_Trin._219v_22.5" xml:lang="olt">Jan:</w>
-        <punct>
-
-          <app>  
-            <lem>,</lem>
-            <rdg>&lt;&lt;...&gt;&gt;</rdg>
-          </app></punct>
+        <del hand="W">
+          <punct>,</punct>
+        </del>
         <w xml:id="WP_1573_Dom._8_Trin._219v_22.7" xml:lang="olt">Joh:</w>
         </l>
         <l n="23" xml:id="WP_1573_Dom._8_Trin._219v_23">
@@ -389,7 +386,7 @@
         <w xml:id="WP_1573_Dom._8_Trin._219v_28.4" xml:lang="olt">wenụ</w>
         <w xml:id="WP_1573_Dom._8_Trin._219v_28.5" xml:lang="olt">patị</w>
         <w xml:id="WP_1573_Dom._8_Trin._219v_28.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>iſchgamitus</lem>
             <rdg>iſchgannitus / iſchganitus</rdg>
           </app></w>
@@ -413,7 +410,7 @@
 
         <w xml:id="WP_1573_Dom._8_Trin._219v_30.1" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Dom._8_Trin._219v_30.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>uſʒluſʒima</lem>
             <rdg>uſʒſluſʒima</rdg>
           </app></w>
@@ -779,12 +776,11 @@
         <w xml:id="WP_1573_Dom._8_Trin._220r_26.1" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_Dom._8_Trin._220r_26.2" xml:lang="olt">kielius</w>
         <w xml:id="WP_1573_Dom._8_Trin._220r_26.3" xml:lang="olt">iſchganima</w>
-        <w xml:id="WP_1573_Dom._8_Trin._220r_26.4" xml:lang="olt">ra</w>
-        <w xml:id="WP_1573_Dom._8_Trin._220r_26.5" xml:lang="olt">
-          <app>  
-            <lem>da</lem>
-            <rdg>rada</rdg>
-          </app></w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_Dom._8_Trin._220r_26.4" xml:lang="olt">ra</w>
+          <w xml:id="WP_1573_Dom._8_Trin._220r_26.5" xml:lang="olt">da</w></lem>
+          <rdg>rada</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._8_Trin._220r_26.6" xml:lang="olt">a</w>
         </l>
         <l n="27" xml:id="WP_1573_Dom._8_Trin._220r_27">
@@ -910,7 +906,7 @@
 
         <w xml:id="WP_1573_Dom._8_Trin._220v_4.1" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_Dom._8_Trin._220v_4.2" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>raſchta</lem>
             <rdg>raſchte</rdg>
           </app></w>
@@ -1278,25 +1274,22 @@
         <w xml:id="WP_1573_Dom._8_Trin._221r_8.2" xml:lang="olt">kienteti,</w>
         <w xml:id="WP_1573_Dom._8_Trin._221r_8.3" xml:lang="olt">ik</w>
         <w xml:id="WP_1573_Dom._8_Trin._221r_8.4" xml:lang="olt">ganna</w>
-        <w xml:id="WP_1573_Dom._8_Trin._221r_8.5" xml:lang="olt">pa</w>
-        <w xml:id="WP_1573_Dom._8_Trin._221r_8.6" xml:lang="olt">
-          <app>  
-            <lem>da<lb break="no"/>ris</lem>
-            <rdg>pada<lb break="no"/>ris</rdg>
-          </app></w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_Dom._8_Trin._221r_8.5" xml:lang="olt">pa</w>
+          <w xml:id="WP_1573_Dom._8_Trin._221r_8.6" xml:lang="olt">da<lb break="no"/>ris</w></lem>
+          <rdg>pada<lb break="no"/>ris</rdg>
+        </app>
         </l>
         <l n="9" xml:id="WP_1573_Dom._8_Trin._221r_9">
 
         <w xml:id="WP_1573_Dom._8_Trin._221r_9.1" xml:lang="olt">uſʒ</w>
         <w xml:id="WP_1573_Dom._8_Trin._221r_9.2" xml:lang="olt">tos</w>
         <w xml:id="WP_1573_Dom._8_Trin._221r_9.3" xml:lang="olt">grekus,</w>
-        <w xml:id="WP_1573_Dom._8_Trin._221r_9.4" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
-        <w xml:id="WP_1573_Dom._8_Trin._221r_9.5" xml:lang="olt">&lt;&lt;....&gt;&gt;</w>
-        <w xml:id="WP_1573_Dom._8_Trin._221r_9.6" xml:lang="olt">
-          <app>  
-            <lem>&lt;&lt;....&gt;&gt;</lem>
-            <rdg>ſawa per gierr</rdg>
-          </app></w>
+        <del>
+        <w xml:id="WP_1573_Dom._8_Trin._221r_9.4" xml:lang="olt">ſawa</w>
+        <w xml:id="WP_1573_Dom._8_Trin._221r_9.5" xml:lang="olt">per</w>
+        <w xml:id="WP_1573_Dom._8_Trin._221r_9.6" xml:lang="olt">gierr</w>
+        </del>
         <w xml:id="WP_1573_Dom._8_Trin._221r_9.7" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Dom._8_Trin._221r_9.8" xml:lang="olt">ma<lb break="no"/>kinna,</w>
         </l>
@@ -1713,17 +1706,20 @@
         <w xml:id="WP_1573_Dom._8_Trin._221v_17.3" xml:lang="olt">1</w>
         <w xml:id="WP_1573_Dom._8_Trin._221v_17.4" xml:lang="olt">
           <app>  
-            <lem>Tihm:</lem>
+            <lem>Tihm</lem>
             <rdg>Tm</rdg>
-            <rdg>Thim: / Tim:</rdg>
+          </app>
+          <app type="err">  
+            <lem>Tihm</lem>
+            <rdg>Thim / Tim</rdg>
           </app></w>
+        <punct>:</punct>
         <w xml:id="WP_1573_Dom._8_Trin._221v_17.5" xml:lang="olt">2,</w>
-        <app>
-          <lem><w xml:id="WP_1573_Dom._8_Trin._221v_17.6" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_Dom._8_Trin._221v_17.6" xml:lang="olt">ir</w>
+        <add>
           <w xml:id="WP_1573_Dom._8_Trin._221v_17.7" xml:lang="olt">1</w>
-          <w xml:id="WP_1573_Dom._8_Trin._221v_17.8" xml:lang="olt">Joha</w></lem>
-          <rdg>ir Joha</rdg>
-        </app>
+        </add>
+        <w xml:id="WP_1573_Dom._8_Trin._221v_17.8" xml:lang="olt">Joha</w>
         </l>
         <l n="18" xml:id="WP_1573_Dom._8_Trin._221v_18">
 
@@ -1867,7 +1863,7 @@
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._8_Trin._221v_32.2" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_Dom._8_Trin._221v_32.3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ſʒimnaket</lem>
             <rdg>ſʒinnaket</rdg>
           </app></w>
@@ -1998,9 +1994,7 @@
         <w xml:id="WP_1573_Dom._8_Trin._222r_8.3" xml:lang="olt">Cħus</w>
         <w xml:id="WP_1573_Dom._8_Trin._222r_8.4" xml:lang="olt">Jeſus</w>
         <w xml:id="WP_1573_Dom._8_Trin._222r_8.5" xml:lang="olt">tardams</w>
-        <punct>
-
-          <app>  
+        <punct><app>  
             <lem>:</lem>
             <rdg>,</rdg>
           </app></punct>
