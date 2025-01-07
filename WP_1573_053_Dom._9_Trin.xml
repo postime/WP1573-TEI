@@ -277,7 +277,7 @@
         <w xml:id="WP_1573_Dom._9_Trin._223r_8.1" xml:lang="olt">Tais</w>
         <w xml:id="WP_1573_Dom._9_Trin._223r_8.2" xml:lang="olt">ſʒadeis</w>
         <w xml:id="WP_1573_Dom._9_Trin._223r_8.3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>makinimi</lem>
             <rdg>makinami</rdg>
           </app></w>
@@ -1145,7 +1145,7 @@
         <w xml:id="WP_1573_Dom._9_Trin._224r_28.6" xml:lang="olt">2</w>
         <w xml:id="WP_1573_Dom._9_Trin._224r_28.7" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._9_Trin._224r_28.8" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>kurghiſsai</lem>
             <rdg>kur ghiſsai</rdg>
           </app></w>
@@ -1195,9 +1195,10 @@
         <w xml:id="WP_1573_Dom._9_Trin._224r_33.2" xml:lang="olt">Tiemus</w>
         <w xml:id="WP_1573_Dom._9_Trin._224r_33.3" xml:lang="olt">
           <app>  
-            <lem>ma:</lem>
+            <lem>ma</lem>
             <rdg>nn</rdg>
           </app></w>
+        <punct>:<punct>
         <w xml:id="WP_1573_Dom._9_Trin._224r_33.4" xml:lang="olt">k:</w>
         <w xml:id="WP_1573_Dom._9_Trin._224r_33.5" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._9_Trin._224r_33.6" xml:lang="olt">pergali,</w>
@@ -1269,7 +1270,7 @@
         <w xml:id="WP_1573_Dom._9_Trin._224v_5.2" xml:lang="olt">giera</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_5.3" xml:lang="olt">weſʒliba</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_5.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>kaip</lem>
             <rdg>(kaip</rdg>
           </app></w>
@@ -1417,6 +1418,9 @@
           <app>  
             <lem>ſudan</lem>
             <rdg>ſudạ</rdg>
+          </app>
+          <app type="err">  
+            <lem>ſudan</lem>
             <rdg>ſudnan</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_19.6" xml:lang="olt">ko</w>
@@ -1552,10 +1556,14 @@
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.4" xml:lang="olt">1</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.5" xml:lang="olt">
           <app>  
-            <lem>Tihm:</lem>
+            <lem>Tihm</lem>
             <rdg>Tm</rdg>
-            <rdg>Thim: / Tim:</rdg>
+          </app>
+          <app type="err">  
+            <lem>Tihm</lem>
+            <rdg>Thim / Tim</rdg>
           </app></w>
+        <punct>:</punct>
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.6" xml:lang="olt">6</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.7" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.8" xml:lang="olt">kalba,</w>
