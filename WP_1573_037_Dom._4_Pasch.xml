@@ -1527,11 +1527,8 @@
 
         <w xml:id="WP_1573_Dom._4_Pasch._171r_19.1" xml:lang="olt">iau</w>
         <w xml:id="WP_1573_Dom._4_Pasch._171r_19.2" xml:lang="olt">Jeigu</w>
-        <w xml:id="WP_1573_Dom._4_Pasch._171r_19.3" xml:lang="olt">
-          <app>  
-            <lem>kalba</lem>
-            <rdg>✝ Jſch gleub es ſol heiſen Galwa</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._4_Pasch._171r_19.3" xml:lang="olt">kalba</w> <!-- This word has a German gloss by B: "Jſch gleub es ſol heiſen Galwa".
+        Decide how to represent glosses and other marginalia that aren't part of the Fließtext. We have to do this for BP's in-margine Bible references anyway.-->
         <w xml:id="WP_1573_Dom._4_Pasch._171r_19.4" xml:lang="olt">apſudita</w>
         <w xml:id="WP_1573_Dom._4_Pasch._171r_19.5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._4_Pasch._171r_19.6" xml:lang="olt">paſkandinta</w>

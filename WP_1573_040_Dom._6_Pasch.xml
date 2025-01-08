@@ -78,11 +78,12 @@
         <w xml:id="WP_1573_Dom._6_Pasch._177v_3.2" xml:lang="olt">pratu</w>
         <w xml:id="WP_1573_Dom._6_Pasch._177v_3.3" xml:lang="olt">ſʒmagiſʒkam</w>
         <w xml:id="WP_1573_Dom._6_Pasch._177v_3.4" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._177v_3.5" xml:lang="olt">
-          <app hand="S">  
-            <lem>pridengimu</lem>
-            <rdg>pridengimu paſlaptine</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._6_Pasch._177v_3.5" xml:lang="olt"><app hand="S">
+          <lem>pridengimu</lem>
+          <rdg>paſlaptine</rdg>
+        </app></w> <!-- This sermon has alterations by S, either squeezed above the line
+        or in the margins. He doesn't cross out the word in the text they pertain to. This makes it hard to tell if they're meant as replacements,
+        insertions, or alternatives.-->
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._6_Pasch._177v_3.7" xml:lang="olt">tadelei</w>
         </l>
@@ -214,11 +215,8 @@
             <lem>daſʒnai</lem>
             <rdg>daſʒan</rdg>
           </app></w>
-        <w xml:id="WP_1573_Dom._6_Pasch._177v_16.6" xml:lang="olt">
-          <app hand="S">  
-            <lem>pridengimụ</lem>
-            <rdg>pridengimụ angu paſlaptine</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._6_Pasch._177v_16.6" xml:lang="olt">pridengimụ</w>
+        <add hand="S">angu paſlaptine</add>
         </l>
         <l n="17" xml:id="WP_1573_Dom._6_Pasch._177v_17">
 
@@ -249,7 +247,7 @@
         <w xml:id="WP_1573_Dom._6_Pasch._177v_19.6" xml:lang="olt">
           <app hand="S">  
             <lem>pri<lb break="no"/>dengimụ</lem>
-            <rdg>pri<lb break="no"/>dengimụ paſlaptine</rdg>
+            <rdg>paſlaptine</rdg>
           </app></w>
         </l>
         <l n="20" xml:id="WP_1573_Dom._6_Pasch._177v_20">
@@ -271,7 +269,7 @@
         <w xml:id="WP_1573_Dom._6_Pasch._177v_21.7" xml:lang="olt">
           <app hand="S">  
             <lem>priden<lb break="no"/>gimụ</lem>
-            <rdg>priden<lb break="no"/>gimụ paſlaptine per apreiſchkima</rdg>
+            <rdg>paſlaptine per apreiſchkima</rdg>
           </app></w>
         <punct>,</punct>
         </l>
@@ -405,7 +403,10 @@
         <w xml:id="WP_1573_Dom._6_Pasch._177v_34.1" xml:lang="olt">ſchepharumis</w>
         <w xml:id="WP_1573_Dom._6_Pasch._177v_34.2" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_Dom._6_Pasch._177v_34.3" xml:lang="olt">wartataieis</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._177v_34.4" xml:lang="olt">pridenk<lb break="no"/>tuiụ</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._177v_34.4" xml:lang="olt"><app hand="S">
+          <lem>pridenk<lb break="no"/>tuiụ</lem>
+          <rdg>paſlaptiniu</rdg>
+        </app></w>
         </l>
         <l n="R" xml:id="WP_1573_Dom._6_Pasch._177v_R">
 
@@ -439,21 +440,16 @@
         <pb n="178r"/>
         <l n="1" xml:id="WP_1573_Dom._6_Pasch._178r_1">
 
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.1" xml:lang="olt">
-          <app hand="S">  
-            <lem>tuiụ</lem>
-            <rdg>tuiụ paſlaptiniu</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.2" xml:lang="olt">daiktu</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.3" xml:lang="olt">Diewa,</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.4" xml:lang="olt">kaip</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.5" xml:lang="olt">taſiegi</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.6" xml:lang="olt">ſ:</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.7" xml:lang="olt">Paw:</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.8" xml:lang="lat">1</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.9" xml:lang="lat">Cor:</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.10" xml:lang="lat">4</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.11" xml:lang="lat">cap:</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.1" xml:lang="olt">daiktu</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.2" xml:lang="olt">Diewa,</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.3" xml:lang="olt">kaip</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.4" xml:lang="olt">taſiegi</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.5" xml:lang="olt">ſ:</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.6" xml:lang="olt">Paw:</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.7" xml:lang="lat">1</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.8" xml:lang="lat">Cor:</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.9" xml:lang="lat">4</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178r_1.10" xml:lang="lat">cap:</w>
         </l>
         <l n="2" xml:id="WP_1573_Dom._6_Pasch._178r_2">
 
@@ -463,7 +459,7 @@
         <w xml:id="WP_1573_Dom._6_Pasch._178r_2.4" xml:lang="olt">
           <app hand="S">  
             <lem>tepermanai</lem>
-            <rdg>tepermanai laika</rdg>
+            <rdg>telaika</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._6_Pasch._178r_2.5" xml:lang="olt">ſʒmagus,</w>
         <w xml:id="WP_1573_Dom._6_Pasch._178r_2.6" xml:lang="olt">
@@ -484,12 +480,12 @@
           </app>
           <app hand="S">  
             <lem>Schepharus</lem>
-            <rdg>Schepharus wartotaius</rdg>
+            <rdg>wartotaius</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._6_Pasch._178r_3.4" xml:lang="olt">
           <app hand="S">  
             <lem>pridenktuiụ</lem>
-            <rdg>pridenktuiụ paſlaptiniu</rdg>
+            <rdg>paſlaptiniu</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._6_Pasch._178r_3.5" xml:lang="olt">daiktụ</w>
         <w xml:id="WP_1573_Dom._6_Pasch._178r_3.6" xml:lang="olt">Diewa.</w>
@@ -505,7 +501,7 @@
         <w xml:id="WP_1573_Dom._6_Pasch._178r_4.7" xml:lang="olt">
           <app hand="S">  
             <lem>pri<lb break="no"/>dengimu</lem>
-            <rdg>pri<lb break="no"/>dengimu pa ſlaptines</rdg>
+            <rdg>pri<lb break="no"/>pa ſlaptines</rdg>
           </app></w>
         <punct>?</punct>
         </l>
@@ -1091,7 +1087,8 @@
         <l n="23" xml:id="WP_1573_Dom._6_Pasch._178v_23">
 
         <w xml:id="WP_1573_Dom._6_Pasch._178v_23.1" xml:lang="olt">Jeſụ</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._178v_23.2" xml:lang="olt">Cħụ,</w>
+        <w xml:id="WP_1573_Dom._6_Pasch._178v_23.2" xml:lang="olt">Cħụ</w>
+        <punct>,</punct>
         <add>
           <w xml:id="WP_1573_Dom._6_Pasch._178v_23.3" xml:lang="olt">NE</w>
         </add>
@@ -1664,7 +1661,7 @@
         <w xml:id="WP_1573_Dom._6_Pasch._179v_6.1" xml:lang="olt">
           <app hand="S">  
             <lem>datalius</lem>
-            <rdg>datalius dawanas</rdg>
+            <rdg>dawanas</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._6_Pasch._179v_6.2" xml:lang="olt">numanate</w>
         <w xml:id="WP_1573_Dom._6_Pasch._179v_6.3" xml:lang="olt">dot</w>
@@ -2100,11 +2097,8 @@
 
         <w xml:id="WP_1573_Dom._6_Pasch._180r_11.1" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_Dom._6_Pasch._180r_11.2" xml:lang="olt">duſchias</w>
-        <w xml:id="WP_1573_Dom._6_Pasch._180r_11.3" xml:lang="olt">
-          <app hand="S">  
-            <lem>negali</lem>
-            <rdg>negali uſʒmuſchti bet bijakites daugiaus ta̷ kurſai duſchas ir kuna gali ing pekla imeſti.</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._6_Pasch._180r_11.3" xml:lang="olt">negali</w>
+        <add hand="S">uſʒmuſchti bet bijakites daugiaus ta̷  kurſai duſchas ir kuna gali ing pekla imeſti.</add>
         <w xml:id="WP_1573_Dom._6_Pasch._180r_11.4" xml:lang="grc">m̄</w>
         <w xml:id="WP_1573_Dom._6_Pasch._180r_11.5" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_Dom._6_Pasch._180r_11.6" xml:lang="olt">wel</w>

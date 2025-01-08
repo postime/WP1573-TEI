@@ -952,8 +952,8 @@
             <rdg>,</rdg>
           </app>
           <app hand="W">  
-            <lem>ſaugati</lem>
-            <rdg>ſaugati Meo iudicio accipi<lb break="no"/>endum Sugauti. ị: in textu legitur: Capti ab eo ad ipsius uoluntatem . &lt;&lt;....&gt;&gt;</rdg>
+            <lem>ſaugati</lem> <!-- This correction of W's is in an explanation in margine: "ſaugati Meo iudicio accipiendum Sugauti. ρ: in textu legitur: Capti ab eo ad ipsius uoluntatem . <gap reason="illegible" quantity="1" unit="words"/>" -->
+            <rdg>Sugauti</rdg>
           </app></w>
         <w xml:id="WP_1573_Fer._3_Pent._187r_16.7" xml:lang="olt">ira</w>
         </l>

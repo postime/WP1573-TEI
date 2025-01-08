@@ -493,7 +493,8 @@
         <w xml:id="WP_1573_Dom._Trin._188v_6.1" xml:lang="olt">
           <app>  
             <lem>Nẹſanga</lem>
-            <rdg>Nẹſame &lt; re</rdg>
+            <rdg>Nẹſame</rdg>
+            <rdg>re</rdg>
           </app></w>
         <punct>,</punct>
         <w xml:id="WP_1573_Dom._Trin._188v_6.3" xml:lang="olt">kurſai</w>
@@ -1751,11 +1752,13 @@
         </l>
         <l n="15" xml:id="WP_1573_Dom._Trin._190r_15">
 
-        <w xml:id="WP_1573_Dom._Trin._190r_15.1" xml:lang="olt">
-          <app>  
-            <lem>Jordane</lem>
-            <rdg>nog Ja</rdg>
-          </app></w>
+        <del>
+        nog
+        </del>
+        <w xml:id="WP_1573_Dom._Trin._190r_15.1" xml:lang="olt"><app>
+          <lem>Jordane</lem>
+          <rdg>Ja</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._Trin._190r_15.2" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_Dom._Trin._190r_15.3" xml:lang="olt">Jana</w>
         <w xml:id="WP_1573_Dom._Trin._190r_15.4" xml:lang="olt">bua</w>

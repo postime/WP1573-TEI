@@ -1585,12 +1585,11 @@
             <lem>kriſʒunn</lem>
             <rdg>kriſʒum / kriſʒium</rdg>
           </app></w>
-        <app>
-          <lem><w xml:id="WP_1573_Dom._1_Trin._195r_15.4" xml:lang="olt">atrada</w>
-          <w xml:id="WP_1573_Dom._1_Trin._195r_15.5" xml:lang="olt">tạ</w>
-          <w xml:id="WP_1573_Dom._1_Trin._195r_15.6" xml:lang="olt">attemus</w></lem>
-          <rdg>atrada attemus</rdg>
-        </app>
+        <lem><w xml:id="WP_1573_Dom._1_Trin._195r_15.4" xml:lang="olt">atrada</w>
+        <add>
+        <w xml:id="WP_1573_Dom._1_Trin._195r_15.5" xml:lang="olt">tạ</w>
+        </add>
+        <w xml:id="WP_1573_Dom._1_Trin._195r_15.6" xml:lang="olt">attemus</w>
         <w xml:id="WP_1573_Dom._1_Trin._195r_15.7" xml:lang="olt">ir</w>
         </l>
         <l n="16" xml:id="WP_1573_Dom._1_Trin._195r_16">

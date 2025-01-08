@@ -1080,7 +1080,7 @@
         <w xml:id="WP_1573_Ascens._Dom._176v_12.4" xml:lang="olt">
           <app>  
             <lem>Kaſanj</lem>
-            <rdg>per ana tai</rdg>
+            <rdg>per ana tai</rdg> <!-- Die Wörter wurden nicht gestrichen, sondern mit "Kaſanj" übermalt.-->
           </app></w>
         <w xml:id="WP_1573_Ascens._Dom._176v_12.5" xml:lang="olt">an<lb break="no"/>trai</w>
         </l>
@@ -1295,11 +1295,10 @@
         <w xml:id="WP_1573_Ascens._Dom._176v_34.3" xml:lang="olt">tameieg</w>
         <w xml:id="WP_1573_Ascens._Dom._176v_34.4" xml:lang="olt">4</w>
         <w xml:id="WP_1573_Ascens._Dom._176v_34.5" xml:lang="olt">cap:</w>
-        <w xml:id="WP_1573_Ascens._Dom._176v_34.6" xml:lang="olt">Ephe</w>
-        <punct><app type="err">  
-            <lem>=</lem>
-            <rdg>:</rdg>
-          </app></punct>
+        <w xml:id="WP_1573_Ascens._Dom._176v_34.6" xml:lang="olt"><app type="err">
+          <lem>Ephe=</lem>
+          <rdg>Ephe:</rdg>
+        </app></w>
         </l>
         <l n="35" xml:id="WP_1573_Ascens._Dom._176v_35">
 

@@ -478,11 +478,8 @@
         <w xml:id="WP_1573_Dom._Pent._180v_29.4" xml:lang="lat">Cor:</w>
         <w xml:id="WP_1573_Dom._Pent._180v_29.5" xml:lang="lat">3</w>
         <w xml:id="WP_1573_Dom._Pent._180v_29.6" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._Pent._180v_29.7" xml:lang="olt">
-          <app hand="W">  
-            <lem>6</lem>
-            <rdg>6 et 1. Cor: 3. et. 6. 2. Cor: 6.</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._Pent._180v_29.7" xml:lang="olt">6</w>
+        <add hand="W">et 1. Cor: 3. et. 6. 2. Cor: 6.</add>
         <w xml:id="WP_1573_Dom._Pent._180v_29.8" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._Pent._180v_29.9" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_Dom._Pent._180v_29.10" xml:lang="olt">
@@ -1950,7 +1947,8 @@
         <l n="19" xml:id="WP_1573_Dom._Pent._182v_19">
 
         <w xml:id="WP_1573_Dom._Pent._182v_19.1" xml:lang="olt">ner</w>
-        <w xml:id="WP_1573_Dom._Pent._182v_19.2" xml:lang="olt">
+        <w xml:id="WP_1573_Dom._Pent._182v_19.2" xml:lang="olt"> <!-- Here the error is that a word ("be") is missing. So it isn't
+        really accurate to attach the note to "kaltibes". Max suggests using <corr>[missing token]</corr>.-->
           <app type="err">  
             <lem>kaltibes</lem>
             <rdg>be kaltibes</rdg>
