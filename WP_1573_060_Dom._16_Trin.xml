@@ -245,9 +245,10 @@
         <w xml:id="WP_1573_Dom._16_Trin._246r_12.8" xml:lang="olt">Math:</w>
         <w xml:id="WP_1573_Dom._16_Trin._246r_12.9" xml:lang="olt">
           <app>  
-            <lem>18:</lem>
-            <rdg>28:</rdg>
+            <lem>18</lem>
+            <rdg>28</rdg>
           </app></w>
+        <punct>:</punct>
         </l>
         <l n="13" xml:id="WP_1573_Dom._16_Trin._246r_13">
 
@@ -491,7 +492,7 @@
         <w xml:id="WP_1573_Dom._16_Trin._246r_34.7" xml:lang="olt">giera</w>
         <w xml:id="WP_1573_Dom._16_Trin._246r_34.8" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_Dom._16_Trin._246r_34.9" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>nuſu</lem>
             <rdg>muſu</rdg>
           </app></w>
@@ -540,7 +541,7 @@
         <w xml:id="WP_1573_Dom._16_Trin._246v_3.5" xml:lang="olt">Kad</w>
         <w xml:id="WP_1573_Dom._16_Trin._246v_3.6" xml:lang="olt">dabar</w>
         <w xml:id="WP_1573_Dom._16_Trin._246v_3.7" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>nogimi</lem>
             <rdg>negimi</rdg>
           </app></w>
@@ -664,7 +665,7 @@
         <w xml:id="WP_1573_Dom._16_Trin._246v_14.5" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._16_Trin._246v_14.6" xml:lang="olt">Pſal</w>
         <w xml:id="WP_1573_Dom._16_Trin._246v_14.7" xml:lang="olt">
-          <app>  
+          <app hand="W?">  
             <lem>94</lem>
             <rdg>95.</rdg>
           </app></w>
@@ -894,7 +895,7 @@
 
         <w xml:id="WP_1573_Dom._16_Trin._247r_2.1" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_2.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ſchawindami</lem>
             <rdg>ſchlawindami</rdg>
           </app></w>
@@ -937,28 +938,22 @@
         <w xml:id="WP_1573_Dom._16_Trin._247r_5.4" xml:lang="olt">Gal:</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_5.5" xml:lang="olt">4</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_5.6" xml:lang="lat">
-          <app>  
+          <app hand="W">  
             <lem>per</lem>
             <rdg>quæ</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_5.7" xml:lang="lat">šuršum</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_5.8" xml:lang="lat">est</w>
-        <w xml:id="WP_1573_Dom._16_Trin._247r_5.9" xml:lang="lat">
-          <app>  
-            <lem>Hie<lb break="no"/>rušalem.</lem>
-            <rdg>✝ 2. Cor: 5.</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._16_Trin._247r_5.9" xml:lang="lat">Hie<lb break="no"/>rušalem.</w>
+            <add hand="W">2. Cor: 5.</add>
         </l>
         <l n="6" xml:id="WP_1573_Dom._16_Trin._247r_6">
 
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.1" xml:lang="lat">Apoca:</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.2" xml:lang="lat">21</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.3" xml:lang="lat">Eša:</w>
-        <w xml:id="WP_1573_Dom._16_Trin._247r_6.4" xml:lang="lat">
-          <app>  
-            <lem>43</lem>
-            <rdg>✝ Ecce</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._16_Trin._247r_6.4" xml:lang="lat">43</w>
+            <add hand="W">✝ Ecce</add>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.5" xml:lang="lat">Noua</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.6" xml:lang="lat">facio</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.7" xml:lang="lat">omnia.</w>
@@ -1196,7 +1191,7 @@
         <w xml:id="WP_1573_Dom._16_Trin._247r_28.5" xml:lang="olt">Daw:</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_28.6" xml:lang="olt">Pſal</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_28.7" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>118</lem>
             <rdg>119.</rdg>
           </app></w>
@@ -1328,7 +1323,7 @@
             <rdg>ra</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_2.3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ſʒadʒia</lem>
             <rdg>ſudʒia</rdg>
           </app></w>
@@ -1410,7 +1405,7 @@
 
         <w xml:id="WP_1573_Dom._16_Trin._247v_9.1" xml:lang="olt">ias</w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_9.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>kaltinancʒius</lem>
             <rdg>kaltinancʒias</rdg>
           </app></w>
@@ -1462,9 +1457,10 @@
 
         <w xml:id="WP_1573_Dom._16_Trin._247v_14.1" xml:lang="olt">
           <app>  
-            <lem>Vſtatikimas,</lem>
+            <lem>Vſtatikimas</lem>
             <rdg>Vſtakimas</rdg>
           </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_Dom._16_Trin._247v_14.2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_14.3" xml:lang="olt">ginkimas</w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_14.4" xml:lang="olt">panu</w>
@@ -1539,9 +1535,9 @@
         <w xml:id="WP_1573_Dom._16_Trin._247v_21.2" xml:lang="olt">puſta</w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_21.3" xml:lang="olt">a</w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_21.4" xml:lang="olt">
-          <app>  
+          <app hand="W">   
             <lem>aſʒla</lem>
-            <rdg>akla / pusta a akla gira ị :</rdg>
+            <rdg>akla / pusta a akla gira ρ:</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_21.5" xml:lang="olt">gira,</w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_21.6" xml:lang="olt">per</w>
@@ -1695,7 +1691,7 @@
         <w xml:id="WP_1573_Dom._16_Trin._248r_1.1" xml:lang="olt">tikima</w>
         <w xml:id="WP_1573_Dom._16_Trin._248r_1.2" xml:lang="olt">tadangi</w>
         <w xml:id="WP_1573_Dom._16_Trin._248r_1.3" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>prapeikimu</lem>
             <rdg>prakeikimu</rdg>
           </app></w>
@@ -1714,7 +1710,7 @@
         <w xml:id="WP_1573_Dom._16_Trin._248r_2.7" xml:lang="olt">Gal:</w>
         <w xml:id="WP_1573_Dom._16_Trin._248r_2.8" xml:lang="olt">3</w>
         <w xml:id="WP_1573_Dom._16_Trin._248r_2.9" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Vſʒ<lb break="no"/>ſtatikimai</lem>
             <rdg>Vſʒ<lb break="no"/>ſtatikima</rdg>
           </app></w>
@@ -1852,7 +1848,7 @@
         <w xml:id="WP_1573_Dom._16_Trin._248r_15.3" xml:lang="olt">tikintemus</w>
         <w xml:id="WP_1573_Dom._16_Trin._248r_15.4" xml:lang="lat">Luce</w>
         <w xml:id="WP_1573_Dom._16_Trin._248r_15.5" xml:lang="lat">
-          <app>  
+          <app hand="W">  
             <lem>13</lem>
             <rdg>12</rdg>
           </app></w>
@@ -2041,7 +2037,7 @@
         <w xml:id="WP_1573_Dom._16_Trin._248r_32.4" xml:lang="olt">cia</w>
         <w xml:id="WP_1573_Dom._16_Trin._248r_32.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._16_Trin._248r_32.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>teſsibadai</lem>
             <rdg>teſsibaidai</rdg>
           </app></w>
