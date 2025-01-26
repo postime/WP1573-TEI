@@ -39,7 +39,7 @@
         <w xml:id="WP_1573_Dom._17_Trin._248v_16.2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._17_Trin._248v_16.3" xml:lang="olt">kuru</w>
         <w xml:id="WP_1573_Dom._17_Trin._248v_16.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>para<lb break="no"/>ſha</lem>
             <rdg>para<lb break="no"/>ſcha</rdg>
           </app></w>
@@ -49,7 +49,7 @@
         <w xml:id="WP_1573_Dom._17_Trin._248v_17.1" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_Dom._17_Trin._248v_17.2" xml:lang="olt">Luka:</w>
         <w xml:id="WP_1573_Dom._17_Trin._248v_17.3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Egliſtas</lem>
             <rdg>Egłiſtas</rdg>
           </app></w>
@@ -73,7 +73,7 @@
         <l n="20" xml:id="WP_1573_Dom._17_Trin._248v_20">
 
         <w xml:id="WP_1573_Dom._17_Trin._248v_20.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Jug</lem>
             <rdg>Jng</rdg>
           </app></w>
@@ -165,7 +165,7 @@
         <w xml:id="WP_1573_Dom._17_Trin._248v_28.4" xml:lang="olt">draudʒiami</w>
         <w xml:id="WP_1573_Dom._17_Trin._248v_28.5" xml:lang="olt">tiei</w>
         <w xml:id="WP_1573_Dom._17_Trin._248v_28.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ſʒmaiu</lem>
             <rdg>ſʒmaniu</rdg>
           </app></w>
@@ -590,7 +590,8 @@
         <w xml:id="WP_1573_Dom._17_Trin._249v_9.1" xml:lang="olt">
           <app>  
             <lem>neapikantas</lem>
-            <rdg>neapikantes &lt; neapit</rdg>
+            <rdg>neapikantes</rdg>
+            <rdg>neapit</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._17_Trin._249v_9.2" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_Dom._17_Trin._249v_9.3" xml:lang="olt">pawartati</w>
@@ -633,7 +634,7 @@
         <l n="14" xml:id="WP_1573_Dom._17_Trin._249v_14">
 
         <w xml:id="WP_1573_Dom._17_Trin._249v_14.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ſchawẹ</lem>
             <rdg>ſchlawẹ</rdg>
           </app></w>
@@ -941,6 +942,9 @@
           <app>  
             <lem>priſiligima</lem>
             <rdg>priſiligimu</rdg>
+          </app>
+          <app type="err">
+            <lem>priſiligima</lem>
             <rdg>priſiligina</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._17_Trin._250r_11.2" xml:lang="olt">
@@ -969,7 +973,7 @@
         <w xml:id="WP_1573_Dom._17_Trin._250r_13.4" xml:lang="olt">welina,</w>
         <w xml:id="WP_1573_Dom._17_Trin._250r_13.5" xml:lang="olt">Kas</w>
         <w xml:id="WP_1573_Dom._17_Trin._250r_13.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>tadangi</lem>
             <rdg>baiſiaus</rdg>
           </app></w>
@@ -1028,6 +1032,9 @@
           <app>  
             <lem>kuniſchka</lem>
             <rdg>welina</rdg>
+          </app>
+          <app type="err">
+            <lem>kuniſchka</lem>
             <rdg>kuniſchku / kuniſchkụ</rdg>
           </app></w>
         </l>
@@ -1491,7 +1498,7 @@
         <w xml:id="WP_1573_Dom._17_Trin._250v_31.4" xml:lang="olt">mus</w>
         <w xml:id="WP_1573_Dom._17_Trin._250v_31.5" xml:lang="olt">Egła</w>
         <w xml:id="WP_1573_Dom._17_Trin._250v_31.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Cħus</lem>
             <rdg>Cħaus</rdg>
           </app></w>
@@ -1538,7 +1545,7 @@
             <rdg>tanne</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._17_Trin._250v_35.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>5</lem>
             <rdg>7</rdg>
           </app></w>
@@ -1969,7 +1976,7 @@
           </app></w>
         <w xml:id="WP_1573_Dom._17_Trin._251v_4.3" xml:lang="olt">iu</w>
         <w xml:id="WP_1573_Dom._17_Trin._251v_4.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>grnmʒdʒia</lem>
             <rdg>grumʒdʒia</rdg>
           </app></w>
@@ -2088,7 +2095,7 @@
         <l n="16" xml:id="WP_1573_Dom._17_Trin._251v_16">
 
         <w xml:id="WP_1573_Dom._17_Trin._251v_16.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>cʒiſta</lem>
             <rdg>cʒiſtụ</rdg>
           </app></w>
@@ -2276,9 +2283,10 @@
         <w xml:id="WP_1573_Dom._17_Trin._251v_35.3" xml:lang="olt">ſʒemes</w>
         <w xml:id="WP_1573_Dom._17_Trin._251v_35.4" xml:lang="olt">
           <app>  
-            <lem>ſugaiſchinia,</lem>
+            <lem>ſugaiſchinia</lem>
             <rdg>gaiſchinia</rdg>
           </app></w>
+        <punt>,</punct>
         <w xml:id="WP_1573_Dom._17_Trin._251v_35.5" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_Dom._17_Trin._251v_35.6" xml:lang="olt">ir</w>
         </l>
@@ -2290,7 +2298,7 @@
         <w xml:id="WP_1573_Dom._17_Trin._251v_36.4" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._17_Trin._251v_36.5" xml:lang="olt">per</w>
         <w xml:id="WP_1573_Dom._17_Trin._251v_36.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Eſai<lb break="no"/></lem>
             <rdg>Eſai:</rdg>
           </app></w>
@@ -2397,7 +2405,7 @@
         <l n="9" xml:id="WP_1573_Dom._17_Trin._252r_9">
 
         <w xml:id="WP_1573_Dom._17_Trin._252r_9.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>daugaus</lem>
             <rdg>dangaus</rdg>
           </app></w>
@@ -2427,7 +2435,7 @@
         <w xml:id="WP_1573_Dom._17_Trin._252r_11.5" xml:lang="olt">Jſch</w>
         <w xml:id="WP_1573_Dom._17_Trin._252r_11.6" xml:lang="olt">
           <quote>
-          <app>  
+          <app type="err">  
             <lem>Brecia</lem>
             <rdg>Brencia</rdg>
           </app></w>
@@ -2438,9 +2446,10 @@
 
         <w xml:id="WP_1573_Dom._17_Trin._252r_12.1" xml:lang="olt">
           <app>  
-            <lem>Humilias.</lem>
+            <lem>Humilias</lem>
             <rdg>Hule</rdg>
           </app></w>
+        <punct>.</punct>
         </l>
       </div>
     </body>
