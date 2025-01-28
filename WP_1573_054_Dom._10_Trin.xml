@@ -942,7 +942,7 @@
         <w xml:id="WP_1573_Dom._10_Trin._226v_30.1" xml:lang="olt">pirkdami</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_30.2" xml:lang="olt">
           <app>  
-            <lem>walgie</lem>
+            <lem>walgie</lem> <!--Instant correction: Comma overwritten with "walgie".-->
             <rdg>,</rdg>
           </app></w>
         <punct>,</punct>
@@ -959,11 +959,10 @@
         <w xml:id="WP_1573_Dom._10_Trin._226v_31.1" xml:lang="olt">kas</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_31.2" xml:lang="olt">pikta</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_31.3" xml:lang="olt">bua</w>
-        <w xml:id="WP_1573_Dom._10_Trin._226v_31.4" xml:lang="olt">
-          <app>  
-            <lem>ir</lem>
-            <rdg>walgie</rdg>
-          </app></w>
+        <del>
+        <w xml:id="" xml:lang="olt">walgie</w>
+        </del>
+        <w xml:id="WP_1573_Dom._10_Trin._226v_31.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_31.5" xml:lang="olt">akimis</w>
         <w xml:id="WP_1573_Dom._10_Trin._226v_31.6" xml:lang="olt">weiʒ<lb break="no"/>deti</w>
         </l>

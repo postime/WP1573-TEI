@@ -1213,9 +1213,10 @@
         <w xml:id="WP_1573_Dom._17_Trin._250v_1.1" xml:lang="olt">paweiʒdu</w>
         <w xml:id="WP_1573_Dom._17_Trin._250v_1.2" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_Dom._17_Trin._250v_1.3" xml:lang="lat">Cain</w>
-        <w xml:id="WP_1573_Dom._17_Trin._250v_1.4" xml:lang="lat">pirmaſis</w>
-        <w xml:id="WP_1573_Dom._17_Trin._250v_1.5" xml:lang="lat">welina</w>
-        <w xml:id="WP_1573_Dom._17_Trin._250v_1.6" xml:lang="lat">ſʒekas</w>
+        <!--The words following "Cain" on this line are erroneously encoded as Latin in TITUS.-->
+        <w xml:id="WP_1573_Dom._17_Trin._250v_1.4" xml:lang="olt">pirmaſis</w>
+        <w xml:id="WP_1573_Dom._17_Trin._250v_1.5" xml:lang="olt">welina</w>
+        <w xml:id="WP_1573_Dom._17_Trin._250v_1.6" xml:lang="olt">ſʒekas</w>
         </l>
         <l n="2" xml:id="WP_1573_Dom._17_Trin._250v_2">
 

@@ -960,7 +960,7 @@
         <w xml:id="WP_1573_Dom._19_Trin._255v_6.4" xml:lang="olt">eſme,</w>
         <w xml:id="WP_1573_Dom._19_Trin._255v_6.5" xml:lang="lat">dic</w>
         <w xml:id="WP_1573_Dom._19_Trin._255v_6.6" xml:lang="lat">ex</w>
-        <w xml:id="WP_1573_Dom._19_Trin._255v_6.7" xml:lang="lat">pšal:</w>
+        <w xml:id="WP_1573_Dom._19_Trin._255v_6.7" xml:lang="lat">pſal:</w>
         <w xml:id="WP_1573_Dom._19_Trin._255v_6.8" xml:lang="lat">
           <app hand="W?">  
             <lem>13</lem>
@@ -1958,10 +1958,9 @@
         <w xml:id="WP_1573_Dom._19_Trin._257r_1.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._19_Trin._257r_1.5" xml:lang="olt">
           <app>  
-            <lem>Math</lem>
-            <rdg>Meth</rdg>
+            <lem>Math:</lem>
+            <rdg>Meth:</rdg>
           </app></w>
-        <punct>:</punct>
         <w xml:id="WP_1573_Dom._19_Trin._257r_1.6" xml:lang="olt">16</w>
         <w xml:id="WP_1573_Dom._19_Trin._257r_1.7" xml:lang="olt">Cap:.</w>
         </l>

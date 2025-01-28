@@ -1269,14 +1269,14 @@
         <w xml:id="WP_1573_Dom._9_Trin._224v_5.1" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_5.2" xml:lang="olt">giera</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_5.3" xml:lang="olt">weſʒliba</w>
-        <w xml:id="WP_1573_Dom._9_Trin._224v_5.4" xml:lang="olt">
-          <app type="err">  
-            <lem>kaip</lem>
-            <rdg>(kaip</rdg>
-          </app></w>
+        <corr>
+        <punct>(</punct> <!--Missing opening bracket.-->
+        </corr>
+        <w xml:id="WP_1573_Dom._9_Trin._224v_5.4" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_5.5" xml:lang="olt">iau</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_5.6" xml:lang="olt">eſte</w>
-        <w xml:id="WP_1573_Dom._9_Trin._224v_5.7" xml:lang="olt">girdeghị)</w>
+        <w xml:id="WP_1573_Dom._9_Trin._224v_5.7" xml:lang="olt">girdeghị</w>
+        <punct>)</punct>
         </l>
         <l n="6" xml:id="WP_1573_Dom._9_Trin._224v_6">
 
@@ -1556,14 +1556,13 @@
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.4" xml:lang="olt">1</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.5" xml:lang="olt">
           <app>  
-            <lem>Tihm</lem>
+            <lem>Tihm:</lem>
             <rdg>Tm</rdg>
           </app>
           <app type="err">  
-            <lem>Tihm</lem>
-            <rdg>Thim / Tim</rdg>
+            <lem>Tihm:</lem>
+            <rdg>Thim: / Tim:</rdg>
           </app></w>
-        <punct>:</punct>
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.6" xml:lang="olt">6</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.7" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._9_Trin._224v_33.8" xml:lang="olt">kalba,</w>

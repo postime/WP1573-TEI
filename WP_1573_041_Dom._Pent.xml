@@ -1947,10 +1947,12 @@
         <l n="19" xml:id="WP_1573_Dom._Pent._182v_19">
 
         <w xml:id="WP_1573_Dom._Pent._182v_19.1" xml:lang="olt">ner</w>
-        <w xml:id="WP_1573_Dom._Pent._182v_19.2" xml:lang="olt"> <!-- Here the error is that a word ("be") is missing. So it isn't
-        really accurate to attach the note to "kaltibes". Max suggests using <corr>[missing token]</corr>.-->
+        <corr>
+        <w xml:id="" xml:lang="olt">be</w> <!-- Errata note word "be" missing.-->
+        </corr>
+        <w xml:id="WP_1573_Dom._Pent._182v_19.2" xml:lang="olt">kaltibes</w>
           <app type="err">  
-            <lem>kaltibes</lem>
+            <lem></lem>
             <rdg>be kaltibes</rdg>
           </app></w>
         <punct>.</punct>

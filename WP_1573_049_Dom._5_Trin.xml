@@ -619,11 +619,10 @@
         <w xml:id="WP_1573_Dom._5_Trin._208v_25.2" xml:lang="olt">prara:</w>
         <w xml:id="WP_1573_Dom._5_Trin._208v_25.3" xml:lang="olt">Daw:</w>
         <w xml:id="WP_1573_Dom._5_Trin._208v_25.4" xml:lang="olt">ludija</w>
-        <w xml:id="WP_1573_Dom._5_Trin._208v_25.5" xml:lang="olt">Pſal</w>
-        <punct><app hand="W">  
-            <lem>:</lem>
-            <rdg>;</rdg>
-          </app></punct>
+        <w xml:id="WP_1573_Dom._5_Trin._208v_25.5" xml:lang="olt"><app hand="W">
+          <lem>Pſal:</lem>
+          <rdg>Pſal;</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._5_Trin._208v_25.6" xml:lang="olt">
           <app hand="W">  
             <lem>118</lem>

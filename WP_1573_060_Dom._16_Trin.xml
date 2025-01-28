@@ -953,7 +953,9 @@
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.2" xml:lang="lat">21</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.3" xml:lang="lat">Eša:</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.4" xml:lang="lat">43</w>
-            <add hand="W">✝ Ecce</add>
+        <add hand="W">
+          <w xml:id="WP_1573_Dom._16_Trin._247r_6.4" xml:lang="lat">Ecce</w>
+        </add>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.5" xml:lang="lat">Noua</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.6" xml:lang="lat">facio</w>
         <w xml:id="WP_1573_Dom._16_Trin._247r_6.7" xml:lang="lat">omnia.</w>
@@ -1537,7 +1539,7 @@
         <w xml:id="WP_1573_Dom._16_Trin._247v_21.4" xml:lang="olt">
           <app hand="W">   
             <lem>aſʒla</lem>
-            <rdg>akla / pusta a akla gira ρ:</rdg>
+            <rdg>akla</rdg> <!-- W underlines the misspelled word and notes in margine: "akla / pusta a akla gira ρ:"-->
           </app></w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_21.5" xml:lang="olt">gira,</w>
         <w xml:id="WP_1573_Dom._16_Trin._247v_21.6" xml:lang="olt">per</w>

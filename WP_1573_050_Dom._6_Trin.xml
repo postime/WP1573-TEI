@@ -1566,7 +1566,7 @@
         <w xml:id="WP_1573_Dom._6_Trin._214r_34.3" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Dom._6_Trin._214r_34.4" xml:lang="olt">ſʒinnatumbim</w>
         <punct><app>  
-            <lem>,</lem>
+            <lem>,</lem> <!--Erroneous hyphen at the end of "žinnatumbim" modified into a comma.-->
             <rdg>=</rdg>
           </app></punct>
         <w xml:id="WP_1573_Dom._6_Trin._214r_34.5" xml:lang="olt">kai<lb break="no"/>pagi</w>
@@ -1627,15 +1627,11 @@
 
         <w xml:id="WP_1573_Dom._6_Trin._214v_6.1" xml:lang="olt">raſchidams</w>
         <app hand="W">
-          <lem><w xml:id="WP_1573_Dom._6_Trin._214v_6.2" xml:lang="olt">Ephe</w></lem>
-          <rdg>Ephes</rdg>
+          <lem><w xml:id="WP_1573_Dom._6_Trin._214v_6.2" xml:lang="olt">Ephe:</w> <!-- "Ephe: 3 cap:" crossed out, replacement written in margine.-->
+              <w xml:id="WP_1573_Dom._6_Trin._214v_6.3" xml:lang="olt">3</w></lem>
+              <w xml:id="WP_1573_Dom._6_Trin._214v_6.4" xml:lang="olt">cap:</w></lem>
+          <rdg>Ephes: 4. cap:</rdg>
         </app>
-        <punct>:</punct>
-        <app hand="W">
-          <lem><w xml:id="WP_1573_Dom._6_Trin._214v_6.3" xml:lang="olt">3</w></lem>
-          <rdg>4.</rdg>
-        </app>
-        <w xml:id="WP_1573_Dom._6_Trin._214v_6.4" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._6_Trin._214v_6.5" xml:lang="olt">netiktai</w>
         <w xml:id="WP_1573_Dom._6_Trin._214v_6.6" xml:lang="olt">kierſch<lb break="no"/>ta</w>
         </l>

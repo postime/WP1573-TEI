@@ -1400,11 +1400,10 @@
 
         <w xml:id="WP_1573_Dom._13_Trin._236v_8.1" xml:lang="olt">apłu</w>
         <w xml:id="WP_1573_Dom._13_Trin._236v_8.2" xml:lang="olt">Markaus</w>
-        <w xml:id="WP_1573_Dom._13_Trin._236v_8.3" xml:lang="olt">
-          <app type="err">  
-            <lem>apła</lem>
-            <rdg>apła del</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._13_Trin._236v_8.3" xml:lang="olt">apła</w>
+        <corr>
+        <w xml:id="" xml:lang="olt">del</w> <!-- Apparatus notes word "del" missing.-->
+        </corr>
         <w xml:id="WP_1573_Dom._13_Trin._236v_8.4" xml:lang="olt">kura</w>
         <w xml:id="WP_1573_Dom._13_Trin._236v_8.5" xml:lang="olt">Barnabas</w>
         <w xml:id="WP_1573_Dom._13_Trin._236v_8.6" xml:lang="olt">narei</w>
@@ -1586,10 +1585,10 @@
         </l>
         <l n="24" xml:id="WP_1573_Dom._13_Trin._236v_24">
 
-        <w xml:id="WP_1573_Dom._13_Trin._236v_24.1" xml:lang="lat">Samošathenus,</w>
+        <w xml:id="WP_1573_Dom._13_Trin._236v_24.1" xml:lang="lat">Samoſathenus,</w>
           <ref decls="person" cRef="PaulSamos"/></quote>
           <quote>
-        <w xml:id="WP_1573_Dom._13_Trin._236v_24.2" xml:lang="lat">Neštorius</w>
+        <w xml:id="WP_1573_Dom._13_Trin._236v_24.2" xml:lang="lat">Neſtorius</w>
           <ref decls="person" cRef="Nestorius"/></quote>
           <quote>
         <w xml:id="WP_1573_Dom._13_Trin._236v_24.3" xml:lang="lat">Marcion</w>
@@ -2225,12 +2224,11 @@
         <l n="13" xml:id="WP_1573_Dom._13_Trin._237v_13">
 
         <w xml:id="WP_1573_Dom._13_Trin._237v_13.1" xml:lang="olt">angu</w>
-        <w xml:id="WP_1573_Dom._13_Trin._237v_13.2" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_Dom._13_Trin._237v_13.3" xml:lang="olt">
-          <app type="err">  
-            <lem>raſchitas</lem>
-            <rdg>iſchraſchitas</rdg>
-          </app></w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_Dom._13_Trin._237v_13.2" xml:lang="olt">iſch</w>
+                <w xml:id="WP_1573_Dom._13_Trin._237v_13.3" xml:lang="olt">raſchitas</w></lem>
+          <rdg>iſchraſchitas</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._13_Trin._237v_13.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._13_Trin._237v_13.5" xml:lang="olt">terpei</w>
         <w xml:id="WP_1573_Dom._13_Trin._237v_13.6" xml:lang="olt">iuſụ</w>
