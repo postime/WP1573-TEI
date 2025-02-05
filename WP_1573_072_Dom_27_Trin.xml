@@ -32,7 +32,7 @@
         <w xml:id="WP_1573_Dom._27_Trin._282v_1.3" xml:lang="olt">PA</w>
         <w xml:id="WP_1573_Dom._27_Trin._282v_1.4" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_Dom._27_Trin._282v_1.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>TRAI<lb break="no"/>es</lem>
             <rdg>TRAI<lb break="no"/>ces</rdg>
           </app></w>
@@ -89,7 +89,7 @@
         <w xml:id="WP_1573_Dom._27_Trin._282v_6.4" xml:lang="olt">akim</w>
         <w xml:id="WP_1573_Dom._27_Trin._282v_6.5" xml:lang="olt">tụ</w>
         <w xml:id="WP_1573_Dom._27_Trin._282v_6.6" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>apłnn</lem>
             <rdg>apłun</rdg>
           </app></w>
@@ -125,7 +125,7 @@
         <w xml:id="WP_1573_Dom._27_Trin._282v_9.5" xml:lang="olt">ſcha</w>
         <w xml:id="WP_1573_Dom._27_Trin._282v_9.6" xml:lang="olt">ſweta</w>
         <w xml:id="WP_1573_Dom._27_Trin._282v_9.7" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Vbagn</lem>
             <rdg>Vbagu</rdg>
           </app></w>
@@ -181,9 +181,10 @@
         <w xml:id="WP_1573_Dom._27_Trin._282v_14.4" xml:lang="olt">anai</w>
         <w xml:id="WP_1573_Dom._27_Trin._282v_14.5" xml:lang="olt">
           <app>  
-            <lem>ſchweſi<lb break="no"/>be,</lem>
+            <lem>ſchweſi<lb break="no"/>be</lem>
             <rdg>ſchwe<lb break="no"/>bei</rdg>
           </app></w>
+        <punct>,</punct>
         </l>
         <l n="15" xml:id="WP_1573_Dom._27_Trin._282v_15">
 
@@ -255,7 +256,7 @@
 
         <w xml:id="WP_1573_Dom._27_Trin._282v_21.1" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_Dom._27_Trin._282v_21.2" xml:lang="olt">
-          <app>  
+          <app hand="W">  
             <lem>4</lem>
             <rdg>:1:</rdg>
           </app></w>
@@ -543,7 +544,7 @@
 
         <w xml:id="WP_1573_Dom._27_Trin._283r_13.1" xml:lang="olt">prapola</w>
         <w xml:id="WP_1573_Dom._27_Trin._283r_13.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>amu</lem>
             <rdg>annu</rdg>
           </app></w>
@@ -709,7 +710,7 @@
         <w xml:id="WP_1573_Dom._27_Trin._283r_27.4" xml:lang="olt">wel</w>
         <w xml:id="WP_1573_Dom._27_Trin._283r_27.5" xml:lang="olt">bila</w>
         <w xml:id="WP_1573_Dom._27_Trin._283r_27.6" xml:lang="lat">
-          <app>  
+          <app type="err">  
             <lem>Cor:</lem>
             <rdg>Rom:</rdg>
           </app></w>
@@ -1003,6 +1004,9 @@
           <app>  
             <lem>dnſchamus</lem>
             <rdg>k</rdg>
+          </app>
+          <app type="err">  
+            <lem>dnſchamus</lem>
             <rdg>duſchamus</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._27_Trin._283v_19.5" xml:lang="olt">kienteghi<lb break="no"/>mụ</w>
@@ -1314,7 +1318,7 @@
         <w xml:id="WP_1573_Dom._27_Trin._284r_16.2" xml:lang="olt">Pirmiauſei</w>
         <w xml:id="WP_1573_Dom._27_Trin._284r_16.3" xml:lang="olt">kaipagi</w>
         <w xml:id="WP_1573_Dom._27_Trin._284r_16.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Cħns</lem>
             <rdg>Cħus</rdg>
           </app></w>
@@ -1572,15 +1576,14 @@
         <w xml:id="WP_1573_Dom._27_Trin._284v_6.4" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_6.5" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_6.6" xml:lang="olt">kura</w>
-        <app>
-          <lem><w xml:id="WP_1573_Dom._27_Trin._284v_6.7" xml:lang="olt">ſʒma<lb break="no"/>gaus</w>
-          </l>
-          <l n="7" xml:id="WP_1573_Dom._27_Trin._284v_7">
+        <w xml:id="WP_1573_Dom._27_Trin._284v_6.7" xml:lang="olt">ſʒma<lb break="no"/>gaus</w>
+        </l>
+        <l n="7" xml:id="WP_1573_Dom._27_Trin._284v_7">
   
+        <add>
           <w xml:id="WP_1573_Dom._27_Trin._284v_7.1" xml:lang="olt">wardu</w>
-          <w xml:id="WP_1573_Dom._27_Trin._284v_7.2" xml:lang="olt">muſụ</w></lem>
-          <rdg>ſʒma<lb break="no"/>gaus muſụ</rdg>
-        </app>
+        </add>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_7.2" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_7.3" xml:lang="olt">mums</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_7.4" xml:lang="olt">turretụ</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_7.5" xml:lang="olt">but</w>
@@ -1686,11 +1689,10 @@
         <l n="17" xml:id="WP_1573_Dom._27_Trin._284v_17">
 
         <w xml:id="WP_1573_Dom._27_Trin._284v_17.1" xml:lang="olt">1</w>
-        <w xml:id="WP_1573_Dom._27_Trin._284v_17.2" xml:lang="olt">
-          <app>  
-            <lem>cap:</lem>
-            <rdg>cap: ị .</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_17.2" xml:lang="olt">cap:</w>
+          <add hand="W">  
+            <w xml:id="" xml:lang="olt">ρ.</rdg>
+          </add>
         <w xml:id="WP_1573_Dom._27_Trin._284v_17.3" xml:lang="olt">Jos</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_17.4" xml:lang="olt">ſaw</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_17.5" xml:lang="olt">uſʒ</w>
@@ -1719,11 +1721,10 @@
         <w xml:id="WP_1573_Dom._27_Trin._284v_19.1" xml:lang="olt">klauſa,</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_19.2" xml:lang="olt">Johan:</w>
         <w xml:id="WP_1573_Dom._27_Trin._284v_19.3" xml:lang="olt">16</w>
-        <w xml:id="WP_1573_Dom._27_Trin._284v_19.4" xml:lang="olt">
-          <app>  
-            <lem>cap:</lem>
-            <rdg>cap: ị .</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._27_Trin._284v_19.4" xml:lang="olt">cap:</w>
+          <add hand="W">  
+            <w xml:id="" xml:lang="olt">ρ.</rdg>
+          </add>
         <w xml:id="WP_1573_Dom._27_Trin._284v_19.5" xml:lang="olt">
           <app>  
             <lem>uſʒ</lem>
@@ -2153,7 +2154,7 @@
         <w xml:id="WP_1573_Dom._27_Trin._285r_25.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._27_Trin._285r_25.6" xml:lang="olt">Math:</w>
         <w xml:id="WP_1573_Dom._27_Trin._285r_25.7" xml:lang="olt">15</w>
-        <add>
+        <add hand="W">
           <punct>,</punct>
         </add>
         <w xml:id="WP_1573_Dom._27_Trin._285r_25.8" xml:lang="olt">cap:.</w>
@@ -2210,7 +2211,7 @@
         <w xml:id="WP_1573_Dom._27_Trin._285r_30.7" xml:lang="lat">1</w>
         <w xml:id="WP_1573_Dom._27_Trin._285r_30.8" xml:lang="lat">Cor:</w>
         <w xml:id="WP_1573_Dom._27_Trin._285r_30.9" xml:lang="lat">
-          <app>  
+          <app hand="W?">  
             <lem>17</lem>
             <rdg>14</rdg>
           </app></w>
