@@ -101,7 +101,7 @@
         <l n="5" xml:id="WP_1573_Dom._25_Trin._275v_5">
 
         <w xml:id="WP_1573_Dom._25_Trin._275v_5.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>cʒeſas</lem>
             <rdg>cʒeſais</rdg>
           </app></w>
@@ -119,7 +119,7 @@
         <w xml:id="WP_1573_Dom._25_Trin._275v_6.2" xml:lang="olt">Paw:</w>
         <w xml:id="WP_1573_Dom._25_Trin._275v_6.3" xml:lang="lat">Rom:</w>
         <w xml:id="WP_1573_Dom._25_Trin._275v_6.4" xml:lang="lat">
-          <app>  
+          <app hand="W?">  
             <lem>13</lem>
             <rdg>15.</rdg>
           </app></w>
@@ -333,7 +333,7 @@
         <w xml:id="WP_1573_Dom._25_Trin._275v_27.3" xml:lang="olt">AEgipta</w>
         <w xml:id="WP_1573_Dom._25_Trin._275v_27.4" xml:lang="olt">ik</w>
         <w xml:id="WP_1573_Dom._25_Trin._275v_27.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>ſupuſtimn</lem>
             <rdg>ſupuſtimu</rdg>
           </app></w>
@@ -1344,7 +1344,7 @@
         <w xml:id="WP_1573_Dom._25_Trin._277r_28.2" xml:lang="olt">atſibaiditi</w>
         <w xml:id="WP_1573_Dom._25_Trin._277r_28.3" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_Dom._25_Trin._277r_28.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>iſchpaſʒi<lb break="no"/>nimas</lem>
             <rdg>iſchpaſʒi<lb break="no"/>nima</rdg>
           </app></w>
@@ -1367,6 +1367,9 @@
           <app>  
             <lem>Timh:</lem>
             <rdg>Tinh:</rdg>
+          </app>
+          <app type="err">  
+            <lem>Timh:</lem>
             <rdg>Thim: / Tim:</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._25_Trin._277r_30.6" xml:lang="olt">3</w>
@@ -1511,7 +1514,7 @@
         <w xml:id="WP_1573_Dom._25_Trin._277v_9.1" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_9.2" xml:lang="olt">Pſal:</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_9.3" xml:lang="olt">
-          <app>  
+          <app hand="W/B?">  
             <lem>118</lem>
             <rdg>119.</rdg>
           </app></w>
@@ -1584,11 +1587,11 @@
 
         <w xml:id="WP_1573_Dom._25_Trin._277v_18.1" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_18.2" xml:lang="olt">Salo:</w>
-        <w xml:id="WP_1573_Dom._25_Trin._277v_18.3" xml:lang="lat">
-          <app>  
-            <lem>prouer:</lem>
+        <w xml:id="WP_1573_Dom._25_Trin._277v_18.3" xml:lang="lat">prouer</w>
+          <punct><app>  
+            <lem>:</lem>
             <rdg>,</rdg>
-          </app></w>
+          </app></punct>
         <w xml:id="WP_1573_Dom._25_Trin._277v_18.4" xml:lang="lat">18</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_18.5" xml:lang="lat">cap:</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_18.6" xml:lang="olt">bi<lb break="no"/>la:</w>
@@ -1611,7 +1614,7 @@
         <w xml:id="WP_1573_Dom._25_Trin._277v_20.3" xml:lang="olt">Diewa</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_20.4" xml:lang="olt">tap</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_20.5" xml:lang="olt">
-          <app>  
+          <app hand="S/W">  
             <lem>paſsitikes</lem>
             <rdg>paſsitekes</rdg>
           </app></w>
@@ -1652,7 +1655,7 @@
         <w xml:id="WP_1573_Dom._25_Trin._277v_25.3" xml:lang="olt">turres</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_25.4" xml:lang="olt">buti,</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_25.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>knrie</lem>
             <rdg>kurie</rdg>
           </app></w>
@@ -1686,7 +1689,7 @@
         <w xml:id="WP_1573_Dom._25_Trin._277v_28.2" xml:lang="olt">ſchas</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_28.3" xml:lang="olt">dienas</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_28.4" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>Enang:</lem>
             <rdg>Euang:</rdg>
           </app></w>
@@ -1696,7 +1699,7 @@
 
         <w xml:id="WP_1573_Dom._25_Trin._277v_29.1" xml:lang="olt">Schiſkat</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_29.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>praneſchiu</lem>
             <rdg>praneſchiau</rdg>
           </app></w>
@@ -1717,11 +1720,10 @@
         <w xml:id="WP_1573_Dom._25_Trin._277v_31.1" xml:lang="olt">papiktinimai</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_31.2" xml:lang="olt">perſekdineimai,</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_31.3" xml:lang="olt">kitti</w>
-        <w xml:id="WP_1573_Dom._25_Trin._277v_31.4" xml:lang="olt">
-          <app>  
-            <lem>am<lb break="no"/>ſʒina</lem>
-            <rdg>Kaip taip maſʒ ira kurie Cħru Jeſu iſchpaſʒinſta.</rdg>
-          </app></w>
+        <w xml:id="WP_1573_Dom._25_Trin._277v_31.4" xml:lang="olt">am<lb break="no"/>ſʒina</w>
+            <!-- This sermon has alterations by S, either squeezed above the line
+        or in the margins. He doesn't cross out the word in the text they pertain to. This makes it hard to tell if they're meant as replacements,
+        insertions, or alternatives.Kaip taip maſʒ ira kurie Cħru Jeſu iſchpaſʒinſta.-->
         </l>
         <l n="32" xml:id="WP_1573_Dom._25_Trin._277v_32">
 
@@ -1756,7 +1758,7 @@
         <w xml:id="WP_1573_Dom._25_Trin._277v_35.3" xml:lang="olt">cʒeſu</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_35.4" xml:lang="olt">bus</w>
         <w xml:id="WP_1573_Dom._25_Trin._277v_35.5" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>atſiſʒade</lem>
             <rdg>atſiſʒades</rdg>
           </app></w>
@@ -1958,34 +1960,16 @@
         <w xml:id="WP_1573_Dom._25_Trin._278r_17.1" xml:lang="olt">artima</w>
         <w xml:id="WP_1573_Dom._25_Trin._278r_17.2" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_Dom._25_Trin._278r_17.3" xml:lang="olt">giwendami</w>
-        <w xml:id="WP_1573_Dom._25_Trin._278r_17.4" xml:lang="olt">
-          <app>  
-            <lem>ir</lem>
-            <rdg>&lt;&lt;...&gt;&gt;</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._25_Trin._278r_17.5" xml:lang="olt">
-          <app>  
-            <lem>mileghi<lb break="no"/>mi</lem>
-            <rdg>&lt;&lt;...&gt;&gt;</rdg>
-          </app></w>
-        </l>
-        <l n="18" xml:id="WP_1573_Dom._25_Trin._278r_18">
+          <del>
+            <w xml:id="WP_1573_Dom._25_Trin._278r_17.4" xml:lang="olt">ir</w>
+            <w xml:id="WP_1573_Dom._25_Trin._278r_17.5" xml:lang="olt">mileghi<lb break="no"/>mi</w>
+            </l>
+            <l n="18" xml:id="WP_1573_Dom._25_Trin._278r_18">
 
-        <w xml:id="WP_1573_Dom._25_Trin._278r_18.1" xml:lang="olt">
-          <app>  
-            <lem>artima</lem>
-            <rdg>&lt;&lt;...&gt;&gt;</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._25_Trin._278r_18.2" xml:lang="olt">
-          <app>  
-            <lem>ſawa</lem>
-            <rdg>&lt;&lt;...&gt;&gt;</rdg>
-          </app></w>
-        <w xml:id="WP_1573_Dom._25_Trin._278r_18.3" xml:lang="olt">
-          <app>  
-            <lem>giwendami</lem>
-            <rdg>&lt;&lt;...&gt;&gt;</rdg>
-          </app></w>
+            <w xml:id="WP_1573_Dom._25_Trin._278r_18.1" xml:lang="olt">artima</w>
+            <w xml:id="WP_1573_Dom._25_Trin._278r_18.2" xml:lang="olt">ſawa</w>
+            <w xml:id="WP_1573_Dom._25_Trin._278r_18.3" xml:lang="olt">giwendami</w>
+          </del>
         <w xml:id="WP_1573_Dom._25_Trin._278r_18.4" xml:lang="olt">lauktumbim</w>
         </l>
         <l n="19" xml:id="WP_1573_Dom._25_Trin._278r_19">
@@ -2001,12 +1985,12 @@
         <l n="20" xml:id="WP_1573_Dom._25_Trin._278r_20">
 
         <w xml:id="WP_1573_Dom._25_Trin._278r_20.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>munns</lem>
             <rdg>mums</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._25_Trin._278r_20.2" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>pelnu</lem>
             <rdg>pilnu</rdg>
           </app></w>
