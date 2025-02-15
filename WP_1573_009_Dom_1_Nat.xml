@@ -505,7 +505,11 @@
         </l>
         <l n="17" xml:id="WP_1573_Dom._1_Nat._42v_17">
 
-        <w xml:id="WP_1573_Dom._1_Nat._42v_17.1" xml:lang="olt">detumbin</w>
+        <w xml:id="WP_1573_Dom._1_Nat._42v_17.1" xml:lang="olt">
+        <app type="err">
+          <lem>detumbin</lem>
+          <rdg>detumbim</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._1_Nat._42v_17.2" xml:lang="olt">ſʒirdin</w>
         <w xml:id="WP_1573_Dom._1_Nat._42v_17.3" xml:lang="olt">ſawa,</w>
         <w xml:id="WP_1573_Dom._1_Nat._42v_17.4" xml:lang="olt">a</w>
@@ -825,7 +829,11 @@
         <w xml:id="WP_1573_Dom._1_Nat._43r_4.2" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_Dom._1_Nat._43r_4.3" xml:lang="olt">didei</w>
         <w xml:id="WP_1573_Dom._1_Nat._43r_4.4" xml:lang="olt">werkie,</w>
-        <w xml:id="WP_1573_Dom._1_Nat._43r_4.5" xml:lang="olt">gailedamaſsi</w>
+        <w xml:id="WP_1573_Dom._1_Nat._43r_4.5" xml:lang="olt">
+        <app type="err">
+          <lem>gailedamaſsi</lem>
+          <rdg>gailedameſsi</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._1_Nat._43r_4.6" xml:lang="olt">ta,</w>
         </l>
         <l n="5" xml:id="WP_1573_Dom._1_Nat._43r_5">
@@ -1322,12 +1330,15 @@
         </l>
         <l n="6" xml:id="WP_1573_Dom._1_Nat._43v_6">
 
-        <w xml:id="WP_1573_Dom._1_Nat._43v_6.1" xml:lang="olt">
-          <app>  
+        <app type="err">
+          <lem><w xml:id="WP_1573_Dom._1_Nat._43v_6.1" xml:lang="olt">
+          <app>
             <lem>An</lem>
             <rdg>Ar</rdg>
           </app></w>
-        <w xml:id="WP_1573_Dom._1_Nat._43v_6.2" xml:lang="olt">tai</w>
+          <w xml:id="WP_1573_Dom._1_Nat._43v_6.2" xml:lang="olt">tai</w></lem>
+          <rdg>Antai</rdg>
+        </app>
         <w xml:id="WP_1573_Dom._1_Nat._43v_6.3" xml:lang="olt">mumis</w>
         <w xml:id="WP_1573_Dom._1_Nat._43v_6.4" xml:lang="olt">latrauientemus</w>
         <w xml:id="WP_1573_Dom._1_Nat._43v_6.5" xml:lang="olt">tingintemus</w>
@@ -1646,6 +1657,10 @@
           <app>  
             <lem>priſsiwertimma</lem>
             <rdg>pre</rdg>
+          </app>
+          <app type="err">  
+            <lem>priſsiwertimma</lem>
+            <rdg>priſsiwertimmu</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._1_Nat._43v_33.4" xml:lang="olt">panap</w>
         <w xml:id="WP_1573_Dom._1_Nat._43v_33.5" xml:lang="olt">Die<lb break="no"/>wap,</w>

@@ -2001,7 +2001,11 @@
         <w xml:id="WP_1573_Dom._2_Adv._8r_33.5" xml:lang="olt">cʒeſe</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_33.6" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_Dom._2_Adv._8r_33.7" xml:lang="olt">dabar</w>
-        <w xml:id="WP_1573_Dom._2_Adv._8r_33.8" xml:lang="olt">amſʒa</w>
+        <w xml:id="WP_1573_Dom._2_Adv._8r_33.8" xml:lang="olt">
+        <app type="err">
+          <lem>amſʒa</lem>
+          <rdg>amſʒas</rdg>
+        </app></w>
         </l>
         <l n="34" xml:id="WP_1573_Dom._2_Adv._8r_34">
 
@@ -3297,7 +3301,11 @@
         <w xml:id="WP_1573_Dom._2_Adv._10r_16.2" xml:lang="olt">weiſdes</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_16.3" xml:lang="olt">ingi</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_16.4" xml:lang="olt">mane</w>
-        <w xml:id="WP_1573_Dom._2_Adv._10r_16.5" xml:lang="olt">kure</w>
+        <w xml:id="WP_1573_Dom._2_Adv._10r_16.5" xml:lang="olt">
+        <app type="err">
+          <lem>kure</lem>
+          <rdg>kuri</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_16.6" xml:lang="olt">ſubade,</w>
         <w xml:id="WP_1573_Dom._2_Adv._10r_16.7" xml:lang="olt">ir</w>
         </l>
@@ -3811,7 +3819,7 @@
         <l n="32" xml:id="WP_1573_Dom._2_Adv._10v_32">
 
         <w xml:id="WP_1573_Dom._2_Adv._10v_32.1" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>perkreiptais</lem>
             <rdg>perkreiptas</rdg>
           </app></w>
@@ -3933,7 +3941,11 @@
 
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.1" xml:lang="olt">Bagatei</w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.2" xml:lang="olt">angu</w>
-        <w xml:id="WP_1573_Dom._2_Adv._11r_9.3" xml:lang="olt">matcʒinei</w>
+        <w xml:id="WP_1573_Dom._2_Adv._11r_9.3" xml:lang="olt">
+        <app type="err">
+          <lem>matcʒinei</lem>
+          <rdg>matcʒniei</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._2_Adv._11r_9.4" xml:lang="olt">
           <app>  
             <lem>matʒnai</lem>

@@ -1453,7 +1453,11 @@
 
         <w xml:id="WP_1573_Dom._1_Adv._2v_30.1" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_Dom._1_Adv._2v_30.2" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_Dom._1_Adv._2v_30.3" xml:lang="olt">iſcharda</w>
+        <w xml:id="WP_1573_Dom._1_Adv._2v_30.3" xml:lang="olt">
+        <app type="err">
+          <lem>iſcharda</lem>
+          <rdg>iſchrada</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._1_Adv._2v_30.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_Dom._1_Adv._2v_30.5" xml:lang="olt">ludija</w>
         <w xml:id="WP_1573_Dom._1_Adv._2v_30.6" xml:lang="olt">mumis</w>
@@ -1488,7 +1492,11 @@
             <rdg>ſ:</rdg>
           </app></w>
         <w xml:id="WP_1573_Dom._1_Adv._2v_33.3" xml:lang="olt">ſ:</w>
-        <w xml:id="WP_1573_Dom._1_Adv._2v_33.4" xml:lang="olt">ludijmas</w>
+        <w xml:id="WP_1573_Dom._1_Adv._2v_33.4" xml:lang="olt">
+        <app type="err">
+          <lem>ludijmas</lem>
+          <rdg>ludijmus</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._1_Adv._2v_33.5" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_Dom._1_Adv._2v_33.6" xml:lang="olt">taigi</w>
         <w xml:id="WP_1573_Dom._1_Adv._2v_33.7" xml:lang="olt">kas</w>

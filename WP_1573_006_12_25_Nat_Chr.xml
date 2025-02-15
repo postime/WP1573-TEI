@@ -4579,7 +4579,11 @@
         </l>
         <l n="9" xml:id="WP_1573_12_25_Nat._Chr._32v_9">
 
-        <w xml:id="WP_1573_12_25_Nat._Chr._32v_9.1" xml:lang="olt">Wiſus</w>
+        <w xml:id="WP_1573_12_25_Nat._Chr._32v_9.1" xml:lang="olt">
+        <app type="err">
+          <lem>Wiſus</lem>
+          <rdg>Wiſur</rdg>
+        </app></w>
         <w xml:id="WP_1573_12_25_Nat._Chr._32v_9.2" xml:lang="olt">neſanga</w>
         <w xml:id="WP_1573_12_25_Nat._Chr._32v_9.3" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_12_25_Nat._Chr._32v_9.4" xml:lang="olt">pana</w>
@@ -5267,7 +5271,11 @@
 
         <w xml:id="WP_1573_12_25_Nat._Chr._33v_14.1" xml:lang="olt">Diewụ</w>
         <w xml:id="WP_1573_12_25_Nat._Chr._33v_14.2" xml:lang="olt">pameʒdami,</w>
-        <w xml:id="WP_1573_12_25_Nat._Chr._33v_14.3" xml:lang="olt">wiſsas</w>
+        <w xml:id="WP_1573_12_25_Nat._Chr._33v_14.3" xml:lang="olt">
+        <app type="err">
+          <lem>wiſsas</lem>
+          <rdg>wiſsus</rdg>
+        </app></w>
         <w xml:id="WP_1573_12_25_Nat._Chr._33v_14.4" xml:lang="olt">ſawe</w>
         </l>
         <l n="15" xml:id="WP_1573_12_25_Nat._Chr._33v_15">
@@ -5278,7 +5286,11 @@
         <w xml:id="WP_1573_12_25_Nat._Chr._33v_15.4" xml:lang="olt">gulda,</w>
         <w xml:id="WP_1573_12_25_Nat._Chr._33v_15.5" xml:lang="olt">iam</w>
         <w xml:id="WP_1573_12_25_Nat._Chr._33v_15.6" xml:lang="olt">ſawe</w>
-        <w xml:id="WP_1573_12_25_Nat._Chr._33v_15.7" xml:lang="olt">wiſ<lb break="no"/>ſas</w>
+        <w xml:id="WP_1573_12_25_Nat._Chr._33v_15.7" xml:lang="olt">
+        <app type="err">
+          <lem>wiſ<lb break="no"/>ſas</lem>
+          <rdg>wiſ<lb break="no"/>ſus</rdg>
+        </app></w>
         </l>
         <l n="16" xml:id="WP_1573_12_25_Nat._Chr._33v_16">
 

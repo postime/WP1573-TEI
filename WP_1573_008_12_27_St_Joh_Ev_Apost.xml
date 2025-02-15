@@ -698,7 +698,11 @@
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_27.5" xml:lang="olt">iſchganits</w>
         <punct>,</punct>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_27.7" xml:lang="olt">antru</w>
-        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_27.8" xml:lang="olt">kartu</w>
+        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_27.8" xml:lang="olt">
+        <app type="err">
+          <lem>kartu</lem>
+          <rdg>raktu</rdg>
+        </app></w>
         </l>
         <l n="28" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._39v_28">
 
@@ -1636,7 +1640,11 @@
         </l>
         <l n="32" xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_32">
 
-        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_32.1" xml:lang="olt">Radas</w>
+        <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_32.1" xml:lang="olt">
+        <app type="err">
+          <lem>Radas</lem>
+          <rdg>Radai</rdg>
+        </app></w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_32.2" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_32.3" xml:lang="olt">narime</w>
         <w xml:id="WP_1573_12_27_St._Joh._Ev._Apost._40v_32.4" xml:lang="olt">idant</w>

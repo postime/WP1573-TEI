@@ -723,6 +723,10 @@
           <app>  
             <lem>ſʒadeſsi</lem>
             <rdg>ſc</rdg>
+          </app>
+          <app type="err">  
+            <lem>ſʒadeſsi</lem>
+            <rdg>ſʒadaſsi</rdg>
           </app></w>
         <w xml:id="WP_1573_01_01_Nov._Ann._45r_38.8" xml:lang="olt">panas</w>
         </l>
@@ -912,7 +916,11 @@
         <w xml:id="WP_1573_01_01_Nov._Ann._45v_18.4" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._45v_18.5" xml:lang="olt">materimus</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._45v_18.6" xml:lang="olt">iun,</w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._45v_18.7" xml:lang="olt">la<lb break="no"/>bia</w>
+        <w xml:id="WP_1573_01_01_Nov._Ann._45v_18.7" xml:lang="olt">
+        <app type="err">
+          <lem>la<lb break="no"/>bia</lem>
+          <rdg>la<lb break="no"/>biu</rdg>
+        </app></w>
         </l>
         <l n="19" xml:id="WP_1573_01_01_Nov._Ann._45v_19">
 
@@ -1067,7 +1075,12 @@
         <w xml:id="WP_1573_01_01_Nov._Ann._45v_32.6" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._45v_32.7" xml:lang="olt">nuiemimas</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._45v_32.8" xml:lang="olt">peilu</w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._45v_32.9" xml:lang="olt">Oles,</w>
+        <w xml:id="WP_1573_01_01_Nov._Ann._45v_32.9" xml:lang="olt">
+        <app type="err">
+          <lem>Oles</lem>
+          <rdg>odeles</rdg>
+        </app></w>
+        <punct>,</punct>
         </l>
         <l n="33" xml:id="WP_1573_01_01_Nov._Ann._45v_33">
 
@@ -2897,7 +2910,11 @@
         </l>
         <l n="10" xml:id="WP_1573_01_01_Nov._Ann._48r_10">
 
-        <w xml:id="WP_1573_01_01_Nov._Ann._48r_10.1" xml:lang="olt">nutrukimu</w>
+        <w xml:id="WP_1573_01_01_Nov._Ann._48r_10.1" xml:lang="olt">
+        <app type="err">
+          <lem>nutrukimu</lem>
+          <rdg>nutrukima</rdg>
+        </app></w>
         <w xml:id="WP_1573_01_01_Nov._Ann._48r_10.2" xml:lang="olt">pakluſnus</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._48r_10.3" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._48r_10.4" xml:lang="olt">ia</w>
@@ -2977,7 +2994,11 @@
         <l n="16" xml:id="WP_1573_01_01_Nov._Ann._48r_16">
 
         <w xml:id="WP_1573_01_01_Nov._Ann._48r_16.1" xml:lang="olt">iau</w>
-        <w xml:id="WP_1573_01_01_Nov._Ann._48r_16.2" xml:lang="olt">uſʒauguſunum</w>
+        <w xml:id="WP_1573_01_01_Nov._Ann._48r_16.2" xml:lang="olt">
+        <app type="err">
+          <lem>uſʒauguſunum</lem>
+          <rdg>uſʒauguſuniun</rdg>
+        </app></w>
         <w xml:id="WP_1573_01_01_Nov._Ann._48r_16.3" xml:lang="olt">ſʒmaneſụ,</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._48r_16.4" xml:lang="olt">bus</w>
         <w xml:id="WP_1573_01_01_Nov._Ann._48r_16.5" xml:lang="olt">mumis</w>

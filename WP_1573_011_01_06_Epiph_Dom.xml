@@ -823,7 +823,12 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_29.2" xml:lang="olt">prarakas</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_29.3" xml:lang="olt">kad</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_29.4" xml:lang="olt">bua</w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_29.5" xml:lang="olt">Perſia,</w>
+        <w xml:id="WP_1573_01_06_Epiph._Dom._50v_29.5" xml:lang="olt">
+        <app type="err">
+          <lem>Perſia</lem>
+          <rdg>Perſiai</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_29.6" xml:lang="olt">cʒeſa</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._50v_29.7" xml:lang="olt">pana<lb break="no"/>waghima</w>
         </l>
@@ -949,7 +954,11 @@
         <w xml:id="WP_1573_01_06_Epiph._Dom._51r_5.3" xml:lang="olt">ik</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._51r_5.4" xml:lang="olt">tam</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._51r_5.5" xml:lang="olt">cʒeſi</w>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._51r_5.6" xml:lang="olt">kurai</w>
+        <w xml:id="WP_1573_01_06_Epiph._Dom._51r_5.6" xml:lang="olt">
+        <app type="err">
+          <lem>kurai</lem>
+          <rdg>kuram</rdg>
+        </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._51r_5.7" xml:lang="olt">weſchpats</w>
         </l>
         <l n="6" xml:id="WP_1573_01_06_Epiph._Dom._51r_6">
@@ -3445,7 +3454,11 @@
             <rdg>ne</rdg>
           </app></w>
         <punct>,</punct>
-        <w xml:id="WP_1573_01_06_Epiph._Dom._54r_15.4" xml:lang="olt">geidulị</w>
+        <w xml:id="WP_1573_01_06_Epiph._Dom._54r_15.4" xml:lang="olt">
+        <app type="err">
+          <lem>geidulị</lem>
+          <rdg>geiduliụ</rdg>
+        </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_15.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_15.6" xml:lang="olt">dumụ</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54r_15.7" xml:lang="olt">pik<lb break="no"/>tuniụ</w>
@@ -3902,7 +3915,11 @@
         </l>
         <l n="22" xml:id="WP_1573_01_06_Epiph._Dom._54v_22">
 
-        <w xml:id="WP_1573_01_06_Epiph._Dom._54v_22.1" xml:lang="olt">apſiſchweſuſi</w>
+        <w xml:id="WP_1573_01_06_Epiph._Dom._54v_22.1" xml:lang="olt">
+        <app type="err">
+          <lem>apſiſchweſuſi</lem>
+          <rdg>apſiſchwetuſi</rdg>
+        </app></w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54v_22.2" xml:lang="olt">Jra.</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54v_22.3" xml:lang="olt">Pagirti</w>
         <w xml:id="WP_1573_01_06_Epiph._Dom._54v_22.4" xml:lang="olt">tadangi</w>

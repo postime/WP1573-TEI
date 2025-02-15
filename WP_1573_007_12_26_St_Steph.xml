@@ -2355,7 +2355,11 @@
         <l n="20" xml:id="WP_1573_12_26_St._Steph._38v_20">
 
         <w xml:id="WP_1573_12_26_St._Steph._38v_20.1" xml:lang="olt">iun,</w>
-        <w xml:id="WP_1573_12_26_St._Steph._38v_20.2" xml:lang="olt">wiſsas</w>
+        <w xml:id="WP_1573_12_26_St._Steph._38v_20.2" xml:lang="olt">
+        <app type="err">
+          <lem>wiſsas</lem>
+          <rdg>wiſsa</rdg>
+        </app></w>
         <w xml:id="WP_1573_12_26_St._Steph._38v_20.3" xml:lang="olt">iun</w>
         <w xml:id="WP_1573_12_26_St._Steph._38v_20.4" xml:lang="olt">Vkiụ</w>
         <w xml:id="WP_1573_12_26_St._Steph._38v_20.5" xml:lang="olt">buwima,</w>

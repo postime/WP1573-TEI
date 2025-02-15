@@ -975,7 +975,11 @@
 
         <w xml:id="WP_1573_Dom._4_Adv._20r_5.1" xml:lang="olt">A</w>
         <w xml:id="WP_1573_Dom._4_Adv._20r_5.2" xml:lang="olt">kan</w>
-        <w xml:id="WP_1573_Dom._4_Adv._20r_5.3" xml:lang="olt">kalbi</w>
+        <w xml:id="WP_1573_Dom._4_Adv._20r_5.3" xml:lang="olt">
+        <app type="err">
+          <lem>kalbi</lem>
+          <rdg>kalba</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._4_Adv._20r_5.4" xml:lang="olt">widui</w>
         <w xml:id="WP_1573_Dom._4_Adv._20r_5.5" xml:lang="olt">iuſụ</w>
         <w xml:id="WP_1573_Dom._4_Adv._20r_5.6" xml:lang="olt">ſtawi</w>
@@ -1889,7 +1893,11 @@
         </l>
         <l n="23" xml:id="WP_1573_Dom._4_Adv._21r_23">
 
-        <w xml:id="WP_1573_Dom._4_Adv._21r_23.1" xml:lang="olt">eijancʒia</w>
+        <w xml:id="WP_1573_Dom._4_Adv._21r_23.1" xml:lang="olt">
+        <app type="err">
+          <lem>eijancʒia</lem>
+          <rdg>eijancʒiam</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._4_Adv._21r_23.2" xml:lang="olt">turrime</w>
         <w xml:id="WP_1573_Dom._4_Adv._21r_23.3" xml:lang="olt">kieliụ</w>
         <w xml:id="WP_1573_Dom._4_Adv._21r_23.4" xml:lang="olt">gatawiti,</w>
@@ -2093,7 +2101,11 @@
         <w xml:id="WP_1573_Dom._4_Adv._21v_12.5" xml:lang="olt">greku</w>
         <w xml:id="WP_1573_Dom._4_Adv._21v_12.6" xml:lang="olt">nei</w>
         <w xml:id="WP_1573_Dom._4_Adv._21v_12.7" xml:lang="olt">laika</w>
-        <w xml:id="WP_1573_Dom._4_Adv._21v_12.8" xml:lang="olt">taw</w>
+        <w xml:id="WP_1573_Dom._4_Adv._21v_12.8" xml:lang="olt">
+        <app type="err">
+          <lem>taw</lem>
+          <rdg>ta</rdg>
+        </app></w>
         <w xml:id="WP_1573_Dom._4_Adv._21v_12.9" xml:lang="olt">ſaw</w>
         </l>
         <l n="13" xml:id="WP_1573_Dom._4_Adv._21v_13">
@@ -3754,7 +3766,11 @@
           </app></w>
         <w xml:id="WP_1573_Dom._4_Adv._24r_1.3" xml:lang="olt">uſʒmuſchei</w>
         <w xml:id="WP_1573_Dom._4_Adv._24r_1.4" xml:lang="olt">kalawiju,</w>
-        <w xml:id="WP_1573_Dom._4_Adv._24r_1.5" xml:lang="olt">Materis</w>
+        <w xml:id="WP_1573_Dom._4_Adv._24r_1.5" xml:lang="olt">
+        <app type="err">
+          <lem>Materis</lem>
+          <rdg>materị</rdg>
+        </app></w>
         </l>
         <l n="2" xml:id="WP_1573_Dom._4_Adv._24r_2">
 
