@@ -23,112 +23,112 @@
   </teiHeader>
   <text type="edition" xml:id="WP_1573">
     <body>
-      <div type="textpart" subtype="sermon" xml:id="WP_1573_Tit.">
+      <div type="textpart" subtype="sermon" xml:id="WP_1573_Tit">
         <pb n="0r"/>
-        <l n="1" xml:id="WP_1573_Tit._0r_1">
+        <l n="1" xml:id="WP_1573_001_Tit_1_0r_1">
 
-        <w xml:id="WP_1573_Tit._0r_1.1" xml:lang="olt">ISCHGVLDIMAS</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_1#1" xml:lang="olt">ISCHGVLDIMAS</w>
         </l>
-        <l n="2" xml:id="WP_1573_Tit._0r_2">
+        <l n="2" xml:id="WP_1573_001_Tit_1_0r_2">
 
-        <w xml:id="WP_1573_Tit._0r_2.1" xml:lang="olt">EVANGELIV</w>
-        <w xml:id="WP_1573_Tit._0r_2.2" xml:lang="olt">PER</w>
-        <w xml:id="WP_1573_Tit._0r_2.3" xml:lang="olt">WISVS</w>
-        <w xml:id="WP_1573_Tit._0r_2.4" xml:lang="olt">MET<lb break="no"/>TVS,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_2#1" xml:lang="olt">EVANGELIV</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_2#2" xml:lang="olt">PER</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_2#3" xml:lang="olt">WISVS</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_2#4" xml:lang="olt">MET<lb break="no"/>TVS,</w>
         </l>
-        <l n="3" xml:id="WP_1573_Tit._0r_3">
+        <l n="3" xml:id="WP_1573_001_Tit_1_0r_3">
 
-        <w xml:id="WP_1573_Tit._0r_3.1" xml:lang="olt">SVRINKTAS</w>
-        <w xml:id="WP_1573_Tit._0r_3.2" xml:lang="olt">DALIMIS</w>
-        <w xml:id="WP_1573_Tit._0r_3.3" xml:lang="olt">ISCH</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_3#1" xml:lang="olt">SVRINKTAS</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_3#2" xml:lang="olt">DALIMIS</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_3#3" xml:lang="olt">ISCH</w>
         </l>
-        <l n="4" xml:id="WP_1573_Tit._0r_4">
+        <l n="4" xml:id="WP_1573_001_Tit_1_0r_4">
 
-        <w xml:id="WP_1573_Tit._0r_4.1" xml:lang="olt">DAVGIA</w>
-        <w xml:id="WP_1573_Tit._0r_4.2" xml:lang="olt">PASTILLṾ,</w>
-        <w xml:id="WP_1573_Tit._0r_4.3" xml:lang="olt">TAI</w>
-        <w xml:id="WP_1573_Tit._0r_4.4" xml:lang="olt">EST</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_4#1" xml:lang="olt">DAVGIA</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_4#2" xml:lang="olt">PASTILLṾ,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_4#3" xml:lang="olt">TAI</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_4#4" xml:lang="olt">EST</w>
         </l>
-        <l n="5" xml:id="WP_1573_Tit._0r_5">
+        <l n="5" xml:id="WP_1573_001_Tit_1_0r_5">
 
-        <w xml:id="WP_1573_Tit._0r_5.1" xml:lang="olt">ISCH</w>
-        <w xml:id="WP_1573_Tit._0r_5.2" xml:lang="olt">PASTILLAS</w>
-        <w xml:id="WP_1573_Tit._0r_5.3" xml:lang="lat">NICVLAI</w>
-        <w xml:id="WP_1573_Tit._0r_5.4" xml:lang="lat">
+        <w xml:id="WP_1573_001_Tit_1_0r_5#1" xml:lang="olt">ISCH</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_5#2" xml:lang="olt">PASTILLAS</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_5#3" xml:lang="lat">NICVLAI</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_5#4" xml:lang="lat">
           <app>  
             <lem>HE<lb break="no"/>MINGY</lem>
             <rdg>HE<lb break="no"/>MINGI</rdg>
           </app></w>
         </l>
-        <l n="6" xml:id="WP_1573_Tit._0r_6">
+        <l n="6" xml:id="WP_1573_001_Tit_1_0r_6">
 
         <punct>,</punct>
-        <w xml:id="WP_1573_Tit._0r_6.2" xml:lang="lat">ANTONY</w>
-        <w xml:id="WP_1573_Tit._0r_6.3" xml:lang="lat">CORVINI,</w>
-        <w xml:id="WP_1573_Tit._0r_6.4" xml:lang="lat">IO<lb break="no"/>ANNIS</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_6#2" xml:lang="lat">ANTONY</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_6#3" xml:lang="lat">CORVINI,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_6#4" xml:lang="lat">IO<lb break="no"/>ANNIS</w>
         </l>
-        <l n="7" xml:id="WP_1573_Tit._0r_7">
+        <l n="7" xml:id="WP_1573_001_Tit_1_0r_7">
 
-        <w xml:id="WP_1573_Tit._0r_7.1" xml:lang="lat">SPANGENBERGI,</w>
-        <w xml:id="WP_1573_Tit._0r_7.2" xml:lang="lat">MAR<lb break="no"/>TINI</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_7#1" xml:lang="lat">SPANGENBERGI,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_7#2" xml:lang="lat">MAR<lb break="no"/>TINI</w>
         </l>
-        <l n="8" xml:id="WP_1573_Tit._0r_8">
+        <l n="8" xml:id="WP_1573_001_Tit_1_0r_8">
 
-        <w xml:id="WP_1573_Tit._0r_8.1" xml:lang="lat">LVTHERI,</w>
-        <w xml:id="WP_1573_Tit._0r_8.2" xml:lang="lat">PHILIPPI</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_8#1" xml:lang="lat">LVTHERI,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_8#2" xml:lang="lat">PHILIPPI</w>
         </l>
-        <l n="9" xml:id="WP_1573_Tit._0r_9">
+        <l n="9" xml:id="WP_1573_001_Tit_1_0r_9">
 
-        <w xml:id="WP_1573_Tit._0r_9.1" xml:lang="lat">MELANTHONIS,</w>
-        <w xml:id="WP_1573_Tit._0r_9.2" xml:lang="lat">IOANNIS</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_9#1" xml:lang="lat">MELANTHONIS,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_9#2" xml:lang="lat">IOANNIS</w>
         </l>
-        <l n="10" xml:id="WP_1573_Tit._0r_10">
+        <l n="10" xml:id="WP_1573_001_Tit_1_0r_10">
 
-        <w xml:id="WP_1573_Tit._0r_10.1" xml:lang="lat">BRENTY,</w>
-        <w xml:id="WP_1573_Tit._0r_10.2" xml:lang="lat">ARSATY,</w>
-        <w xml:id="WP_1573_Tit._0r_10.3" xml:lang="lat">SCHO<lb break="no"/>PER,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_10#1" xml:lang="lat">BRENTY,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_10#2" xml:lang="lat">ARSATY,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_10#3" xml:lang="lat">SCHO<lb break="no"/>PER,</w>
         </l>
-        <l n="11" xml:id="WP_1573_Tit._0r_11">
+        <l n="11" xml:id="WP_1573_001_Tit_1_0r_11">
 
-        <w xml:id="WP_1573_Tit._0r_11.1" xml:lang="lat">LEONARDI</w>
-        <w xml:id="WP_1573_Tit._0r_11.2" xml:lang="lat">KVLMĒ<lb break="no"/>NI</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_11#1" xml:lang="lat">LEONARDI</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_11#2" xml:lang="lat">KVLMĒ<lb break="no"/>NI</w>
         </l>
-        <l n="12" xml:id="WP_1573_Tit._0r_12">
+        <l n="12" xml:id="WP_1573_001_Tit_1_0r_12">
 
-        <w xml:id="WP_1573_Tit._0r_12.1" xml:lang="lat">IODOCY</w>
-        <w xml:id="WP_1573_Tit._0r_12.2" xml:lang="lat">WILICHI</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_12#1" xml:lang="lat">IODOCY</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_12#2" xml:lang="lat">WILICHI</w>
         </l>
-        <l n="13" xml:id="WP_1573_Tit._0r_13">
+        <l n="13" xml:id="WP_1573_001_Tit_1_0r_13">
 
-        <w xml:id="WP_1573_Tit._0r_13.1" xml:lang="olt">IR</w>
-        <w xml:id="WP_1573_Tit._0r_13.2" xml:lang="olt">ISCH</w>
-        <w xml:id="WP_1573_Tit._0r_13.3" xml:lang="olt">KIT<lb break="no"/>TṾ</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_13#1" xml:lang="olt">IR</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_13#2" xml:lang="olt">ISCH</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_13#3" xml:lang="olt">KIT<lb break="no"/>TṾ</w>
         </l>
-        <l n="14" xml:id="WP_1573_Tit._0r_14">
+        <l n="14" xml:id="WP_1573_001_Tit_1_0r_14">
 
-        <w xml:id="WP_1573_Tit._0r_14.1" xml:lang="olt">·</w>
-        <w xml:id="WP_1573_Tit._0r_14.2" xml:lang="grc">m̄</w>
-        <w xml:id="WP_1573_Tit._0r_14.3" xml:lang="olt">·</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_14#1" xml:lang="olt">·</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_14#2" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_14#3" xml:lang="olt">·</w>
         </l>
-        <l n="15" xml:id="WP_1573_Tit._0r_15">
+        <l n="15" xml:id="WP_1573_001_Tit_1_0r_15">
 
-        <w xml:id="WP_1573_Tit._0r_15.1" xml:lang="olt">Pirma</w>
-        <w xml:id="WP_1573_Tit._0r_15.2" xml:lang="olt">Dallis.</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_15#1" xml:lang="olt">Pirma</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_15#2" xml:lang="olt">Dallis</w>
         </l>
-        <l n="M16S-17S" xml:id="WP_1573_Tit._0r_M16S-17S">
+        <l n="M16S-17S" xml:id="WP_1573_001_Tit_1_0r_M16S-17S">
 
-        <w xml:id="WP_1573_Tit._0r_M16S-17S.1" xml:lang="olt">⌈</w>
-        <w xml:id="WP_1573_Tit._0r_M16S-17S.2" xml:lang="olt">Michael</w>
-        <w xml:id="WP_1573_Tit._0r_M16S-17S.3" xml:lang="olt">Sappun</w>
-        <w xml:id="WP_1573_Tit._0r_M16S-17S.4" xml:lang="lat">Barten<lb break="no"/>šteinenšis</w>
-        <w xml:id="WP_1573_Tit._0r_M16S-17S.5" xml:lang="olt">.⌉</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S#1" xml:lang="olt">⌈</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S#2" xml:lang="olt">Michael</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S#3" xml:lang="olt">Sappun</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S#4" xml:lang="lat">Barten<lb break="no"/>šteinenšis</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S#5" xml:lang="olt">⌉</w>
         </l>
-        <l n="M18N" xml:id="WP_1573_Tit._0r_M18N">
+        <l n="M18N" xml:id="WP_1573_001_Tit_1_0r_M18N">
 
-        <w xml:id="WP_1573_Tit._0r_M18N.1" xml:lang="olt">⌈12</w>
-        <w xml:id="WP_1573_Tit._0r_M18N.2" xml:lang="olt">·</w>
-        <w xml:id="WP_1573_Tit._0r_M18N.3" xml:lang="lat">Mš</w>
-        <w xml:id="WP_1573_Tit._0r_M18N.4" xml:lang="olt">·⌉</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M18N#1" xml:lang="olt">⌈12</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M18N#2" xml:lang="olt">·</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M18N#3" xml:lang="lat">Mš</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M18N#4" xml:lang="olt">·⌉</w>
         </l>
       </div>
     </body>
