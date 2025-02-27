@@ -149,7 +149,11 @@
 
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_14#1" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_14#2" xml:lang="olt">malanes</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_14#3" xml:lang="olt">pilniụ</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_14#3" xml:lang="olt">
+        <app type="err">
+          <lem>pilniụ</lem>
+          <rdg>pilnụ</rdg>
+        </app></w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_14#4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_14#5" xml:lang="olt">iſchgannitingu</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_14#6" xml:lang="olt">pra<lb break="no"/>ſideijmụ</w>
@@ -1342,7 +1346,11 @@
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_4#1" xml:lang="olt">tada</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_4#2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_4#3" xml:lang="olt">mes</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_116r_4#4" xml:lang="olt">taſiegi</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_116r_4#4" xml:lang="olt">
+        <app type="err">
+          <lem>taſiegi</lem>
+          <rdg>taiſiegi</rdg>
+        </app></w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_4#5" xml:lang="olt">ſʒadeis</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_4#6" xml:lang="olt">ias</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_4#7" xml:lang="olt">nenaretumbim</w>
@@ -1469,7 +1477,11 @@
         <l n="17" xml:id="WP_1573_03_25_Annunc_Mar_116r_17">
 
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_17#1" xml:lang="olt">Nu</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_116r_17#2" xml:lang="olt">tado</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_116r_17#2" xml:lang="olt">
+        <app type="err">
+          <lem>tado</lem>
+          <rdg>tada</rdg>
+        </app></w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_17#3" xml:lang="olt">ſcho</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_17#4" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116r_17#5" xml:lang="olt">cʒeſu,</w>
@@ -1896,7 +1908,11 @@
         <w xml:id="WP_1573_03_25_Annunc_Mar_116v_19#5" xml:lang="olt">kas</w>
         </add>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116v_19#6" xml:lang="olt">nebutụ</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_116v_19#7" xml:lang="olt">ſkirima</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_116v_19#7" xml:lang="olt">
+        <app type="err">
+          <lem>ſkirima</lem>
+          <rdg>ſkiriama</rdg>
+        </app></w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116v_19#8" xml:lang="olt">muſu</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_116v_19#9" xml:lang="olt">dar<lb break="no"/>bams</w>
         </l>

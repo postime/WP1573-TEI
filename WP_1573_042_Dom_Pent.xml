@@ -1192,7 +1192,11 @@
         <w xml:id="WP_1573_042_Dom_Pent_181v_20#2" xml:lang="olt">Dwaſia</w>
         <w xml:id="WP_1573_042_Dom_Pent_181v_20#3" xml:lang="olt">weſʒpates</w>
         <w xml:id="WP_1573_042_Dom_Pent_181v_20#4" xml:lang="olt">pripilde</w>
-        <w xml:id="WP_1573_042_Dom_Pent_181v_20#5" xml:lang="olt">apwala<lb break="no"/>mụ</w>
+        <w xml:id="WP_1573_042_Dom_Pent_181v_20#5" xml:lang="olt">
+        <app type="err">
+          <lem>apwala<lb break="no"/>mụ</lem>
+          <rdg>apwalu<lb break="no"/>mụ</rdg>
+        </app></w>
         </l>
         <l n="21" xml:id="WP_1573_042_Dom_Pent_181v_21">
 

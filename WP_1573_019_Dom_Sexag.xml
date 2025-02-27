@@ -1563,6 +1563,10 @@
           <app>  
             <lem>ia</lem>
             <rdg>iu</rdg>
+          </app>
+          <app type="err">  
+            <lem>ia</lem>
+            <rdg>ie</rdg>
           </app></w>
         <w xml:id="WP_1573_019_Dom_Sexag_85r_26#5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_019_Dom_Sexag_85r_26#6" xml:lang="olt">patis</w>
@@ -1597,7 +1601,7 @@
         <w xml:id="WP_1573_019_Dom_Sexag_85r_29#1" xml:lang="olt">nei</w>
         <w xml:id="WP_1573_019_Dom_Sexag_85r_29#2" xml:lang="olt">waiku</w>
         <w xml:id="WP_1573_019_Dom_Sexag_85r_29#3" xml:lang="olt">
-          <app>  
+          <app type="err">  
             <lem>regu</lem>
             <rdg>ergu</rdg>
           </app></w>

@@ -269,7 +269,12 @@
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_27#2" xml:lang="olt">dweijụ</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_27#3" xml:lang="olt">karaliſtụ</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_27#4" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_27#5" xml:lang="olt">kareliụ,</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_27#5" xml:lang="olt">
+        <app type="err">
+          <lem>kareliụ</lem>
+          <rdg>kareliu</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_27#6" xml:lang="olt">ape</w>
         </l>
         <l n="28" xml:id="WP_1573_023_Dom_3_Quadr_104v_28">
@@ -293,7 +298,11 @@
         </l>
         <l n="30" xml:id="WP_1573_023_Dom_3_Quadr_104v_30">
 
-        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_30#1" xml:lang="olt">karaliſte</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_30#1" xml:lang="olt">
+        <app type="err">
+          <lem>karaliſte</lem>
+          <rdg>karaliſtei</rdg>
+        </app></w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_30#2" xml:lang="olt">welina,</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_30#3" xml:lang="olt">a</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_30#4" xml:lang="olt">wel</w>
@@ -1295,7 +1304,11 @@
         <w xml:id="WP_1573_023_Dom_3_Quadr_106r_7#4" xml:lang="olt">iſchgielbeti</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_106r_7#5" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_106r_7#6" xml:lang="olt">wiſsakia</w>
-        <w xml:id="WP_1573_023_Dom_3_Quadr_106r_7#7" xml:lang="olt">ſmarku<lb break="no"/>mu</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_106r_7#7" xml:lang="olt">
+        <app type="err">
+          <lem>ſmarku<lb break="no"/>mu</lem>
+          <rdg>ſmarku<lb break="no"/>ma</rdg>
+        </app></w>
         </l>
         <l n="8" xml:id="WP_1573_023_Dom_3_Quadr_106r_8">
 
@@ -1958,9 +1971,17 @@
         <l n="28" xml:id="WP_1573_023_Dom_3_Quadr_106v_28">
 
         <w xml:id="WP_1573_023_Dom_3_Quadr_106v_28#1" xml:lang="olt">Jdant</w>
-        <w xml:id="WP_1573_023_Dom_3_Quadr_106v_28#2" xml:lang="olt">nepretelius</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_106v_28#2" xml:lang="olt">
+        <app type="err">
+          <lem>nepretelius</lem>
+          <rdg>nepreteliaus</rdg>
+        </app></w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_106v_28#3" xml:lang="olt">ſawa</w>
-        <w xml:id="WP_1573_023_Dom_3_Quadr_106v_28#4" xml:lang="olt">karaliſtai</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_106v_28#4" xml:lang="olt">
+        <app type="err">
+          <lem>karaliſtai</lem>
+          <rdg>karaliſta</rdg>
+        </app></w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_106v_28#5" xml:lang="olt">uſʒpultụ</w>
         </l>
         <l n="29" xml:id="WP_1573_023_Dom_3_Quadr_106v_29">
@@ -3369,7 +3390,11 @@
         <l n="13" xml:id="WP_1573_023_Dom_3_Quadr_108v_13">
 
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_13#1" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_023_Dom_3_Quadr_108v_13#2" xml:lang="olt">inſtatimas</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_108v_13#2" xml:lang="olt">
+        <app type="err">
+          <lem>inſtatimas</lem>
+          <rdg>inſtatimus</rdg>
+        </app></w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_13#3" xml:lang="olt">ſʒmanụ</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_13#4" xml:lang="olt">Panas</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_13#5" xml:lang="olt">Diewas</w>

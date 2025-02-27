@@ -421,7 +421,11 @@
 
         <w xml:id="WP_1573_012_Dom_1_Epiph_55v_30#1" xml:lang="olt">wieru</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_55v_30#2" xml:lang="olt">inſwelglawa,</w>
-        <w xml:id="WP_1573_012_Dom_1_Epiph_55v_30#3" xml:lang="olt">wiſsa</w>
+        <w xml:id="WP_1573_012_Dom_1_Epiph_55v_30#3" xml:lang="olt">
+        <app type="err">
+          <lem>wiſsa</lem>
+          <rdg>wiſsaſa</rdg>
+        </app></w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_55v_30#4" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_55v_30#5" xml:lang="olt">affiroſa</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_55v_30#6" xml:lang="olt">Tan</w>
@@ -471,7 +475,10 @@
         <l n="34" xml:id="WP_1573_012_Dom_1_Epiph_55v_34">
 
         <w xml:id="WP_1573_012_Dom_1_Epiph_55v_34#1" xml:lang="olt">dienas</w>
-        <w xml:id="WP_1573_012_Dom_1_Epiph_55v_34#2" xml:lang="olt">ſchwentimai</w>
+        <w xml:id="WP_1573_012_Dom_1_Epiph_55v_34#2" xml:lang="olt"><app type="err">
+          <lem>ſchwentimai</lem>
+          <rdg>ſchwentimais</rdg>
+        </app></w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_55v_34#3" xml:lang="olt">
           <app>  
             <lem>bulawa</lem>
@@ -2262,9 +2269,14 @@
         <w xml:id="WP_1573_012_Dom_1_Epiph_58r_14#5" xml:lang="olt">Jdant</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_58r_14#6" xml:lang="olt">
           <app>  
-            <lem>nepraſʒutumbin,</lem>
+            <lem>nepraſʒutumbin</lem>
             <rdg>praſʒutumbin</rdg>
+          </app>
+          <app type="err">  
+            <lem>nepraſʒutumbin</lem>
+            <rdg>nepraſʒutumbim</rdg>
           </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_012_Dom_1_Epiph_58r_14#7" xml:lang="olt">kaip</w>
         </l>
         <l n="15" xml:id="WP_1573_012_Dom_1_Epiph_58r_15">
@@ -2793,7 +2805,10 @@
 
         <w xml:id="WP_1573_012_Dom_1_Epiph_58v_25#1" xml:lang="olt">graſʒniai</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_58v_25#2" xml:lang="olt">uſʒlaikitun,</w>
-        <w xml:id="WP_1573_012_Dom_1_Epiph_58v_25#3" xml:lang="olt">Duſchei</w>
+        <w xml:id="WP_1573_012_Dom_1_Epiph_58v_25#3" xml:lang="olt"><app type="err">
+          <lem>Duſchei</lem>
+          <rdg>Duſches</rdg>
+        </app></w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_58v_25#4" xml:lang="olt">iun</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_58v_25#5" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_58v_25#6" xml:lang="olt">rupinties,</w>

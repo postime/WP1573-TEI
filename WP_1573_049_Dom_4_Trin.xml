@@ -903,7 +903,11 @@
         </l>
         <l n="35" xml:id="WP_1573_049_Dom_4_Trin_205r_35">
 
-        <w xml:id="WP_1573_049_Dom_4_Trin_205r_35#1" xml:lang="lat">Badath</w>
+        <w xml:id="WP_1573_049_Dom_4_Trin_205r_35#1" xml:lang="lat">
+        <app type="err">
+          <lem>Badath</lem>
+          <rdg>Baldath</rdg>
+        </app></w>
         <w xml:id="WP_1573_049_Dom_4_Trin_205r_35#2" xml:lang="olt">tares</w>
         <w xml:id="WP_1573_049_Dom_4_Trin_205r_35#3" xml:lang="olt">Jobapi</w>
         <w xml:id="WP_1573_049_Dom_4_Trin_205r_35#4" xml:lang="olt">8</w>
@@ -1827,7 +1831,11 @@
         <w xml:id="WP_1573_049_Dom_4_Trin_206v_18#4" xml:lang="olt">Tai</w>
         <w xml:id="WP_1573_049_Dom_4_Trin_206v_18#5" xml:lang="olt">ne</w>
         <w xml:id="WP_1573_049_Dom_4_Trin_206v_18#6" xml:lang="olt">iei</w>
-        <w xml:id="WP_1573_049_Dom_4_Trin_206v_18#7" xml:lang="olt">atleidʒian</w>
+        <w xml:id="WP_1573_049_Dom_4_Trin_206v_18#7" xml:lang="olt">
+        <app type="err">
+          <lem>atleidʒian</lem>
+          <rdg>atleidʒia</rdg>
+        </app></w>
         </l>
         <l n="19" xml:id="WP_1573_049_Dom_4_Trin_206v_19">
 

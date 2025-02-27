@@ -1428,7 +1428,11 @@
         <w xml:id="WP_1573_048_Dom_3_Trin_202v_18#4" xml:lang="grc">m̄</w>
         <w xml:id="WP_1573_048_Dom_3_Trin_202v_18#5" xml:lang="olt">kurie</w>
         <w xml:id="WP_1573_048_Dom_3_Trin_202v_18#6" xml:lang="olt">balſu</w>
-        <w xml:id="WP_1573_048_Dom_3_Trin_202v_18#7" xml:lang="olt">Ʒakanụ</w>
+        <w xml:id="WP_1573_048_Dom_3_Trin_202v_18#7" xml:lang="olt">
+        <app type="err">
+          <lem>Ʒakanụ</lem>
+          <rdg>Ʒakana</rdg>
+        </app></w>
         <w xml:id="WP_1573_048_Dom_3_Trin_202v_18#8" xml:lang="olt">ſu<lb break="no"/>barti</w>
         </l>
         <l n="19" xml:id="WP_1573_048_Dom_3_Trin_202v_19">
@@ -1855,7 +1859,11 @@
         <w xml:id="WP_1573_048_Dom_3_Trin_203r_25#2" xml:lang="olt">eik</w>
         <w xml:id="WP_1573_048_Dom_3_Trin_203r_25#3" xml:lang="olt">pakaiui,</w>
         <w xml:id="WP_1573_048_Dom_3_Trin_203r_25#4" xml:lang="olt">Jr</w>
-        <w xml:id="WP_1573_048_Dom_3_Trin_203r_25#5" xml:lang="olt">ana</w>
+        <w xml:id="WP_1573_048_Dom_3_Trin_203r_25#5" xml:lang="olt">
+        <app type="err">
+          <lem>ana</lem>
+          <rdg>anai</rdg>
+        </app></w>
         <w xml:id="WP_1573_048_Dom_3_Trin_203r_25#6" xml:lang="olt">ma<lb break="no"/>triſʒkie</w>
         </l>
         <l n="26" xml:id="WP_1573_048_Dom_3_Trin_203r_26">

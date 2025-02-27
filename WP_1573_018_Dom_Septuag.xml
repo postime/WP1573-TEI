@@ -177,7 +177,11 @@
         <w xml:id="WP_1573_018_Dom_Septuag_80r_26#2" xml:lang="olt">wiſsus</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80r_26#3" xml:lang="olt">greſʒnus</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80r_26#4" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_80r_26#5" xml:lang="olt">priſsiwalancʒies</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_80r_26#5" xml:lang="olt">
+        <app type="err">
+          <lem>priſsiwalancʒies</lem>
+          <rdg>priſsiwalancʒius</rdg>
+        </app></w>
         <w xml:id="WP_1573_018_Dom_Septuag_80r_26#6" xml:lang="olt">malanes</w>
         </l>
         <l n="27" xml:id="WP_1573_018_Dom_Septuag_80r_27">
@@ -937,7 +941,11 @@
         <w xml:id="WP_1573_018_Dom_Septuag_81r_14#1" xml:lang="olt">Diewa</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81r_14#2" xml:lang="olt">klauſiſite,</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81r_14#3" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_81r_14#4" xml:lang="olt">klauſite</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_81r_14#4" xml:lang="olt">
+        <app type="err">
+          <lem>klauſite</lem>
+          <rdg>klauſiſite</rdg>
+        </app></w>
         <w xml:id="WP_1573_018_Dom_Septuag_81r_14#5" xml:lang="olt">wiſsụ</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81r_14#6" xml:lang="olt">priſa<lb break="no"/>kimụ</w>
         </l>
@@ -1256,6 +1264,10 @@
           <app>  
             <lem>ſchikniſparnis</lem>
             <rdg>ſchikniſparun</rdg>
+          </app>
+          <app type="err">  
+            <lem>ſchikniſparnis</lem>
+            <rdg>ſchikſchniſparnis</rdg>
           </app></w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_2#2" xml:lang="olt">uſʒ</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_2#3" xml:lang="olt">Dewu</w>
@@ -1561,12 +1573,11 @@
             <rdg>,</rdg>
           </app></w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_28#5" xml:lang="olt">ka</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_81v_28#6" xml:lang="olt">mu</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_81v_28#7" xml:lang="olt">
-          <app type="err">  
-            <lem>mus</lem>
-            <rdg>mumus</rdg>
-          </app></w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_018_Dom_Septuag_81v_28#6" xml:lang="olt">mu</w>
+          <w xml:id="WP_1573_018_Dom_Septuag_81v_28#7" xml:lang="olt">mus</w></lem>
+          <rdg>mumus</rdg>
+        </app>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_28#8" xml:lang="olt">gel<lb break="no"/>betụ,</w>
         </l>
         <l n="29" xml:id="WP_1573_018_Dom_Septuag_81v_29">
@@ -2205,7 +2216,11 @@
         <w xml:id="WP_1573_018_Dom_Septuag_82v_4#4" xml:lang="olt">wena</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82v_4#5" xml:lang="olt">Cħaus</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82v_4#6" xml:lang="olt">Jeſaus</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_82v_4#7" xml:lang="olt">mu<lb break="no"/>ka</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_82v_4#7" xml:lang="olt">
+        <app type="err">
+          <lem>mu<lb break="no"/>ka</lem>
+          <rdg>mu<lb break="no"/>kas</rdg>
+        </app></w>
         </l>
         <l n="5" xml:id="WP_1573_018_Dom_Septuag_82v_5">
 

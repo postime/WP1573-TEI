@@ -556,7 +556,11 @@
         <w xml:id="WP_1573_035_Dom_1_Pasch_161v_4#1" xml:lang="olt">ſutrinta</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_161v_4#2" xml:lang="olt">Dwaſai</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_161v_4#3" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_035_Dom_1_Pasch_161v_4#4" xml:lang="olt">drebancʒiu</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_161v_4#4" xml:lang="olt">
+        <app type="err">
+          <lem>drebancʒiu</lem>
+          <rdg>drebancʒia</rdg>
+        </app></w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_161v_4#5" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_161v_4#6" xml:lang="olt">ſʒadʒiụ</w>
         </l>
@@ -1887,7 +1891,12 @@
         <l n="5" xml:id="WP_1573_035_Dom_1_Pasch_163v_5">
 
         <w xml:id="WP_1573_035_Dom_1_Pasch_163v_5#1" xml:lang="olt">turru</w>
-        <w xml:id="WP_1573_035_Dom_1_Pasch_163v_5#2" xml:lang="olt">ſuraſchitas,</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_163v_5#2" xml:lang="olt">
+        <app type="err">
+          <lem>ſuraſchitas</lem>
+          <rdg>ſuraſchitus</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163v_5#3" xml:lang="olt">Kad</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163v_5#4" xml:lang="olt">tụ</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163v_5#5" xml:lang="olt">Ricerụ</w>
@@ -1978,7 +1987,11 @@
         <l n="14" xml:id="WP_1573_035_Dom_1_Pasch_163v_14">
 
         <w xml:id="WP_1573_035_Dom_1_Pasch_163v_14#1" xml:lang="olt">ira,</w>
-        <w xml:id="WP_1573_035_Dom_1_Pasch_163v_14#2" xml:lang="olt">newienụ</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_163v_14#2" xml:lang="olt">
+        <app type="err">
+          <lem>newienụ</lem>
+          <rdg>newiena</rdg>
+        </app></w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163v_14#3" xml:lang="olt">greka</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163v_14#4" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163v_14#5" xml:lang="olt">ſʒmagaus</w>

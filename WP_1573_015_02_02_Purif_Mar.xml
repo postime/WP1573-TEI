@@ -333,7 +333,11 @@
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_20#2" xml:lang="olt">ludijma,</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_20#3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_20#4" xml:lang="olt">te</w>
-        <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_20#5" xml:lang="olt">dot</w>
+        <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_20#5" xml:lang="olt">
+        <app type="err">
+          <lem>dot</lem>
+          <rdg>doſt</rdg>
+        </app></w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_20#6" xml:lang="olt">
           <app type="err">  
             <lem>kablanu</lem>
@@ -763,7 +767,11 @@
             <lem>kura</lem>
             <rdg>kuras</rdg>
           </app></w>
-        <w xml:id="WP_1573_015_02_02_Purif_Mar_72r_16#4" xml:lang="olt">wandena</w>
+        <w xml:id="WP_1573_015_02_02_Purif_Mar_72r_16#4" xml:lang="olt">
+        <app type="err">
+          <lem>wandena</lem>
+          <rdg>wadina</rdg>
+        </app></w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_72r_16#5" xml:lang="olt">gram<lb break="no"/>nicʒiamis</w>
         </l>
         <l n="17" xml:id="WP_1573_015_02_02_Purif_Mar_72r_17">
@@ -1847,7 +1855,11 @@
 
         <w xml:id="WP_1573_015_02_02_Purif_Mar_73v_5#1" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_73v_5#2" xml:lang="olt">teip</w>
-        <w xml:id="WP_1573_015_02_02_Purif_Mar_73v_5#3" xml:lang="olt">ſilpnus</w>
+        <w xml:id="WP_1573_015_02_02_Purif_Mar_73v_5#3" xml:lang="olt">
+        <app type="err">
+          <lem>ſilpnus</lem>
+          <rdg>ſilpnas</rdg>
+        </app></w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_73v_5#4" xml:lang="olt">dallis</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_73v_5#5" xml:lang="olt">materụ,</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_73v_5#6" xml:lang="olt">kurias</w>

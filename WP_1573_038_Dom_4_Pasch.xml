@@ -183,7 +183,12 @@
         <w xml:id="WP_1573_038_Dom_4_Pasch_169r_28#1" xml:lang="olt">Jeſụ?</w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_169r_28#2" xml:lang="olt">Ach</w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_169r_28#3" xml:lang="olt">beda</w>
-        <w xml:id="WP_1573_038_Dom_4_Pasch_169r_28#4" xml:lang="olt">butinte,</w>
+        <w xml:id="WP_1573_038_Dom_4_Pasch_169r_28#4" xml:lang="olt">
+        <app type="err">
+          <lem>butinte</lem>
+          <rdg>butu te</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_038_Dom_4_Pasch_169r_28#5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_169r_28#6" xml:lang="olt">nepaſkaititinai</w>
         </l>
@@ -1779,9 +1784,18 @@
         </l>
         <l n="6" xml:id="WP_1573_038_Dom_4_Pasch_171v_6">
 
-        <w xml:id="WP_1573_038_Dom_4_Pasch_171v_6#1" xml:lang="olt">didʒia</w>
+        <w xml:id="WP_1573_038_Dom_4_Pasch_171v_6#1" xml:lang="olt">
+        <app type="err">
+          <lem>didʒia</lem>
+          <rdg>didʒiu</rdg>
+        </app></w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_171v_6#2" xml:lang="olt">krauia</w>
-        <w xml:id="WP_1573_038_Dom_4_Pasch_171v_6#3" xml:lang="olt">praleijma,</w>
+        <w xml:id="WP_1573_038_Dom_4_Pasch_171v_6#3" xml:lang="olt">
+        <app type="err">
+          <lem>praleijma</lem>
+          <rdg>praleijmu</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_038_Dom_4_Pasch_171v_6#4" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_171v_6#5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_171v_6#6" xml:lang="olt">nog</w>

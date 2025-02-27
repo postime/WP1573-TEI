@@ -1485,7 +1485,12 @@
         </l>
         <l n="24" xml:id="WP_1573_041_Dom_6_Pasch_179r_24">
 
-        <w xml:id="WP_1573_041_Dom_6_Pasch_179r_24#1" xml:lang="olt">nepalaubancʒias,</w>
+        <w xml:id="WP_1573_041_Dom_6_Pasch_179r_24#1" xml:lang="olt">
+        <app type="err">
+          <lem>nepalaubancʒias</lem>
+          <rdg>nepalaubancʒias</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_041_Dom_6_Pasch_179r_24#2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_041_Dom_6_Pasch_179r_24#3" xml:lang="olt">wiſsakiu</w>
         </l>

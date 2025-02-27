@@ -620,7 +620,11 @@
         <w xml:id="WP_1573_032_Dom_Pasch_152v_22#2" xml:lang="olt">a</w>
         <w xml:id="WP_1573_032_Dom_Pasch_152v_22#3" xml:lang="olt">ia</w>
         <w xml:id="WP_1573_032_Dom_Pasch_152v_22#4" xml:lang="olt">prikelimu,</w>
-        <w xml:id="WP_1573_032_Dom_Pasch_152v_22#5" xml:lang="olt">pradʒias</w>
+        <w xml:id="WP_1573_032_Dom_Pasch_152v_22#5" xml:lang="olt">
+        <app type="err">
+          <lem>pradʒias</lem>
+          <rdg>pradʒia</rdg>
+        </app></w>
         <w xml:id="WP_1573_032_Dom_Pasch_152v_22#6" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_032_Dom_Pasch_152v_22#7" xml:lang="olt">galas</w>
         </l>
@@ -1380,7 +1384,11 @@
         <w xml:id="WP_1573_032_Dom_Pasch_153v_21#1" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_032_Dom_Pasch_153v_21#2" xml:lang="olt">welina</w>
         <w xml:id="WP_1573_032_Dom_Pasch_153v_21#3" xml:lang="olt">makſlụ</w>
-        <w xml:id="WP_1573_032_Dom_Pasch_153v_21#4" xml:lang="olt">apetas</w>
+        <w xml:id="WP_1573_032_Dom_Pasch_153v_21#4" xml:lang="olt">
+        <app type="err">
+          <lem>apetas</lem>
+          <rdg>ape tas</rdg>
+        </app></w>
         <w xml:id="WP_1573_032_Dom_Pasch_153v_21#5" xml:lang="olt">gramatas</w>
         </l>
         <l n="22" xml:id="WP_1573_032_Dom_Pasch_153v_22">

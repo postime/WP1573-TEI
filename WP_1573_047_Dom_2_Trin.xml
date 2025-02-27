@@ -577,9 +577,18 @@
         </l>
         <l n="22" xml:id="WP_1573_047_Dom_2_Trin_197v_22">
 
-        <w xml:id="WP_1573_047_Dom_2_Trin_197v_22#1" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_047_Dom_2_Trin_197v_22#1" xml:lang="olt">
+        <app type="err">
+          <lem>ta</lem>
+          <rdg>tas</rdg>
+        </app></w>
         <w xml:id="WP_1573_047_Dom_2_Trin_197v_22#2" xml:lang="olt">ſ:</w>
-        <w xml:id="WP_1573_047_Dom_2_Trin_197v_22#3" xml:lang="olt">Egła,</w>
+        <w xml:id="WP_1573_047_Dom_2_Trin_197v_22#3" xml:lang="olt">
+        <app type="err">
+          <lem>Egła</lem>
+          <rdg>Egłas</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_047_Dom_2_Trin_197v_22#4" xml:lang="olt">kur</w>
         <w xml:id="WP_1573_047_Dom_2_Trin_197v_22#5" xml:lang="olt">ghe</w>
         <w xml:id="WP_1573_047_Dom_2_Trin_197v_22#6" xml:lang="olt">wenat</w>
@@ -1120,7 +1129,11 @@
         </l>
         <l n="4" xml:id="WP_1573_047_Dom_2_Trin_198v_4">
 
-        <w xml:id="WP_1573_047_Dom_2_Trin_198v_4#1" xml:lang="olt">prawa</w>
+        <w xml:id="WP_1573_047_Dom_2_Trin_198v_4#1" xml:lang="olt">
+        <app type="err">
+          <lem>prawa</lem>
+          <rdg>prawas</rdg>
+        </app></w>
         <w xml:id="WP_1573_047_Dom_2_Trin_198v_4#2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_047_Dom_2_Trin_198v_4#3" xml:lang="olt">wiſsi</w>
         <w xml:id="WP_1573_047_Dom_2_Trin_198v_4#4" xml:lang="olt">wallataiei</w>
@@ -1400,7 +1413,12 @@
         </l>
         <l n="33" xml:id="WP_1573_047_Dom_2_Trin_198v_33">
 
-        <w xml:id="WP_1573_047_Dom_2_Trin_198v_33#1" xml:lang="olt">trakſchkumu,</w>
+        <w xml:id="WP_1573_047_Dom_2_Trin_198v_33#1" xml:lang="olt">
+        <app type="err">
+          <lem>trakſchkumu</lem>
+          <rdg>traſchkumu</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_047_Dom_2_Trin_198v_33#2" xml:lang="olt">karſchcʒiawimu</w>
         <w xml:id="WP_1573_047_Dom_2_Trin_198v_33#3" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_047_Dom_2_Trin_198v_33#4" xml:lang="olt">wi<lb break="no"/>ſu</w>

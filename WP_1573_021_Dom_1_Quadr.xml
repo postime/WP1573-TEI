@@ -1693,7 +1693,12 @@
           </app></w>
         <punct>,</punct>
         <w xml:id="WP_1573_021_Dom_1_Quadr_94v_16#3" xml:lang="olt">kaʒnadeijamis</w>
-        <w xml:id="WP_1573_021_Dom_1_Quadr_94v_16#4" xml:lang="olt">plebanamis,</w>
+        <w xml:id="WP_1573_021_Dom_1_Quadr_94v_16#4" xml:lang="olt">
+        <app type="err">
+          <lem>plebanamis</lem>
+          <rdg>plebanais</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_021_Dom_1_Quadr_94v_16#5" xml:lang="olt">miſtrais</w>
         </l>
         <l n="17" xml:id="WP_1573_021_Dom_1_Quadr_94v_17">
@@ -4647,7 +4652,11 @@
 
         <w xml:id="WP_1573_021_Dom_1_Quadr_98r_7#1" xml:lang="olt">ano</w>
         <w xml:id="WP_1573_021_Dom_1_Quadr_98r_7#2" xml:lang="olt">patim</w>
-        <w xml:id="WP_1573_021_Dom_1_Quadr_98r_7#3" xml:lang="olt">ſʒadʒia</w>
+        <w xml:id="WP_1573_021_Dom_1_Quadr_98r_7#3" xml:lang="olt">
+        <app type="err">
+          <lem>ſʒadʒia</lem>
+          <rdg>ſʒadʒiu</rdg>
+        </app></w>
         <w xml:id="WP_1573_021_Dom_1_Quadr_98r_7#4" xml:lang="olt">pana</w>
         <w xml:id="WP_1573_021_Dom_1_Quadr_98r_7#5" xml:lang="olt">Diewa</w>
         <w xml:id="WP_1573_021_Dom_1_Quadr_98r_7#6" xml:lang="olt">turretụ</w>
@@ -6112,7 +6121,12 @@
         <w xml:id="WP_1573_021_Dom_1_Quadr_99v_26#4" xml:lang="olt">plemes</w>
         <w xml:id="WP_1573_021_Dom_1_Quadr_99v_26#5" xml:lang="olt">ia,</w>
         <w xml:id="WP_1573_021_Dom_1_Quadr_99v_26#6" xml:lang="olt">Jdant</w>
-        <w xml:id="WP_1573_021_Dom_1_Quadr_99v_26#7" xml:lang="olt">kala<lb break="no"/>katụ,</w>
+        <w xml:id="WP_1573_021_Dom_1_Quadr_99v_26#7" xml:lang="olt">
+        <app type="err">
+          <lem>kala<lb break="no"/>katụ</lem>
+          <rdg>kale<lb break="no"/>datụ</rdg>
+        </app></w>
+        <punct>,</punct>
         </l>
         <l n="27" xml:id="WP_1573_021_Dom_1_Quadr_99v_27">
 

@@ -218,7 +218,11 @@
         <w xml:id="WP_1573_022_Dom_2_Quadr_100r_16#6" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_100r_16#7" xml:lang="olt">darama</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_100r_16#8" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_022_Dom_2_Quadr_100r_16#9" xml:lang="olt">pabenghima</w>
+        <w xml:id="WP_1573_022_Dom_2_Quadr_100r_16#9" xml:lang="olt">
+        <app type="err">
+          <lem>pabenghima</lem>
+          <rdg>pabenghiama</rdg>
+        </app></w>
         </l>
         <l n="17" xml:id="WP_1573_022_Dom_2_Quadr_100r_17">
 
@@ -784,7 +788,11 @@
         <l n="31" xml:id="WP_1573_022_Dom_2_Quadr_100v_31">
 
         <w xml:id="WP_1573_022_Dom_2_Quadr_100v_31#1" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_022_Dom_2_Quadr_100v_31#2" xml:lang="olt">dumaghima</w>
+        <w xml:id="WP_1573_022_Dom_2_Quadr_100v_31#2" xml:lang="olt">
+        <app type="err">
+          <lem>dumaghima</lem>
+          <rdg>dumaghimu</rdg>
+        </app></w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_100v_31#3" xml:lang="olt">daugiaus</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_100v_31#4" xml:lang="olt">negreſchiti,</w>
         </l>
@@ -1106,11 +1114,20 @@
 
         <w xml:id="WP_1573_022_Dom_2_Quadr_101r_20#1" xml:lang="olt">karalui,</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_101r_20#2" xml:lang="olt">Petre</w>
-        <w xml:id="WP_1573_022_Dom_2_Quadr_101r_20#3" xml:lang="olt">apłai,</w>
+        <w xml:id="WP_1573_022_Dom_2_Quadr_101r_20#3" xml:lang="olt">
+        <app type="err">
+          <lem>apłai</lem>
+          <rdg>apłe</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_022_Dom_2_Quadr_101r_20#4" xml:lang="olt">Magdalenai</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_101r_20#5" xml:lang="grc">m̄</w>
         <punct>.</punct>
-        <w xml:id="WP_1573_022_Dom_2_Quadr_101r_20#7" xml:lang="olt">kuras</w>
+        <w xml:id="WP_1573_022_Dom_2_Quadr_101r_20#7" xml:lang="olt">
+        <app type="err">
+          <lem>kuras</lem>
+          <rdg>kuros</rdg>
+        </app></w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_101r_20#8" xml:lang="olt">mu<lb break="no"/>mis</w>
         </l>
         <l n="21" xml:id="WP_1573_022_Dom_2_Quadr_101r_21">
@@ -1135,7 +1152,11 @@
             <lem>tikras</lem>
             <rdg>tikraa</rdg>
           </app></w>
-        <w xml:id="WP_1573_022_Dom_2_Quadr_101r_22#3" xml:lang="olt">newiliaus</w>
+        <w xml:id="WP_1573_022_Dom_2_Quadr_101r_22#3" xml:lang="olt">
+        <app type="err">
+          <lem>newiliaus</lem>
+          <rdg>neweliaus</rdg>
+        </app></w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_101r_22#4" xml:lang="olt">pa<lb break="no"/>kutas</w>
         </l>
         <l n="23" xml:id="WP_1573_022_Dom_2_Quadr_101r_23">
@@ -2163,7 +2184,11 @@
         <w xml:id="WP_1573_022_Dom_2_Quadr_102r_37#5" xml:lang="olt">ſaw</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_102r_37#6" xml:lang="olt">anſai</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_102r_37#7" xml:lang="olt">didiſis</w>
-        <w xml:id="WP_1573_022_Dom_2_Quadr_102r_37#8" xml:lang="olt">ſuſsimi<lb break="no"/>milimas</w>
+        <w xml:id="WP_1573_022_Dom_2_Quadr_102r_37#8" xml:lang="olt">
+        <app type="err">
+          <lem>ſuſsimi<lb break="no"/>milimas</lem>
+          <rdg>ſuſsimi<lb break="no"/>limas</rdg>
+        </app></w>
         </l>
         <l n="M19" xml:id="WP_1573_022_Dom_2_Quadr_102r_M19">
 
@@ -2824,7 +2849,11 @@
         <w xml:id="WP_1573_022_Dom_2_Quadr_103r_21#4" xml:lang="olt">k</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_103r_21#5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_103r_21#6" xml:lang="olt">k</w>
-        <w xml:id="WP_1573_022_Dom_2_Quadr_103r_21#7" xml:lang="olt">karelius</w>
+        <w xml:id="WP_1573_022_Dom_2_Quadr_103r_21#7" xml:lang="olt">
+        <app type="err">
+          <lem>karelius</lem>
+          <rdg>karelaus</rdg>
+        </app></w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_103r_21#8" xml:lang="olt">Manaſse</w>
         </l>
         <l n="22" xml:id="WP_1573_022_Dom_2_Quadr_103r_22">

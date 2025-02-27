@@ -2235,7 +2235,11 @@
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130r_16#1" xml:lang="olt">kiele,</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130r_16#2" xml:lang="olt">Turri</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_130r_16#3" xml:lang="olt">gauteſsi</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_130r_16#3" xml:lang="olt">
+        <app type="err">
+          <lem>gauteſsi</lem>
+          <rdg>glauſteſsi</rdg>
+        </app></w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130r_16#4" xml:lang="olt">ia,</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130r_16#5" xml:lang="olt">a</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130r_16#6" xml:lang="olt">abem</w>
@@ -2632,7 +2636,11 @@
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_15#1" xml:lang="olt">ik</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_15#2" xml:lang="olt">attais</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_15#3" xml:lang="olt">Teingi</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_15#3" xml:lang="olt">
+        <app type="err">
+          <lem>Teingi</lem>
+          <rdg>Teiegi</rdg>
+        </app></w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_15#4" xml:lang="olt">ſʒadei</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_15#5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_15#6" xml:lang="olt">pates</w>
@@ -2953,7 +2961,11 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_4#2" xml:lang="olt">a</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_4#3" xml:lang="olt">kurſai</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_4#4" xml:lang="olt">ant</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_4#5" xml:lang="olt">duſchia</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_4#5" xml:lang="olt">
+        <app type="err">
+          <lem>duſchia</lem>
+          <rdg>duſchias</rdg>
+        </app></w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_4#6" xml:lang="olt">a</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_4#7" xml:lang="olt">ſạſʒinas</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_4#8" xml:lang="olt">ſawa</w>
@@ -3045,7 +3057,11 @@
         <l n="12" xml:id="WP_1573_028_Fer_5_Magn_mat_131r_12">
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_12#1" xml:lang="olt">kuria</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_12#2" xml:lang="olt">krauia</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_12#2" xml:lang="olt">
+        <app type="err">
+          <lem>krauia</lem>
+          <rdg>krauiu</rdg>
+        </app></w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_12#3" xml:lang="olt">kad</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_12#4" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_12#5" xml:lang="olt">Ecdwerijas</w>
@@ -3291,7 +3307,11 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_35#1" xml:lang="olt">ſawe</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_35#2" xml:lang="olt">ſudija,</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_35#3" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_35#4" xml:lang="olt">wiſsus</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_35#4" xml:lang="olt">
+        <app type="err">
+          <lem>wiſsus</lem>
+          <rdg>wiſsur</rdg>
+        </app></w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_35#5" xml:lang="olt">hadniſtes</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_35#6" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131r_35#7" xml:lang="olt">laukda<lb break="no"/>mi</w>
@@ -4151,7 +4171,11 @@
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_7#1" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_7#2" xml:lang="olt">ios</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_7#3" xml:lang="olt">iam</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_7#3" xml:lang="olt">
+        <app type="err">
+          <lem>iam</lem>
+          <rdg>iem</rdg>
+        </app></w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_7#4" xml:lang="olt">turretụ</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_7#5" xml:lang="olt">atleiſti</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_7#6" xml:lang="olt">panas</w>

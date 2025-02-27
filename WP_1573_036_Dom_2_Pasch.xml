@@ -530,7 +530,11 @@
         <l n="15" xml:id="WP_1573_036_Dom_2_Pasch_164v_15">
 
         <w xml:id="WP_1573_036_Dom_2_Pasch_164v_15#1" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_036_Dom_2_Pasch_164v_15#2" xml:lang="olt">mucʒitas</w>
+        <w xml:id="WP_1573_036_Dom_2_Pasch_164v_15#2" xml:lang="olt">
+        <app type="err">
+          <lem>mucʒitas</lem>
+          <rdg>mucʒitais</rdg>
+        </app></w>
         <w xml:id="WP_1573_036_Dom_2_Pasch_164v_15#3" xml:lang="olt">ſanſʒinụ,</w>
         <w xml:id="WP_1573_036_Dom_2_Pasch_164v_15#4" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_036_Dom_2_Pasch_164v_15#5" xml:lang="olt">ira</w>
@@ -1024,7 +1028,11 @@
         </l>
         <l n="20" xml:id="WP_1573_036_Dom_2_Pasch_165r_20">
 
-        <w xml:id="WP_1573_036_Dom_2_Pasch_165r_20#1" xml:lang="olt">mes</w>
+        <w xml:id="WP_1573_036_Dom_2_Pasch_165r_20#1" xml:lang="olt">
+        <app type="err">
+          <lem>mes</lem>
+          <rdg>nes</rdg>
+        </app></w>
         <w xml:id="WP_1573_036_Dom_2_Pasch_165r_20#2" xml:lang="olt">
           <app type="err">  
             <lem>linkſnniaus</lem>

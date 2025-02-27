@@ -1727,7 +1727,11 @@
 
         <w xml:id="WP_1573_037_Dom_3_Pasch_168r_33#1" xml:lang="olt">cʒeſningeſniu</w>
         <w xml:id="WP_1573_037_Dom_3_Pasch_168r_33#2" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_037_Dom_3_Pasch_168r_33#3" xml:lang="olt">ſchlawingeſnuu</w>
+        <w xml:id="WP_1573_037_Dom_3_Pasch_168r_33#3" xml:lang="olt">
+        <app type="err">
+          <lem>ſchlawingeſnuu</lem>
+          <rdg>ſchlawingeſniu</rdg>
+        </app></w>
         <w xml:id="WP_1573_037_Dom_3_Pasch_168r_33#4" xml:lang="olt">wiru</w>
         <w xml:id="WP_1573_037_Dom_3_Pasch_168r_33#5" xml:lang="olt">del</w>
         <w xml:id="WP_1573_037_Dom_3_Pasch_168r_33#6" xml:lang="olt">iụ</w>

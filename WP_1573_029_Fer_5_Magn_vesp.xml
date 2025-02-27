@@ -359,7 +359,11 @@
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_31#2" xml:lang="olt">iſsirada,</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_31#3" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_31#4" xml:lang="olt">nepigai</w>
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_31#5" xml:lang="olt">tẹ</w>
+        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_31#5" xml:lang="olt">
+        <app type="err">
+          <lem>tẹ</lem>
+          <rdg>te</rdg>
+        </app></w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_31#6" xml:lang="olt">kure</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_31#7" xml:lang="olt">teip</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_31#8" xml:lang="olt">uſʒu<lb break="no"/>ſtiprinaija</w>
@@ -809,7 +813,11 @@
         <pb n="134v"/>
         <l n="1" xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_1">
 
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_1#1" xml:lang="olt">malaingai</w>
+        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_1#1" xml:lang="olt">
+        <app type="err">
+          <lem>malaingai</lem>
+          <rdg>malaningai</rdg>
+        </app></w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_1#2" xml:lang="olt">elgeſsi</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_1#3" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_1#4" xml:lang="olt">to</w>
@@ -1115,7 +1123,11 @@
         </l>
         <l n="27" xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_27">
 
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_27#1" xml:lang="olt">dawanig</w>
+        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_27#1" xml:lang="olt">
+        <app type="err">
+          <lem>dawanig</lem>
+          <rdg>dawaniep</rdg>
+        </app></w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_27#2" xml:lang="olt">doſti</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_27#3" xml:lang="olt">mumis</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_27#4" xml:lang="olt">ſawạ</w>
@@ -1149,8 +1161,11 @@
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_29#3" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_29#4" xml:lang="olt">Egłai,</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_29#5" xml:lang="olt">Kurſai</w>
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_29#6" xml:lang="olt">ta</w>
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_29#7" xml:lang="olt">da</w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_29#6" xml:lang="olt">ta</w>
+          <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_29#7" xml:lang="olt">da</w></lem>
+          <rdg>tada</rdg>
+        </app>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_29#8" xml:lang="olt">nu</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_29#9" xml:lang="olt">nenares</w>
         </l>

@@ -1754,7 +1754,11 @@
         </l>
         <l n="31" xml:id="WP_1573_046_Dom_1_Trin_195r_31">
 
-        <w xml:id="WP_1573_046_Dom_1_Trin_195r_31#1" xml:lang="olt">kaʒanis</w>
+        <w xml:id="WP_1573_046_Dom_1_Trin_195r_31#1" xml:lang="olt">
+        <app type="err">
+          <lem>kaʒanis</lem>
+          <rdg>kaʒanij</rdg>
+        </app></w>
         <w xml:id="WP_1573_046_Dom_1_Trin_195r_31#2" xml:lang="olt">pirmai</w>
         <w xml:id="WP_1573_046_Dom_1_Trin_195r_31#3" xml:lang="olt">preſch</w>
         <w xml:id="WP_1573_046_Dom_1_Trin_195r_31#4" xml:lang="olt">ſchikſchtoſius</w>

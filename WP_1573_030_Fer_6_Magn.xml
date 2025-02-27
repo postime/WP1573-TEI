@@ -4829,7 +4829,11 @@
             <lem>Jr</lem>
             <rdg>t</rdg>
           </app></w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_142r_28#3" xml:lang="olt">takia</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_142r_28#3" xml:lang="olt">
+        <app type="err">
+          <lem>takia</lem>
+          <rdg>takiam</rdg>
+        </app></w>
         <w xml:id="WP_1573_030_Fer_6_Magn_142r_28#4" xml:lang="olt">iam</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_142r_28#5" xml:lang="olt">panas</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_142r_28#6" xml:lang="olt">Dewas</w>
@@ -5526,7 +5530,11 @@
         </l>
         <l n="19" xml:id="WP_1573_030_Fer_6_Magn_143r_19">
 
-        <w xml:id="WP_1573_030_Fer_6_Magn_143r_19#1" xml:lang="olt">neiwena</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_143r_19#1" xml:lang="olt">
+        <app type="err">
+          <lem>neiwena</lem>
+          <rdg>nei wena</rdg>
+        </app></w>
         <w xml:id="WP_1573_030_Fer_6_Magn_143r_19#2" xml:lang="olt">neiſchimant</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_143r_19#3" xml:lang="olt">dawanai</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_143r_19#4" xml:lang="olt">ira</w>
@@ -5574,8 +5582,17 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#1" xml:lang="olt">tas</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#2" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#3" xml:lang="olt">dawanas</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#4" xml:lang="olt">panas</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#5" xml:lang="olt">Diewas,</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#4" xml:lang="olt">
+        <app type="err">
+          <lem>panas</lem>
+          <rdg>pana</rdg>
+        </app></w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#5" xml:lang="olt">
+        <app type="err">
+          <lem>Diewas</lem>
+          <rdg>Diewa</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#6" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#7" xml:lang="olt">takias</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_143r_23#8" xml:lang="olt">ne<lb break="no"/>malaniſtes</w>
@@ -6211,7 +6228,11 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_12#1" xml:lang="olt">Pirmaſis</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_12#2" xml:lang="olt">tadangi</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_12#3" xml:lang="olt">ta</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_144r_12#4" xml:lang="olt">waiſaus</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_144r_12#4" xml:lang="olt">
+        <app type="err">
+          <lem>waiſaus</lem>
+          <rdg>waiſus</rdg>
+        </app></w>
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_12#5" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_12#6" xml:lang="olt">tas,</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_12#7" xml:lang="olt">kaipa<lb break="no"/>ghi</w>
@@ -7103,7 +7124,11 @@
 
         <w xml:id="WP_1573_030_Fer_6_Magn_145r_16#1" xml:lang="olt">willataieis,</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_145r_16#2" xml:lang="olt">neteiſeninkais</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_145r_16#3" xml:lang="olt">melaghis</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_145r_16#3" xml:lang="olt">
+        <app type="err">
+          <lem>melaghis</lem>
+          <rdg>melagheis</rdg>
+        </app></w>
         <w xml:id="WP_1573_030_Fer_6_Magn_145r_16#4" xml:lang="olt">buſi<lb break="no"/>me</w>
         </l>
         <l n="17" xml:id="WP_1573_030_Fer_6_Magn_145r_17">
@@ -9423,7 +9448,11 @@
 
         <w xml:id="WP_1573_030_Fer_6_Magn_147v_31#1" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147v_31#2" xml:lang="olt">muſụ</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_147v_31#3" xml:lang="olt">tikra</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_147v_31#3" xml:lang="olt">
+        <app type="err">
+          <lem>tikra</lem>
+          <rdg>tikras</rdg>
+        </app></w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147v_31#4" xml:lang="olt">ira,</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147v_31#5" xml:lang="olt">mumis</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147v_31#6" xml:lang="olt">ant</w>
@@ -10006,7 +10035,11 @@
         <l n="10" xml:id="WP_1573_030_Fer_6_Magn_148v_10">
 
         <w xml:id="WP_1573_030_Fer_6_Magn_148v_10#1" xml:lang="olt">teip</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_148v_10#2" xml:lang="olt">nenarị</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_148v_10#2" xml:lang="olt">
+        <app type="err">
+          <lem>nenarị</lem>
+          <rdg>nenari</rdg>
+        </app></w>
         <w xml:id="WP_1573_030_Fer_6_Magn_148v_10#3" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_148v_10#4" xml:lang="olt">ghị</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_148v_10#5" xml:lang="olt">tiketi,</w>
@@ -11124,7 +11157,11 @@
         </l>
         <l n="12" xml:id="WP_1573_030_Fer_6_Magn_150r_12">
 
-        <w xml:id="WP_1573_030_Fer_6_Magn_150r_12#1" xml:lang="olt">ſaw</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_150r_12#1" xml:lang="olt">
+        <app type="err">
+          <lem>ſaw</lem>
+          <rdg>ſu</rdg>
+        </app></w>
         <w xml:id="WP_1573_030_Fer_6_Magn_150r_12#2" xml:lang="olt">weru</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_150r_12#3" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_150r_12#4" xml:lang="olt">per</w>

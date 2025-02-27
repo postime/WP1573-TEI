@@ -5202,7 +5202,12 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_6#4" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_6#5" xml:lang="olt">buti</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_6#6" xml:lang="olt">materimus</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_6#7" xml:lang="olt">ſawe<lb break="no"/>mus,</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_6#7" xml:lang="olt">
+        <app type="err">
+          <lem>ſawe<lb break="no"/>mus</lem>
+          <rdg>ſawo<lb break="no"/>mus</rdg>
+        </app></w>
+        <punct>,</punct>
         </l>
         <l n="7" xml:id="WP_1573_013_Dom_2_Epiph_67r_7">
 
@@ -6514,7 +6519,11 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_68v_16#1" xml:lang="olt">ſcheiminas,</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68v_16#2" xml:lang="olt">didei</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68v_16#3" xml:lang="olt">graſnai</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_68v_16#4" xml:lang="olt">laikima</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_68v_16#4" xml:lang="olt">
+        <app type="err">
+          <lem>laikima</lem>
+          <rdg>laikimas</rdg>
+        </app></w>
         </l>
         <l n="17" xml:id="WP_1573_013_Dom_2_Epiph_68v_17">
 

@@ -776,7 +776,11 @@
         <w xml:id="WP_1573_017_Dom_5_Epiph_78r_2#5" xml:lang="olt">Galileijas,</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_78r_2#6" xml:lang="olt">ka</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_78r_2#7" xml:lang="olt">ſtebiteſsi,</w>
-        <w xml:id="WP_1573_017_Dom_5_Epiph_78r_2#8" xml:lang="olt">weidſ<lb break="no"/>dedami</w>
+        <w xml:id="WP_1573_017_Dom_5_Epiph_78r_2#8" xml:lang="olt">
+        <app type="err">
+          <lem>weidſ<lb break="no"/>dedami</lem>
+          <rdg>weiſ<lb break="no"/>dedami</rdg>
+        </app></w>
         </l>
         <l n="3" xml:id="WP_1573_017_Dom_5_Epiph_78r_3">
 

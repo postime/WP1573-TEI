@@ -543,7 +543,11 @@
         <l n="6" xml:id="WP_1573_014_Dom_3_Epiph_69v_6">
 
         <w xml:id="WP_1573_014_Dom_3_Epiph_69v_6#1" xml:lang="olt">angu</w>
-        <w xml:id="WP_1573_014_Dom_3_Epiph_69v_6#2" xml:lang="olt">kalba</w>
+        <w xml:id="WP_1573_014_Dom_3_Epiph_69v_6#2" xml:lang="olt">
+        <app type="err">
+          <lem>kalba</lem>
+          <rdg>kaba</rdg>
+        </app></w>
         <w xml:id="WP_1573_014_Dom_3_Epiph_69v_6#3" xml:lang="olt">ant</w>
         <w xml:id="WP_1573_014_Dom_3_Epiph_69v_6#4" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_014_Dom_3_Epiph_69v_6#5" xml:lang="olt">del</w>
@@ -701,7 +705,11 @@
         <w xml:id="WP_1573_014_Dom_3_Epiph_69v_20#4" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_014_Dom_3_Epiph_69v_20#5" xml:lang="olt">dʒiuſta</w>
         <w xml:id="WP_1573_014_Dom_3_Epiph_69v_20#6" xml:lang="olt">ane</w>
-        <w xml:id="WP_1573_014_Dom_3_Epiph_69v_20#7" xml:lang="olt">pakaginga</w>
+        <w xml:id="WP_1573_014_Dom_3_Epiph_69v_20#7" xml:lang="olt">
+        <app type="err">
+          <lem>pakaginga</lem>
+          <rdg>pakagingas</rdg>
+        </app></w>
         <w xml:id="WP_1573_014_Dom_3_Epiph_69v_20#8" xml:lang="olt">ira,</w>
         </l>
         <l n="21" xml:id="WP_1573_014_Dom_3_Epiph_69v_21">
@@ -1664,7 +1672,12 @@
         <w xml:id="WP_1573_014_Dom_3_Epiph_70v_29#3" xml:lang="olt">wiſsakia</w>
         <w xml:id="WP_1573_014_Dom_3_Epiph_70v_29#4" xml:lang="olt">beda</w>
         <w xml:id="WP_1573_014_Dom_3_Epiph_70v_29#5" xml:lang="olt">a</w>
-        <w xml:id="WP_1573_014_Dom_3_Epiph_70v_29#6" xml:lang="olt">wargi,</w>
+        <w xml:id="WP_1573_014_Dom_3_Epiph_70v_29#6" xml:lang="olt">
+        <app type="err">
+          <lem>wargi</lem>
+          <rdg>wargai</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_014_Dom_3_Epiph_70v_29#7" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_014_Dom_3_Epiph_70v_29#8" xml:lang="olt">kaipagi</w>
         </l>
