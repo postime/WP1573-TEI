@@ -75,6 +75,10 @@
           <app>  
             <lem>Egłai</lem>
             <rdg>in</rdg>
+          </app>
+          <app>  
+            <lem>Egłai</lem>
+            <rdg>Egła</rdg>
           </app></w>
         <w xml:id="WP_1573_067_Dom_22_Trin_264v_12#3" xml:lang="olt">m:</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_264v_12#4" xml:lang="olt">k:</w>
@@ -547,7 +551,11 @@
         <w xml:id="WP_1573_067_Dom_22_Trin_265r_27#2" xml:lang="olt">kad</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265r_27#3" xml:lang="olt">eſme</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265r_27#4" xml:lang="olt">kriſʒium</w>
-        <w xml:id="WP_1573_067_Dom_22_Trin_265r_27#5" xml:lang="olt">kakia</w>
+        <w xml:id="WP_1573_067_Dom_22_Trin_265r_27#5" xml:lang="olt">
+        <app type="err">
+          <lem>kakia</lem>
+          <rdg>kokiu</rdg>
+        </app></w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265r_27#6" xml:lang="olt">∻</w>
         </l>
         <l n="28" xml:id="WP_1573_067_Dom_22_Trin_265r_28">
@@ -840,7 +848,11 @@
         <w xml:id="WP_1573_067_Dom_22_Trin_265v_23#2" xml:lang="olt">mes</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265v_23#3" xml:lang="olt">m:</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265v_23#4" xml:lang="olt">k:</w>
-        <w xml:id="WP_1573_067_Dom_22_Trin_265v_23#5" xml:lang="olt">Priſakima</w>
+        <w xml:id="WP_1573_067_Dom_22_Trin_265v_23#5" xml:lang="olt">
+        <app type="err">
+          <lem>Priſakima</lem>
+          <rdg>Priſekima</rdg>
+        </app></w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265v_23#6" xml:lang="olt">didibe</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265v_23#7" xml:lang="olt">daugi<lb break="no"/>bẹ</w>
         </l>
@@ -889,7 +901,11 @@
         </l>
         <l n="29" xml:id="WP_1573_067_Dom_22_Trin_265v_29">
 
-        <w xml:id="WP_1573_067_Dom_22_Trin_265v_29#1" xml:lang="olt">nuſsitikeghima</w>
+        <w xml:id="WP_1573_067_Dom_22_Trin_265v_29#1" xml:lang="olt">
+        <app type="err">
+          <lem>nuſsitikeghima</lem>
+          <rdg>nuſsitikeghimu</rdg>
+        </app></w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265v_29#2" xml:lang="olt">Cħaus</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265v_29#3" xml:lang="olt">Jeſaus</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_265v_29#4" xml:lang="olt">tap</w>
@@ -1119,7 +1135,11 @@
         <w xml:id="WP_1573_067_Dom_22_Trin_266r_16#5" xml:lang="olt">raſcha</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_266r_16#6" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_266r_16#7" xml:lang="olt">Luc:</w>
-        <w xml:id="WP_1573_067_Dom_22_Trin_266r_16#8" xml:lang="olt">Egłiſte</w>
+        <w xml:id="WP_1573_067_Dom_22_Trin_266r_16#8" xml:lang="olt">
+        <app type="err">
+          <lem>Egłiſte</lem>
+          <rdg>Egłiſta</rdg>
+        </app></w>
         </l>
         <l n="17" xml:id="WP_1573_067_Dom_22_Trin_266r_17">
 
@@ -1406,7 +1426,11 @@
         <l n="13" xml:id="WP_1573_067_Dom_22_Trin_266v_13">
 
         <w xml:id="WP_1573_067_Dom_22_Trin_266v_13#1" xml:lang="olt">grekụ,</w>
-        <w xml:id="WP_1573_067_Dom_22_Trin_266v_13#2" xml:lang="olt">kas</w>
+        <w xml:id="WP_1573_067_Dom_22_Trin_266v_13#2" xml:lang="olt">
+        <app type="err">
+          <lem>kas</lem>
+          <rdg>ka</rdg>
+        </app></w>
         <w xml:id="WP_1573_067_Dom_22_Trin_266v_13#3" xml:lang="olt">ghiſsai</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_266v_13#4" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_067_Dom_22_Trin_266v_13#5" xml:lang="olt">daug</w>

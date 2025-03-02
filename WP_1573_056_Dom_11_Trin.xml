@@ -271,8 +271,11 @@
         <l n="9" xml:id="WP_1573_056_Dom_11_Trin_228v_9">
 
         <w xml:id="WP_1573_056_Dom_11_Trin_228v_9#1" xml:lang="olt">budu</w>
-        <w xml:id="WP_1573_056_Dom_11_Trin_228v_9#2" xml:lang="olt">io</w>
-        <w xml:id="WP_1573_056_Dom_11_Trin_228v_9#3" xml:lang="olt">du</w>
+        <app type="err">
+          <lem><w xml:id="WP_1573_056_Dom_11_Trin_228v_9#2" xml:lang="olt">io</w>
+          <w xml:id="WP_1573_056_Dom_11_Trin_228v_9#3" xml:lang="olt">du</w></lem>
+          <rdg>jodu</rdg>
+        </app>
         <w xml:id="WP_1573_056_Dom_11_Trin_228v_9#4" xml:lang="olt">abu</w>
         <w xml:id="WP_1573_056_Dom_11_Trin_228v_9#5" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_056_Dom_11_Trin_228v_9#6" xml:lang="olt">meldeſsi</w>

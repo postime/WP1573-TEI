@@ -123,7 +123,11 @@
             <lem>indiwnai</lem>
             <rdg>indiwnei</rdg>
           </app></w>
-        <w xml:id="WP_1573_058_Dom_13_Trin_234v_27#5" xml:lang="olt">ſtebuklingas</w>
+        <w xml:id="WP_1573_058_Dom_13_Trin_234v_27#5" xml:lang="olt">
+        <app type="err">
+          <lem>ſtebuklingas</lem>
+          <rdg>ſtebuklingus</rdg>
+        </app></w>
         </l>
         <l n="28" xml:id="WP_1573_058_Dom_13_Trin_234v_28">
 

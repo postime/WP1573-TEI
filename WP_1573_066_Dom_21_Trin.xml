@@ -1022,7 +1022,11 @@
         <w xml:id="WP_1573_066_Dom_21_Trin_263r_10#1" xml:lang="olt">ghiſsai</w>
         <w xml:id="WP_1573_066_Dom_21_Trin_263r_10#2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_066_Dom_21_Trin_263r_10#3" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_066_Dom_21_Trin_263r_10#4" xml:lang="olt">kitta</w>
+        <w xml:id="WP_1573_066_Dom_21_Trin_263r_10#4" xml:lang="olt">
+        <app type="err">
+          <lem>kitta</lem>
+          <rdg>kitti</rdg>
+        </app></w>
         <w xml:id="WP_1573_066_Dom_21_Trin_263r_10#5" xml:lang="olt">ſʒweris</w>
         <w xml:id="WP_1573_066_Dom_21_Trin_263r_10#6" xml:lang="olt">terpei</w>
         <w xml:id="WP_1573_066_Dom_21_Trin_263r_10#7" xml:lang="olt">ſʒwe<lb break="no"/>ru</w>
@@ -1644,7 +1648,12 @@
         <w xml:id="WP_1573_066_Dom_21_Trin_263v_35#1" xml:lang="olt">ingi</w>
         <w xml:id="WP_1573_066_Dom_21_Trin_263v_35#2" xml:lang="olt">Vgnị</w>
         <w xml:id="WP_1573_066_Dom_21_Trin_263v_35#3" xml:lang="olt">tampa</w>
-        <w xml:id="WP_1573_066_Dom_21_Trin_263v_35#4" xml:lang="olt">inneſta,</w>
+        <w xml:id="WP_1573_066_Dom_21_Trin_263v_35#4" xml:lang="olt">
+        <app type="err">
+          <lem>inneſta</lem>
+          <rdg>inneſta</rdg>
+        </app></w>
+        <punct>,</punct>
         <w xml:id="WP_1573_066_Dom_21_Trin_263v_35#5" xml:lang="olt">Ape</w>
         <w xml:id="WP_1573_066_Dom_21_Trin_263v_35#6" xml:lang="olt">kạ</w>
         </l>

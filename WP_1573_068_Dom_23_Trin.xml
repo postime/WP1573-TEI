@@ -804,7 +804,11 @@
         <w xml:id="WP_1573_068_Dom_23_Trin_269r_17#3" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_068_Dom_23_Trin_269r_17#4" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_068_Dom_23_Trin_269r_17#5" xml:lang="olt">Mathe:</w>
-        <w xml:id="WP_1573_068_Dom_23_Trin_269r_17#6" xml:lang="olt">Egłu</w>
+        <w xml:id="WP_1573_068_Dom_23_Trin_269r_17#6" xml:lang="olt">
+        <app type="err">
+          <lem>Egłu</lem>
+          <rdg>Egłas</rdg>
+        </app></w>
         <w xml:id="WP_1573_068_Dom_23_Trin_269r_17#7" xml:lang="olt">Pirma</w>
         <w xml:id="WP_1573_068_Dom_23_Trin_269r_17#8" xml:lang="olt">ne<lb break="no"/>kaip</w>
         </l>
@@ -1929,7 +1933,11 @@
 
         <w xml:id="WP_1573_068_Dom_23_Trin_270v_23#1" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_068_Dom_23_Trin_270v_23#2" xml:lang="olt">priſʒenkti</w>
-        <w xml:id="WP_1573_068_Dom_23_Trin_270v_23#3" xml:lang="olt">mileghima</w>
+        <w xml:id="WP_1573_068_Dom_23_Trin_270v_23#3" xml:lang="olt">
+        <app type="err">
+          <lem>mileghima</lem>
+          <rdg>mileghimas</rdg>
+        </app></w>
         <w xml:id="WP_1573_068_Dom_23_Trin_270v_23#4" xml:lang="olt">
           <app>  
             <lem>ia</lem>
@@ -2013,7 +2021,11 @@
             <rdg>ſawụ</rdg>
           </app></w>
         <w xml:id="WP_1573_068_Dom_23_Trin_270v_31#2" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_068_Dom_23_Trin_270v_31#3" xml:lang="olt">tarnus</w>
+        <w xml:id="WP_1573_068_Dom_23_Trin_270v_31#3" xml:lang="olt">
+        <app type="err">
+          <lem>tarnus</lem>
+          <rdg>tarnas</rdg>
+        </app></w>
         <w xml:id="WP_1573_068_Dom_23_Trin_270v_31#4" xml:lang="olt">panụ</w>
         <w xml:id="WP_1573_068_Dom_23_Trin_270v_31#5" xml:lang="olt">ſawa,</w>
         <w xml:id="WP_1573_068_Dom_23_Trin_270v_31#6" xml:lang="olt">Jeigu</w>

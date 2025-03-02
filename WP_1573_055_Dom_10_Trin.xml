@@ -929,7 +929,11 @@
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_28#2" xml:lang="olt">walgie</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_28#3" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_28#4" xml:lang="olt">Ʒakadu</w>
-        <w xml:id="WP_1573_055_Dom_10_Trin_226v_28#5" xml:lang="olt">paſ<lb break="no"/>ſiwaikſchcʒiaghimas</w>
+        <w xml:id="WP_1573_055_Dom_10_Trin_226v_28#5" xml:lang="olt">
+        <app type="err">
+          <lem>paſ<lb break="no"/>ſiwaikſchcʒiaghimas</lem>
+          <rdg>paſ<lb break="no"/>ſiwaikſchcʒiaghimus</rdg>
+        </app></w>
         </l>
         <l n="29" xml:id="WP_1573_055_Dom_10_Trin_226v_29">
 
@@ -1643,7 +1647,11 @@
         </l>
         <l n="31" xml:id="WP_1573_055_Dom_10_Trin_227v_31">
 
-        <w xml:id="WP_1573_055_Dom_10_Trin_227v_31#1" xml:lang="olt">wiſsakiu</w>
+        <w xml:id="WP_1573_055_Dom_10_Trin_227v_31#1" xml:lang="olt">
+        <app type="err">
+          <lem>wiſsakiu</lem>
+          <rdg>wiſsakia</rdg>
+        </app></w>
         <w xml:id="WP_1573_055_Dom_10_Trin_227v_31#2" xml:lang="olt">karaghima</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_227v_31#3" xml:lang="olt">iſchwenkti,</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_227v_31#4" xml:lang="olt">Jeigu</w>

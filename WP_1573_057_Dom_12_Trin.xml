@@ -1466,7 +1466,11 @@
         <l n="6" xml:id="WP_1573_057_Dom_12_Trin_233v_6">
 
         <w xml:id="WP_1573_057_Dom_12_Trin_233v_6#1" xml:lang="olt">ir</w>
-        <w xml:id="WP_1573_057_Dom_12_Trin_233v_6#2" xml:lang="olt">materes</w>
+        <w xml:id="WP_1573_057_Dom_12_Trin_233v_6#2" xml:lang="olt">
+        <app type="err">
+          <lem>materes</lem>
+          <rdg>materies</rdg>
+        </app></w>
         <w xml:id="WP_1573_057_Dom_12_Trin_233v_6#3" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_233v_6#4" xml:lang="olt">ſaras,</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_233v_6#5" xml:lang="olt">kur</w>

@@ -626,7 +626,11 @@
         <l n="9" xml:id="WP_1573_054_Dom_9_Trin_223v_9">
 
         <w xml:id="WP_1573_054_Dom_9_Trin_223v_9#1" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_054_Dom_9_Trin_223v_9#2" xml:lang="olt">ſkarbighimas</w>
+        <w xml:id="WP_1573_054_Dom_9_Trin_223v_9#2" xml:lang="olt">
+        <app type="err">
+          <lem>ſkarbighimas</lem>
+          <rdg>ſkarbighamas</rdg>
+        </app></w>
         <w xml:id="WP_1573_054_Dom_9_Trin_223v_9#3" xml:lang="olt">ſkarbas</w>
         <w xml:id="WP_1573_054_Dom_9_Trin_223v_9#4" xml:lang="olt">dangui,</w>
         <w xml:id="WP_1573_054_Dom_9_Trin_223v_9#5" xml:lang="olt">ta</w>

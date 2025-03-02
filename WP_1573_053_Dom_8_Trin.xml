@@ -160,7 +160,11 @@
         <w xml:id="WP_1573_053_Dom_8_Trin_219v_4#4" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_053_Dom_8_Trin_219v_4#5" xml:lang="olt">raſchte</w>
         <w xml:id="WP_1573_053_Dom_8_Trin_219v_4#6" xml:lang="olt">ſ:</w>
-        <w xml:id="WP_1573_053_Dom_8_Trin_219v_4#7" xml:lang="olt">ghị</w>
+        <w xml:id="WP_1573_053_Dom_8_Trin_219v_4#7" xml:lang="olt">
+        <app type="err">
+          <lem>ghị</lem>
+          <rdg>ghi</rdg>
+        </app></w>
         <w xml:id="WP_1573_053_Dom_8_Trin_219v_4#8" xml:lang="olt">priden<lb break="no"/>gimu</w>
         </l>
         <l n="5" xml:id="WP_1573_053_Dom_8_Trin_219v_5">
@@ -1505,7 +1509,11 @@
         <w xml:id="WP_1573_053_Dom_8_Trin_221r_32#1" xml:lang="olt">gielbetu,</w>
         <w xml:id="WP_1573_053_Dom_8_Trin_221r_32#2" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_053_Dom_8_Trin_221r_32#3" xml:lang="olt">del</w>
-        <w xml:id="WP_1573_053_Dom_8_Trin_221r_32#4" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_053_Dom_8_Trin_221r_32#4" xml:lang="olt">
+        <app type="err">
+          <lem>ta</lem>
+          <rdg>tu</rdg>
+        </app></w>
         <w xml:id="WP_1573_053_Dom_8_Trin_221r_32#5" xml:lang="olt">pacʒiụ</w>
         <w xml:id="WP_1573_053_Dom_8_Trin_221r_32#6" xml:lang="olt">giwuiụ</w>
         <w xml:id="WP_1573_053_Dom_8_Trin_221r_32#7" xml:lang="olt">V<lb break="no"/>bagụ,</w>

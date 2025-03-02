@@ -748,7 +748,11 @@
 
         <w xml:id="WP_1573_063_Dom_18_Trin_253r_16#1" xml:lang="olt">Dwaſias</w>
         <w xml:id="WP_1573_063_Dom_18_Trin_253r_16#2" xml:lang="olt">ſ:</w>
-        <w xml:id="WP_1573_063_Dom_18_Trin_253r_16#3" xml:lang="olt">prikelimụ</w>
+        <w xml:id="WP_1573_063_Dom_18_Trin_253r_16#3" xml:lang="olt">
+        <app type="err">
+          <lem>prikelimụ</lem>
+          <rdg>prikelimas</rdg>
+        </app></w>
         <w xml:id="WP_1573_063_Dom_18_Trin_253r_16#4" xml:lang="olt">iſch</w>
         </l>
         <l n="17" xml:id="WP_1573_063_Dom_18_Trin_253r_17">

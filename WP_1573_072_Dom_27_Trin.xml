@@ -1354,7 +1354,11 @@
         <w xml:id="WP_1573_072_Dom_27_Trin_284r_19#3" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_072_Dom_27_Trin_284r_19#4" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_072_Dom_27_Trin_284r_19#5" xml:lang="olt">prigimima</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_284r_19#6" xml:lang="olt">Diewa</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_284r_19#6" xml:lang="olt">
+        <app type="err">
+          <lem>Diewa</lem>
+          <rdg>Diewas</rdg>
+        </app></w>
         <w xml:id="WP_1573_072_Dom_27_Trin_284r_19#7" xml:lang="olt">Preg</w>
         <w xml:id="WP_1573_072_Dom_27_Trin_284r_19#8" xml:lang="olt">tam</w>
         </l>
@@ -2190,7 +2194,11 @@
           </app></w>
         <w xml:id="WP_1573_072_Dom_27_Trin_285r_28#3" xml:lang="olt">mumis</w>
         <w xml:id="WP_1573_072_Dom_27_Trin_285r_28#4" xml:lang="olt">tarnais</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_28#5" xml:lang="olt">ta</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_28#5" xml:lang="olt">
+        <app type="err">
+          <lem>ta</lem>
+          <rdg>tu</rdg>
+        </app></w>
         <w xml:id="WP_1573_072_Dom_27_Trin_285r_28#6" xml:lang="olt">ſudu<lb break="no"/>maghimu</w>
         </l>
         <l n="29" xml:id="WP_1573_072_Dom_27_Trin_285r_29">

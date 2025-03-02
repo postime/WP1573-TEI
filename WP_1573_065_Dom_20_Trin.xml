@@ -1175,7 +1175,11 @@
 
         <w xml:id="WP_1573_065_Dom_20_Trin_259r_12#1" xml:lang="olt">ſchwentiei,</w>
         <w xml:id="WP_1573_065_Dom_20_Trin_259r_12#2" xml:lang="olt">ne</w>
-        <w xml:id="WP_1573_065_Dom_20_Trin_259r_12#3" xml:lang="olt">ſʒmagịſchka</w>
+        <w xml:id="WP_1573_065_Dom_20_Trin_259r_12#3" xml:lang="olt">
+        <app type="err">
+          <lem>ſʒmagịſchka</lem>
+          <rdg>ſʒmogiſchku</rdg>
+        </app></w>
         <w xml:id="WP_1573_065_Dom_20_Trin_259r_12#4" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_065_Dom_20_Trin_259r_12#5" xml:lang="olt">pates</w>
         <w xml:id="WP_1573_065_Dom_20_Trin_259r_12#6" xml:lang="olt">pana</w>
@@ -2876,6 +2880,10 @@
           <app>  
             <lem>tikruij</lem>
             <rdg>tikrais</rdg>
+          </app>
+          <app>  
+            <lem>tikruij</lem>
+            <rdg>tikraij</rdg>
           </app></w>
         <w xml:id="WP_1573_065_Dom_20_Trin_261r_34#2" xml:lang="olt">
           <app>  

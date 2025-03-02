@@ -881,7 +881,11 @@
         <w xml:id="WP_1573_074_09_29_St_Mich_291v_15#2" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_291v_15#3" xml:lang="olt">wiſsụ</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_291v_15#4" xml:lang="olt">daiktụ</w>
-        <w xml:id="WP_1573_074_09_29_St_Mich_291v_15#5" xml:lang="olt">kuras</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_291v_15#5" xml:lang="olt">
+        <app type="err">
+          <lem>kuras</lem>
+          <rdg>kuros</rdg>
+        </app></w>
         </l>
         <l n="16" xml:id="WP_1573_074_09_29_St_Mich_291v_16">
 
@@ -1075,7 +1079,11 @@
         </l>
         <l n="2" xml:id="WP_1573_074_09_29_St_Mich_292r_2">
 
-        <w xml:id="WP_1573_074_09_29_St_Mich_292r_2#1" xml:lang="olt">ſweikatai</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_292r_2#1" xml:lang="olt">
+        <app type="err">
+          <lem>ſweikatai</lem>
+          <rdg>ſweikata</rdg>
+        </app></w>
         <w xml:id="WP_1573_074_09_29_St_Mich_292r_2#2" xml:lang="olt">kuna</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_292r_2#3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_292r_2#4" xml:lang="olt">wiſsụ</w>
@@ -1220,7 +1228,11 @@
           </app></w>
         <w xml:id="WP_1573_074_09_29_St_Mich_292r_16#6" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_292r_16#7" xml:lang="olt">ſu</w>
-        <w xml:id="WP_1573_074_09_29_St_Mich_292r_16#8" xml:lang="olt">per<lb break="no"/>leidima</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_292r_16#8" xml:lang="olt">
+        <app type="err">
+          <lem>per<lb break="no"/>leidima</lem>
+          <rdg>per<lb break="no"/>leidimu</rdg>
+        </app></w>
         </l>
         <l n="17" xml:id="WP_1573_074_09_29_St_Mich_292r_17">
 
@@ -1648,7 +1660,11 @@
         <w xml:id="WP_1573_074_09_29_St_Mich_292v_24#2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_292v_24#3" xml:lang="olt">anos</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_292v_24#4" xml:lang="olt">wiſsus</w>
-        <w xml:id="WP_1573_074_09_29_St_Mich_292v_24#5" xml:lang="olt">butus</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_292v_24#5" xml:lang="olt">
+        <app type="err">
+          <lem>butus</lem>
+          <rdg>butas</rdg>
+        </app></w>
         <w xml:id="WP_1573_074_09_29_St_Mich_292v_24#6" xml:lang="olt">ap<lb break="no"/>gruwa</w>
         </l>
         <l n="25" xml:id="WP_1573_074_09_29_St_Mich_292v_25">
@@ -2497,7 +2513,11 @@
         </l>
         <l n="10" xml:id="WP_1573_074_09_29_St_Mich_294r_10">
 
-        <w xml:id="WP_1573_074_09_29_St_Mich_294r_10#1" xml:lang="olt">meldeſsi</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_294r_10#1" xml:lang="olt">
+        <app type="err">
+          <lem>meldeſsi</lem>
+          <rdg>meldeiſsi</rdg>
+        </app></w>
         <w xml:id="WP_1573_074_09_29_St_Mich_294r_10#2" xml:lang="olt">ſu</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_294r_10#3" xml:lang="olt">aſcharamis,</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_294r_10#4" xml:lang="olt">ir</w>
@@ -2559,7 +2579,11 @@
         <l n="16" xml:id="WP_1573_074_09_29_St_Mich_294r_16">
 
         <w xml:id="WP_1573_074_09_29_St_Mich_294r_16#1" xml:lang="olt">Pane</w>
-        <w xml:id="WP_1573_074_09_29_St_Mich_294r_16#2" xml:lang="olt">Diewu</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_294r_16#2" xml:lang="olt">
+        <app type="err">
+          <lem>Diewu</lem>
+          <rdg>Diewe</rdg>
+        </app></w>
         <w xml:id="WP_1573_074_09_29_St_Mich_294r_16#3" xml:lang="olt">pulkụ,</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_294r_16#4" xml:lang="olt">ikkalei</w>
         </l>
@@ -3080,7 +3104,11 @@
         <w xml:id="WP_1573_074_09_29_St_Mich_294v_33#3" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_294v_33#4" xml:lang="olt">ugnia</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_294v_33#5" xml:lang="olt">angu</w>
-        <w xml:id="WP_1573_074_09_29_St_Mich_294v_33#6" xml:lang="olt">wande<lb break="no"/>nia</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_294v_33#6" xml:lang="olt">
+        <app type="err">
+          <lem>wande<lb break="no"/>nia</lem>
+          <rdg>wande<lb break="no"/>niu</rdg>
+        </app></w>
         </l>
         <l n="34" xml:id="WP_1573_074_09_29_St_Mich_294v_34">
 
@@ -3458,7 +3486,11 @@
         </l>
         <l n="30" xml:id="WP_1573_074_09_29_St_Mich_295r_30">
 
-        <w xml:id="WP_1573_074_09_29_St_Mich_295r_30#1" xml:lang="olt">pekla</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_295r_30#1" xml:lang="olt">
+        <app type="err">
+          <lem>pekla</lem>
+          <rdg>peklas</rdg>
+        </app></w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295r_30#2" xml:lang="olt">paſsiſtenkti</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295r_30#3" xml:lang="olt">uſʒ</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295r_30#4" xml:lang="olt">kạ</w>
@@ -3607,7 +3639,11 @@
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_8#1" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_8#2" xml:lang="olt">wena</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_8#3" xml:lang="olt">greſchnaija</w>
-        <w xml:id="WP_1573_074_09_29_St_Mich_295v_8#4" xml:lang="olt">paſsigerincʒa<lb break="no"/>ia</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_295v_8#4" xml:lang="olt">
+        <app type="err">
+          <lem>paſsigerincʒa<lb break="no"/>ia</lem>
+          <rdg>paſsigerinancʒa<lb break="no"/>ia</rdg>
+        </app></w>
         </l>
         <l n="9" xml:id="WP_1573_074_09_29_St_Mich_295v_9">
 
@@ -3732,7 +3768,11 @@
         </l>
         <l n="20" xml:id="WP_1573_074_09_29_St_Mich_295v_20">
 
-        <w xml:id="WP_1573_074_09_29_St_Mich_295v_20#1" xml:lang="olt">piktughi</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_295v_20#1" xml:lang="olt">
+        <app type="err">
+          <lem>piktughi</lem>
+          <rdg>piktughu</rdg>
+        </app></w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_20#2" xml:lang="olt">darbu</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_20#3" xml:lang="olt">kuna</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_20#4" xml:lang="olt">

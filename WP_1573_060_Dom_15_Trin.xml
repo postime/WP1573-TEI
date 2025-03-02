@@ -1504,7 +1504,11 @@
 
         <w xml:id="WP_1573_060_Dom_15_Trin_243r_14#1" xml:lang="olt">temus</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_243r_14#2" xml:lang="olt">ligus</w>
-        <w xml:id="WP_1573_060_Dom_15_Trin_243r_14#3" xml:lang="olt">paweiſdus</w>
+        <w xml:id="WP_1573_060_Dom_15_Trin_243r_14#3" xml:lang="olt">
+        <app type="err">
+          <lem>paweiſdus</lem>
+          <rdg>paweiſdas</rdg>
+        </app></w>
         <w xml:id="WP_1573_060_Dom_15_Trin_243r_14#4" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_243r_14#5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_243r_14#6" xml:lang="olt">nauiame</w>
@@ -2488,7 +2492,11 @@
         <w xml:id="WP_1573_060_Dom_15_Trin_244r_35#4" xml:lang="olt">eſte</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_244r_35#5" xml:lang="olt">girdeghị)</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_244r_35#6" xml:lang="olt">ſu</w>
-        <w xml:id="WP_1573_060_Dom_15_Trin_244r_35#7" xml:lang="olt">apmaitini<lb break="no"/>ma</w>
+        <w xml:id="WP_1573_060_Dom_15_Trin_244r_35#7" xml:lang="olt">
+        <app type="err">
+          <lem>apmaitini<lb break="no"/>ma</lem>
+          <rdg>apmaitini<lb break="no"/>mu</rdg>
+        </app></w>
         </l>
         <pb n="244v"/>
         <l n="1" xml:id="WP_1573_060_Dom_15_Trin_244v_1">
@@ -2496,7 +2504,11 @@
         <w xml:id="WP_1573_060_Dom_15_Trin_244v_1#1" xml:lang="olt">pana</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_244v_1#2" xml:lang="olt">Diewa,</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_244v_1#3" xml:lang="olt">ſu</w>
-        <w xml:id="WP_1573_060_Dom_15_Trin_244v_1#4" xml:lang="olt">paſcheidima</w>
+        <w xml:id="WP_1573_060_Dom_15_Trin_244v_1#4" xml:lang="olt">
+        <app type="err">
+          <lem>paſcheidima</lem>
+          <rdg>paſcheidimu</rdg>
+        </app></w>
         <w xml:id="WP_1573_060_Dom_15_Trin_244v_1#5" xml:lang="olt">duſchas</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_244v_1#6" xml:lang="olt">ir</w>
         </l>
@@ -3039,7 +3051,11 @@
         <w xml:id="WP_1573_060_Dom_15_Trin_245r_19#4" xml:lang="olt">Dewa</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_245r_19#5" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_245r_19#6" xml:lang="olt">mus</w>
-        <w xml:id="WP_1573_060_Dom_15_Trin_245r_19#7" xml:lang="olt">neinſi<lb break="no"/>doti</w>
+        <w xml:id="WP_1573_060_Dom_15_Trin_245r_19#7" xml:lang="olt">
+        <app type="err">
+          <lem>neinſi<lb break="no"/>doti</lem>
+          <rdg>neinſi<lb break="no"/>dotu</rdg>
+        </app></w>
         </l>
         <l n="20" xml:id="WP_1573_060_Dom_15_Trin_245r_20">
 

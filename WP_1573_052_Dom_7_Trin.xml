@@ -1468,7 +1468,11 @@
         <w xml:id="WP_1573_052_Dom_7_Trin_217v_36#5" xml:lang="olt">doſti</w>
         <w xml:id="WP_1573_052_Dom_7_Trin_217v_36#6" xml:lang="olt">donụ</w>
         <w xml:id="WP_1573_052_Dom_7_Trin_217v_36#7" xml:lang="olt">ſchu</w>
-        <w xml:id="WP_1573_052_Dom_7_Trin_217v_36#8" xml:lang="olt">ku<lb break="no"/>ku</w>
+        <w xml:id="WP_1573_052_Dom_7_Trin_217v_36#8" xml:lang="olt">
+        <app type="err">
+          <lem>ku<lb break="no"/>ku</lem>
+          <rdg>ku<lb break="no"/>niſʒku</rdg>
+        </app></w>
         </l>
         <l n="R" xml:id="WP_1573_052_Dom_7_Trin_217v_R">
 
@@ -1730,7 +1734,11 @@
           </app></w>
         <w xml:id="WP_1573_052_Dom_7_Trin_218r_24#2" xml:lang="olt">ner</w>
         <w xml:id="WP_1573_052_Dom_7_Trin_218r_24#3" xml:lang="olt">gimiu</w>
-        <w xml:id="WP_1573_052_Dom_7_Trin_218r_24#4" xml:lang="olt">weiʒdeghimu</w>
+        <w xml:id="WP_1573_052_Dom_7_Trin_218r_24#4" xml:lang="olt">
+        <app type="err">
+          <lem>weiʒdeghimu</lem>
+          <rdg>weiʒdeghima</rdg>
+        </app></w>
         <w xml:id="WP_1573_052_Dom_7_Trin_218r_24#5" xml:lang="olt">Dewep</w>
         </l>
         <l n="25" xml:id="WP_1573_052_Dom_7_Trin_218r_25">

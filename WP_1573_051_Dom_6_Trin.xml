@@ -371,7 +371,11 @@
         <w xml:id="WP_1573_051_Dom_6_Trin_212v_13#1" xml:lang="olt">Dewa</w>
         <w xml:id="WP_1573_051_Dom_6_Trin_212v_13#2" xml:lang="olt">priſakimas</w>
         <w xml:id="WP_1573_051_Dom_6_Trin_212v_13#3" xml:lang="olt">netiktai</w>
-        <w xml:id="WP_1573_051_Dom_6_Trin_212v_13#4" xml:lang="olt">tạ</w>
+        <w xml:id="WP_1573_051_Dom_6_Trin_212v_13#4" xml:lang="olt">
+        <app type="err">
+          <lem>tạ</lem>
+          <rdg>tụ</rdg>
+        </app></w>
         <w xml:id="WP_1573_051_Dom_6_Trin_212v_13#5" xml:lang="olt">wirſchuti<lb break="no"/>niụ</w>
         </l>
         <l n="14" xml:id="WP_1573_051_Dom_6_Trin_212v_14">
@@ -999,7 +1003,11 @@
         <w xml:id="WP_1573_051_Dom_6_Trin_213v_11#1" xml:lang="olt">padaritaijas</w>
         <w xml:id="WP_1573_051_Dom_6_Trin_213v_11#2" xml:lang="olt">uſʒ</w>
         <w xml:id="WP_1573_051_Dom_6_Trin_213v_11#3" xml:lang="olt">mus</w>
-        <w xml:id="WP_1573_051_Dom_6_Trin_213v_11#4" xml:lang="olt">Ʒakanu</w>
+        <w xml:id="WP_1573_051_Dom_6_Trin_213v_11#4" xml:lang="olt">
+        <app type="err">
+          <lem>Ʒakanu</lem>
+          <rdg>Ʒakana</rdg>
+        </app></w>
         <w xml:id="WP_1573_051_Dom_6_Trin_213v_11#5" xml:lang="olt">pana</w>
         <w xml:id="WP_1573_051_Dom_6_Trin_213v_11#6" xml:lang="olt">Dewa,</w>
         </l>

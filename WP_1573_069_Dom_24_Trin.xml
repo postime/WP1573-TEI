@@ -1116,10 +1116,22 @@
         <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#1" xml:lang="olt">a</w>
         <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#2" xml:lang="olt">linkſminti,</w>
         <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#3" xml:lang="olt">ſu</w>
-        <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#4" xml:lang="olt">ana</w>
+        <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#4" xml:lang="olt">
+        <app type="err">
+          <lem>ana</lem>
+          <rdg>anu</rdg>
+        </app></w>
         <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#5" xml:lang="olt">ſ:</w>
-        <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#6" xml:lang="olt">praraka</w>
-        <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#7" xml:lang="olt">Sime<lb break="no"/>ona</w>
+        <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#6" xml:lang="olt">
+        <app type="err">
+          <lem>praraka</lem>
+          <rdg>praraku</rdg>
+        </app></w>
+        <w xml:id="WP_1573_069_Dom_24_Trin_273r_32#7" xml:lang="olt">
+        <app type="err">
+          <lem>Sime<lb break="no"/>ona</lem>
+          <rdg>Sime<lb break="no"/>onu</rdg>
+        </app></w>
         </l>
         <l n="33" xml:id="WP_1573_069_Dom_24_Trin_273r_33">
 
@@ -2385,7 +2397,11 @@
         <l n="16" xml:id="WP_1573_069_Dom_24_Trin_275r_16">
 
         <w xml:id="WP_1573_069_Dom_24_Trin_275r_16#1" xml:lang="olt">ik</w>
-        <w xml:id="WP_1573_069_Dom_24_Trin_275r_16#2" xml:lang="olt">gale</w>
+        <w xml:id="WP_1573_069_Dom_24_Trin_275r_16#2" xml:lang="olt">
+        <app type="err">
+          <lem>gale</lem>
+          <rdg>galo</rdg>
+        </app></w>
         <w xml:id="WP_1573_069_Dom_24_Trin_275r_16#3" xml:lang="olt">ſʒiwata</w>
         <w xml:id="WP_1573_069_Dom_24_Trin_275r_16#4" xml:lang="olt">muſụ</w>
         <w xml:id="WP_1573_069_Dom_24_Trin_275r_16#5" xml:lang="olt">palaikiti,</w>
