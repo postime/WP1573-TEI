@@ -1968,12 +1968,11 @@
 
         <w xml:id="WP_1573_064_Dom_19_Trin_257r_2#1" xml:lang="olt">Tartu</w>
         <w xml:id="WP_1573_064_Dom_19_Trin_257r_2#2" xml:lang="olt">wel:</w>
-        <w xml:id="WP_1573_064_Dom_19_Trin_257r_2#3" xml:lang="olt">Kure</w>
-        <w xml:id="WP_1573_064_Dom_19_Trin_257r_2#4" xml:lang="olt">
-          <app type="err">  
-            <lem>mus</lem>
-            <rdg>Kuremus</rdg>
-          </app></w>
+        <app type="err">
+        <lem><w xml:id="WP_1573_064_Dom_19_Trin_257r_2#3" xml:lang="olt">Kure</w>
+          <w xml:id="WP_1573_064_Dom_19_Trin_257r_2#4" xml:lang="olt">mus</w></lem>
+          <rdg>Kuremus</rdg>
+        </app>
         <w xml:id="WP_1573_064_Dom_19_Trin_257r_2#5" xml:lang="olt">atleidʒia?</w>
         <w xml:id="WP_1573_064_Dom_19_Trin_257r_2#6" xml:lang="olt">Atſakau</w>
         </l>

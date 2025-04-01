@@ -209,7 +209,7 @@
         <w xml:id="WP_1573_068_Dom_23_Trin_268r_24#2" xml:lang="lat">13</w>
         <w xml:id="WP_1573_068_Dom_23_Trin_268r_24#3" xml:lang="lat">cap:</w>
           <add>
-            <w xml:id="" xml:lang="olt">1 Pet: 2</w>
+            <w xml:id="" xml:lang="olt">1 Pet: 2</w> <!-- Added in right margin without explicitly indicating a point of insertion in the line. How to display? -->
           </add>
         <w xml:id="WP_1573_068_Dom_23_Trin_268r_24#4" xml:lang="olt">mus</w>
         <w xml:id="WP_1573_068_Dom_23_Trin_268r_24#5" xml:lang="olt">makinna</w>

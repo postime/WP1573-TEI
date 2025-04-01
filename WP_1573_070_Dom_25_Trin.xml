@@ -29,12 +29,11 @@
 
         <w xml:id="WP_1573_070_Dom_25_Trin_275r_28#1" xml:lang="olt">NEDELIAN</w>
         <w xml:id="WP_1573_070_Dom_25_Trin_275r_28#2" xml:lang="olt">25</w>
-        <app>
-          <lem><w xml:id="WP_1573_070_Dom_25_Trin_275r_28#3" xml:lang="olt">PA</w>
-          <w xml:id="WP_1573_070_Dom_25_Trin_275r_28#4" xml:lang="olt">S:</w>
-          <w xml:id="WP_1573_070_Dom_25_Trin_275r_28#5" xml:lang="olt">TRAI<lb break="no"/>ces</w></lem>
-          <rdg>PA TRAI<lb break="no"/>ces</rdg>
-        </app>
+        <w xml:id="WP_1573_070_Dom_25_Trin_275r_28#3" xml:lang="olt">PA</w>
+        <add>
+        <w xml:id="WP_1573_070_Dom_25_Trin_275r_28#4" xml:lang="olt">S:</w>
+        </add>
+        <w xml:id="WP_1573_070_Dom_25_Trin_275r_28#5" xml:lang="olt">TRAI<lb break="no"/>ces</w>
         </l>
         <l n="29" xml:id="WP_1573_070_Dom_25_Trin_275r_29">
 
@@ -1719,17 +1718,17 @@
 
         <w xml:id="WP_1573_070_Dom_25_Trin_277v_31#1" xml:lang="olt">papiktinimai</w>
         <w xml:id="WP_1573_070_Dom_25_Trin_277v_31#2" xml:lang="olt">perſekdineimai,</w>
-        <w xml:id="WP_1573_070_Dom_25_Trin_277v_31#3" xml:lang="olt">kitti</w>
-        <w xml:id="WP_1573_070_Dom_25_Trin_277v_31#4" xml:lang="olt">am<lb break="no"/>ſʒina</w>
-            <!-- This sermon has alterations by S, either squeezed above the line
-        or in the margins. He doesn't cross out the word in the text they pertain to. This makes it hard to tell if they're meant as replacements,
-        insertions, or alternatives.Kaip taip maſʒ ira kurie Cħru Jeſu iſchpaſʒinſta.-->
-        </l>
-        <l n="32" xml:id="WP_1573_070_Dom_25_Trin_277v_32">
-
-        <w xml:id="WP_1573_070_Dom_25_Trin_277v_32#1" xml:lang="olt">iſchpaſʒiſtanciuiụ</w>
-        <w xml:id="WP_1573_070_Dom_25_Trin_277v_32#2" xml:lang="olt">Cħụ</w>
-        <w xml:id="WP_1573_070_Dom_25_Trin_277v_32#3" xml:lang="olt">Jeſụ</w>
+        <app hand="S">
+          <lem><w xml:id="WP_1573_070_Dom_25_Trin_277v_31#3" xml:lang="olt">kitti</w>
+          <w xml:id="WP_1573_070_Dom_25_Trin_277v_31#4" xml:lang="olt">am<lb break="no"/>ſʒina</w>
+          </l>
+          <l n="32" xml:id="WP_1573_070_Dom_25_Trin_277v_32">
+  
+          <w xml:id="WP_1573_070_Dom_25_Trin_277v_32#1" xml:lang="olt">iſchpaſʒiſtanciuiụ</w>
+          <w xml:id="WP_1573_070_Dom_25_Trin_277v_32#2" xml:lang="olt">Cħụ</w>
+          <w xml:id="WP_1573_070_Dom_25_Trin_277v_32#3" xml:lang="olt">Jeſụ</w></lem>
+        <rdg>Kaip taip maſʒ ira kurie Cħru Jeſu iſchpaſʒinſta.</rdg>
+        </app>
         <w xml:id="WP_1573_070_Dom_25_Trin_277v_32#4" xml:lang="olt">kitti</w>
         </l>
         <l n="33" xml:id="WP_1573_070_Dom_25_Trin_277v_33">
