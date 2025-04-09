@@ -990,7 +990,7 @@
         </l>
         <l n="R" xml:id="WP_1573_030_Fer_6_Magn_137v_R">
 
-        <w xml:id="WP_1573_030_Fer_6_Magn_137v_R#1" xml:lang="olt">&lt;mucʒitas&gt;</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_137v_R#1" xml:lang="olt">mucʒitas</w>
         </l>
         <pb n="138r"/>
         <l n="1" xml:id="WP_1573_030_Fer_6_Magn_138r_1">
@@ -1253,7 +1253,7 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_20#5" xml:lang="olt">Laghiaghimai</w>
         <!-- There is a Latin margin note by W pertaining to this word. The TITUS edition
         includes it as a footnote AND a marginal. It reads:
-          opprobria ex<lb break="no"/>probantium&gt; ti<lb break="no"/>bi ceciderunt ſuper me.
+          opprobria ex<lb break="no"/>probantium ti<lb break="no"/>bi ceciderunt ſuper me.
         Within this marginal an alteration: ex=probrantium > ex=probantium-->
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_20#6" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_20#7" xml:lang="olt">kala<lb break="no"/>ghimai</w>
@@ -2691,9 +2691,9 @@
         </l>
         <l n="R" xml:id="WP_1573_030_Fer_6_Magn_139v_R">
 
-        <w xml:id="WP_1573_030_Fer_6_Magn_139v_R#1" xml:lang="olt">&lt;Cħus</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_139v_R#1" xml:lang="olt">Cħus</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_139v_R#2" xml:lang="olt">daug</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_139v_R#3" xml:lang="olt">kar<lb break="no"/>&gt;</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_139v_R#3" xml:lang="olt">kar<lb break="no"/></w>
         </l>
         <l n="M11W" xml:id="WP_1573_030_Fer_6_Magn_139v_M11W">
 
@@ -3189,21 +3189,20 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#22" xml:lang="lat">intelligant</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#23" xml:lang="lat">corde,</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#24" xml:lang="lat">ne</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#25" xml:lang="lat">conuertantur</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#26" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#27" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#28" xml:lang="lat">conuertatur</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#29" xml:lang="olt">&gt;</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#30" xml:lang="grc">ịị</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#25" xml:lang="lat"><app>
+          <lem>conuertantur</lem>
+          <rdg>conuertatur</rdg>
+        </app></w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#26" xml:lang="grc">ịị</w>
         <punct>.</punct>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#32" xml:lang="lat">Jdem</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#33" xml:lang="lat">šenšus</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#34" xml:lang="lat">ubiq’ue</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#35" xml:lang="lat">habetur,</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#36" xml:lang="lat">Vide</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#37" xml:lang="lat">citata</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#38" xml:lang="grc">ị</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#39" xml:lang="olt">⌉</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#27" xml:lang="lat">Jdem</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#28" xml:lang="lat">šenšus</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#29" xml:lang="lat">ubiq’ue</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#30" xml:lang="lat">habetur,</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#31" xml:lang="lat">Vide</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#32" xml:lang="lat">citata</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#33" xml:lang="grc">ị</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140r_M(31-32)36W#34" xml:lang="olt">⌉</w>
         </l>
         <pb n="140v"/>
         <l n="1" xml:id="WP_1573_030_Fer_6_Magn_140v_1">
@@ -3638,8 +3637,8 @@
         </l>
         <l n="R" xml:id="WP_1573_030_Fer_6_Magn_140v_R">
 
-        <w xml:id="WP_1573_030_Fer_6_Magn_140v_R#1" xml:lang="olt">&lt;ſụ</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_140v_R#2" xml:lang="olt">dang<lb break="no"/>&gt;</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140v_R#1" xml:lang="olt">ſụ</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_140v_R#2" xml:lang="olt">dang<lb break="no"/></w>
         </l>
         <pb n="141r"/>
         <l n="1" xml:id="WP_1573_030_Fer_6_Magn_141r_1">
@@ -4483,8 +4482,8 @@
         </l>
         <l n="R" xml:id="WP_1573_030_Fer_6_Magn_141v_R">
 
-        <w xml:id="WP_1573_030_Fer_6_Magn_141v_R#1" xml:lang="olt">&lt;agi</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_141v_R#2" xml:lang="olt">ſauſam&gt;</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_141v_R#1" xml:lang="olt">agi</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_141v_R#2" xml:lang="olt">ſauſam</w>
         </l>
         <pb n="142r"/>
         <l n="1" xml:id="WP_1573_030_Fer_6_Magn_142r_1">
@@ -5306,8 +5305,8 @@
         </l>
         <l n="R" xml:id="WP_1573_030_Fer_6_Magn_142v_R">
 
-        <w xml:id="WP_1573_030_Fer_6_Magn_142v_R#1" xml:lang="olt">&lt;teip</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_142v_R#2" xml:lang="olt">takie&gt;</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_142v_R#1" xml:lang="olt">teip</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_142v_R#2" xml:lang="olt">takie</w>
         </l>
         <pb n="143r"/>
         <l n="1" xml:id="WP_1573_030_Fer_6_Magn_143r_1">
@@ -6933,8 +6932,8 @@
         </l>
         <l n="R" xml:id="WP_1573_030_Fer_6_Magn_144v_R">
 
-        <w xml:id="WP_1573_030_Fer_6_Magn_144v_R#1" xml:lang="olt">&lt;Bet</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_144v_R#2" xml:lang="olt">we<lb break="no"/>&gt;</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_144v_R#1" xml:lang="olt">Bet</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_144v_R#2" xml:lang="olt">we<lb break="no"/></w>
         </l>
         <l n="M5W" xml:id="WP_1573_030_Fer_6_Magn_144v_M5W">
 
@@ -8639,9 +8638,9 @@
         </l>
         <l n="R" xml:id="WP_1573_030_Fer_6_Magn_146v_R">
 
-        <w xml:id="WP_1573_030_Fer_6_Magn_146v_R#1" xml:lang="olt">&lt;nog</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_146v_R#1" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_146v_R#2" xml:lang="olt">wiſsụ</w>
-        <w xml:id="WP_1573_030_Fer_6_Magn_146v_R#3" xml:lang="olt">mu<lb break="no"/>&gt;</w>
+        <w xml:id="WP_1573_030_Fer_6_Magn_146v_R#3" xml:lang="olt">mu<lb break="no"/></w>
         </l>
         <pb n="147r"/>
         <l n="1" xml:id="WP_1573_030_Fer_6_Magn_147r_1">

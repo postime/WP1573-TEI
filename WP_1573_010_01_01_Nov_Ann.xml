@@ -268,8 +268,8 @@
         </l>
         <l n="R" xml:id="WP_1573_010_01_01_Nov_Ann_44v_R">
 
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_44v_R#1" xml:lang="olt">&lt;ſtatiſu</w>
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_44v_R#2" xml:lang="olt">ſu<lb break="no"/>&gt;</w>
+        <w xml:id="WP_1573_010_01_01_Nov_Ann_44v_R#1" xml:lang="olt">ſtatiſu</w>
+        <w xml:id="WP_1573_010_01_01_Nov_Ann_44v_R#2" xml:lang="olt">ſu<lb break="no"/></w>
         </l>
         <pb n="45r"/>
         <l n="1" xml:id="WP_1573_010_01_01_Nov_Ann_45r_1">
@@ -2004,7 +2004,7 @@
         </l>
         <l n="R" xml:id="WP_1573_010_01_01_Nov_Ann_46v_R">
 
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_46v_R#1" xml:lang="olt">&lt;Diewa,&gt;</w>
+        <w xml:id="WP_1573_010_01_01_Nov_Ann_46v_R#1" xml:lang="olt">Diewa,</w>
         </l>
         <pb n="47r"/>
         <l n="1" xml:id="WP_1573_010_01_01_Nov_Ann_47r_1">
@@ -2795,8 +2795,8 @@
         </l>
         <l n="R" xml:id="WP_1573_010_01_01_Nov_Ann_47v_R">
 
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_47v_R#1" xml:lang="olt">&lt;ſʒenklas</w>
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_47v_R#2" xml:lang="olt">ira&gt;</w>
+        <w xml:id="WP_1573_010_01_01_Nov_Ann_47v_R#1" xml:lang="olt">ſʒenklas</w>
+        <w xml:id="WP_1573_010_01_01_Nov_Ann_47v_R#2" xml:lang="olt">ira</w>
         </l>
         <l n="M1" xml:id="WP_1573_010_01_01_Nov_Ann_47v_M1">
 
@@ -3615,8 +3615,8 @@
         </l>
         <l n="R" xml:id="WP_1573_010_01_01_Nov_Ann_48v_R">
 
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_48v_R#1" xml:lang="olt">&lt;ir</w>
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_48v_R#2" xml:lang="olt">kitti&gt;</w>
+        <w xml:id="WP_1573_010_01_01_Nov_Ann_48v_R#1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_010_01_01_Nov_Ann_48v_R#2" xml:lang="olt">kitti</w>
         </l>
         <l n="M32" xml:id="WP_1573_010_01_01_Nov_Ann_48v_M32">
 
@@ -4040,12 +4040,12 @@
 
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#1" xml:lang="lat">Acto:</w>
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#2" xml:lang="lat">7:</w>
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#3" xml:lang="lat">Duri</w>
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#4" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#5" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#6" xml:lang="olt">7&gt;</w>
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#7" xml:lang="lat">ceruice</w>
-        <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#8" xml:lang="olt">⌉</w>
+        <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#3" xml:lang="lat">
+        <app hand="W">
+          <lem>Duri</lem>
+          <rdg>7</rdg>
+        </app></w>
+        <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W#4" xml:lang="lat">ceruice</w>
         </l>
         <pb n="49v"/>
         <l n="1" xml:id="WP_1573_010_01_01_Nov_Ann_49v_1">

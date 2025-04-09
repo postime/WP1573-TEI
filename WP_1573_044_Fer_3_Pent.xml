@@ -756,7 +756,7 @@
         </l>
         <l n="R" xml:id="WP_1573_044_Fer_3_Pent_186v_R">
 
-        <w xml:id="WP_1573_044_Fer_3_Pent_186v_R#1" xml:lang="olt">&lt;Ʒakanụ&gt;</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_186v_R#1" xml:lang="olt">Ʒakanụ</w>
         </l>
         <pb n="187r"/>
         <l n="1" xml:id="WP_1573_044_Fer_3_Pent_187r_1">
@@ -1190,22 +1190,25 @@
         </l>
         <l n="M16W" xml:id="WP_1573_044_Fer_3_Pent_187r_M16W">
 
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#1" xml:lang="olt">⌈</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#2" xml:lang="lat">Meo</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#3" xml:lang="lat">iudicio</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#4" xml:lang="lat">accipi<lb break="no"/>endum</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#5" xml:lang="olt">Sugauti</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#6" xml:lang="grc">ị:</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#7" xml:lang="lat">in</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#8" xml:lang="lat">textu</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#9" xml:lang="lat">legitur:</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#10" xml:lang="lat">Capti</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#11" xml:lang="lat">ab</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#12" xml:lang="lat">eo</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#13" xml:lang="lat">ad</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#14" xml:lang="lat">ipsius</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#15" xml:lang="lat">uoluntatem</w>
-        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#16" xml:lang="olt">&lt;&lt;&gt;&gt;⌉</w>
+        <add hand="W">        
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#1" xml:lang="lat">Meo</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#2" xml:lang="lat">iudicio</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#3" xml:lang="lat">accipi<lb break="no"/>endum</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#4" xml:lang="olt">Sugauti</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#5" xml:lang="grc">ị:</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#6" xml:lang="lat">in</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#7" xml:lang="lat">textu</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#8" xml:lang="lat">legitur:</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#9" xml:lang="lat">Capti</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#10" xml:lang="lat">ab</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#11" xml:lang="lat">eo</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#12" xml:lang="lat">ad</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#13" xml:lang="lat">ipsius</w>
+        <w xml:id="WP_1573_044_Fer_3_Pent_187r_M16W#14" xml:lang="lat">uoluntatem</w>
+        <del hand="W">
+        <gap reason="illegible" quantity="1" unit="words"/>
+        </del>
+        </add>
         </l>
         <pb n="187v"/>
         <l n="1" xml:id="WP_1573_044_Fer_3_Pent_187v_1">

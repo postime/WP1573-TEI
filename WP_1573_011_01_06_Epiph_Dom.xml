@@ -95,10 +95,10 @@
         </l>
         <l n="R" xml:id="WP_1573_011_01_06_Epiph_Dom_49v_R">
 
-        <w xml:id="WP_1573_011_01_06_Epiph_Dom_49v_R#1" xml:lang="olt">&lt;b:</w>
+        <w xml:id="WP_1573_011_01_06_Epiph_Dom_49v_R#1" xml:lang="olt">b:</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_49v_R#2" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_49v_R#3" xml:lang="olt">ſe:</w>
-        <w xml:id="WP_1573_011_01_06_Epiph_Dom_49v_R#4" xml:lang="olt">ing&gt;</w>
+        <w xml:id="WP_1573_011_01_06_Epiph_Dom_49v_R#4" xml:lang="olt">ing</w>
         </l>
         <pb n="50r"/>
         <l n="1" xml:id="WP_1573_011_01_06_Epiph_Dom_50r_1">
@@ -903,8 +903,8 @@
         </l>
         <l n="R" xml:id="WP_1573_011_01_06_Epiph_Dom_50v_R">
 
-        <w xml:id="WP_1573_011_01_06_Epiph_Dom_50v_R#1" xml:lang="olt">&lt;kaipagi</w>
-        <w xml:id="WP_1573_011_01_06_Epiph_Dom_50v_R#2" xml:lang="olt">iam&gt;</w>
+        <w xml:id="WP_1573_011_01_06_Epiph_Dom_50v_R#1" xml:lang="olt">kaipagi</w>
+        <w xml:id="WP_1573_011_01_06_Epiph_Dom_50v_R#2" xml:lang="olt">iam</w>
         </l>
         <pb n="51r"/>
         <l n="1" xml:id="WP_1573_011_01_06_Epiph_Dom_51r_1">
@@ -1712,7 +1712,7 @@
         </l>
         <l n="R" xml:id="WP_1573_011_01_06_Epiph_Dom_51v_R">
 
-        <w xml:id="WP_1573_011_01_06_Epiph_Dom_51v_R#1" xml:lang="olt">&lt;Egłe&gt;</w>
+        <w xml:id="WP_1573_011_01_06_Epiph_Dom_51v_R#1" xml:lang="olt">Egłe</w>
         </l>
         <pb n="52r"/>
         <l n="1" xml:id="WP_1573_011_01_06_Epiph_Dom_52r_1">
@@ -4092,10 +4092,12 @@
         </l>
         <l n="R" xml:id="WP_1573_011_01_06_Epiph_Dom_54v_R">
 
-        <w xml:id="WP_1573_011_01_06_Epiph_Dom_54v_R#1" xml:lang="olt">&lt;plaukai</w>
-        <w xml:id="WP_1573_011_01_06_Epiph_Dom_54v_R#2" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_011_01_06_Epiph_Dom_54v_R#3" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_011_01_06_Epiph_Dom_54v_R#4" xml:lang="olt">pleu&gt;&gt;</w>
+        <w xml:id="WP_1573_011_01_06_Epiph_Dom_54v_R#1" xml:lang="olt">
+        <app>
+          <lem>plaukai</lem>
+          <rdg>pleu</rdg>
+        </app></w>
+
         </l>
         <pb n="55r"/>
         <l n="1" xml:id="WP_1573_011_01_06_Epiph_Dom_55r_1">

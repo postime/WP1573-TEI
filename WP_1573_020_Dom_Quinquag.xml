@@ -1440,7 +1440,7 @@
         </l>
         <l n="R" xml:id="WP_1573_020_Dom_Quinquag_89v_R">
 
-        <w xml:id="WP_1573_020_Dom_Quinquag_89v_R#1" xml:lang="olt">&lt;primenama&gt;</w>
+        <w xml:id="WP_1573_020_Dom_Quinquag_89v_R#1" xml:lang="olt">primenama</w>
         </l>
         <l n="M2W" xml:id="WP_1573_020_Dom_Quinquag_89v_M2W">
 
@@ -2370,8 +2370,8 @@
         </l>
         <l n="R" xml:id="WP_1573_020_Dom_Quinquag_90v_R">
 
-        <w xml:id="WP_1573_020_Dom_Quinquag_90v_R#1" xml:lang="olt">&lt;atſiraduſsi</w>
-        <w xml:id="WP_1573_020_Dom_Quinquag_90v_R#2" xml:lang="olt">naſ✝&gt;</w>
+        <w xml:id="WP_1573_020_Dom_Quinquag_90v_R#1" xml:lang="olt">atſiraduſsi</w>
+        <w xml:id="WP_1573_020_Dom_Quinquag_90v_R#2" xml:lang="olt">naſ✝</w>
         </l>
         <pb n="91r"/>
         <l n="1" xml:id="WP_1573_020_Dom_Quinquag_91r_1">
@@ -3320,16 +3320,14 @@
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_38#6" xml:lang="lat">5</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_38#7" xml:lang="lat">Cap:</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_38#8" xml:lang="olt">kalba</w>
-        <w xml:id="WP_1573_020_Dom_Quinquag_91v_38#9" xml:lang="olt">
-          <app>  
-            <lem>&lt;&lt;....&gt;&gt;</lem>
-            <rdg>tardams</rdg>
-          </app></w>
+        <del>
+        <w xml:id="WP_1573_020_Dom_Quinquag_91v_38#9" xml:lang="olt">tardams<w>
+        </del>
         </l>
         <l n="R" xml:id="WP_1573_020_Dom_Quinquag_91v_R">
 
-        <w xml:id="WP_1573_020_Dom_Quinquag_91v_R#1" xml:lang="olt">&lt;angu</w>
-        <w xml:id="WP_1573_020_Dom_Quinquag_91v_R#2" xml:lang="olt">raſcha&gt;</w>
+        <w xml:id="WP_1573_020_Dom_Quinquag_91v_R#1" xml:lang="olt">angu</w>
+        <w xml:id="WP_1573_020_Dom_Quinquag_91v_R#2" xml:lang="olt">raſcha</w>
         </l>
         <l n="M15" xml:id="WP_1573_020_Dom_Quinquag_91v_M15">
 

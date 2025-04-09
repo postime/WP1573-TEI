@@ -910,8 +910,8 @@
         </l>
         <l n="R" xml:id="WP_1573_005_Dom_4_Adv_19v_R">
 
-        <w xml:id="WP_1573_005_Dom_4_Adv_19v_R#1" xml:lang="olt">&lt;kalba</w>
-        <w xml:id="WP_1573_005_Dom_4_Adv_19v_R#2" xml:lang="olt">Ja<lb break="no"/>&gt;</w>
+        <w xml:id="WP_1573_005_Dom_4_Adv_19v_R#1" xml:lang="olt">kalba</w>
+        <w xml:id="WP_1573_005_Dom_4_Adv_19v_R#2" xml:lang="olt">Ja<lb break="no"/></w>
         </l>
         <l n="M8" xml:id="WP_1573_005_Dom_4_Adv_19v_M8">
 
@@ -2306,8 +2306,8 @@
         </l>
         <l n="R" xml:id="WP_1573_005_Dom_4_Adv_21v_R">
 
-        <w xml:id="WP_1573_005_Dom_4_Adv_21v_R#1" xml:lang="olt">&lt;kiek</w>
-        <w xml:id="WP_1573_005_Dom_4_Adv_21v_R#2" xml:lang="olt">dienas&gt;</w>
+        <w xml:id="WP_1573_005_Dom_4_Adv_21v_R#1" xml:lang="olt">kiek</w>
+        <w xml:id="WP_1573_005_Dom_4_Adv_21v_R#2" xml:lang="olt">dienas</w>
         </l>
         <pb n="22r"/>
         <l n="1" xml:id="WP_1573_005_Dom_4_Adv_22r_1">
@@ -3037,7 +3037,7 @@
         </l>
         <l n="R" xml:id="WP_1573_005_Dom_4_Adv_22v_R">
 
-        <w xml:id="WP_1573_005_Dom_4_Adv_22v_R#1" xml:lang="olt">&lt;tardams&gt;</w>
+        <w xml:id="WP_1573_005_Dom_4_Adv_22v_R#1" xml:lang="olt">tardams</w>
         </l>
         <pb n="23r"/>
         <l n="1" xml:id="WP_1573_005_Dom_4_Adv_23r_1">
@@ -3457,11 +3457,9 @@
         <w xml:id="WP_1573_005_Dom_4_Adv_23v_4#2" xml:lang="olt">pakalnes</w>
         <w xml:id="WP_1573_005_Dom_4_Adv_23v_4#3" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_005_Dom_4_Adv_23v_4#4" xml:lang="olt">aukſʒtinti</w>
-        <w xml:id="WP_1573_005_Dom_4_Adv_23v_4#5" xml:lang="olt">
-          <app>  
-            <lem>&lt;&lt;....&gt;&gt;</lem>
-            <rdg>Tam</rdg>
-          </app></w>
+        <del>
+        <w xml:id="WP_1573_005_Dom_4_Adv_23v_4#5" xml:lang="olt">Tam</w>
+        </del>
         </l>
         <l n="5" xml:id="WP_1573_005_Dom_4_Adv_23v_5">
 
@@ -4423,7 +4421,7 @@
         </l>
         <l n="R" xml:id="WP_1573_005_Dom_4_Adv_24v_R">
 
-        <w xml:id="WP_1573_005_Dom_4_Adv_24v_R#1" xml:lang="olt">&lt;ſʒinamoſus&gt;</w>
+        <w xml:id="WP_1573_005_Dom_4_Adv_24v_R#1" xml:lang="olt">ſʒinamoſus</w>
         </l>
         <pb n="25r"/>
         <l n="1" xml:id="WP_1573_005_Dom_4_Adv_25r_1">
@@ -5002,8 +5000,8 @@
         </l>
         <l n="R" xml:id="WP_1573_005_Dom_4_Adv_25v_R">
 
-        <w xml:id="WP_1573_005_Dom_4_Adv_25v_R#1" xml:lang="olt">&lt;Dienā</w>
-        <w xml:id="WP_1573_005_Dom_4_Adv_25v_R#2" xml:lang="olt">uſʒgimima&gt;</w>
+        <w xml:id="WP_1573_005_Dom_4_Adv_25v_R#1" xml:lang="olt">Dienā</w>
+        <w xml:id="WP_1573_005_Dom_4_Adv_25v_R#2" xml:lang="olt">uſʒgimima</w>
         </l>
         <l n="M21S" xml:id="WP_1573_005_Dom_4_Adv_25v_M21S">
 

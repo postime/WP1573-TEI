@@ -576,11 +576,11 @@
         </l>
         <l n="R" xml:id="WP_1573_063_Dom_18_Trin_252v_R">
 
-        <w xml:id="WP_1573_063_Dom_18_Trin_252v_R#1" xml:lang="olt">&lt;Tark</w>
-        <w xml:id="WP_1573_063_Dom_18_Trin_252v_R#2" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_063_Dom_18_Trin_252v_R#3" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_063_Dom_18_Trin_252v_R#4" xml:lang="olt">Terk&gt;</w>
-        <w xml:id="WP_1573_063_Dom_18_Trin_252v_R#5" xml:lang="olt">idant&gt;</w>
+        <w xml:id="WP_1573_063_Dom_18_Trin_252v_R#1" xml:lang="olt"><app>
+          <lem>Tark</lem>
+          <rdg>Terk</rdg>
+        </app></w>
+        <w xml:id="WP_1573_063_Dom_18_Trin_252v_R#2" xml:lang="olt">idant</w>
         </l>
         <l n="M15" xml:id="WP_1573_063_Dom_18_Trin_252v_M15">
 
@@ -1258,10 +1258,11 @@
         </l>
         <l n="R" xml:id="WP_1573_063_Dom_18_Trin_253v_R">
 
-        <w xml:id="WP_1573_063_Dom_18_Trin_253v_R#1" xml:lang="olt">&lt;kreſlap</w>
-        <w xml:id="WP_1573_063_Dom_18_Trin_253v_R#2" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_063_Dom_18_Trin_253v_R#3" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_063_Dom_18_Trin_253v_R#4" xml:lang="olt">kreſſ&gt;&gt;</w>
+        <w xml:id="WP_1573_063_Dom_18_Trin_253v_R#1" xml:lang="olt">
+        <app>
+          <lem>kreſlap</lem>
+          <rdg>kreſſ</rdg>
+        </app></w>
         </l>
         <pb n="254r"/>
         <l n="1" xml:id="WP_1573_063_Dom_18_Trin_254r_1">

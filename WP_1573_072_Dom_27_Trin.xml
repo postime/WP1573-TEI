@@ -1154,8 +1154,8 @@
         </l>
         <l n="R" xml:id="WP_1573_072_Dom_27_Trin_283v_R">
 
-        <w xml:id="WP_1573_072_Dom_27_Trin_283v_R#1" xml:lang="olt">&lt;bet</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_283v_R#2" xml:lang="olt">del&gt;</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_283v_R#1" xml:lang="olt">bet</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_283v_R#2" xml:lang="olt">del</w>
         </l>
         <pb n="284r"/>
         <l n="1" xml:id="WP_1573_072_Dom_27_Trin_284r_1">
@@ -1904,8 +1904,8 @@
         </l>
         <l n="R" xml:id="WP_1573_072_Dom_27_Trin_284v_R">
 
-        <w xml:id="WP_1573_072_Dom_27_Trin_284v_R#1" xml:lang="olt">&lt;iſch</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_284v_R#2" xml:lang="olt">prigimi<lb break="no"/>&gt;</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_284v_R#1" xml:lang="olt">iſch</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_284v_R#2" xml:lang="olt">prigimi<lb break="no"/></w>
         </l>
         <pb n="285r"/>
         <l n="1" xml:id="WP_1573_072_Dom_27_Trin_285r_1">
@@ -2288,6 +2288,11 @@
         </l>
         <l n="M25W" xml:id="WP_1573_072_Dom_27_Trin_285r_M25W">
 
+        <add hand="W">         
+        <!-- Edge case: Alteration made by Welver to something written by Welver.
+        Normally we have the pre-alteration form in the base layer when something was altered by not-Bielauk,
+        and the post-alteration form in the base layer when it was altered by Bielauk himself (since his text is primary.) 
+        But that seems weird when the thing altered was written by not-Bielauk to begin with...-->
         <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#1" xml:lang="lat">etiam:</w>
         <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#2" xml:lang="lat">Marc:</w>
         <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#3" xml:lang="lat">7</w>
@@ -2295,26 +2300,30 @@
         <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#5" xml:lang="lat">idem</w>
         <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#6" xml:lang="lat">docetur,</w>
         <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#7" xml:lang="lat">quod</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#8" xml:lang="lat">Deus</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#9" xml:lang="lat">&lt;uult</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#10" xml:lang="lat">&gt;</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#11" xml:lang="lat">&gt;</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#12" xml:lang="lat">non</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#13" xml:lang="lat">ue<lb break="no"/>nerari</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#14" xml:lang="lat">uult</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#15" xml:lang="lat">&lt;</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#16" xml:lang="lat">&lt;</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#17" xml:lang="lat">ult&gt;</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#18" xml:lang="lat">in</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#19" xml:lang="lat">uanum</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#20" xml:lang="grc">ị</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#8" xml:lang="lat">
+        <app hand="W">
+          <lem>Deus</lem>
+          <rdg>uult</rdg>
+        </app></w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#9" xml:lang="lat"></w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#10" xml:lang="lat"></w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#11" xml:lang="lat">non</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#12" xml:lang="lat">ue<lb break="no"/>nerari</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#13" xml:lang="lat">
+        <app hand="W">
+          <lem>uult</lem>
+          <rdg>ult</rdg>
+        </app></w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#14" xml:lang="lat">in</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#15" xml:lang="lat">uanum</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#16" xml:lang="grc">ị</w>
         <punct>.</punct>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M25W#22" xml:lang="olt">⌉</w>
+        </add>
         </l>
         <l n="M27" xml:id="WP_1573_072_Dom_27_Trin_285r_M27">
 
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M27#1" xml:lang="olt">⌈ir</w>
-        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M27#2" xml:lang="olt">iſchwadoti⌉</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M27#1" xml:lang="olt">ir</w>
+        <w xml:id="WP_1573_072_Dom_27_Trin_285r_M27#2" xml:lang="olt">iſchwadoti</w>
         </l>
         <pb n="285v"/>
         <l n="1" xml:id="WP_1573_072_Dom_27_Trin_285v_1">

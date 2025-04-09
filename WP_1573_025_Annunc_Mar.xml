@@ -430,8 +430,8 @@
         </l>
         <l n="R" xml:id="WP_1573_03_25_Annunc_Mar_114v_R">
 
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_R#1" xml:lang="olt">&lt;meſs</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_R#2" xml:lang="olt">iſchpaſʒinſta<lb break="no"/>&gt;</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_R#1" xml:lang="olt">meſs</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_R#2" xml:lang="olt">iſchpaſʒinſta<lb break="no"/></w>
         </l>
         <l n="M13" xml:id="WP_1573_03_25_Annunc_Mar_114v_M13">
 
@@ -462,18 +462,17 @@
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#13" xml:lang="lat">arbitrio:)</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#14" xml:lang="olt">aſch</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#15" xml:lang="olt">Pānas</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#16" xml:lang="olt">pagimdima</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#17" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#18" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#19" xml:lang="grc">m̄</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#20" xml:lang="olt">&gt;</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#21" xml:lang="olt">nei,</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#22" xml:lang="lat">šcilicet</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#16" xml:lang="olt"><app>
+          <lem>pagimdima</lem>
+          <rdg>Φ</rdg>
+        </app></w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#18" xml:lang="olt">nei,</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#19" xml:lang="lat">šcilicet</w>
         <punct>,</punct>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#24" xml:lang="olt">gallesiu</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#25" xml:lang="olt">iſsakiti</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#26" xml:lang="grc">m̄</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#27" xml:lang="olt">⌉</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#20" xml:lang="olt">gallesiu</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#21" xml:lang="olt">iſsakiti</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#22" xml:lang="grc">Φ</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W#23" xml:lang="olt">⌉</w>
         </l>
         <pb n="115r"/>
         <l n="1" xml:id="WP_1573_03_25_Annunc_Mar_115r_1">
@@ -1285,12 +1284,12 @@
         </l>
         <l n="R" xml:id="WP_1573_03_25_Annunc_Mar_115v_R">
 
-        <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R#1" xml:lang="olt">&lt;ta</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R#2" xml:lang="olt">&lt;S</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R#3" xml:lang="olt">&gt;</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R#4" xml:lang="olt">tai&gt;</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R#5" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R#6" xml:lang="olt">nog&gt;</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R#1" xml:lang="olt"><app hand="S">
+          <lem>ta</lem>
+          <rdg>tai</rdg>
+        </app></w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R#2" xml:lang="olt">ira</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R#3" xml:lang="olt">nog</w>
         </l>
         <l n="M22-23S" xml:id="WP_1573_03_25_Annunc_Mar_115v_M22-23S">
 
@@ -2063,8 +2062,8 @@
         </l>
         <l n="R" xml:id="WP_1573_03_25_Annunc_Mar_116v_R">
 
-        <w xml:id="WP_1573_03_25_Annunc_Mar_116v_R#1" xml:lang="olt">&lt;takia</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_116v_R#2" xml:lang="olt">ſa<lb break="no"/>&gt;</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_116v_R#1" xml:lang="olt">takia</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_116v_R#2" xml:lang="olt">ſa<lb break="no"/></w>
         </l>
         <pb n="117r"/>
         <l n="1" xml:id="WP_1573_03_25_Annunc_Mar_117r_1">
@@ -2824,8 +2823,8 @@
         </l>
         <l n="R" xml:id="WP_1573_03_25_Annunc_Mar_117v_R">
 
-        <w xml:id="WP_1573_03_25_Annunc_Mar_117v_R#1" xml:lang="olt">&lt;tai</w>
-        <w xml:id="WP_1573_03_25_Annunc_Mar_117v_R#2" xml:lang="olt">panu&gt;</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_117v_R#1" xml:lang="olt">tai</w>
+        <w xml:id="WP_1573_03_25_Annunc_Mar_117v_R#2" xml:lang="olt">panu</w>
         </l>
         <pb n="118r"/>
         <l n="1" xml:id="WP_1573_03_25_Annunc_Mar_118r_1">

@@ -758,8 +758,8 @@
         </l>
         <l n="R" xml:id="WP_1573_018_Dom_Septuag_80v_R">
 
-        <w xml:id="WP_1573_018_Dom_Septuag_80v_R#1" xml:lang="olt">&lt;Chus</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_80v_R#2" xml:lang="olt">Jeſ:&gt;</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_80v_R#1" xml:lang="olt">Chus</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_80v_R#2" xml:lang="olt">Jeſ:</w>
         </l>
         <l n="M19W" xml:id="WP_1573_018_Dom_Septuag_80v_M19W">
 
@@ -1317,7 +1317,8 @@
         <w xml:id="WP_1573_018_Dom_Septuag_81v_6#1" xml:lang="olt">
           <app>  
             <lem>mirſʒtancʒiu</lem>
-            <rdg>mirſʒten &lt; n</rdg>
+            <rdg>mirſʒten</rdg>
+            <rdg>n</rdg>
           </app></w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_6#2" xml:lang="olt">ſʒmanụ,</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_6#3" xml:lang="olt">ir</w>
@@ -1692,7 +1693,7 @@
         </l>
         <l n="R" xml:id="WP_1573_018_Dom_Septuag_81v_R">
 
-        <w xml:id="WP_1573_018_Dom_Septuag_81v_R#1" xml:lang="olt">&lt;greſchniki&gt;</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_81v_R#1" xml:lang="olt">greſchniki</w>
         </l>
         <l n="M1-2W" xml:id="WP_1573_018_Dom_Septuag_81v_M1-2W">
 
@@ -2585,8 +2586,8 @@
         </l>
         <l n="R" xml:id="WP_1573_018_Dom_Septuag_82v_R">
 
-        <w xml:id="WP_1573_018_Dom_Septuag_82v_R#1" xml:lang="olt">&lt;maſʒoſa</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_82v_R#2" xml:lang="olt">griekoſa&gt;</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_82v_R#1" xml:lang="olt">maſʒoſa</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_82v_R#2" xml:lang="olt">griekoſa</w>
         </l>
         <l n="M12W" xml:id="WP_1573_018_Dom_Septuag_82v_M12W">
 
@@ -3044,12 +3045,12 @@
         </l>
         <l n="M11W" xml:id="WP_1573_018_Dom_Septuag_83r_M11W">
 
-        <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W#1" xml:lang="olt">⌈</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W#2" xml:lang="lat">Jacob:</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W#3" xml:lang="lat">1</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W#4" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W#5" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W#6" xml:lang="olt">5&gt;⌉</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W#1" xml:lang="lat">Jacob:</w>
+        <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W#2" xml:lang="olt">
+        <app>
+          <lem>5</lem>
+          <rdg>1</rdg>
+        </app></w>
         </l>
         <pb n="83v"/>
         <l n="1" xml:id="WP_1573_018_Dom_Septuag_83v_1">

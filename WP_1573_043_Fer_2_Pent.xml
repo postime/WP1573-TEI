@@ -476,7 +476,7 @@
         </l>
         <l n="R" xml:id="WP_1573_043_Fer_2_Pent_183v_R">
 
-        <w xml:id="WP_1573_043_Fer_2_Pent_183v_R#1" xml:lang="olt">&lt;kuri&gt;</w>
+        <w xml:id="WP_1573_043_Fer_2_Pent_183v_R#1" xml:lang="olt">kuri</w>
         </l>
         <pb n="184r"/>
         <l n="1" xml:id="WP_1573_043_Fer_2_Pent_184r_1">
@@ -1247,12 +1247,13 @@
         </l>
         <l n="R" xml:id="WP_1573_043_Fer_2_Pent_184v_R">
 
-        <w xml:id="WP_1573_043_Fer_2_Pent_184v_R#1" xml:lang="olt">&lt;1</w>
+        <w xml:id="WP_1573_043_Fer_2_Pent_184v_R#1" xml:lang="olt">1</w>
         <w xml:id="WP_1573_043_Fer_2_Pent_184v_R#2" xml:lang="olt">Cor:</w>
-        <w xml:id="WP_1573_043_Fer_2_Pent_184v_R#3" xml:lang="olt">12</w>
-        <w xml:id="WP_1573_043_Fer_2_Pent_184v_R#4" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_043_Fer_2_Pent_184v_R#5" xml:lang="olt">&lt;</w>
-        <w xml:id="WP_1573_043_Fer_2_Pent_184v_R#6" xml:lang="olt">11&gt;&gt;</w>
+        <w xml:id="WP_1573_043_Fer_2_Pent_184v_R#3" xml:lang="olt">
+        <app>
+          <lem>12</lem>
+          <rdg>11</rdg>
+        </app></w>
         </l>
         <pb n="185r"/>
         <l n="1" xml:id="WP_1573_043_Fer_2_Pent_185r_1">
@@ -1963,7 +1964,7 @@
         </l>
         <l n="R" xml:id="WP_1573_043_Fer_2_Pent_185v_R">
 
-        <w xml:id="WP_1573_043_Fer_2_Pent_185v_R#1" xml:lang="olt">&lt;TRECIAN&gt;</w>
+        <w xml:id="WP_1573_043_Fer_2_Pent_185v_R#1" xml:lang="olt">TRECIAN</w>
         </l>
       </div>
     </body>
