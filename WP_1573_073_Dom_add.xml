@@ -709,7 +709,8 @@
         <w xml:id="WP_1573_073_Dom_add_286v_27#1" xml:lang="olt">Sunus</w>
         <w xml:id="WP_1573_073_Dom_add_286v_27#2" xml:lang="olt">taſkat</w>
         <w xml:id="WP_1573_073_Dom_add_286v_27#3" xml:lang="olt">paſsirade</w>
-        <w xml:id="WP_1573_073_Dom_add_286v_27#4" xml:lang="olt">
+        <w xml:id="WP_1573_073_Dom_add_286v_27#4" xml:lang="olt"> 
+        <!-- Words "paſsirade kune muſụ" labelled with numbers 1-3-2 in Ms. to indicate that they should be swapped to "paſsirade muſụ kune".-->
           <app>  
             <lem>muſụ</lem>
             <rdg>kune</rdg>

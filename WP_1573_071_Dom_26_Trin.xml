@@ -342,7 +342,7 @@
         <w xml:id="WP_1573_071_Dom_26_Trin_279r_8#5" xml:lang="olt">
           <app>  
             <lem>ſʒed<lb break="no"/>na</lem>
-            <rdg>ſed<lb break="no"/></rdg>
+            <rdg>ſed<lb break="no"/>na</rdg>
           </app></w>
         </l>
         <l n="9" xml:id="WP_1573_071_Dom_26_Trin_279r_9">
@@ -1819,7 +1819,7 @@
         <w xml:id="WP_1573_071_Dom_26_Trin_281r_9#9" xml:lang="olt">
           <app>  
             <lem>wiʒd<lb break="no"/>ʒiaus</lem>
-            <rdg>wid<lb break="no"/></rdg>
+            <rdg>wid<lb break="no"/>ʒiaus</rdg>
           </app></w>
         </l>
         <l n="10" xml:id="WP_1573_071_Dom_26_Trin_281r_10">
@@ -2393,7 +2393,7 @@
         <w xml:id="WP_1573_071_Dom_26_Trin_281v_31#6" xml:lang="olt">
           <app>  
             <lem>da<lb break="no"/>rant</lem>
-            <rdg>ra</rdg>
+            <rdg>da<lb break="no"/>ra</rdg>
           </app></w>
         </l>
         <l n="32" xml:id="WP_1573_071_Dom_26_Trin_281v_32">
@@ -2691,7 +2691,6 @@
         <w xml:id="WP_1573_071_Dom_26_Trin_282r_24#1" xml:lang="olt">butụ</w>
         <w xml:id="WP_1573_071_Dom_26_Trin_282r_24#2" xml:lang="olt">iſsilaikị</w>
         <punct>
-
           <app>  
             <lem>.</lem>
             <rdg>,</rdg>

@@ -3299,7 +3299,7 @@
           </add>
         <w xml:id="WP_1573_074_09_29_St_Mich_295r_13#4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295r_13#5" xml:lang="olt">
-          <app> <!-- Nested corrections: Bielauk started writing "ke..., then corrected himself to finish "kiel=damas". Then Welver put a period between "kiel=damas" and "ir", and changed "ir" to "Jr".-->
+          <app> <!-- Bielauk started writing "ke...", then corrected himself to finish "kiel=damas". Then Welver put a period between "kiel=damas" and "ir", and changed "ir" to "Jr".-->
             <lem>kiel<lb break="no"/>damas</lem>
             <rdg>ke</rdg>
           </app></w>
@@ -3832,7 +3832,11 @@
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_25#2" xml:lang="olt">dʒiaukdamieſsi</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_25#3" xml:lang="olt">duſʒas</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_25#4" xml:lang="olt">muſụ</w>
-        <w xml:id="WP_1573_074_09_29_St_Mich_295v_25#5" xml:lang="olt">no<lb break="no"/>neſch</w>
+        <w xml:id="WP_1573_074_09_29_St_Mich_295v_25#5" xml:lang="olt"><app>
+          <lem>no<lb break="no"/>neſch</lem>
+          <rdg>no<lb break="no"/>m</rdg>
+          <rdg>ne</rdg>
+        </app></w>
         </l>
         <l n="26" xml:id="WP_1573_074_09_29_St_Mich_295v_26">
 
