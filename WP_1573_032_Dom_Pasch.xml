@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -55,7 +55,7 @@
         <w xml:id="WP_1573_032_Dom_Pasch_152r_4.4" xml:lang="olt">Subata,</w>
         <w xml:id="WP_1573_032_Dom_Pasch_152r_4.5" xml:lang="olt">Maria</w>
         <w xml:id="WP_1573_032_Dom_Pasch_152r_4.6" xml:lang="olt">Mag:</w>
-        <w xml:id="WP_1573_032_Dom_Pasch_152r_4.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_032_Dom_Pasch_152r_4.7" xml:lang="grc">Φ</w>
         <lb n="5" xml:id="WP_1573_032_Dom_Pasch_152r_5"/>
 
         <w xml:id="WP_1573_032_Dom_Pasch_152r_5.1" xml:lang="olt">Schas</w>
@@ -462,7 +462,7 @@
         <w xml:id="WP_1573_032_Dom_Pasch_152v_12.1" xml:lang="olt">tawam</w>
         <w xml:id="WP_1573_032_Dom_Pasch_152v_12.2" xml:lang="olt">regiet</w>
         <w xml:id="WP_1573_032_Dom_Pasch_152v_12.3" xml:lang="olt">pagedima</w>
-        <w xml:id="WP_1573_032_Dom_Pasch_152v_12.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_032_Dom_Pasch_152v_12.4" xml:lang="grc">Φ</w>
         <lb n="13" xml:id="WP_1573_032_Dom_Pasch_152v_13"/>
 
         <w xml:id="WP_1573_032_Dom_Pasch_152v_13.1" xml:lang="olt">Waiſụ</w>
@@ -529,7 +529,7 @@
 
         <w xml:id="WP_1573_032_Dom_Pasch_152v_19.1" xml:lang="grc">
           <app>  
-            <lem>m̄</lem>
+            <lem>Φ</lem>
             <rdg>,</rdg>
           </app></w>
         <w xml:id="WP_1573_032_Dom_Pasch_152v_19.2" xml:lang="olt">Tos</w>
@@ -1268,7 +1268,7 @@
         <w xml:id="WP_1573_032_Dom_Pasch_153v_22.3" xml:lang="olt">indulgentias</w>
         <w xml:id="WP_1573_032_Dom_Pasch_153v_22.4" xml:lang="grc">
           <app>  
-            <lem>m̄</lem>
+            <lem>Φ</lem>
             <rdg>,</rdg>
           </app></w>
         <w xml:id="WP_1573_032_Dom_Pasch_153v_22.5" xml:lang="olt">Jr</w>
@@ -1425,7 +1425,7 @@
         <w xml:id="WP_1573_032_Dom_Pasch_154r_3.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_032_Dom_Pasch_154r_3.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_032_Dom_Pasch_154r_3.4" xml:lang="olt">ſnegas</w>
-        <w xml:id="WP_1573_032_Dom_Pasch_154r_3.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_032_Dom_Pasch_154r_3.5" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <w xml:id="WP_1573_032_Dom_Pasch_154r_3.7" xml:lang="olt">Priminimu</w>
         <lb n="4" xml:id="WP_1573_032_Dom_Pasch_154r_4"/>

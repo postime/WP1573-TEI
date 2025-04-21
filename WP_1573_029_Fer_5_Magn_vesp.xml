@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -205,7 +205,7 @@
             <rdg>tarrai</rdg>
           </app></w>
         <punct>.</punct>
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_16.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_16.5" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <lb n="17" xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_17"/>
 
@@ -472,7 +472,7 @@
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134r_9.2" xml:lang="olt">ſcha</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134r_9.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134r_9.4" xml:lang="olt">Judaſchus</w>
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134r_9.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134r_9.5" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134r_9.6" xml:lang="lat">dic</w>
         <punct>.</punct>
         <lb n="10" xml:id="WP_1573_029_Fer_5_Magn_vesp_134r_10"/>
@@ -968,7 +968,7 @@
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_20.4" xml:lang="olt">pakutas</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_20.5" xml:lang="olt">tawe</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_20.6" xml:lang="olt">wercʒia</w>
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_20.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_20.7" xml:lang="grc">Φ</w>
         <lb n="21" xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_21"/>
 
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_21.1" xml:lang="olt">Jſch</w>
@@ -1119,7 +1119,7 @@
         <lb n="M25W" xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W"/>
 
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W.1" xml:lang="olt">⌈</w>
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W.2" xml:lang="lat">Ošee:</w>
+        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W.2" xml:lang="lat">Oſee:</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W.3" xml:lang="lat">13</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W.4" xml:lang="olt">⌉</w>
         <pb n="135r"/>

@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -55,7 +55,7 @@
         <w xml:id="WP_1573_024_Dom_4_Quadr_109v_16.5" xml:lang="olt">mariụ</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_109v_16.6" xml:lang="olt">Galileas</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_109v_16.7" xml:lang="olt">kurias</w>
-        <w xml:id="WP_1573_024_Dom_4_Quadr_109v_16.8" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_024_Dom_4_Quadr_109v_16.8" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <lb n="17" xml:id="WP_1573_024_Dom_4_Quadr_109v_17"/>
 
@@ -749,7 +749,7 @@
         <w xml:id="WP_1573_024_Dom_4_Quadr_110v_16.2" xml:lang="olt">Aukſas</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_110v_16.3" xml:lang="olt">ſidabras</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_110v_16.4" xml:lang="olt">penigai</w>
-        <w xml:id="WP_1573_024_Dom_4_Quadr_110v_16.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_024_Dom_4_Quadr_110v_16.5" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_110v_16.6" xml:lang="olt">walgi<lb break="no"/>mu</w>
         <lb n="17" xml:id="WP_1573_024_Dom_4_Quadr_110v_17"/>
 
@@ -776,7 +776,7 @@
         <w xml:id="WP_1573_024_Dom_4_Quadr_110v_19.2" xml:lang="olt">buti,</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_110v_19.3" xml:lang="olt">lauka</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_110v_19.4" xml:lang="olt">dirwụ</w>
-        <w xml:id="WP_1573_024_Dom_4_Quadr_110v_19.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_024_Dom_4_Quadr_110v_19.5" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_110v_19.6" xml:lang="olt">neturri,</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_110v_19.7" xml:lang="olt">tikek</w>
         <lb n="20" xml:id="WP_1573_024_Dom_4_Quadr_110v_20"/>
@@ -943,7 +943,7 @@
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_1.5" xml:lang="olt">kitti</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_1.6" xml:lang="olt">tur</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_1.7" xml:lang="olt">ſʒluſʒiti,</w>
-        <w xml:id="WP_1573_024_Dom_4_Quadr_111r_1.8" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_024_Dom_4_Quadr_111r_1.8" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_1.9" xml:lang="olt">Ta</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_1.10" xml:lang="olt">daugia</w>
         <lb n="2" xml:id="WP_1573_024_Dom_4_Quadr_111r_2"/>
@@ -987,7 +987,7 @@
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_5.4" xml:lang="olt">nebaija</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_5.5" xml:lang="olt">newerni</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_5.6" xml:lang="olt">nepakluſni</w>
-        <w xml:id="WP_1573_024_Dom_4_Quadr_111r_5.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_024_Dom_4_Quadr_111r_5.7" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_5.8" xml:lang="olt">Jra</w>
         <lb n="6" xml:id="WP_1573_024_Dom_4_Quadr_111r_6"/>
 
@@ -1040,11 +1040,11 @@
 
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_11.1" xml:lang="olt">latriſtes</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_11.2" xml:lang="olt">
-          <app hand= "W">  
+          <app hand="W">  
             <lem>bradniſtes</lem>
             <rdg>ʒbradniſtes</rdg>
           </app></w>
-        <w xml:id="WP_1573_024_Dom_4_Quadr_111r_11.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_024_Dom_4_Quadr_111r_11.3" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_11.4" xml:lang="olt">Takias</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_11.5" xml:lang="olt">ka</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_11.6" xml:lang="olt">patam</w>
@@ -1183,7 +1183,7 @@
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_25.1" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_25.2" xml:lang="olt">wierni</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_25.3" xml:lang="olt">pilni</w>
-        <w xml:id="WP_1573_024_Dom_4_Quadr_111r_25.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_024_Dom_4_Quadr_111r_25.4" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_25.5" xml:lang="olt">butụ,</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_25.6" xml:lang="olt">tada</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111r_25.7" xml:lang="olt">uſʒ<lb break="no"/>tieſụ</w>

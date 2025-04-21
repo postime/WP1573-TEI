@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -57,7 +57,7 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_127r_22.5" xml:lang="olt">kan</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_127r_22.6" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_127r_22.7" xml:lang="olt">iumis</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_127r_22.8" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_127r_22.8" xml:lang="grc">Φ</w>
         <lb n="23" xml:id="WP_1573_028_Fer_5_Magn_mat_127r_23"/>
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_127r_23.1" xml:lang="olt">Iſch</w>
@@ -605,7 +605,7 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128r_11.5" xml:lang="olt">numirſʒta,</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128r_11.6" xml:lang="olt">tas</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128r_11.7" xml:lang="olt">tada</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_128r_11.8" xml:lang="lat">Teš<lb break="no"/>tamentus</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_128r_11.8" xml:lang="lat">Teſ<lb break="no"/>tamentus</w>
         <lb n="12" xml:id="WP_1573_028_Fer_5_Magn_mat_128r_12"/>
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128r_12.1" xml:lang="olt">teip</w>
@@ -874,7 +874,7 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_2.2" xml:lang="olt">nemaſʒinant</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_2.3" xml:lang="olt">nei</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_2.4" xml:lang="olt">pridedant</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_2.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_2.5" xml:lang="grc">Φ</w>
         <lb n="3" xml:id="WP_1573_028_Fer_5_Magn_mat_128v_3"/>
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_3.1" xml:lang="olt">A</w>
@@ -1041,7 +1041,7 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_19.7" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_19.8" xml:lang="olt">krauias</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_19.9" xml:lang="olt">mana</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_19.10" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_19.10" xml:lang="grc">Φ</w>
         <lb n="20" xml:id="WP_1573_028_Fer_5_Magn_mat_128v_20"/>
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_128v_20.1" xml:lang="olt">4</w>
@@ -1330,7 +1330,7 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_13.1" xml:lang="olt">pirma</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_13.2" xml:lang="olt">nekaip</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_13.3" xml:lang="olt">kenteſu</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_13.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_13.4" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_13.5" xml:lang="olt">Ner</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_13.6" xml:lang="olt">tada</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_13.7" xml:lang="olt">inſtates</w>
@@ -1554,7 +1554,7 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_35.1" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_35.2" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_35.3" xml:lang="olt">liganimus</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_35.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_129r_35.4" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <pb n="129v"/>
         <lb n="1" xml:id="WP_1573_028_Fer_5_Magn_mat_129v_1"/>
@@ -2479,7 +2479,7 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_23.3" xml:lang="olt">piktais</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_23.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_23.5" xml:lang="olt">greſʒnais</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_23.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_23.6" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_23.7" xml:lang="olt">Atminkitegi</w>
         <lb n="24" xml:id="WP_1573_028_Fer_5_Magn_mat_130v_24"/>
 
@@ -2636,7 +2636,7 @@
         <lb n="M30W" xml:id="WP_1573_028_Fer_5_Magn_mat_130v_M30W"/>
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_M30W.1" xml:lang="olt">⌈</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_M30W.2" xml:lang="lat">Geneš:</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_M30W.2" xml:lang="lat">Geneſ:</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_M30W.3" xml:lang="lat">3</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_130v_M30W.4" xml:lang="olt">⌉</w>
         <lb n="M35W" xml:id="WP_1573_028_Fer_5_Magn_mat_130v_M35W"/>
@@ -3236,7 +3236,7 @@
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131v_20.7" xml:lang="olt">wa<lb break="no"/>gies</w>
         <lb n="21" xml:id="WP_1573_028_Fer_5_Magn_mat_131v_21"/>
 
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_131v_21.1" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_131v_21.1" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131v_21.2" xml:lang="olt">tai</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131v_21.3" xml:lang="olt">turri</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_131v_21.4" xml:lang="olt">ſuwerſt,</w>
@@ -3463,7 +3463,7 @@
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_10.1" xml:lang="olt">dawanai</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_10.2" xml:lang="olt">dawanaija</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_10.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_10.3" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_10.4" xml:lang="olt">Turri</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_10.5" xml:lang="olt">preg</w>
         <lb n="11" xml:id="WP_1573_028_Fer_5_Magn_mat_132r_11"/>
@@ -3634,7 +3634,7 @@
         <lb n="29" xml:id="WP_1573_028_Fer_5_Magn_mat_132r_29"/>
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_29.1" xml:lang="olt">mini</w>
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_29.2" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_29.2" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_29.3" xml:lang="olt">Te</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_29.4" xml:lang="olt">kad</w>
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132r_29.5" xml:lang="olt">paterụ</w>
@@ -4002,7 +4002,7 @@
 
         <quote>
 
-        <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_31.7" xml:lang="lat">pošt</w>
+        <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_31.7" xml:lang="lat">poſt</w>
         <lb n="32" xml:id="WP_1573_028_Fer_5_Magn_mat_132v_32"/>
 
         <w xml:id="WP_1573_028_Fer_5_Magn_mat_132v_32.1" xml:lang="lat">mortem</w>

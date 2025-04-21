@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -37,7 +37,7 @@
         <w xml:id="WP_1573_035_Dom_1_Pasch_160v_15.2" xml:lang="olt">WADINAME</w>
         <lb n="16" xml:id="WP_1573_035_Dom_1_Pasch_160v_16"/>
 
-        <w xml:id="WP_1573_035_Dom_1_Pasch_160v_16.1" xml:lang="lat">Quaši</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_160v_16.1" xml:lang="lat">Quaſi</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_160v_16.2" xml:lang="lat">modo</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_160v_16.3" xml:lang="lat">geniti</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_160v_16.4" xml:lang="olt">Egłum</w>
@@ -66,7 +66,7 @@
         <w xml:id="WP_1573_035_Dom_1_Pasch_160v_19.4" xml:lang="olt">wakaras</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_160v_19.5" xml:lang="olt">dienas</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_160v_19.6" xml:lang="olt">anas</w>
-        <w xml:id="WP_1573_035_Dom_1_Pasch_160v_19.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_160v_19.7" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <lb n="20" xml:id="WP_1573_035_Dom_1_Pasch_160v_20"/>
 
@@ -852,7 +852,7 @@
         <w xml:id="WP_1573_035_Dom_1_Pasch_162r_9.3" xml:lang="olt">Diewas</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_162r_9.4" xml:lang="olt">Jacoba</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_162r_9.5" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_035_Dom_1_Pasch_162r_9.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_162r_9.6" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <lb n="10" xml:id="WP_1573_035_Dom_1_Pasch_162r_10"/>
 
@@ -903,7 +903,7 @@
         <w xml:id="WP_1573_035_Dom_1_Pasch_162r_15.3" xml:lang="olt">turreti</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_162r_15.4" xml:lang="olt">Eſa:</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_162r_15.5" xml:lang="olt">57</w>
-        <w xml:id="WP_1573_035_Dom_1_Pasch_162r_15.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_162r_15.6" xml:lang="grc">Φ</w>
         <lb n="16" xml:id="WP_1573_035_Dom_1_Pasch_162r_16"/>
 
         <w xml:id="WP_1573_035_Dom_1_Pasch_162r_16.1" xml:lang="olt">Kalba</w>
@@ -1362,7 +1362,7 @@
         <w xml:id="WP_1573_035_Dom_1_Pasch_162v_34.9" xml:lang="olt">ne<lb break="no"/>ſuncʒiau</w>
         <lb n="35" xml:id="WP_1573_035_Dom_1_Pasch_162v_35"/>
 
-        <w xml:id="WP_1573_035_Dom_1_Pasch_162v_35.1" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_162v_35.1" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_162v_35.2" xml:lang="olt">Tadelei</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_162v_35.3" xml:lang="olt">ieigu</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_162v_35.4" xml:lang="olt">wiſsi</w>
@@ -1458,7 +1458,7 @@
 
           <quote>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163r_11.1" xml:lang="olt">S:</w>
-        <w xml:id="WP_1573_035_Dom_1_Pasch_163r_11.2" xml:lang="lat">Auguštinus</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_163r_11.2" xml:lang="lat">Auguſtinus</w>
           <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163r_11.3" xml:lang="olt">gramatai</w>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163r_11.4" xml:lang="olt">fortunatap,</w> <!--Person
@@ -1794,7 +1794,7 @@
         <lb n="15" xml:id="WP_1573_035_Dom_1_Pasch_163v_15"/>
 
         <w xml:id="WP_1573_035_Dom_1_Pasch_163v_15.1" xml:lang="olt">nebeaſsa</w>
-        <w xml:id="WP_1573_035_Dom_1_Pasch_163v_15.2" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_035_Dom_1_Pasch_163v_15.2" xml:lang="grc">Φ</w>
         <punct>.</punct>
 
         <ref decls="nonbib" cRef="Exemplum_Posessed"/></quote>

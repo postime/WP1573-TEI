@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -54,7 +54,7 @@
         <w xml:id="WP_1573_057_Dom_12_Trin_231r_29.4" xml:lang="olt">panas</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_231r_29.5" xml:lang="olt">Jeſus</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_231r_29.6" xml:lang="olt">iſch</w>
-        <w xml:id="WP_1573_057_Dom_12_Trin_231r_29.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_057_Dom_12_Trin_231r_29.7" xml:lang="grc">Φ</w>
         <pb n="231v"/>
         <lb n="1" xml:id="WP_1573_057_Dom_12_Trin_231v_1"/>
 
@@ -166,7 +166,7 @@
         <w xml:id="WP_1573_057_Dom_12_Trin_231v_13.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_231v_13.2" xml:lang="olt">kalbeia</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_231v_13.3" xml:lang="olt">gierrei</w>
-        <w xml:id="WP_1573_057_Dom_12_Trin_231v_13.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_057_Dom_12_Trin_231v_13.4" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <w xml:id="WP_1573_057_Dom_12_Trin_231v_13.6" xml:lang="olt">Jſch</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_231v_13.7" xml:lang="olt">ka</w>
@@ -1272,7 +1272,7 @@
         <w xml:id="WP_1573_057_Dom_12_Trin_233r_33.6" xml:lang="olt">ſʒalei</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_233r_33.7" xml:lang="olt">ner</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_233r_33.8" xml:lang="olt">ſugrinſchis</w>
-        <w xml:id="WP_1573_057_Dom_12_Trin_233r_33.9" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_057_Dom_12_Trin_233r_33.9" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <pb n="233v"/>
         <lb n="1" xml:id="WP_1573_057_Dom_12_Trin_233v_1"/>
@@ -1574,7 +1574,7 @@
         <w xml:id="WP_1573_057_Dom_12_Trin_233v_35.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_233v_35.5" xml:lang="olt">bua</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_233v_35.6" xml:lang="olt">iam</w>
-        <w xml:id="WP_1573_057_Dom_12_Trin_233v_35.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_057_Dom_12_Trin_233v_35.7" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_233v_35.8" xml:lang="olt">Kadangi</w>
         <lb n="R" xml:id="WP_1573_057_Dom_12_Trin_233v_R"/>
 
@@ -1653,7 +1653,7 @@
         <lb n="9" xml:id="WP_1573_057_Dom_12_Trin_234r_9"/>
 
         <w xml:id="WP_1573_057_Dom_12_Trin_234r_9.1" xml:lang="olt">Perkuna</w>
-        <w xml:id="WP_1573_057_Dom_12_Trin_234r_9.2" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_057_Dom_12_Trin_234r_9.2" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_234r_9.3" xml:lang="olt">melſti</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_234r_9.4" xml:lang="olt">a</w>
         <w xml:id="WP_1573_057_Dom_12_Trin_234r_9.5" xml:lang="olt">garbinti</w>

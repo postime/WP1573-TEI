@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -94,7 +94,7 @@
         <lb n="14" xml:id="WP_1573_001_Tit_1_0r_14"/>
 
         <w xml:id="WP_1573_001_Tit_1_0r_14.1" xml:lang="olt">·</w>
-        <w xml:id="WP_1573_001_Tit_1_0r_14.2" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_14.2" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_001_Tit_1_0r_14.3" xml:lang="olt">·</w>
         <lb n="15" xml:id="WP_1573_001_Tit_1_0r_15"/>
 
@@ -111,7 +111,7 @@
 
         <w xml:id="WP_1573_001_Tit_1_0r_M18N.1" xml:lang="olt">⌈12</w>
         <w xml:id="WP_1573_001_Tit_1_0r_M18N.2" xml:lang="olt">·</w>
-        <w xml:id="WP_1573_001_Tit_1_0r_M18N.3" xml:lang="lat">Mš</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_M18N.3" xml:lang="lat">Mſ</w>
         <w xml:id="WP_1573_001_Tit_1_0r_M18N.4" xml:lang="olt">·⌉</w>
       </div>
     </body>

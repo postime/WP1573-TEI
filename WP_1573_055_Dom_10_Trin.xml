@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -54,7 +54,7 @@
         <w xml:id="WP_1573_055_Dom_10_Trin_225v_4.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_225v_4.3" xml:lang="olt">priſsiartinaija</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_225v_4.4" xml:lang="olt">meſtap</w>
-        <w xml:id="WP_1573_055_Dom_10_Trin_225v_4.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_055_Dom_10_Trin_225v_4.5" xml:lang="grc">Φ</w>
         <lb n="5" xml:id="WP_1573_055_Dom_10_Trin_225v_5"/>
 
         <w xml:id="WP_1573_055_Dom_10_Trin_225v_5.1" xml:lang="olt">Tai</w>
@@ -373,7 +373,7 @@
         <w xml:id="WP_1573_055_Dom_10_Trin_226r_7.6" xml:lang="olt">paku<lb break="no"/>tas</w>
         <lb n="8" xml:id="WP_1573_055_Dom_10_Trin_226r_8"/>
 
-        <w xml:id="WP_1573_055_Dom_10_Trin_226r_8.1" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_055_Dom_10_Trin_226r_8.1" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226r_8.2" xml:lang="lat">Rom:</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226r_8.3" xml:lang="lat">2</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226r_8.4" xml:lang="lat">cap:</w>
@@ -517,7 +517,7 @@
         <w xml:id="WP_1573_055_Dom_10_Trin_226r_24.2" xml:lang="olt">patam</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226r_24.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226r_24.4" xml:lang="olt">pakirſiu</w>
-        <w xml:id="WP_1573_055_Dom_10_Trin_226r_24.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_055_Dom_10_Trin_226r_24.5" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226r_24.6" xml:lang="olt">Teip</w>
         <lb n="25" xml:id="WP_1573_055_Dom_10_Trin_226r_25"/>
 
@@ -893,7 +893,7 @@
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_34.3" xml:lang="olt">waikus</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_34.4" xml:lang="olt">ſawa</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_34.5" xml:lang="olt">walgie</w>
-        <w xml:id="WP_1573_055_Dom_10_Trin_226v_34.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_055_Dom_10_Trin_226v_34.6" xml:lang="grc">Φ</w>
         <lb n="R" xml:id="WP_1573_055_Dom_10_Trin_226v_R"/>
 
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_R.1" xml:lang="olt">Patam</w>
@@ -1157,7 +1157,7 @@
         <w xml:id="WP_1573_055_Dom_10_Trin_227r_29.1" xml:lang="olt">7</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_227r_29.2" xml:lang="olt">Jr</w>
           <quote>
-        <w xml:id="WP_1573_055_Dom_10_Trin_227r_29.3" xml:lang="lat">Eušeuius</w>
+        <w xml:id="WP_1573_055_Dom_10_Trin_227r_29.3" xml:lang="lat">Euſeuius</w>
           <ref decls="person" cRef="EusebC"/></quote>
         <w xml:id="WP_1573_055_Dom_10_Trin_227r_29.4" xml:lang="olt">knigoſa</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_227r_29.5" xml:lang="olt">5</w>

@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -52,7 +52,7 @@
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_60r_30.1" xml:lang="olt">2</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_60r_30.2" xml:lang="lat">Capi:</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_60r_30.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_60r_30.3" xml:lang="grc">Φ</w>
         <pb n="60v"/>
         <lb n="1" xml:id="WP_1573_013_Dom_2_Epiph_60v_1"/>
 
@@ -62,7 +62,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_60v_1.4" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_60v_1.5" xml:lang="olt">Cana</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_60v_1.6" xml:lang="olt">Galileas</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_60v_1.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_60v_1.7" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <lb n="2" xml:id="WP_1573_013_Dom_2_Epiph_60v_2"/>
 
@@ -667,7 +667,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_61r_22.1" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_61r_22.2" xml:lang="olt">pripildikite</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_61r_22.3" xml:lang="olt">ſʒemẹ</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_61r_22.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_61r_22.4" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_61r_22.5" xml:lang="olt">Cʒia</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_61r_22.6" xml:lang="olt">Ma:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_61r_22.7" xml:lang="olt">k:</w>
@@ -1143,7 +1143,7 @@
         <punct>,</punct>
         <w xml:id="WP_1573_013_Dom_2_Epiph_61v_34.4" xml:lang="olt">te</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_61v_34.5" xml:lang="olt">permanai</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_61v_34.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_61v_34.6" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <w xml:id="WP_1573_013_Dom_2_Epiph_61v_34.8" xml:lang="olt">Ape</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_61v_34.9" xml:lang="olt">tai</w>
@@ -1980,7 +1980,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_63r_17.6" xml:lang="olt">waiſin<lb break="no"/>ti,</w>
         <lb n="18" xml:id="WP_1573_013_Dom_2_Epiph_63r_18"/>
 
-        <w xml:id="WP_1573_013_Dom_2_Epiph_63r_18.1" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_63r_18.1" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_63r_18.2" xml:lang="olt">Ba</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_63r_18.3" xml:lang="olt">ieigu</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_63r_18.4" xml:lang="olt">kuri</w>
@@ -2418,7 +2418,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_63v_29.2" xml:lang="olt">gimines</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_63v_29.3" xml:lang="lat">SimeÃ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_63v_29.4" xml:lang="olt">wardu</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_63v_29.5" xml:lang="lat">ōam<lb break="no"/>bri</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_63v_29.5" xml:lang="lat">Ʒam<lb break="no"/>bri</w>
         <lb n="30" xml:id="WP_1573_013_Dom_2_Epiph_63v_30"/>
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_63v_30.1" xml:lang="olt">kunigaikſʒtis</w>
@@ -2438,7 +2438,7 @@
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_63v_32.1" xml:lang="lat">Madijanitarum</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_63v_32.2" xml:lang="olt">wardu</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_63v_32.3" xml:lang="lat">Cošbi</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_63v_32.3" xml:lang="lat">Coſbi</w>
         <punct>,</punct>
         <lb n="33" xml:id="WP_1573_013_Dom_2_Epiph_63v_33"/>
 
@@ -2529,7 +2529,7 @@
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_64r_6.1" xml:lang="lat">Numeri</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64r_6.2" xml:lang="lat">25</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_64r_6.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_64r_6.3" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64r_6.4" xml:lang="olt">Kadelei</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64r_6.5" xml:lang="olt">tapa</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64r_6.6" xml:lang="olt">iſchgaiſchinta</w>
@@ -2552,7 +2552,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_64r_8.4" xml:lang="olt">Kadel</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64r_8.5" xml:lang="olt">wel</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64r_8.6" xml:lang="olt">wiſsi</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_64r_8.7" xml:lang="lat">šichi<lb break="no"/>nite</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_64r_8.7" xml:lang="lat">ſichi<lb break="no"/>nite</w>
         <lb n="9" xml:id="WP_1573_013_Dom_2_Epiph_64r_9"/>
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_64r_9.1" xml:lang="olt">pamuſchti</w>
@@ -3134,7 +3134,7 @@
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_64v_32.1" xml:lang="olt">neſsigedeghimas</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64v_32.2" xml:lang="olt">biauribe</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_64v_32.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_64v_32.3" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64v_32.4" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64v_32.5" xml:lang="olt">kan</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_64v_32.6" xml:lang="olt">prane<lb break="no"/>ſchu</w>
@@ -3189,7 +3189,7 @@
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_2.1" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_2.2" xml:lang="olt">gadingas</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_65r_2.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_65r_2.3" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_2.4" xml:lang="olt">neturri</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_2.5" xml:lang="olt">tewiſʒkes</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_2.6" xml:lang="olt">Cħaus</w>
@@ -3404,7 +3404,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_24.1" xml:lang="olt">nepateptas</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_24.2" xml:lang="olt">ane</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_24.3" xml:lang="olt">apbiaurintas</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_65r_24.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_65r_24.4" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_24.5" xml:lang="olt">Deki<lb break="no"/>ma</w>
         <lb n="25" xml:id="WP_1573_013_Dom_2_Epiph_65r_25"/>
 
@@ -3470,7 +3470,7 @@
         <lb n="31" xml:id="WP_1573_013_Dom_2_Epiph_65r_31"/>
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_31.1" xml:lang="olt">cʒeſti</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_65r_31.2" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_65r_31.2" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_31.4" xml:lang="olt">Jr</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_31.5" xml:lang="lat">1</w>
@@ -4790,7 +4790,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_13.6" xml:lang="olt">makinna:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_13.7" xml:lang="olt">ſkaitik</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_13.8" xml:lang="olt">ten</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_13.9" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_13.9" xml:lang="grc">Φ</w>
         <punct>,</punct>
         <lb n="14" xml:id="WP_1573_013_Dom_2_Epiph_67r_14"/>
 
@@ -4801,7 +4801,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_14.5" xml:lang="olt">S:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_14.6" xml:lang="olt">Paw:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_14.7" xml:lang="olt">makinna</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_14.8" xml:lang="lat">colloš:</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_14.8" xml:lang="lat">colloſ:</w>
         <lb n="15" xml:id="WP_1573_013_Dom_2_Epiph_67r_15"/>
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_15.1" xml:lang="lat">3</w>
@@ -4899,7 +4899,7 @@
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_24.1" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_24.2" xml:lang="olt">karalienes</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_24.3" xml:lang="lat">Vašti</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_24.3" xml:lang="lat">Vaſti</w>
         <punct>,</punct>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_24.5" xml:lang="olt">materes</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_24.6" xml:lang="olt">karelaus</w>
@@ -4918,7 +4918,7 @@
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_26.1" xml:lang="olt">ſkaitik</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_26.2" xml:lang="olt">knigoſa</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_26.3" xml:lang="lat">Hešter</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_67r_26.3" xml:lang="lat">Heſter</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_26.4" xml:lang="lat">1</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_26.5" xml:lang="lat">Cap:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67r_26.6" xml:lang="olt">)</w>
@@ -5057,7 +5057,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_67v_2.7" xml:lang="olt">kalba</w>
         <lb n="3" xml:id="WP_1573_013_Dom_2_Epiph_67v_3"/>
 
-        <w xml:id="WP_1573_013_Dom_2_Epiph_67v_3.1" xml:lang="lat">Ecclešiaš:</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_67v_3.1" xml:lang="lat">Eccleſiaſ:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67v_3.2" xml:lang="lat">7</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67v_3.3" xml:lang="lat">Cap:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67v_3.4" xml:lang="olt">Jr</w>
@@ -5208,7 +5208,7 @@
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_67v_19.1" xml:lang="olt">nei</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67v_19.2" xml:lang="olt">kaulik</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_67v_19.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_67v_19.3" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67v_19.4" xml:lang="olt">Nei</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67v_19.5" xml:lang="olt">wel</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_67v_19.6" xml:lang="olt">bilaw</w>
@@ -5460,7 +5460,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_7.1" xml:lang="olt">karelus,</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_7.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_7.3" xml:lang="olt">ira</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_68r_7.4" xml:lang="lat">Eccleši:</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_68r_7.4" xml:lang="lat">Eccleſi:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_7.5" xml:lang="lat">26</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_7.6" xml:lang="lat">cap:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_7.7" xml:lang="olt">kur</w>
@@ -5579,7 +5579,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_20.2" xml:lang="olt">(</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_20.3" xml:lang="lat">dic</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_20.4" xml:lang="olt">)</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_68r_20.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_68r_20.5" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_20.6" xml:lang="olt">Preg</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_20.7" xml:lang="olt">tam</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_20.8" xml:lang="olt">wel</w>
@@ -5897,7 +5897,7 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_68v_14.3" xml:lang="olt">daſchnai</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68v_14.4" xml:lang="olt">rikſchtạ</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68v_14.5" xml:lang="olt">turi</w>
-        <w xml:id="WP_1573_013_Dom_2_Epiph_68v_14.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_013_Dom_2_Epiph_68v_14.6" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <w xml:id="WP_1573_013_Dom_2_Epiph_68v_14.8" xml:lang="olt">Pregtam</w>
         <lb n="15" xml:id="WP_1573_013_Dom_2_Epiph_68v_15"/>

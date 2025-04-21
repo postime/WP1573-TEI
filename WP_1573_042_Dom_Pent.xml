@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -62,7 +62,7 @@
         <w xml:id="WP_1573_042_Dom_Pent_180r_21.4" xml:lang="olt">ſʒadị</w>
         <w xml:id="WP_1573_042_Dom_Pent_180r_21.5" xml:lang="olt">mana</w>
         <w xml:id="WP_1573_042_Dom_Pent_180r_21.6" xml:lang="olt">ſaugas</w>
-        <w xml:id="WP_1573_042_Dom_Pent_180r_21.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_042_Dom_Pent_180r_21.7" xml:lang="grc">Φ</w>
         <lb n="22" xml:id="WP_1573_042_Dom_Pent_180r_22"/>
 
         <w xml:id="WP_1573_042_Dom_Pent_180r_22.1" xml:lang="olt">Kadangi</w>
@@ -522,7 +522,7 @@
         <w xml:id="WP_1573_042_Dom_Pent_180v_36.7" xml:lang="olt">tai</w>
         <lb n="R" xml:id="WP_1573_042_Dom_Pent_180v_R"/>
 
-        <w xml:id="WP_1573_042_Dom_Pent_180v_R.1" xml:lang="lat">Bašilius</w>
+        <w xml:id="WP_1573_042_Dom_Pent_180v_R.1" xml:lang="lat">Baſilius</w>
         <lb n="M28-29W" xml:id="WP_1573_042_Dom_Pent_180v_M28-29W"/>
 
         <w xml:id="WP_1573_042_Dom_Pent_180v_M28-29W.1" xml:lang="olt">⌈</w>
@@ -545,7 +545,7 @@
         <lb n="1" xml:id="WP_1573_042_Dom_Pent_181r_1"/>
 
           <quote>
-        <w xml:id="WP_1573_042_Dom_Pent_181r_1.1" xml:lang="lat">Bašilius</w>
+        <w xml:id="WP_1573_042_Dom_Pent_181r_1.1" xml:lang="lat">Baſilius</w>
         <w xml:id="WP_1573_042_Dom_Pent_181r_1.2" xml:lang="lat">magnus</w>
           <ref decls="person" cRef="BasilMagn"/></quote>
         <w xml:id="WP_1573_042_Dom_Pent_181r_1.3" xml:lang="olt">gramatai</w>
@@ -1069,7 +1069,7 @@
         <lb n="19" xml:id="WP_1573_042_Dom_Pent_181v_19"/>
 
         <w xml:id="WP_1573_042_Dom_Pent_181v_19.1" xml:lang="olt">Knigoſa</w>
-        <w xml:id="WP_1573_042_Dom_Pent_181v_19.2" xml:lang="lat">šapientiň</w>
+        <w xml:id="WP_1573_042_Dom_Pent_181v_19.2" xml:lang="lat">ſapientię</w>
         <w xml:id="WP_1573_042_Dom_Pent_181v_19.3" xml:lang="lat">
           <app type="err">  
             <lem>2</lem>
@@ -1704,7 +1704,7 @@
         <w xml:id="WP_1573_042_Dom_Pent_182v_12.2" xml:lang="olt">garbinụ</w>
         <w xml:id="WP_1573_042_Dom_Pent_182v_12.3" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_042_Dom_Pent_182v_12.4" xml:lang="olt">paſʒinſtụ</w>
-        <w xml:id="WP_1573_042_Dom_Pent_182v_12.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_042_Dom_Pent_182v_12.5" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <lb n="13" xml:id="WP_1573_042_Dom_Pent_182v_13"/>
 
@@ -1776,7 +1776,7 @@
         </corr>
         <w xml:id="WP_1573_042_Dom_Pent_182v_19.2" xml:lang="olt">kaltibes
           <app type="err">  
-            <lem></lem>
+            <lem/>
             <rdg>be kaltibes</rdg>
           </app></w>
         <punct>.</punct>
@@ -1935,7 +1935,7 @@
 
         <w xml:id="WP_1573_042_Dom_Pent_183r_1.1" xml:lang="olt">16</w>
         <w xml:id="WP_1573_042_Dom_Pent_183r_1.2" xml:lang="olt">cap:</w>
-        <w xml:id="WP_1573_042_Dom_Pent_183r_1.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_042_Dom_Pent_183r_1.3" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_042_Dom_Pent_183r_1.4" xml:lang="olt">A</w>
         <w xml:id="WP_1573_042_Dom_Pent_183r_1.5" xml:lang="olt">nu</w>
         <w xml:id="WP_1573_042_Dom_Pent_183r_1.6" xml:lang="olt">atpentʒ</w>
@@ -2125,7 +2125,7 @@
         <w xml:id="WP_1573_042_Dom_Pent_183r_21.6" xml:lang="olt">paſsi<lb break="no"/>lecʒiawakite</w>
         <lb n="22" xml:id="WP_1573_042_Dom_Pent_183r_22"/>
 
-        <w xml:id="WP_1573_042_Dom_Pent_183r_22.1" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_042_Dom_Pent_183r_22.1" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_042_Dom_Pent_183r_22.2" xml:lang="olt">Amen</w>
       </div>
     </body>

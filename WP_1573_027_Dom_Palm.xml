@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -55,7 +55,7 @@
         <w xml:id="WP_1573_027_Dom_Palm_124r_4.5" xml:lang="olt">Jeruſalem</w>
         <w xml:id="WP_1573_027_Dom_Palm_124r_4.6" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_027_Dom_Palm_124r_4.7" xml:lang="olt">attaija</w>
-        <w xml:id="WP_1573_027_Dom_Palm_124r_4.8" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_027_Dom_Palm_124r_4.8" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <lb n="5" xml:id="WP_1573_027_Dom_Palm_124r_5"/>
 
@@ -224,8 +224,8 @@
           </app></w>
         <w xml:id="WP_1573_027_Dom_Palm_124r_20.2" xml:lang="lat">
           <app type="err">  
-            <lem>Hošiamna</lem>
-            <rdg>Hošianna</rdg>
+            <lem>Hoſiamna</lem>
+            <rdg>Hoſianna</rdg>
           </app></w>
         <w xml:id="WP_1573_027_Dom_Palm_124r_20.3" xml:lang="olt">
           <app>  
@@ -576,7 +576,7 @@
         <w xml:id="WP_1573_027_Dom_Palm_124v_18.1" xml:lang="olt">cʒiſcʒu</w>
         <w xml:id="WP_1573_027_Dom_Palm_124v_18.2" xml:lang="olt">ſʒin</w>
         <w xml:id="WP_1573_027_Dom_Palm_124v_18.3" xml:lang="olt">kakị</w>
-        <w xml:id="WP_1573_027_Dom_Palm_124v_18.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_027_Dom_Palm_124v_18.4" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_027_Dom_Palm_124v_18.5" xml:lang="olt">kạ</w>
         <w xml:id="WP_1573_027_Dom_Palm_124v_18.6" xml:lang="olt">ghe</w>
         <w xml:id="WP_1573_027_Dom_Palm_124v_18.7" xml:lang="olt">dare</w>
@@ -751,7 +751,7 @@
 
         <w xml:id="WP_1573_027_Dom_Palm_124v_36.1" xml:lang="olt">ſʒadị,</w>
         <w xml:id="WP_1573_027_Dom_Palm_124v_36.2" xml:lang="olt">tada</w>
-        <w xml:id="WP_1573_027_Dom_Palm_124v_36.3" xml:lang="lat">magištratus</w>
+        <w xml:id="WP_1573_027_Dom_Palm_124v_36.3" xml:lang="lat">magiſtratus</w>
         <w xml:id="WP_1573_027_Dom_Palm_124v_36.4" xml:lang="olt">angu</w>
         <w xml:id="WP_1573_027_Dom_Palm_124v_36.5" xml:lang="lat">Senatus</w>
         <w xml:id="WP_1573_027_Dom_Palm_124v_36.6" xml:lang="olt">∻</w>
@@ -927,7 +927,7 @@
         <w xml:id="WP_1573_027_Dom_Palm_125r_16.2" xml:lang="olt">maldas</w>
         <w xml:id="WP_1573_027_Dom_Palm_125r_16.3" xml:lang="olt">bus</w>
         <w xml:id="WP_1573_027_Dom_Palm_125r_16.4" xml:lang="olt">wadinamas</w>
-        <w xml:id="WP_1573_027_Dom_Palm_125r_16.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_027_Dom_Palm_125r_16.5" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_027_Dom_Palm_125r_16.6" xml:lang="olt">makinki<lb break="no"/>mas</w>
         <lb n="17" xml:id="WP_1573_027_Dom_Palm_125r_17"/>
 
@@ -1069,7 +1069,7 @@
         <w xml:id="WP_1573_027_Dom_Palm_125r_32.2" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_027_Dom_Palm_125r_32.3" xml:lang="olt">krikſʒtimas</w>
         <w xml:id="WP_1573_027_Dom_Palm_125r_32.4" xml:lang="olt">ſ:</w>
-        <w xml:id="WP_1573_027_Dom_Palm_125r_32.5" xml:lang="lat">apšolucio</w>
+        <w xml:id="WP_1573_027_Dom_Palm_125r_32.5" xml:lang="lat">apſolucio</w>
         <w xml:id="WP_1573_027_Dom_Palm_125r_32.6" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_027_Dom_Palm_125r_32.7" xml:lang="olt">ſpawedaghi<lb break="no"/>mas</w>
         <lb n="33" xml:id="WP_1573_027_Dom_Palm_125r_33"/>
@@ -1419,7 +1419,7 @@
         <lb n="33" xml:id="WP_1573_027_Dom_Palm_125v_33"/>
 
         <w xml:id="WP_1573_027_Dom_Palm_125v_33.1" xml:lang="olt">baſʒnicʒai</w>
-        <w xml:id="WP_1573_027_Dom_Palm_125v_33.2" xml:lang="lat">Hošianna</w>
+        <w xml:id="WP_1573_027_Dom_Palm_125v_33.2" xml:lang="lat">Hoſianna</w>
         <w xml:id="WP_1573_027_Dom_Palm_125v_33.3" xml:lang="olt">ſunu</w>
         <w xml:id="WP_1573_027_Dom_Palm_125v_33.4" xml:lang="olt">
         <app type="err">
@@ -1492,7 +1492,7 @@
         <w xml:id="WP_1573_027_Dom_Palm_126r_2.3" xml:lang="olt">a</w>
         <w xml:id="WP_1573_027_Dom_Palm_126r_2.4" xml:lang="olt">ſchlawen</w>
         <w xml:id="WP_1573_027_Dom_Palm_126r_2.5" xml:lang="olt">iemei</w>
-        <w xml:id="WP_1573_027_Dom_Palm_126r_2.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_027_Dom_Palm_126r_2.6" xml:lang="grc">Φ</w>
         <lb n="3" xml:id="WP_1573_027_Dom_Palm_126r_3"/>
 
         <w xml:id="WP_1573_027_Dom_Palm_126r_3.1" xml:lang="olt">Cʒia</w>
@@ -1579,7 +1579,7 @@
         <w xml:id="WP_1573_027_Dom_Palm_126r_11.3" xml:lang="olt">a</w>
         <w xml:id="WP_1573_027_Dom_Palm_126r_11.4" xml:lang="olt">weſʒlibu</w>
         <w xml:id="WP_1573_027_Dom_Palm_126r_11.5" xml:lang="olt">giwenimu</w>
-        <w xml:id="WP_1573_027_Dom_Palm_126r_11.6" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_027_Dom_Palm_126r_11.6" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_027_Dom_Palm_126r_11.7" xml:lang="olt">Bet</w>
         <w xml:id="WP_1573_027_Dom_Palm_126r_11.8" xml:lang="olt">o</w>
         <w xml:id="WP_1573_027_Dom_Palm_126r_11.9" xml:lang="olt">beda</w>
@@ -2086,7 +2086,7 @@
         <w xml:id="WP_1573_027_Dom_Palm_126v_29.1" xml:lang="olt">kunigaikſʒcʒiụ,</w>
         <w xml:id="WP_1573_027_Dom_Palm_126v_29.2" xml:lang="olt">kaplanụ</w>
         <w xml:id="WP_1573_027_Dom_Palm_126v_29.3" xml:lang="olt">daktaru</w>
-        <w xml:id="WP_1573_027_Dom_Palm_126v_29.4" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_027_Dom_Palm_126v_29.4" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_027_Dom_Palm_126v_29.5" xml:lang="olt">preſch</w>
         <w xml:id="WP_1573_027_Dom_Palm_126v_29.6" xml:lang="olt">Cħun</w>
         <lb n="30" xml:id="WP_1573_027_Dom_Palm_126v_30"/>

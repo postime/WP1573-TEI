@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -50,7 +50,7 @@
         <w xml:id="WP_1573_045_Dom_Trin_187v_30.2" xml:lang="olt">ſchmo</w>
         <w xml:id="WP_1573_045_Dom_Trin_187v_30.3" xml:lang="olt">iſch</w>
         <w xml:id="WP_1573_045_Dom_Trin_187v_30.4" xml:lang="olt">waidmainụ</w>
-        <w xml:id="WP_1573_045_Dom_Trin_187v_30.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_045_Dom_Trin_187v_30.5" xml:lang="grc">Φ</w>
         <lb n="R" xml:id="WP_1573_045_Dom_Trin_187v_R"/>
 
         <w xml:id="WP_1573_045_Dom_Trin_187v_R.1" xml:lang="olt">Schas</w>
@@ -259,7 +259,7 @@
         </app></w>
         <lb n="20" xml:id="WP_1573_045_Dom_Trin_188r_20"/>
 
-        <w xml:id="WP_1573_045_Dom_Trin_188r_20.1" xml:lang="lat">hištoriæ</w> <!--Text-->
+        <w xml:id="WP_1573_045_Dom_Trin_188r_20.1" xml:lang="lat">hiſtoriæ</w> <!--Text-->
         <w xml:id="WP_1573_045_Dom_Trin_188r_20.2" xml:lang="olt">
           <app>  
             <lem>knigaſsa</lem>
@@ -270,7 +270,7 @@
         <w xml:id="WP_1573_045_Dom_Trin_188r_20.5" xml:lang="olt">7</w>
         <w xml:id="WP_1573_045_Dom_Trin_188r_20.6" xml:lang="olt">cap:</w>
         <w xml:id="WP_1573_045_Dom_Trin_188r_20.7" xml:lang="olt">ludija</w>
-        <w xml:id="WP_1573_045_Dom_Trin_188r_20.8" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_045_Dom_Trin_188r_20.8" xml:lang="grc">Φ</w>
         <punct>.</punct>
 
         <ref decls="nonbib" cRef="PlinyE_1"/></quote> <!--No quote/paraphrase, just reference.-->
@@ -393,7 +393,7 @@
         <lb n="34" xml:id="WP_1573_045_Dom_Trin_188r_34"/>
 
         <w xml:id="WP_1573_045_Dom_Trin_188r_34.1" xml:lang="olt">regi</w>
-        <w xml:id="WP_1573_045_Dom_Trin_188r_34.2" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_045_Dom_Trin_188r_34.2" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_045_Dom_Trin_188r_34.3" xml:lang="olt">ludija</w>
         <w xml:id="WP_1573_045_Dom_Trin_188r_34.4" xml:lang="olt">drutina</w>
         <w xml:id="WP_1573_045_Dom_Trin_188r_34.5" xml:lang="olt">a</w>
@@ -658,7 +658,7 @@
         <w xml:id="WP_1573_045_Dom_Trin_188v_27.2" xml:lang="olt">kaip</w>
         <w xml:id="WP_1573_045_Dom_Trin_188v_27.3" xml:lang="olt">ape</w>
         <w xml:id="WP_1573_045_Dom_Trin_188v_27.4" xml:lang="olt">tai</w>
-        <w xml:id="WP_1573_045_Dom_Trin_188v_27.5" xml:lang="lat">Hištoria</w> <!--Text-->
+        <w xml:id="WP_1573_045_Dom_Trin_188v_27.5" xml:lang="lat">Hiſtoria</w> <!--Text-->
         <w xml:id="WP_1573_045_Dom_Trin_188v_27.6" xml:lang="lat">tripartita</w>
         <w xml:id="WP_1573_045_Dom_Trin_188v_27.7" xml:lang="olt">∻</w>
         <w xml:id="WP_1573_045_Dom_Trin_188v_27.8" xml:lang="olt">tri<lb break="no"/>linkai</w>
@@ -1671,7 +1671,7 @@
         <w xml:id="WP_1573_045_Dom_Trin_190r_21.4" xml:lang="olt">raſchtas</w>
         <w xml:id="WP_1573_045_Dom_Trin_190r_21.5" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_045_Dom_Trin_190r_21.6" xml:lang="olt">wadinna</w>
-        <w xml:id="WP_1573_045_Dom_Trin_190r_21.7" xml:lang="grc">vͤoąoō</w>
+        <w xml:id="WP_1573_045_Dom_Trin_190r_21.7" xml:lang="grc">λογοο̄</w>
         <lb n="22" xml:id="WP_1573_045_Dom_Trin_190r_22"/>
 
         <w xml:id="WP_1573_045_Dom_Trin_190r_22.1" xml:lang="olt">∻</w>
@@ -2695,7 +2695,7 @@
          <quote>
         <w xml:id="WP_1573_045_Dom_Trin_191v_13.4" xml:lang="lat">Apollinaris</w>
           <ref decls="person" cRef="ApollinJr"/></quote>
-        <w xml:id="WP_1573_045_Dom_Trin_191v_13.5" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_045_Dom_Trin_191v_13.5" xml:lang="grc">Φ</w>
         <lb n="14" xml:id="WP_1573_045_Dom_Trin_191v_14"/>
 
         <w xml:id="WP_1573_045_Dom_Trin_191v_14.1" xml:lang="olt">Kaip</w>
@@ -3425,7 +3425,7 @@
         <w xml:id="WP_1573_045_Dom_Trin_192v_17.6" xml:lang="olt">paſsilie<lb break="no"/>cʒawakite</w>
         <lb n="18" xml:id="WP_1573_045_Dom_Trin_192v_18"/>
 
-        <w xml:id="WP_1573_045_Dom_Trin_192v_18.1" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_045_Dom_Trin_192v_18.1" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_045_Dom_Trin_192v_18.2" xml:lang="olt">
           <app>  
             <lem>Amen.</lem>

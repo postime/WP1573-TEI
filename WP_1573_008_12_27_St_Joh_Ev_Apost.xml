@@ -8,7 +8,7 @@
         <title>The Wolfenbuettel Postilla</title>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
         <idno type="filename"/>
       </publicationStmt>
       <sourceDesc>
@@ -53,8 +53,8 @@
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_8.3" xml:lang="olt">Petrui:</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_8.4" xml:lang="olt">ſek</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_8.5" xml:lang="olt">mane</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_8.6" xml:lang="grc">m̄</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_8.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_8.6" xml:lang="grc">Φ</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_8.7" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <lb n="9" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_9"/>
 
@@ -181,7 +181,7 @@
 
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_21.1" xml:lang="olt">Sek</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_21.2" xml:lang="olt">mane</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_21.3" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_21.3" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_21.4" xml:lang="olt">Kaipagi</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_21.5" xml:lang="olt">Petras</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_21.6" xml:lang="olt">tris</w>
@@ -294,7 +294,7 @@
             <lem>paniſteie</lem>
             <rdg>paniſten</rdg>
           </app></w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_31.2" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_31.2" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_31.3" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_31.4" xml:lang="olt">ganimas</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_39r_31.5" xml:lang="olt">awineliun</w>
@@ -985,11 +985,11 @@
 
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.1" xml:lang="lat">Peius</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.2" xml:lang="lat">est</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.3" xml:lang="lat">beštialiter</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.3" xml:lang="lat">beſtialiter</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.4" xml:lang="lat">uiuere,</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.5" xml:lang="lat">quam</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.6" xml:lang="lat">Beštiam</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.7" xml:lang="lat">ešse</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.6" xml:lang="lat">Beſtiam</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_23.7" xml:lang="lat">eſse</w>
         <lb n="24" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_24"/>
 
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_24.1" xml:lang="olt">tai</w>
@@ -1416,7 +1416,7 @@
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40v_23.6" xml:lang="olt">Tu</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40v_23.7" xml:lang="olt">mane</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40v_23.8" xml:lang="olt">ſek</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40v_23.9" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40v_23.9" xml:lang="grc">Φ</w>
         <lb n="24" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40v_24"/>
 
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40v_24.1" xml:lang="olt">Petras</w>
@@ -1932,7 +1932,7 @@
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41r_35.4" xml:lang="olt">tas</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41r_35.5" xml:lang="olt">neturretun</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41r_35.6" xml:lang="olt">mirti</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41r_35.7" xml:lang="grc">m̄</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41r_35.7" xml:lang="grc">Φ</w>
         <punct>.</punct>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41r_35.9" xml:lang="olt">Dabaki<lb break="no"/>maſsi</w>
         <lb n="36" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41r_36"/>
