@@ -2323,7 +2323,7 @@
             <lem>ſugaiſchinia</lem>
             <rdg>gaiſchinia</rdg>
           </app></w>
-        <punt>,</punct>
+        <punct>,</punct>
         <w xml:id="WP_1573_062_Dom_17_Trin_251v_35.5" xml:lang="olt">bet</w>
         <w xml:id="WP_1573_062_Dom_17_Trin_251v_35.6" xml:lang="olt">ir</w>
         </l>
@@ -2470,13 +2470,15 @@
         <w xml:id="WP_1573_062_Dom_17_Trin_252r_11.3" xml:lang="olt">nabaſʒnai</w>
         <w xml:id="WP_1573_062_Dom_17_Trin_252r_11.4" xml:lang="olt">Amē</w>
         <w xml:id="WP_1573_062_Dom_17_Trin_252r_11.5" xml:lang="olt">Jſch</w>
+        <quote>
         <w xml:id="WP_1573_062_Dom_17_Trin_252r_11.6" xml:lang="olt">
-          <quote>
           <app type="err">  
             <lem>Brecia</lem>
             <rdg>Brencia</rdg>
-          </app></w>
-          <ref decls="person" cRef="Brenz"/></quote>
+          </app>
+        </w>
+          <ref decls="person" cRef="Brenz"/>
+        </quote>
         <w xml:id="WP_1573_062_Dom_17_Trin_252r_11.7" xml:lang="olt">2</w>
         </l>
         <l n="12" xml:id="WP_1573_062_Dom_17_Trin_252r_12">

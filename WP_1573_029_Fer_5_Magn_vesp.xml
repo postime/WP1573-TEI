@@ -99,10 +99,12 @@
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_8.3" xml:lang="olt">eſch</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_8.4" xml:lang="olt">eſmi</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_8.5" xml:lang="olt">pane?</w>
-        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_8.6" xml:lang="olt"><app>
+        <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_8.6" xml:lang="olt">
+          <app>
           <lem>Gghis</lem>
           <rdg><gap reason="illegible" quantity="3" unit="characters"/></rdg>
-        </app type="err">
+        </app>
+        <app type="err">
           <lem>Gghis</lem>
           <rdg>Ghis</rdg>
         </app></w>

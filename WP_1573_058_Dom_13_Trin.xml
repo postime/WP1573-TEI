@@ -1406,7 +1406,7 @@
         <w xml:id="WP_1573_058_Dom_13_Trin_236v_8.2" xml:lang="olt">Markaus</w>
         <w xml:id="WP_1573_058_Dom_13_Trin_236v_8.3" xml:lang="olt">apła</w>
         <corr>
-        <w xml:id="" xml:lang="olt">del</w> <!-- Apparatus notes word "del" missing-->
+        <w xml:lang="olt">del</w> <!-- Apparatus notes word "del" missing-->
         </corr>
         <w xml:id="WP_1573_058_Dom_13_Trin_236v_8.4" xml:lang="olt">kura</w>
         <w xml:id="WP_1573_058_Dom_13_Trin_236v_8.5" xml:lang="olt">Barnabas</w>

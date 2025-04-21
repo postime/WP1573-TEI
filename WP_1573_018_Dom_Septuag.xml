@@ -1440,7 +1440,7 @@
         <punct><app hand="W?">
           <lem>,</lem>
           <rdg>;</rdg>
-        </app></w>
+        </app></punct>
         </l>
         <l n="17" xml:id="WP_1573_018_Dom_Septuag_81v_17">
 
@@ -1657,10 +1657,10 @@
           </app></w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_35.7" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_35.8" xml:lang="olt">tardams</w>
-          <app>  
+        <punct><app>  
             <lem>:</lem>
             <rdg>,</rdg>
-          </app></w>
+          </app></punct>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_35.9" xml:lang="olt">kur<lb break="no"/>ſai</w>
         </l>
         <l n="36" xml:id="WP_1573_018_Dom_Septuag_81v_36">

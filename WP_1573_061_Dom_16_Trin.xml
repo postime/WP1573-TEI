@@ -954,7 +954,7 @@
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_6.3" xml:lang="lat">Eša:</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_6.4" xml:lang="lat">43</w>
         <add hand="W">
-          <w xml:id="WP_1573_061_Dom_16_Trin_247r_6.4" xml:lang="lat">Ecce</w>
+          <w xml:lang="lat">Ecce</w>
         </add>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_6.5" xml:lang="lat">Noua</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_6.6" xml:lang="lat">facio</w>
@@ -1295,11 +1295,11 @@
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.4" xml:lang="lat">5</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.5" xml:lang="olt">⌉</w>
         </l>
-        <l n="M5-6W" xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W">
+        <l n="M5-6W-2" xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W-2">
 
-        <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.1" xml:lang="olt">⌈</w>
-        <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.2" xml:lang="lat">Ecce</w>
-        <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.3" xml:lang="olt">⌉</w>
+        <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W-2.1" xml:lang="olt">⌈</w>
+        <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W-2.2" xml:lang="lat">Ecce</w>
+        <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W-2.3" xml:lang="olt">⌉</w>
         </l>
         <pb n="247v"/>
         <l n="1" xml:id="WP_1573_061_Dom_16_Trin_247v_1">
