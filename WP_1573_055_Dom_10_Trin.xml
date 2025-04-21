@@ -866,7 +866,7 @@
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_31.2" xml:lang="olt">pikta</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_31.3" xml:lang="olt">bua</w>
         <del>
-        <w xml:id="" xml:lang="olt">walgie</w>
+        <w xml:lang="olt">walgie</w>
         </del>
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_31.4" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_226v_31.5" xml:lang="olt">akimis</w>
@@ -912,8 +912,7 @@
         <w xml:id="WP_1573_055_Dom_10_Trin_227r_2.2" xml:lang="olt">wenas</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_227r_2.3" xml:lang="olt">antra</w>
         <w xml:id="WP_1573_055_Dom_10_Trin_227r_2.4" xml:lang="olt">negalleija</w>
-        <app>
-          <lem><w xml:id="WP_1573_055_Dom_10_Trin_227r_2.5" xml:lang="olt">pakaſti</w>
+        <w xml:id="WP_1573_055_Dom_10_Trin_227r_2.5" xml:lang="olt">pakaſti</w>
         <add>
           <punct>,</punct>
           <w xml:id="WP_1573_055_Dom_10_Trin_227r_2.6" xml:lang="olt">per</w>

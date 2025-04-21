@@ -1880,8 +1880,8 @@
         <w xml:id="WP_1573_048_Dom_3_Trin_203v_7.5" xml:lang="olt">kurj</w>
         <w xml:id="WP_1573_048_Dom_3_Trin_203v_7.6" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_048_Dom_3_Trin_203v_7.7" xml:lang="olt">
-          <quote>Bern<lb break="no"/>hardus</w>
-          <ref decls="person" cRef="BernClair"/></quote>
+          <quote>Bern<lb break="no"/>hardus
+          <ref decls="person" cRef="BernClair"/></quote></w>
         <punct><app>
           <lem>:</lem>
           <rdg>,</rdg>

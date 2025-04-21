@@ -1156,8 +1156,8 @@
         <w xml:id="WP_1573_074_09_29_St_Mich_292r_21.1" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_292r_21.2" xml:lang="olt">pikta</w>
         <punct><app hand="W">
-          <lem>,</w>
-          <rdg>.<rdg>
+          <lem>,</lem>
+          <rdg>.</rdg>
         </app></punct>
         <w xml:id="WP_1573_074_09_29_St_Mich_292r_21.3" xml:lang="olt">
         <app hand="W">
@@ -2455,11 +2455,11 @@
 
         <w xml:id="WP_1573_074_09_29_St_Mich_294r_30.1" xml:lang="olt">angelas</w>
         <add hand="W">
-          <w xml:id="" xml:lang="olt">Wieſchpaties</w>
+          <w xml:lang="olt">Wieſchpaties</w>
         </add>
         <w xml:id="WP_1573_074_09_29_St_Mich_294r_30.2" xml:lang="olt">Diewa</w>
         <add hand="W">
-          <w xml:id="" xml:lang="olt">Sabaoth</w>
+          <w xml:lang="olt">Sabaoth</w>
         </add>
         <w xml:id="WP_1573_074_09_29_St_Mich_294r_30.3" xml:lang="olt">ira</w>
         <lb n="31" xml:id="WP_1573_074_09_29_St_Mich_294r_31"/>
@@ -3334,7 +3334,8 @@
           <ref decls="person" cRef="BernClair"/></quote>
         <punct>,</punct>
 
-        <quote>
+        <!-- <quote> -->
+        <!-- I haven't found any closing tag for this quote, is it supposed to be here? -->
 
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_12.7" xml:lang="olt">kạ</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_12.8" xml:lang="olt">tu</w>
@@ -3440,7 +3441,7 @@
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_23.4" xml:lang="olt">nog</w>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_23.5" xml:lang="olt">ſcha</w>
           <add hand="W">
-            <w xml:id="" xml:lang="olt">ſwieta</w>
+            <w xml:lang="olt">ſwieta</w>
           </add>
         <w xml:id="WP_1573_074_09_29_St_Mich_295v_23.6" xml:lang="olt">panas</w>
         <lb n="24" xml:id="WP_1573_074_09_29_St_Mich_295v_24"/>

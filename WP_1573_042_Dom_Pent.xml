@@ -1772,9 +1772,9 @@
 
         <w xml:id="WP_1573_042_Dom_Pent_182v_19.1" xml:lang="olt">ner</w>
         <corr>
-        <w xml:id="" xml:lang="olt">be</w> <!-- Errata note word "be" missing-->
+        <w xml:lang="olt">be</w> <!-- Errata note word "be" missing-->
         </corr>
-        <w xml:id="WP_1573_042_Dom_Pent_182v_19.2" xml:lang="olt">kaltibes</w>
+        <w xml:id="WP_1573_042_Dom_Pent_182v_19.2" xml:lang="olt">kaltibes
           <app type="err">  
             <lem></lem>
             <rdg>be kaltibes</rdg>

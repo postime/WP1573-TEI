@@ -169,7 +169,7 @@
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_20.1" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_20.2" xml:lang="olt">Luk:</w>
         <add hand="S">Jr</add>
-        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_20.3" xml:lang="olt">Bua</w></lem>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_20.3" xml:lang="olt">Bua</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_20.4" xml:lang="olt">Jeſus</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_20.5" xml:lang="olt">
           <app hand="S">  
@@ -342,12 +342,12 @@
         <lb n="M20S" xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S"/>
 
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S.1" xml:lang="olt">⌈Jr⌉</w>
-        <lb n="M20S" xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S"/>
+        <lb n="M20S-2" xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S-2"/>
 
-        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S.1" xml:lang="olt">⌈iſchwara̷s⌉</w>
-        <lb n="M20S" xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S"/>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S-2.1" xml:lang="olt">⌈iſchwara̷s⌉</w>
+        <lb n="M20S-3" xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S-3"/>
 
-        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S.1" xml:lang="olt">⌈cʒarta⌉</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S-3.1" xml:lang="olt">⌈cʒarta⌉</w>
         <pb n="105r"/>
         <lb n="1" xml:id="WP_1573_023_Dom_3_Quadr_105r_1"/>
 
@@ -1063,7 +1063,7 @@
           </app></w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_105v_33.7" xml:lang="olt">ner</w>
         <add hand="S">Kurs</add>
-        <w xml:id="WP_1573_023_Dom_3_Quadr_105v_33.8" xml:lang="olt">ta</w></lem>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_105v_33.8" xml:lang="olt">ta</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_105v_33.9" xml:lang="olt">ger<lb break="no"/>raus</w>
         <lb n="34" xml:id="WP_1573_023_Dom_3_Quadr_105v_34"/>
 
@@ -3313,11 +3313,11 @@
 
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S.1" xml:lang="olt">⌈doſt</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S.2" xml:lang="olt">mumus⌉</w>
-        <lb n="M14S" xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S"/>
+        <lb n="M14S-2" xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S-2"/>
 
-        <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S.1" xml:lang="olt">⌈be</w>
-        <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S.2" xml:lang="olt">muſu</w>
-        <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S.3" xml:lang="olt">uſluſʒmu⌉</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S-2.1" xml:lang="olt">⌈be</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S-2.2" xml:lang="olt">muſu</w>
+        <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S-2.3" xml:lang="olt">uſluſʒmu⌉</w>
         <pb n="109r"/>
         <lb n="1" xml:id="WP_1573_023_Dom_3_Quadr_109r_1"/>
 

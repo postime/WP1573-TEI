@@ -1308,10 +1308,11 @@
         <w xml:id="WP_1573_024_Dom_4_Quadr_111v_5.5" xml:lang="olt">ir</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_111v_5.6" xml:lang="olt">pa</w>
         <add hand="W">ſchas</add>
-        <w xml:id="WP_1573_024_Dom_4_Quadr_111v_5.7" xml:lang="olt"><app type="err">
+        <w xml:id="WP_1573_024_Dom_4_Quadr_111v_5.7" xml:lang="olt">
+          <app type="err">
           <lem>ſner<lb break="no"/>ties</lem>
           <rdg>ſmer<lb break="no"/>ties</rdg>
-        </app></w></lem>
+        </app></w>
         <lb n="6" xml:id="WP_1573_024_Dom_4_Quadr_111v_6"/>
 
         <w xml:id="WP_1573_024_Dom_4_Quadr_111v_6.1" xml:lang="olt">amſʒinụ</w>
