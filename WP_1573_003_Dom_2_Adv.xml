@@ -1453,10 +1453,11 @@
 
         <lb n="M24W" xml:id="WP_1573_003_Dom_2_Adv_7v_M24W"/>
 
-        <w xml:id="WP_1573_003_Dom_2_Adv_7v_M24W.1" xml:lang="olt">⌈gieribe</w>
+        <add hand="W">        
+        <w xml:id="WP_1573_003_Dom_2_Adv_7v_M24W.1" xml:lang="olt">gieribe</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_7v_M24W.2" xml:lang="lat">ſecundum</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_7v_M24W.3" xml:lang="lat">textum</w>
-        <w xml:id="WP_1573_003_Dom_2_Adv_7v_M24W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="8r"/>
         <lb n="1" xml:id="WP_1573_003_Dom_2_Adv_8r_1"/>
 
@@ -1820,15 +1821,19 @@
         <w xml:id="WP_1573_003_Dom_2_Adv_8r_34.7" xml:lang="olt">kada</w>
         <lb n="M28W" xml:id="WP_1573_003_Dom_2_Adv_8r_M28W"/>
 
+        <add hand="W">        
         <w xml:id="WP_1573_003_Dom_2_Adv_8r_M28W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_8r_M28W.2" xml:lang="lat">Amos</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_8r_M28W.3" xml:lang="lat">3</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_8r_M28W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M30W" xml:id="WP_1573_003_Dom_2_Adv_8r_M30W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_003_Dom_2_Adv_8r_M30W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_8r_M30W.2" xml:lang="lat">Hiob</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_8r_M30W.3" xml:lang="lat">14.]</w>
+        </add>
         <pb n="8v"/>
         <lb n="1" xml:id="WP_1573_003_Dom_2_Adv_8v_1"/>
 
@@ -3159,7 +3164,9 @@
         <w xml:id="WP_1573_003_Dom_2_Adv_10r_33.9" xml:lang="olt">iemus</w>
         <lb n="M10S" xml:id="WP_1573_003_Dom_2_Adv_10r_M10S"/>
 
-        <w xml:id="WP_1573_003_Dom_2_Adv_10r_M10S.1" xml:lang="olt">⌈laikate⌉</w>
+        <add hand="S"
+        ><w xml:id="WP_1573_003_Dom_2_Adv_10r_M10S.1" xml:lang="olt">⌈laikate⌉</w>
+        </add>
         <pb n="10v"/>
         <lb n="1" xml:id="WP_1573_003_Dom_2_Adv_10v_1"/>
 
@@ -3850,6 +3857,7 @@
         <w xml:id="WP_1573_003_Dom_2_Adv_11r_34.6" xml:lang="olt">Eſi:</w>
         <lb n="M22-23W" xml:id="WP_1573_003_Dom_2_Adv_11r_M22-23W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_003_Dom_2_Adv_11r_M22-23W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_11r_M22-23W.2" xml:lang="lat">Eccleſiaſtic:</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_11r_M22-23W.3" xml:lang="lat">II</w>
@@ -3860,6 +3868,7 @@
         <w xml:id="WP_1573_003_Dom_2_Adv_11r_M22-23W.8" xml:lang="lat">operum</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_11r_M22-23W.9" xml:lang="lat">illius</w>
         <w xml:id="WP_1573_003_Dom_2_Adv_11r_M22-23W.10" xml:lang="olt">⌉</w>
+        </add>
         <pb n="11v"/>
         <lb n="1" xml:id="WP_1573_003_Dom_2_Adv_11v_1"/>
 

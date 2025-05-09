@@ -2366,6 +2366,7 @@
         <w xml:id="WP_1573_007_12_26_St_Steph_39r_4.2" xml:lang="olt">Amen</w>
         <lb n="M4S" xml:id="WP_1573_007_12_26_St_Steph_39r_M4S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_007_12_26_St_Steph_39r_M4S.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_007_12_26_St_Steph_39r_M4S.2" xml:lang="lat">Ex</w>
           <quote>
@@ -2373,6 +2374,7 @@
           <ref decls="person" cRef="NHemming"/></quote>
         <punct>.</punct>
         <w xml:id="WP_1573_007_12_26_St_Steph_39r_M4S.4" xml:lang="olt">⌉</w>
+        </add>
       </div>
     </body>
   </text>

@@ -697,28 +697,36 @@
 
         <lb n="M1W" xml:id="WP_1573_009_Dom_1_Nat_42v_M1W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M1W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M1W.2" xml:lang="lat">Luc:</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M1W.3" xml:lang="lat">1</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M1W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M2-3W" xml:id="WP_1573_009_Dom_1_Nat_42v_M2-3W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M2-3W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M2-3W.2" xml:lang="lat">Luc:</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M2-3W.3" xml:lang="lat">2</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M2-3W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M6W" xml:id="WP_1573_009_Dom_1_Nat_42v_M6W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M6W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M6W.2" xml:lang="lat">Matth:</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M6W.3" xml:lang="lat">2</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M6W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M8W" xml:id="WP_1573_009_Dom_1_Nat_42v_M8W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M8W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M8W.2" xml:lang="lat">Luc:</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M8W.3" xml:lang="lat">2</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_42v_M8W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="43r"/>
         <lb n="1" xml:id="WP_1573_009_Dom_1_Nat_43r_1"/>
 
@@ -1578,10 +1586,12 @@
 
         <lb n="M21W" xml:id="WP_1573_009_Dom_1_Nat_43v_M21W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_009_Dom_1_Nat_43v_M21W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_43v_M21W.2" xml:lang="lat">Joan:</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_43v_M21W.3" xml:lang="lat">5</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_43v_M21W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="44r"/>
         <lb n="1" xml:id="WP_1573_009_Dom_1_Nat_44r_1"/>
 
@@ -1988,25 +1998,31 @@
         <w xml:id="WP_1573_009_Dom_1_Nat_44r_38.8" xml:lang="olt">pakutụ,</w>
         <lb n="M4W" xml:id="WP_1573_009_Dom_1_Nat_44r_M4W"/>
 
+        <add hand="W">
         <app hand="W/N">
           <lem><w xml:id="WP_1573_009_Dom_1_Nat_44r_M4W.1" xml:lang="olt">Luc:</w>
           <w xml:id="WP_1573_009_Dom_1_Nat_44r_M4W.2" xml:lang="lat">19</w></lem>
         <rdg>Joan: 15</rdg>
         </app>
+        </add>
 
         <lb n="M15W" xml:id="WP_1573_009_Dom_1_Nat_44r_M15W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_009_Dom_1_Nat_44r_M15W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_44r_M15W.2" xml:lang="lat">Hebr:</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_44r_M15W.3" xml:lang="lat">1</w>
         <w xml:id="WP_1573_009_Dom_1_Nat_44r_M15W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M27W" xml:id="WP_1573_009_Dom_1_Nat_44r_M27W"/>
 
         <w xml:id="WP_1573_009_Dom_1_Nat_44r_M27W.1" xml:lang="olt">Jacob:</w>
+        <add hand="W">
         <app hand="W">
           <lem><w xml:id="WP_1573_009_Dom_1_Nat_44r_M27W.2" xml:lang="lat">2.</w></lem>
           <rdg>4.</rdg>
         </app>
+        </add>
 
         <pb n="44v"/>
         <lb n="1" xml:id="WP_1573_009_Dom_1_Nat_44v_1"/>
@@ -2152,9 +2168,11 @@
         <lb n="14" xml:id="WP_1573_009_Dom_1_Nat_44v_14"/>
 
         <w xml:id="WP_1573_009_Dom_1_Nat_44v_14.1" xml:lang="olt">paſsilecʒiawakite</w>
-        <lb n="M14Su" xml:id="WP_1573_009_Dom_1_Nat_44v_M14Su"/>
+        <lb n="M14Su" xml:id="WP_1573_009_Dom_1_Nat_44v_M14S?"/>
 
-        <w xml:id="WP_1573_009_Dom_1_Nat_44v_M14Su.1" xml:lang="olt">⌈:Ɔ⌉</w>
+        <add hand="S?">
+        <w xml:id="WP_1573_009_Dom_1_Nat_44v_M14S?.1" xml:lang="olt">⌈:Ɔ⌉</w>
+        </add>
       </div>
     </body>
   </text>

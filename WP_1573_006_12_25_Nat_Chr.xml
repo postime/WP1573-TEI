@@ -2176,6 +2176,7 @@
         <w xml:id="WP_1573_006_12_25_Nat_Chr_29r_33.6" xml:lang="olt">ne<lb break="no"/>ſʒeiſtas</w>
         <lb n="M26W" xml:id="WP_1573_006_12_25_Nat_Chr_29r_M26W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_006_12_25_Nat_Chr_29r_M26W.1" xml:lang="lat">Ego</w>
         <w xml:id="WP_1573_006_12_25_Nat_Chr_29r_M26W.2" xml:lang="lat">intelligo</w>
         <w xml:id="WP_1573_006_12_25_Nat_Chr_29r_M26W.3" xml:lang="lat">Manichæos:</w>
@@ -2185,6 +2186,7 @@
         <w xml:id="WP_1573_006_12_25_Nat_Chr_29r_M26W.7" xml:lang="lat">relinquo</w>
         <w xml:id="WP_1573_006_12_25_Nat_Chr_29r_M26W.8" xml:lang="lat">iudi<lb break="no"/>cium</w>
         <w xml:id="WP_1573_006_12_25_Nat_Chr_29r_M26W.9" xml:lang="olt">⌉</w>
+        </add>
         <pb n="29v"/>
         <lb n="1" xml:id="WP_1573_006_12_25_Nat_Chr_29v_1"/>
 
@@ -4637,9 +4639,11 @@
         <w xml:id="WP_1573_006_12_25_Nat_Chr_33r_33.8" xml:lang="olt">gi<lb break="no"/>muſị,</w>
         <lb n="M11W" xml:id="WP_1573_006_12_25_Nat_Chr_33r_M11W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_006_12_25_Nat_Chr_33r_M11W.1" xml:lang="lat">Pſal:</w>
         <w xml:id="WP_1573_006_12_25_Nat_Chr_33r_M11W.2" xml:lang="lat">115</w>
         <w xml:id="WP_1573_006_12_25_Nat_Chr_33r_M11W.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="33v"/>
         <lb n="1" xml:id="WP_1573_006_12_25_Nat_Chr_33v_1"/>
 

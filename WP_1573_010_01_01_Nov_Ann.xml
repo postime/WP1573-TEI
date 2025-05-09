@@ -3679,6 +3679,7 @@
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_35.8" xml:lang="olt">pil<lb break="no"/>nas</w>
         <lb n="M5W" xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W.1" xml:lang="lat">Acto:</w>
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W.2" xml:lang="lat">7:</w>
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W.3" xml:lang="lat">
@@ -3687,6 +3688,7 @@
           <rdg>7</rdg>
         </app></w>
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49r_M5W.4" xml:lang="lat">ceruice</w>
+        </add>
         <pb n="49v"/>
         <lb n="1" xml:id="WP_1573_010_01_01_Nov_Ann_49v_1"/>
 
@@ -3921,10 +3923,12 @@
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49v_24.5" xml:lang="olt">Amen</w>
         <lb n="M6W" xml:id="WP_1573_010_01_01_Nov_Ann_49v_M6W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49v_M6W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49v_M6W.2" xml:lang="lat">Actorum</w>
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49v_M6W.3" xml:lang="lat">4</w>
         <w xml:id="WP_1573_010_01_01_Nov_Ann_49v_M6W.4" xml:lang="olt">⌉</w>
+        </add>
       </div>
     </body>
   </text>

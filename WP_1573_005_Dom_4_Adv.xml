@@ -1487,6 +1487,7 @@
 
         <lb n="M31-33W" xml:id="WP_1573_005_Dom_4_Adv_20v_M31-33W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_005_Dom_4_Adv_20v_M31-33W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_005_Dom_4_Adv_20v_M31-33W.2" xml:lang="lat">Ego</w>
         <w xml:id="WP_1573_005_Dom_4_Adv_20v_M31-33W.3" xml:lang="lat">vox</w>
@@ -1499,6 +1500,7 @@
         <punct>:</punct>
         <w xml:id="WP_1573_005_Dom_4_Adv_20v_M31-33W.11" xml:lang="grc">ρ</w>
         <w xml:id="WP_1573_005_Dom_4_Adv_20v_M31-33W.12" xml:lang="olt">:⌉</w>
+        </add>
         <pb n="21r"/>
         <lb n="1" xml:id="WP_1573_005_Dom_4_Adv_21r_1"/>
 
@@ -3070,6 +3072,7 @@
         <w xml:id="WP_1573_005_Dom_4_Adv_23r_32.6" xml:lang="olt">preſʒaſtị</w>
         <lb n="M10W" xml:id="WP_1573_005_Dom_4_Adv_23r_M10W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_005_Dom_4_Adv_23r_M10W.1" xml:lang="olt">⌈I⌉</w>
         <lb n="M12W" xml:id="WP_1573_005_Dom_4_Adv_23r_M12W"/>
 
@@ -3077,6 +3080,7 @@
         <lb n="M24W" xml:id="WP_1573_005_Dom_4_Adv_23r_M24W"/>
 
         <w xml:id="WP_1573_005_Dom_4_Adv_23r_M24W.1" xml:lang="olt">⌈III⌉</w>
+        </add>
         <pb n="23v"/>
         <lb n="1" xml:id="WP_1573_005_Dom_4_Adv_23v_1"/>
 
@@ -4525,6 +4529,7 @@
         <w xml:id="WP_1573_005_Dom_4_Adv_25v_R.2" xml:lang="olt">uſʒgimima</w>
         <lb n="M21S" xml:id="WP_1573_005_Dom_4_Adv_25v_M21S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_005_Dom_4_Adv_25v_M21S.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_005_Dom_4_Adv_25v_M21S.2" xml:lang="lat">ex</w>
         <w xml:id="WP_1573_005_Dom_4_Adv_25v_M21S.3" xml:lang="lat">Poſtilla</w>
@@ -4532,6 +4537,7 @@
         <w xml:id="WP_1573_005_Dom_4_Adv_25v_M21S.4" xml:lang="lat">Hemmingij</w>
           <ref decls="person" cRef="NHemming"/></quote>
         <w xml:id="WP_1573_005_Dom_4_Adv_25v_M21S.5" xml:lang="olt">⌉</w>
+        </add>
       </div>
     </body>
   </text>

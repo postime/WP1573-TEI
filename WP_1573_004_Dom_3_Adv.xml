@@ -382,9 +382,11 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_13r_33.8" xml:lang="olt">tiktai</w>
         <lb n="M22W" xml:id="WP_1573_004_Dom_3_Adv_13r_M22W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_004_Dom_3_Adv_13r_M22W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_13r_M22W.2" xml:lang="lat">NB:</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_13r_M22W.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="13v"/>
         <lb n="1" xml:id="WP_1573_004_Dom_3_Adv_13v_1"/>
 
@@ -1058,14 +1060,18 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_14r_M19.1" xml:lang="olt">⌈4⌉</w>
         <lb n="M21W" xml:id="WP_1573_004_Dom_3_Adv_14r_M21W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_004_Dom_3_Adv_14r_M21W.1" xml:lang="olt">⌈Petras⌉</w>
+        </add>
         <lb n="M21W-2" xml:id="WP_1573_004_Dom_3_Adv_14r_M21W-2"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_004_Dom_3_Adv_14r_M21W-2.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_14r_M21W-2.2" xml:lang="lat">1</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_14r_M21W-2.3" xml:lang="lat">Petr:</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_14r_M21W-2.4" xml:lang="lat">3</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_14r_M21W-2.5" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M24" xml:id="WP_1573_004_Dom_3_Adv_14r_M24"/>
 
         <w xml:id="WP_1573_004_Dom_3_Adv_14r_M24.1" xml:lang="olt">⌈5⌉</w>
@@ -1374,10 +1380,12 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_14v_R.1" xml:lang="olt">atim<lb break="no"/></w>
         <lb n="M4-5W" xml:id="WP_1573_004_Dom_3_Adv_14v_M4-5W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_004_Dom_3_Adv_14v_M4-5W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_14v_M4-5W.2" xml:lang="lat">Matth:</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_14v_M4-5W.3" xml:lang="lat">10</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_14v_M4-5W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="15r"/>
         <lb n="1" xml:id="WP_1573_004_Dom_3_Adv_15r_1"/>
 
@@ -2057,6 +2065,7 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_15v_R.2" xml:lang="olt">perſonai</w>
         <lb n="M25W" xml:id="WP_1573_004_Dom_3_Adv_15v_M25W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_004_Dom_3_Adv_15v_M25W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_15v_M25W.2" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_15v_M25W.3" xml:lang="lat">et</w>
@@ -2066,6 +2075,7 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_15v_M25W.7" xml:lang="lat">in</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_15v_M25W.8" xml:lang="lat">textu</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_15v_M25W.9" xml:lang="olt">⌉</w>
+        </add>
         <pb n="16r"/>
         <lb n="1" xml:id="WP_1573_004_Dom_3_Adv_16r_1"/>
 
@@ -2418,9 +2428,11 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_16r_33.8" xml:lang="olt">apa<lb break="no"/>iunta</w>
         <lb n="M1W" xml:id="WP_1573_004_Dom_3_Adv_16r_M1W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_004_Dom_3_Adv_16r_M1W.1" xml:lang="lat">61</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_16r_M1W.2" xml:lang="lat">Eſaiæ:</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_16r_M1W.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="16v"/>
         <lb n="1" xml:id="WP_1573_004_Dom_3_Adv_16v_1"/>
 
@@ -3102,11 +3114,13 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_17r_33.6" xml:lang="grc">Φ</w>
         <lb n="M19W" xml:id="WP_1573_004_Dom_3_Adv_17r_M19W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_004_Dom_3_Adv_17r_M19W.1" xml:lang="olt">⌈Schwentas</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_17r_M19W.2" xml:lang="olt">Ja<lb break="no"/>nas</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_17r_M19W.3" xml:lang="olt">Egłista</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_17r_M19W.4" xml:lang="olt">6</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_17r_M19W.5" xml:lang="olt">paguldim:⌉</w>
+        </add>
         <pb n="17v"/>
         <lb n="1" xml:id="WP_1573_004_Dom_3_Adv_17v_1"/>
 
@@ -3774,6 +3788,8 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_18r_33.7" xml:lang="olt">attaiancʒiam</w>
         <lb n="M31W" xml:id="WP_1573_004_Dom_3_Adv_18r_M31W"/>
 
+        <add hand="W">
+        <!-- Biblical cross-references in margine. Will presumably add links manually here?-->
         <w xml:id="WP_1573_004_Dom_3_Adv_18r_M31W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_18r_M31W.2" xml:lang="lat">Malach:</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_18r_M31W.3" xml:lang="lat">3</w>
@@ -3787,6 +3803,7 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_18r_M31W.11" xml:lang="lat">Psal:</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_18r_M31W.12" xml:lang="lat">132</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_18r_M31W.13" xml:lang="olt">⌉</w>
+        </add>
         <pb n="18v"/>
         <lb n="1" xml:id="WP_1573_004_Dom_3_Adv_18v_1"/>
 
@@ -3881,6 +3898,7 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_18v_M3.2" xml:lang="olt">budu⌉</w>
         <lb n="M9S" xml:id="WP_1573_004_Dom_3_Adv_18v_M9S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_004_Dom_3_Adv_18v_M9S.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_18v_M9S.2" xml:lang="lat">Ex</w>
         <w xml:id="WP_1573_004_Dom_3_Adv_18v_M9S.3" xml:lang="lat">postilla</w>
@@ -3888,6 +3906,7 @@
         <w xml:id="WP_1573_004_Dom_3_Adv_18v_M9S.4" xml:lang="lat">Hemmingij</w>
           <ref decls="person" cRef="NHemming"/></quote>
         <w xml:id="WP_1573_004_Dom_3_Adv_18v_M9S.5" xml:lang="olt">⌉</w>
+        </add>
       </div>
     </body>
   </text>

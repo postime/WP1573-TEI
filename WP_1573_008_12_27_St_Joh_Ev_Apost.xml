@@ -1165,7 +1165,9 @@
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_37.10" xml:lang="olt">eſt</w>
         <lb n="M15W" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_M15W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_M15W.1" xml:lang="olt">⌈Nedera⌉</w>
+        </add>
         <pb n="40v"/>
         <lb n="1" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40v_1"/>
 
@@ -2383,10 +2385,13 @@
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_R.1" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_R.2" xml:lang="olt">wiſsa</w>
         <lb n="M9Su" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9Su"/>
+        <!-- Who is "Su"? Print edition attributes it to "Sappuhn?".-->
 
+        <add hand="Su">
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9Su.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9Su.2" xml:lang="lat">Cato</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9Su.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="42r"/>
         <lb n="1" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_42r_1"/>
 
@@ -2474,6 +2479,7 @@
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_42r_9.2" xml:lang="olt">Amen</w>
         <lb n="M9S" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_42r_M9S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_42r_M9S.1" xml:lang="olt">⌈:Ɔ</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_42r_M9S.2" xml:lang="lat">Concio</w>
           <quote>
@@ -2481,6 +2487,7 @@
           <ref decls="person" cRef="NHemming"/></quote>
         <punct>.</punct>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_42r_M9S.4" xml:lang="olt">⌉</w>
+        </add>
       </div>
     </body>
   </text>
