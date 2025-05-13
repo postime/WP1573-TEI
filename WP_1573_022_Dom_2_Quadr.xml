@@ -412,7 +412,9 @@
         <w xml:id="WP_1573_022_Dom_2_Quadr_100r_36.6" xml:lang="olt">ludimi</w>
         <lb n="M7S" xml:id="WP_1573_022_Dom_2_Quadr_100r_M7S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_022_Dom_2_Quadr_100r_M7S.1" xml:lang="olt">⌈iſchganitinga⌉</w>
+        </add>
         <lb n="M30S" xml:id="WP_1573_022_Dom_2_Quadr_100r_M30S"/>
 
         <w xml:id="WP_1573_022_Dom_2_Quadr_100r_M30S.1" xml:lang="olt">⌈galime⌉</w>
@@ -1217,7 +1219,7 @@
         <w xml:id="WP_1573_022_Dom_2_Quadr_101r_37.5" xml:lang="olt">priklauſima</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_101r_37.6" xml:lang="olt">ſa<lb break="no"/>wes</w>
         <lb n="M5S" xml:id="WP_1573_022_Dom_2_Quadr_101r_M5S"/>
-
+        <!--Marginal "ir priegtam iſchpaſʒinſt Diewa" converted to insertion, since that's what it functionally is.-->
         <lb n="M36" xml:id="WP_1573_022_Dom_2_Quadr_101r_M36"/>
 
         <w xml:id="WP_1573_022_Dom_2_Quadr_101r_M36.1" xml:lang="olt">⌈I⌉</w>
@@ -2370,7 +2372,9 @@
         <w xml:id="WP_1573_022_Dom_2_Quadr_102v_R.2" xml:lang="olt">ghinn</w>
         <lb n="M11S" xml:id="WP_1573_022_Dom_2_Quadr_102v_M11S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_022_Dom_2_Quadr_102v_M11S.1" xml:lang="olt">⌈tawa⌉</w>
+        </add>
         <lb n="M20" xml:id="WP_1573_022_Dom_2_Quadr_102v_M20"/>
 
         <w xml:id="WP_1573_022_Dom_2_Quadr_102v_M20.1" xml:lang="olt">⌈V⌉</w>
@@ -3532,6 +3536,7 @@
         <w xml:id="WP_1573_022_Dom_2_Quadr_104v_6.2" xml:lang="olt">Amen</w>
         <lb n="M6S" xml:id="WP_1573_022_Dom_2_Quadr_104v_M6S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_022_Dom_2_Quadr_104v_M6S.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_022_Dom_2_Quadr_104v_M6S.2" xml:lang="lat">Ex</w>
           <quote>
@@ -3539,6 +3544,7 @@
           <ref decls="person" cRef="NHemming"/></quote>
         <punct>.</punct>
         <w xml:id="WP_1573_022_Dom_2_Quadr_104v_M6S.4" xml:lang="olt">⌉</w>
+        </add>
       </div>
     </body>
   </text>

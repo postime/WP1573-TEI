@@ -464,10 +464,12 @@
         <w xml:id="WP_1573_053_Dom_8_Trin_219v_R.2" xml:lang="olt">tiki</w>
         <lb n="M22W" xml:id="WP_1573_053_Dom_8_Trin_219v_M22W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_053_Dom_8_Trin_219v_M22W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_053_Dom_8_Trin_219v_M22W.2" xml:lang="lat">Joan:</w>
         <w xml:id="WP_1573_053_Dom_8_Trin_219v_M22W.3" xml:lang="lat">I</w>
         <w xml:id="WP_1573_053_Dom_8_Trin_219v_M22W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="220r"/>
         <lb n="1" xml:id="WP_1573_053_Dom_8_Trin_220r_1"/>
 

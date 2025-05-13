@@ -2384,13 +2384,13 @@
 
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_R.1" xml:lang="olt">ira</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_R.2" xml:lang="olt">wiſsa</w>
-        <lb n="M9Su" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9Su"/>
-        <!-- Who is "Su"? Print edition attributes it to "Sappuhn?".-->
+        <lb n="M9Su" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9S?"/>
+        <!-- This line ID ends in "S?" (for "probably Sappuhn") in TITUS, this got turned into "Su" in the conversion for some reason.-->
 
-        <add hand="Su">
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9Su.1" xml:lang="olt">⌈</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9Su.2" xml:lang="lat">Cato</w>
-        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9Su.3" xml:lang="olt">⌉</w>
+        <add hand="S?">
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9S?.1" xml:lang="olt">⌈</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9S?.2" xml:lang="lat">Cato</w>
+        <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_41v_M9S?.3" xml:lang="olt">⌉</w>
         </add>
         <pb n="42r"/>
         <lb n="1" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_42r_1"/>

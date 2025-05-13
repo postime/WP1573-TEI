@@ -844,11 +844,13 @@
         <w xml:id="WP_1573_063_Dom_18_Trin_253r_34.6" xml:lang="olt">turei</w>
         <lb n="M5-7W" xml:id="WP_1573_063_Dom_18_Trin_253r_M5-7W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_063_Dom_18_Trin_253r_M5-7W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_063_Dom_18_Trin_253r_M5-7W.2" xml:lang="lat">2</w>
         <w xml:id="WP_1573_063_Dom_18_Trin_253r_M5-7W.3" xml:lang="lat">Corinth:</w>
         <w xml:id="WP_1573_063_Dom_18_Trin_253r_M5-7W.4" xml:lang="lat">5</w>
         <w xml:id="WP_1573_063_Dom_18_Trin_253r_M5-7W.5" xml:lang="olt">⌉</w>
+        </add>
         <pb n="253v"/>
         <lb n="1" xml:id="WP_1573_063_Dom_18_Trin_253v_1"/>
 

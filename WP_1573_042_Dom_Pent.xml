@@ -525,11 +525,14 @@
         <w xml:id="WP_1573_042_Dom_Pent_180v_R.1" xml:lang="lat">Baſilius</w>
         <lb n="M28-29W" xml:id="WP_1573_042_Dom_Pent_180v_M28-29W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_042_Dom_Pent_180v_M28-29W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_042_Dom_Pent_180v_M28-29W.2" xml:lang="lat">et</w>
         <w xml:id="WP_1573_042_Dom_Pent_180v_M28-29W.3" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M29W" xml:id="WP_1573_042_Dom_Pent_180v_M29W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_042_Dom_Pent_180v_M29W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_042_Dom_Pent_180v_M29W.2" xml:lang="lat">et</w>
         <w xml:id="WP_1573_042_Dom_Pent_180v_M29W.3" xml:lang="lat">1</w>
@@ -541,6 +544,7 @@
         <w xml:id="WP_1573_042_Dom_Pent_180v_M29W.9" xml:lang="lat">Cor:</w>
         <w xml:id="WP_1573_042_Dom_Pent_180v_M29W.10" xml:lang="lat">6</w>
         <w xml:id="WP_1573_042_Dom_Pent_180v_M29W.11" xml:lang="olt">⌉</w>
+        </add>
         <pb n="181r"/>
         <lb n="1" xml:id="WP_1573_042_Dom_Pent_181r_1"/>
 
@@ -1237,10 +1241,12 @@
         <w xml:id="WP_1573_042_Dom_Pent_181v_R.1" xml:lang="olt">klauſiant</w>
         <lb n="M10W" xml:id="WP_1573_042_Dom_Pent_181v_M10W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_042_Dom_Pent_181v_M10W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_042_Dom_Pent_181v_M10W.2" xml:lang="lat">Psal:</w>
         <w xml:id="WP_1573_042_Dom_Pent_181v_M10W.3" xml:lang="lat">33</w>
         <w xml:id="WP_1573_042_Dom_Pent_181v_M10W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="182r"/>
         <lb n="1" xml:id="WP_1573_042_Dom_Pent_182r_1"/>
 

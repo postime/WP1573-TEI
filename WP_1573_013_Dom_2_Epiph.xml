@@ -3543,10 +3543,12 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_37.8" xml:lang="olt">ioſa</w>
         <lb n="M3W" xml:id="WP_1573_013_Dom_2_Epiph_65r_M3W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_M3W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_M3W.2" xml:lang="lat">Hebr:</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_M3W.3" xml:lang="lat">13</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_65r_M3W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="65v"/>
         <lb n="1" xml:id="WP_1573_013_Dom_2_Epiph_65v_1"/>
 
@@ -5729,7 +5731,9 @@
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_36.7" xml:lang="olt">ſchlawes</w>
         <lb n="M2W" xml:id="WP_1573_013_Dom_2_Epiph_68r_M2W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_013_Dom_2_Epiph_68r_M2W.1" xml:lang="olt">⌈tratik⌉</w>
+        </add>
         <pb n="68v"/>
         <lb n="1" xml:id="WP_1573_013_Dom_2_Epiph_68v_1"/>
 

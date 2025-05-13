@@ -1701,11 +1701,13 @@
         <w xml:id="WP_1573_051_Dom_6_Trin_214v_R.2" xml:lang="olt">apmaitin<lb break="no"/></w>
         <lb n="M6W" xml:id="WP_1573_051_Dom_6_Trin_214v_M6W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_051_Dom_6_Trin_214v_M6W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_051_Dom_6_Trin_214v_M6W.2" xml:lang="lat">Ephes:</w>
         <w xml:id="WP_1573_051_Dom_6_Trin_214v_M6W.3" xml:lang="lat">4</w>
         <w xml:id="WP_1573_051_Dom_6_Trin_214v_M6W.4" xml:lang="lat">cap:</w>
         <w xml:id="WP_1573_051_Dom_6_Trin_214v_M6W.5" xml:lang="olt">⌉</w>
+        </add>
         <pb n="215r"/>
         <lb n="1" xml:id="WP_1573_051_Dom_6_Trin_215r_1"/>
 

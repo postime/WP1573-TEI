@@ -2968,11 +2968,13 @@
 
         <lb n="M8W" xml:id="WP_1573_011_01_06_Epiph_Dom_53v_M8W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_53v_M8W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_53v_M8W.2" xml:lang="lat">1</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_53v_M8W.3" xml:lang="lat">Petr:</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_53v_M8W.4" xml:lang="lat">5</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_53v_M8W.5" xml:lang="olt">⌉</w>
+        </add>
         <pb n="54r"/>
         <lb n="1" xml:id="WP_1573_011_01_06_Epiph_Dom_54r_1"/>
 
@@ -3343,6 +3345,7 @@
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_54r_35.8" xml:lang="olt">atraſti</w>
         <lb n="M3W" xml:id="WP_1573_011_01_06_Epiph_Dom_54r_M3W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_54r_M3W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_54r_M3W.2" xml:lang="lat">Psal:</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_54r_M3W.3" xml:lang="lat">119</w>
@@ -3358,6 +3361,7 @@
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_54r_M3W.13" xml:lang="lat">et</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_54r_M3W.14" xml:lang="lat">argentj</w>
         <w xml:id="WP_1573_011_01_06_Epiph_Dom_54r_M3W.15" xml:lang="olt">⌉</w>
+        </add>
         <pb n="54v"/>
         <lb n="1" xml:id="WP_1573_011_01_06_Epiph_Dom_54v_1"/>
 

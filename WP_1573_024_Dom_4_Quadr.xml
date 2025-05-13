@@ -241,9 +241,11 @@
         <w xml:id="WP_1573_024_Dom_4_Quadr_109v_R.2" xml:lang="olt">pri<lb break="no"/></w>
         <lb n="M23-24S" xml:id="WP_1573_024_Dom_4_Quadr_109v_M23-24S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_024_Dom_4_Quadr_109v_M23-24S.1" xml:lang="olt">⌈nor</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_109v_M23-24S.2" xml:lang="olt">duti</w>
         <w xml:id="WP_1573_024_Dom_4_Quadr_109v_M23-24S.3" xml:lang="olt">a⌉</w>
+        </add>
         <pb n="110r"/>
         <lb n="1" xml:id="WP_1573_024_Dom_4_Quadr_110r_1"/>
 
@@ -1361,7 +1363,9 @@
         <w xml:id="WP_1573_024_Dom_4_Quadr_111v_11.6" xml:lang="olt">weiſdek</w>
         <lb n="M4-5W" xml:id="WP_1573_024_Dom_4_Quadr_111v_M4-5W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_024_Dom_4_Quadr_111v_M4-5W.1" xml:lang="olt">⌈ſchas⌉</w>
+        </add>
       </div>
     </body>
   </text>

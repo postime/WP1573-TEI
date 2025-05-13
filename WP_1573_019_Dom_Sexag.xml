@@ -1572,6 +1572,7 @@
         <w xml:id="WP_1573_019_Dom_Sexag_85r_36.7" xml:lang="olt">kiekwe<lb break="no"/>nas</w>
         <lb n="M22W" xml:id="WP_1573_019_Dom_Sexag_85r_M22W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_019_Dom_Sexag_85r_M22W.1" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_019_Dom_Sexag_85r_M22W.2" xml:lang="lat">&amp;</w>
         <w xml:id="WP_1573_019_Dom_Sexag_85r_M22W.3" xml:lang="lat">Vide</w>
@@ -1582,6 +1583,7 @@
         <w xml:id="WP_1573_019_Dom_Sexag_85r_M22W.8" xml:lang="lat">Roma<lb break="no"/>nos</w>
         <w xml:id="WP_1573_019_Dom_Sexag_85r_M22W.9" xml:lang="lat">secundum:</w>
         <w xml:id="WP_1573_019_Dom_Sexag_85r_M22W.10" xml:lang="olt">⌉</w>
+        </add>
         <pb n="85v"/>
         <lb n="1" xml:id="WP_1573_019_Dom_Sexag_85v_1"/>
 
@@ -2724,6 +2726,7 @@
         <w xml:id="WP_1573_019_Dom_Sexag_86v_R.2" xml:lang="olt">ingi</w>
         <lb n="M13W" xml:id="WP_1573_019_Dom_Sexag_86v_M13W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_019_Dom_Sexag_86v_M13W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_019_Dom_Sexag_86v_M13W.2" xml:lang="lat">Matth:</w>
         <w xml:id="WP_1573_019_Dom_Sexag_86v_M13W.3" xml:lang="lat">10</w>
@@ -2731,6 +2734,7 @@
         <w xml:id="WP_1573_019_Dom_Sexag_86v_M13W.5" xml:lang="lat">Marc:</w>
         <w xml:id="WP_1573_019_Dom_Sexag_86v_M13W.6" xml:lang="lat">13</w>
         <w xml:id="WP_1573_019_Dom_Sexag_86v_M13W.7" xml:lang="olt">⌉</w>
+        </add>
         <pb n="87r"/>
         <lb n="1" xml:id="WP_1573_019_Dom_Sexag_87r_1"/>
 
@@ -3202,11 +3206,13 @@
         <w xml:id="WP_1573_019_Dom_Sexag_87r_38.9" xml:lang="olt">A</w>
         <lb n="M19W" xml:id="WP_1573_019_Dom_Sexag_87r_M19W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_019_Dom_Sexag_87r_M19W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_019_Dom_Sexag_87r_M19W.2" xml:lang="lat">1</w>
         <w xml:id="WP_1573_019_Dom_Sexag_87r_M19W.3" xml:lang="lat">Timoth:</w>
         <w xml:id="WP_1573_019_Dom_Sexag_87r_M19W.4" xml:lang="lat">6</w>
         <w xml:id="WP_1573_019_Dom_Sexag_87r_M19W.5" xml:lang="olt">⌉</w>
+        </add>
         <pb n="87v"/>
         <lb n="1" xml:id="WP_1573_019_Dom_Sexag_87v_1"/>
 
@@ -3645,11 +3651,13 @@
         <w xml:id="WP_1573_019_Dom_Sexag_87v_R.2" xml:lang="olt">Die<lb break="no"/></w>
         <lb n="M3W" xml:id="WP_1573_019_Dom_Sexag_87v_M3W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_019_Dom_Sexag_87v_M3W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_019_Dom_Sexag_87v_M3W.2" xml:lang="lat">1</w>
         <w xml:id="WP_1573_019_Dom_Sexag_87v_M3W.3" xml:lang="lat">Cor:</w>
         <w xml:id="WP_1573_019_Dom_Sexag_87v_M3W.4" xml:lang="lat">1</w>
         <w xml:id="WP_1573_019_Dom_Sexag_87v_M3W.5" xml:lang="olt">⌉</w>
+        </add>
         <pb n="88r"/>
         <lb n="1" xml:id="WP_1573_019_Dom_Sexag_88r_1"/>
 

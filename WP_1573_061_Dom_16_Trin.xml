@@ -1165,22 +1165,28 @@
           <ref decls="person" cRef="BernClair"/></quote>
         <lb n="M5W" xml:id="WP_1573_061_Dom_16_Trin_247r_M5W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5W.2" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5W.3" xml:lang="lat">Vide</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M5-6W" xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.2" xml:lang="lat">2</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.3" xml:lang="lat">Cor:</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.4" xml:lang="lat">5</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W.5" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M5-6W-2" xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W-2"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W-2.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W-2.2" xml:lang="lat">Ecce</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247r_M5-6W-2.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="247v"/>
         <lb n="1" xml:id="WP_1573_061_Dom_16_Trin_247v_1"/>
 
@@ -1524,12 +1530,14 @@
 
         <lb n="M21W" xml:id="WP_1573_061_Dom_16_Trin_247v_M21W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_061_Dom_16_Trin_247v_M21W.1" xml:lang="olt">⌈pusta</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247v_M21W.2" xml:lang="olt">a</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247v_M21W.3" xml:lang="olt">akla</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247v_M21W.4" xml:lang="olt">gira</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247v_M21W.5" xml:lang="grc">ρ</w>
         <w xml:id="WP_1573_061_Dom_16_Trin_247v_M21W.6" xml:lang="olt">:⌉</w>
+        </add>
         <pb n="248r"/>
         <lb n="1" xml:id="WP_1573_061_Dom_16_Trin_248r_1"/>
 
@@ -1873,7 +1881,9 @@
         <w xml:id="WP_1573_061_Dom_16_Trin_248r_34.6" xml:lang="olt">apgintaghị</w>
         <lb n="M1W" xml:id="WP_1573_061_Dom_16_Trin_248r_M1W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_061_Dom_16_Trin_248r_M1W.1" xml:lang="olt">⌈prakeikimu⌉</w>
+        </add>
         <pb n="248v"/>
         <lb n="1" xml:id="WP_1573_061_Dom_16_Trin_248v_1"/>
 

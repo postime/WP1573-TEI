@@ -2659,10 +2659,12 @@
         <w xml:id="WP_1573_073_Dom_add_289v_R.2" xml:lang="olt">Pet:</w>
         <lb n="M16W" xml:id="WP_1573_073_Dom_add_289v_M16W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_073_Dom_add_289v_M16W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_073_Dom_add_289v_M16W.2" xml:lang="lat">Eſai:</w>
         <w xml:id="WP_1573_073_Dom_add_289v_M16W.3" xml:lang="lat">64</w>
         <w xml:id="WP_1573_073_Dom_add_289v_M16W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="290r"/>
         <lb n="1" xml:id="WP_1573_073_Dom_add_290r_1"/>
 

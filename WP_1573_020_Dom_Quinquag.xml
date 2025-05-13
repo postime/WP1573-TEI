@@ -464,7 +464,9 @@
 
         <lb n="M38W" xml:id="WP_1573_020_Dom_Quinquag_88v_M38W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_020_Dom_Quinquag_88v_M38W.1" xml:lang="olt">⌈laikaſsi⌉</w>
+        </add>
         <pb n="89r"/>
         <lb n="1" xml:id="WP_1573_020_Dom_Quinquag_89r_1"/>
 
@@ -1322,10 +1324,12 @@
         <w xml:id="WP_1573_020_Dom_Quinquag_89v_R.1" xml:lang="olt">primenama</w>
         <lb n="M2W" xml:id="WP_1573_020_Dom_Quinquag_89v_M2W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_020_Dom_Quinquag_89v_M2W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_89v_M2W.2" xml:lang="lat">Joan:</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_89v_M2W.3" xml:lang="lat">16</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_89v_M2W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="90r"/>
         <lb n="1" xml:id="WP_1573_020_Dom_Quinquag_90r_1"/>
 
@@ -2615,6 +2619,7 @@
         <w xml:id="WP_1573_020_Dom_Quinquag_91r_38.6" xml:lang="olt">neperlaida</w>
         <lb n="M22W" xml:id="WP_1573_020_Dom_Quinquag_91r_M22W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_020_Dom_Quinquag_91r_M22W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91r_M22W.2" xml:lang="lat">Oblatus</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91r_M22W.3" xml:lang="lat">eſt</w>
@@ -2622,6 +2627,7 @@
         <w xml:id="WP_1573_020_Dom_Quinquag_91r_M22W.5" xml:lang="lat">ipse</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91r_M22W.6" xml:lang="lat">uo<lb break="no"/>luit</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91r_M22W.7" xml:lang="olt">⌉</w>
+        </add>
         <pb n="91v"/>
         <lb n="1" xml:id="WP_1573_020_Dom_Quinquag_91v_1"/>
 
@@ -3059,16 +3065,20 @@
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_M15.2" xml:lang="olt">neſsiwerſime⌉</w>
         <lb n="M23W" xml:id="WP_1573_020_Dom_Quinquag_91v_M23W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_M23W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_M23W.2" xml:lang="lat">Psal:</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_M23W.3" xml:lang="lat">147</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_M23W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M26W" xml:id="WP_1573_020_Dom_Quinquag_91v_M26W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_M26W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_M26W.2" xml:lang="lat">Deutro:</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_M26W.3" xml:lang="lat">4</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_91v_M26W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="92r"/>
         <lb n="1" xml:id="WP_1573_020_Dom_Quinquag_92r_1"/>
 
@@ -3499,10 +3509,12 @@
         <w xml:id="WP_1573_020_Dom_Quinquag_92r_38.7" xml:lang="olt">kaipagi</w>
         <lb n="M20W" xml:id="WP_1573_020_Dom_Quinquag_92r_M20W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_020_Dom_Quinquag_92r_M20W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_92r_M20W.2" xml:lang="lat">psal:</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_92r_M20W.3" xml:lang="lat">2</w>
         <w xml:id="WP_1573_020_Dom_Quinquag_92r_M20W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="92v"/>
         <lb n="1" xml:id="WP_1573_020_Dom_Quinquag_92v_1"/>
 

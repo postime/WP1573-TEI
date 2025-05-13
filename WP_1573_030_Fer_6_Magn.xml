@@ -488,19 +488,27 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_137r_36.7" xml:lang="olt">padare</w>
         <lb n="M31W" xml:id="WP_1573_030_Fer_6_Magn_137r_M31W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_137r_M31W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_137r_M31W.2" xml:lang="lat">Dispositio</w>
         <punct>.</punct>
         <w xml:id="WP_1573_030_Fer_6_Magn_137r_M31W.4" xml:lang="olt">I⌉</w>
+        </add>
         <lb n="M32W" xml:id="WP_1573_030_Fer_6_Magn_137r_M32W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_137r_M32W.1" xml:lang="olt">⌈II⌉</w>
+        </add>
         <lb n="M33W" xml:id="WP_1573_030_Fer_6_Magn_137r_M33W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_137r_M33W.1" xml:lang="olt">⌈III⌉</w>
+        </add>
         <lb n="M35W" xml:id="WP_1573_030_Fer_6_Magn_137r_M35W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_137r_M35W.1" xml:lang="olt">⌈IIII⌉</w>
+        </add>
         <pb n="137v"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_137v_1"/>
 
@@ -1318,6 +1326,7 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_35.7" xml:lang="olt">ir</w>
         <lb n="M4W" xml:id="WP_1573_030_Fer_6_Magn_138r_M4W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M4W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M4W.2" xml:lang="lat">1</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M4W.3" xml:lang="lat">Petr:</w>
@@ -1328,8 +1337,10 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M4W.8" xml:lang="lat">Esai:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M4W.9" xml:lang="lat">53</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M4W.10" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M17W" xml:id="WP_1573_030_Fer_6_Magn_138r_M17W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M17W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M17W.2" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M17W.3" xml:lang="olt">uſʒ</w>
@@ -1341,8 +1352,10 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M17W.9" xml:lang="lat">trans<lb break="no"/>grešsoribus</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M17W.10" xml:lang="lat">rogauit</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M17W.11" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M20W" xml:id="WP_1573_030_Fer_6_Magn_138r_M20W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M20W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M20W.2" xml:lang="lat">opprobria</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M20W.3" xml:lang="lat"><app hand="W">
@@ -1354,12 +1367,15 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M20W.9" xml:lang="lat">ſuper</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M20W.10" xml:lang="lat">me</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M20W.11" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M23W" xml:id="WP_1573_030_Fer_6_Magn_138r_M23W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M23W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M23W.2" xml:lang="lat">Psal:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M23W.3" xml:lang="lat">69</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138r_M23W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="138v"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_138v_1"/>
 
@@ -1749,11 +1765,13 @@
 
         <lb n="M11W" xml:id="WP_1573_030_Fer_6_Magn_138v_M11W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_138v_M11W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138v_M11W.2" xml:lang="lat">1</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138v_M11W.3" xml:lang="lat">Cor:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138v_M11W.4" xml:lang="lat">2</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_138v_M11W.5" xml:lang="olt">⌉</w>
+        </add>
         <pb n="139r"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_139r_1"/>
 
@@ -2467,11 +2485,13 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_139v_R.3" xml:lang="olt">kar<lb break="no"/></w>
         <lb n="M11W" xml:id="WP_1573_030_Fer_6_Magn_139v_M11W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_139v_M11W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_139v_M11W.2" xml:lang="lat">1</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_139v_M11W.3" xml:lang="lat">Joan:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_139v_M11W.4" xml:lang="lat">4</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_139v_M11W.5" xml:lang="olt">⌉</w>
+        </add>
         <pb n="140r"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_140r_1"/>
 
@@ -2883,6 +2903,7 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_35.7" xml:lang="olt">wei<lb break="no"/>kia</w>
         <lb n="M33W" xml:id="WP_1573_030_Fer_6_Magn_140r_M33W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M33W.1" xml:lang="lat">Matth:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M33W.2" xml:lang="lat">13</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M33W.3" xml:lang="lat">Marc:</w>
@@ -2896,8 +2917,10 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M33W.11" xml:lang="lat">Eſai:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M33W.12" xml:lang="lat">6</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M33W.13" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M36W" xml:id="WP_1573_030_Fer_6_Magn_140r_M36W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M36W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M36W.2" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M36W.3" xml:lang="lat">Joa:</w>
@@ -2936,6 +2959,7 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M36W.32" xml:lang="lat">citata</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M36W.33" xml:lang="grc">ρ</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_140r_M36W.34" xml:lang="olt">⌉</w>
+        </add>
         <pb n="140v"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_140v_1"/>
 
@@ -5968,9 +5992,11 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_34.8" xml:lang="olt">ape</w>
         <lb n="M19W" xml:id="WP_1573_030_Fer_6_Magn_144r_M19W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_M19W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_M19W.2" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_144r_M19W.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="144v"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_144v_1"/>
 
@@ -6359,7 +6385,9 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_144v_R.2" xml:lang="olt">we<lb break="no"/></w>
         <lb n="M5W" xml:id="WP_1573_030_Fer_6_Magn_144v_M5W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_144v_M5W.1" xml:lang="olt">⌈kaba⌉</w>
+        </add>
         <pb n="145r"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_145r_1"/>
 
@@ -6743,9 +6771,11 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_145r_34.8" xml:lang="olt">iſchwa<lb break="no"/>doti</w>
         <lb n="M5W" xml:id="WP_1573_030_Fer_6_Magn_145r_M5W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_145r_M5W.1" xml:lang="lat">Joan:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_145r_M5W.2" xml:lang="lat">16</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_145r_M5W.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="145v"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_145v_1"/>
 
@@ -7136,11 +7166,13 @@
 
         <lb n="M18W" xml:id="WP_1573_030_Fer_6_Magn_145v_M18W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_145v_M18W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_145v_M18W.2" xml:lang="lat">1</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_145v_M18W.3" xml:lang="lat">Joan:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_145v_M18W.4" xml:lang="lat">1</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_145v_M18W.5" xml:lang="olt">⌉</w>
+        </add>
         <pb n="146r"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_146r_1"/>
 
@@ -8297,16 +8329,20 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_147r_34.8" xml:lang="olt">intin<lb break="no"/>kanti</w>
         <lb n="M5W" xml:id="WP_1573_030_Fer_6_Magn_147r_M5W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_147r_M5W.1" xml:lang="lat">Marc:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147r_M5W.2" xml:lang="lat">14</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147r_M5W.3" xml:lang="lat">Luc:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147r_M5W.4" xml:lang="lat">22</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147r_M5W.5" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M28W" xml:id="WP_1573_030_Fer_6_Magn_147r_M28W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_147r_M28W.1" xml:lang="olt">⌈priliginti</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147r_M28W.2" xml:lang="lat">conformes</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147r_M28W.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="147v"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_147v_1"/>
 
@@ -8709,10 +8745,12 @@
 
         <lb n="M4W" xml:id="WP_1573_030_Fer_6_Magn_147v_M4W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_147v_M4W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147v_M4W.2" xml:lang="lat">Joan:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147v_M4W.3" xml:lang="lat">1</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_147v_M4W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="148r"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_148r_1"/>
 
@@ -9074,10 +9112,12 @@
         <w xml:id="WP_1573_030_Fer_6_Magn_148r_34.8" xml:lang="olt">muſụ</w>
         <lb n="M33W" xml:id="WP_1573_030_Fer_6_Magn_148r_M33W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_030_Fer_6_Magn_148r_M33W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_148r_M33W.2" xml:lang="lat">Jesai:</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_148r_M33W.3" xml:lang="lat">64</w>
         <w xml:id="WP_1573_030_Fer_6_Magn_148r_M33W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="148v"/>
         <lb n="1" xml:id="WP_1573_030_Fer_6_Magn_148v_1"/>
 

@@ -494,12 +494,15 @@
 
         <lb n="M9W" xml:id="WP_1573_015_02_02_Purif_Mar_71v_M9W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M9W.1" xml:lang="olt">⌈tris</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M9W.2" xml:lang="olt">Descħi</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M9W.3" xml:lang="grc">ρ</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M9W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M25W" xml:id="WP_1573_015_02_02_Purif_Mar_71v_M25W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M25W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M25W.2" xml:lang="lat">non</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M25W.3" xml:lang="olt">Waidu:</w>
@@ -509,6 +512,7 @@
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M25W.7" xml:lang="olt">karweliu</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M25W.8" xml:lang="grc">ρ</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_71v_M25W.9" xml:lang="olt">⌉</w>
+        </add>
         <pb n="72r"/>
         <lb n="1" xml:id="WP_1573_015_02_02_Purif_Mar_72r_1"/>
 
@@ -1645,9 +1649,11 @@
         <w xml:id="WP_1573_015_02_02_Purif_Mar_73r_36.6" xml:lang="olt">ſʒluſʒida<lb break="no"/>mas</w>
         <lb n="M20W" xml:id="WP_1573_015_02_02_Purif_Mar_73r_M20W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_015_02_02_Purif_Mar_73r_M20W.1" xml:lang="lat">Hiob</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_73r_M20W.2" xml:lang="lat">41</w>
         <w xml:id="WP_1573_015_02_02_Purif_Mar_73r_M20W.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="73v"/>
         <lb n="1" xml:id="WP_1573_015_02_02_Purif_Mar_73v_1"/>
 

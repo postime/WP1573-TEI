@@ -180,11 +180,13 @@
           <lem>iſſtatimas</lem>
           <rdg>iſta</rdg>
         </app></w>
-        <lb n="M27Wu" xml:id="WP_1573_054_Dom_9_Trin_222v_M27Wu"/>
+        <lb n="M27W?" xml:id="WP_1573_054_Dom_9_Trin_222v_M27W?"/>
 
-        <w xml:id="WP_1573_054_Dom_9_Trin_222v_M27Wu.1" xml:lang="olt">⌈</w>
-        <w xml:id="WP_1573_054_Dom_9_Trin_222v_M27Wu.2" xml:lang="lat">NB</w>
-        <w xml:id="WP_1573_054_Dom_9_Trin_222v_M27Wu.3" xml:lang="olt">⌉</w>
+        <add hand="W?">
+        <w xml:id="WP_1573_054_Dom_9_Trin_222v_M27W?.1" xml:lang="olt">⌈</w>
+        <w xml:id="WP_1573_054_Dom_9_Trin_222v_M27W?.2" xml:lang="lat">NB</w>
+        <w xml:id="WP_1573_054_Dom_9_Trin_222v_M27W?.3" xml:lang="olt">⌉</w>
+        </add>
         <pb n="223r"/>
         <lb n="1" xml:id="WP_1573_054_Dom_9_Trin_223r_1"/>
 

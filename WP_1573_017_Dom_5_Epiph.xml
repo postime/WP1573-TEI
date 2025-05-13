@@ -691,10 +691,12 @@
         <w xml:id="WP_1573_017_Dom_5_Epiph_77v_R.1" xml:lang="olt">uſʒengencʒiam</w>
         <lb n="M8W" xml:id="WP_1573_017_Dom_5_Epiph_77v_M8W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_017_Dom_5_Epiph_77v_M8W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_77v_M8W.2" xml:lang="lat">Matth:</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_77v_M8W.3" xml:lang="lat">13</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_77v_M8W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="78r"/>
         <lb n="1" xml:id="WP_1573_017_Dom_5_Epiph_78r_1"/>
 
@@ -1116,10 +1118,12 @@
         <punct>.</punct>
         <lb n="M19W" xml:id="WP_1573_017_Dom_5_Epiph_78r_M19W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_017_Dom_5_Epiph_78r_M19W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_78r_M19W.2" xml:lang="lat">Joan:</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_78r_M19W.3" xml:lang="lat">15</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_78r_M19W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="78v"/>
         <lb n="1" xml:id="WP_1573_017_Dom_5_Epiph_78v_1"/>
 
@@ -2357,11 +2361,14 @@
 
         <lb n="M26W" xml:id="WP_1573_017_Dom_5_Epiph_79v_M26W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_017_Dom_5_Epiph_79v_M26W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_79v_M26W.2" xml:lang="lat">Gala:</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_79v_M26W.3" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M36W" xml:id="WP_1573_017_Dom_5_Epiph_79v_M36W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_017_Dom_5_Epiph_79v_M36W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_79v_M36W.2" xml:lang="lat">Vos</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_79v_M36W.3" xml:lang="lat">autem</w>
@@ -2372,6 +2379,7 @@
         <w xml:id="WP_1573_017_Dom_5_Epiph_79v_M36W.8" xml:lang="lat">bene</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_79v_M36W.9" xml:lang="lat">faciendo</w>
         <w xml:id="WP_1573_017_Dom_5_Epiph_79v_M36W.10" xml:lang="olt">⌉</w>
+        </add>
         <pb n="80r"/>
         <lb n="1" xml:id="WP_1573_017_Dom_5_Epiph_80r_1"/>
 

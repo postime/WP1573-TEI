@@ -1758,10 +1758,12 @@
         </app></w>
         <lb n="M15-17W" xml:id="WP_1573_062_Dom_17_Trin_251r_M15-17W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_062_Dom_17_Trin_251r_M15-17W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_062_Dom_17_Trin_251r_M15-17W.2" xml:lang="lat">Matth:</w>
         <w xml:id="WP_1573_062_Dom_17_Trin_251r_M15-17W.3" xml:lang="lat">21</w>
         <w xml:id="WP_1573_062_Dom_17_Trin_251r_M15-17W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="251v"/>
         <lb n="1" xml:id="WP_1573_062_Dom_17_Trin_251v_1"/>
 

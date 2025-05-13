@@ -730,10 +730,12 @@
         <w xml:id="WP_1573_036_Dom_2_Pasch_164v_R.1" xml:lang="olt">ſweta</w>
         <lb n="M4W" xml:id="WP_1573_036_Dom_2_Pasch_164v_M4W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_036_Dom_2_Pasch_164v_M4W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_036_Dom_2_Pasch_164v_M4W.2" xml:lang="lat">Psal:</w>
         <w xml:id="WP_1573_036_Dom_2_Pasch_164v_M4W.3" xml:lang="lat">27</w>
         <w xml:id="WP_1573_036_Dom_2_Pasch_164v_M4W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="165r"/>
         <lb n="1" xml:id="WP_1573_036_Dom_2_Pasch_165r_1"/>
 

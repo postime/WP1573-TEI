@@ -823,10 +823,12 @@
         <w xml:id="WP_1573_039_Dom_5_Pasch_172v_R.2" xml:lang="olt">pra<lb break="no"/></w>
         <lb n="M12W" xml:id="WP_1573_039_Dom_5_Pasch_172v_M12W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_039_Dom_5_Pasch_172v_M12W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_039_Dom_5_Pasch_172v_M12W.2" xml:lang="lat">Psal:</w>
         <w xml:id="WP_1573_039_Dom_5_Pasch_172v_M12W.3" xml:lang="lat">110</w>
         <w xml:id="WP_1573_039_Dom_5_Pasch_172v_M12W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="173r"/>
         <lb n="1" xml:id="WP_1573_039_Dom_5_Pasch_173r_1"/>
 
@@ -2101,10 +2103,12 @@
 
         <lb n="M14W" xml:id="WP_1573_039_Dom_5_Pasch_174v_M14W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_039_Dom_5_Pasch_174v_M14W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_039_Dom_5_Pasch_174v_M14W.2" xml:lang="lat">Psal:</w>
         <w xml:id="WP_1573_039_Dom_5_Pasch_174v_M14W.3" xml:lang="lat">50</w>
         <w xml:id="WP_1573_039_Dom_5_Pasch_174v_M14W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="175r"/>
         <lb n="1" xml:id="WP_1573_039_Dom_5_Pasch_175r_1"/>
 

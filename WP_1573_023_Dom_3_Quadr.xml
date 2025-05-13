@@ -332,22 +332,34 @@
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_R.1" xml:lang="olt">darritụ</w>
         <lb n="M11-12W" xml:id="WP_1573_023_Dom_3_Quadr_104v_M11-12W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M11-12W.1" xml:lang="olt">⌈kieturis⌉</w>
+        </add>
         <lb n="M13S" xml:id="WP_1573_023_Dom_3_Quadr_104v_M13S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M13S.1" xml:lang="olt">⌈gniewaie̗s⌉</w>
+        </add>
         <lb n="M19S" xml:id="WP_1573_023_Dom_3_Quadr_104v_M19S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M19S.1" xml:lang="olt">⌈iſchganimas⌉</w>
+        </add>
         <lb n="M20S" xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S.1" xml:lang="olt">⌈Jr⌉</w>
+        </add>
         <lb n="M20S-2" xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S-2"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S-2.1" xml:lang="olt">⌈iſchwara̷s⌉</w>
+        </add>
         <lb n="M20S-3" xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S-3"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_104v_M20S-3.1" xml:lang="olt">⌈cʒarta⌉</w>
+        </add>
         <pb n="105r"/>
         <lb n="1" xml:id="WP_1573_023_Dom_3_Quadr_105r_1"/>
 
@@ -1887,7 +1899,9 @@
 
         <lb n="M26-27S" xml:id="WP_1573_023_Dom_3_Quadr_106v_M26-27S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_106v_M26-27S.1" xml:lang="olt">⌈welnas⌉</w>
+        </add>
         <pb n="107r"/>
         <lb n="1" xml:id="WP_1573_023_Dom_3_Quadr_107r_1"/>
 
@@ -2264,18 +2278,24 @@
         <w xml:id="WP_1573_023_Dom_3_Quadr_107r_34.8" xml:lang="olt">ſtiprais</w>
         <lb n="M1-2S" xml:id="WP_1573_023_Dom_3_Quadr_107r_M1-2S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_107r_M1-2S.1" xml:lang="olt">⌈atriſchimas⌉</w>
+        </add>
         <lb n="M23-24S" xml:id="WP_1573_023_Dom_3_Quadr_107r_M23-24S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_107r_M23-24S.1" xml:lang="olt">⌈ſu⌉</w>
+        </add>
         <lb n="M25-26S" xml:id="WP_1573_023_Dom_3_Quadr_107r_M25-26S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_107r_M25-26S.1" xml:lang="olt">⌈Kur</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_107r_M25-26S.2" xml:lang="olt">Cħus</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_107r_M25-26S.3" xml:lang="olt">Jesus</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_107r_M25-26S.4" xml:lang="olt">ſa̷ſpa<lb break="no"/>ros</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_107r_M25-26S.5" xml:lang="olt">akmenimi</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_107r_M25-26S.6" xml:lang="olt">ira⌉</w>
+        </add>
         <pb n="107v"/>
         <lb n="1" xml:id="WP_1573_023_Dom_3_Quadr_107v_1"/>
 
@@ -3311,13 +3331,17 @@
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_R.1" xml:lang="olt">Jeſaus</w>
         <lb n="M14S" xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S.1" xml:lang="olt">⌈doſt</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S.2" xml:lang="olt">mumus⌉</w>
+        </add>
         <lb n="M14S-2" xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S-2"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S-2.1" xml:lang="olt">⌈be</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S-2.2" xml:lang="olt">muſu</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_108v_M14S-2.3" xml:lang="olt">uſluſʒmu⌉</w>
+        </add>
         <pb n="109r"/>
         <lb n="1" xml:id="WP_1573_023_Dom_3_Quadr_109r_1"/>
 
@@ -3810,6 +3834,7 @@
         <w xml:id="WP_1573_023_Dom_3_Quadr_109v_12.2" xml:lang="olt">Amen</w>
         <lb n="M12S" xml:id="WP_1573_023_Dom_3_Quadr_109v_M12S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_023_Dom_3_Quadr_109v_M12S.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_109v_M12S.2" xml:lang="lat">Ex</w>
         <w xml:id="WP_1573_023_Dom_3_Quadr_109v_M12S.3" xml:lang="lat">postilla</w>
@@ -3818,6 +3843,7 @@
         <w xml:id="WP_1573_023_Dom_3_Quadr_109v_M12S.5" xml:lang="lat">Hemmingij</w>
           <ref decls="person" cRef="NHemming"/></quote>
         <w xml:id="WP_1573_023_Dom_3_Quadr_109v_M12S.6" xml:lang="olt">⌉</w>
+        </add>
       </div>
     </body>
   </text>

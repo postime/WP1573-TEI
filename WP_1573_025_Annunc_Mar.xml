@@ -407,6 +407,7 @@
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M21.1" xml:lang="olt">⌈3⌉</w>
         <lb n="M35W" xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W.2" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W.3" xml:lang="lat">Juxta</w>
@@ -433,6 +434,7 @@
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W.21" xml:lang="olt">iſsakiti</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W.22" xml:lang="grc">Φ</w>
         <w xml:id="WP_1573_03_25_Annunc_Mar_114v_M35W.23" xml:lang="olt">⌉</w>
+        </add>
         <pb n="115r"/>
         <lb n="1" xml:id="WP_1573_03_25_Annunc_Mar_115r_1"/>
 
@@ -1182,7 +1184,9 @@
         <w xml:id="WP_1573_03_25_Annunc_Mar_115v_R.3" xml:lang="olt">nog</w>
         <lb n="M22-23S" xml:id="WP_1573_03_25_Annunc_Mar_115v_M22-23S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_03_25_Annunc_Mar_115v_M22-23S.1" xml:lang="olt">⌈pannas⌉</w>
+        </add>
         <pb n="116r"/>
         <lb n="1" xml:id="WP_1573_03_25_Annunc_Mar_116r_1"/>
 

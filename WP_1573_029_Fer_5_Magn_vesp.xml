@@ -369,11 +369,13 @@
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_R.2" xml:lang="olt">ne<lb break="no"/></w>
         <lb n="M30W" xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_M30W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_M30W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_M30W.2" xml:lang="lat">1</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_M30W.3" xml:lang="lat">Timoth:</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_M30W.4" xml:lang="lat">2</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_133v_M30W.5" xml:lang="olt">⌉</w>
+        </add>
         <pb n="134r"/>
         <lb n="1" xml:id="WP_1573_029_Fer_5_Magn_vesp_134r_1"/>
 
@@ -1118,10 +1120,12 @@
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_R.2" xml:lang="olt">turreij{a}</w>
         <lb n="M25W" xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W.2" xml:lang="lat">Oſee:</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W.3" xml:lang="lat">13</w>
         <w xml:id="WP_1573_029_Fer_5_Magn_vesp_134v_M25W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="135r"/>
         <lb n="1" xml:id="WP_1573_029_Fer_5_Magn_vesp_135r_1"/>
 

@@ -1157,7 +1157,9 @@
         <w xml:id="WP_1573_012_Dom_1_Epiph_56v_R.1" xml:lang="olt">Cħaus</w>
         <lb n="M6W" xml:id="WP_1573_012_Dom_1_Epiph_56v_M6W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_012_Dom_1_Epiph_56v_M6W.1" xml:lang="olt">⌈instatimus⌉</w>
+        </add>
         <pb n="57r"/>
         <lb n="1" xml:id="WP_1573_012_Dom_1_Epiph_57r_1"/>
 
@@ -3661,6 +3663,7 @@
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_27.2" xml:lang="olt">Amen</w>
         <lb n="M27-28W" xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.2" xml:lang="ger">Es</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.3" xml:lang="ger">heiſt</w>
@@ -3669,9 +3672,9 @@
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.6" xml:lang="lat">quia</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.7" xml:lang="lat">filius</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.8" xml:lang="lat">Dej</w>
-        <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.9" xml:lang="grc">λόγος</w> <!--Greek words are a mess in the converted files, check in TITUS and restore manually-->
+        <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.9" xml:lang="grc">λόγος</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.10" xml:lang="lat">humanitatem</w>
-        <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.11" xml:lang="lat">adſumpſit</w> <!-- <ſ> in Latin-coded words got converted as <š>, replace automatically-->
+        <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.11" xml:lang="lat">adſumpſit</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.12" xml:lang="lat">Diuinitati</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.13" xml:lang="lat">itaq'ue</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.14" xml:lang="lat">Christi,</w>
@@ -3689,8 +3692,10 @@
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.26" xml:lang="lat">impium</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.27" xml:lang="lat">eſt</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28W.28" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M27-28S" xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28S.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28S.2" xml:lang="lat">Ex</w>
           <quote>
@@ -3698,6 +3703,7 @@
           <ref decls="person" cRef="NHemming"/></quote>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28S.4" xml:lang="lat">poſtilla</w>
         <w xml:id="WP_1573_012_Dom_1_Epiph_60r_M27-28S.5" xml:lang="olt">⌉</w>
+        </add>
       </div>
     </body>
   </text>

@@ -1209,10 +1209,12 @@
 
         <lb n="M17W" xml:id="WP_1573_060_Dom_15_Trin_242v_M17W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_060_Dom_15_Trin_242v_M17W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_242v_M17W.2" xml:lang="lat">Psal:</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_242v_M17W.3" xml:lang="lat">118</w>
         <w xml:id="WP_1573_060_Dom_15_Trin_242v_M17W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="243r"/>
         <lb n="1" xml:id="WP_1573_060_Dom_15_Trin_243r_1"/>
 

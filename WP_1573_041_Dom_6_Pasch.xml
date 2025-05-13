@@ -374,24 +374,36 @@
 
         <lb n="M2-3S" xml:id="WP_1573_041_Dom_6_Pasch_177v_M2-3S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_177v_M2-3S.1" xml:lang="olt">⌈paſlaptine⌉</w>
+        </add>
         <lb n="M16S" xml:id="WP_1573_041_Dom_6_Pasch_177v_M16S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_177v_M16S.1" xml:lang="olt">⌈angu</w>
         <w xml:id="WP_1573_041_Dom_6_Pasch_177v_M16S.2" xml:lang="olt">paſlaptine⌉</w>
+        </add>
         <lb n="M19-20S" xml:id="WP_1573_041_Dom_6_Pasch_177v_M19-20S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_177v_M19-20S.1" xml:lang="olt">⌈paſlaptine⌉</w>
+        </add>
         <lb n="M21-22S" xml:id="WP_1573_041_Dom_6_Pasch_177v_M21-22S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_177v_M21-22S.1" xml:lang="olt">⌈paſlaptine⌉</w>
+        </add>
         <lb n="M22S" xml:id="WP_1573_041_Dom_6_Pasch_177v_M22S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_177v_M22S.1" xml:lang="olt">⌈per</w>
         <w xml:id="WP_1573_041_Dom_6_Pasch_177v_M22S.2" xml:lang="olt">apreiſchkima⌉</w>
+        </add>
         <lb n="M33-34S" xml:id="WP_1573_041_Dom_6_Pasch_177v_M33-34S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_177v_M33-34S.1" xml:lang="olt">⌈paſlaptiniu⌉</w>
+        </add>
         <pb n="178r"/>
         <lb n="1" xml:id="WP_1573_041_Dom_6_Pasch_178r_1"/>
 
@@ -751,14 +763,20 @@
 
         <lb n="M2-3S" xml:id="WP_1573_041_Dom_6_Pasch_178r_M2-3S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_178r_M2-3S.1" xml:lang="olt">⌈wartotaius⌉</w>
+        </add>
         <lb n="M2-3S-2" xml:id="WP_1573_041_Dom_6_Pasch_178r_M2-3S-2"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_178r_M2-3S-2.1" xml:lang="olt">⌈paſlaptiniu⌉</w>
+        </add>
         <lb n="M4-5S" xml:id="WP_1573_041_Dom_6_Pasch_178r_M4-5S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_178r_M4-5S.1" xml:lang="olt">⌈pa</w>
         <w xml:id="WP_1573_041_Dom_6_Pasch_178r_M4-5S.2" xml:lang="olt">ſlaptines⌉</w>
+        </add>
         <pb n="178v"/>
         <lb n="1" xml:id="WP_1573_041_Dom_6_Pasch_178v_1"/>
 
@@ -1793,7 +1811,9 @@
         <w xml:id="WP_1573_041_Dom_6_Pasch_179v_R.2" xml:lang="olt">ir</w>
         <lb n="M5-6S" xml:id="WP_1573_041_Dom_6_Pasch_179v_M5-6S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_179v_M5-6S.1" xml:lang="olt">⌈dawanas⌉</w>
+        </add>
         <pb n="180r"/>
         <lb n="1" xml:id="WP_1573_041_Dom_6_Pasch_180r_1"/>
 
@@ -1943,9 +1963,12 @@
         <w xml:id="WP_1573_041_Dom_6_Pasch_180r_16.2" xml:lang="olt">:Ɔ</w>
         <lb n="M10-11S" xml:id="WP_1573_041_Dom_6_Pasch_180r_M10-11S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_180r_M10-11S.1" xml:lang="olt">⌈uſʒmuſchti⌉</w>
+        </add>
         <lb n="M11S" xml:id="WP_1573_041_Dom_6_Pasch_180r_M11S"/>
 
+        <add hand="S">
         <w xml:id="WP_1573_041_Dom_6_Pasch_180r_M11S.1" xml:lang="olt">⌈bet</w>
         <w xml:id="WP_1573_041_Dom_6_Pasch_180r_M11S.2" xml:lang="olt">bijakites</w>
         <w xml:id="WP_1573_041_Dom_6_Pasch_180r_M11S.3" xml:lang="olt">daugiaus</w>
@@ -1958,6 +1981,7 @@
         <w xml:id="WP_1573_041_Dom_6_Pasch_180r_M11S.10" xml:lang="olt">ing</w>
         <w xml:id="WP_1573_041_Dom_6_Pasch_180r_M11S.11" xml:lang="olt">pekla</w>
         <w xml:id="WP_1573_041_Dom_6_Pasch_180r_M11S.12" xml:lang="olt">imeſti⌉</w>
+        </add>
       </div>
     </body>
   </text>

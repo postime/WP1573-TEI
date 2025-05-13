@@ -698,21 +698,27 @@
         <w xml:id="WP_1573_018_Dom_Septuag_80v_R.2" xml:lang="olt">Jeſ:</w>
         <lb n="M19W" xml:id="WP_1573_018_Dom_Septuag_80v_M19W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M19W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M19W.2" xml:lang="lat">Galat:</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M19W.3" xml:lang="lat">6</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M19W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M21W" xml:id="WP_1573_018_Dom_Septuag_80v_M21W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M21W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M21W.2" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M21W.3" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M22W" xml:id="WP_1573_018_Dom_Septuag_80v_M22W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M22W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M22W.2" xml:lang="lat">Ezech:</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M22W.3" xml:lang="lat">33</w>
         <w xml:id="WP_1573_018_Dom_Septuag_80v_M22W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="81r"/>
         <lb n="1" xml:id="WP_1573_018_Dom_Septuag_81r_1"/>
 
@@ -1552,6 +1558,7 @@
         <w xml:id="WP_1573_018_Dom_Septuag_81v_R.1" xml:lang="olt">greſchniki</w>
         <lb n="M1-2W" xml:id="WP_1573_018_Dom_Septuag_81v_M1-2W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_81v_M1-2W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_M1-2W.2" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_M1-2W.3" xml:lang="lat">Talpas</w>
@@ -1569,12 +1576,15 @@
         <punct>.</punct>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_M1-2W.16" xml:lang="grc">ρ</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_M1-2W.17" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M15W" xml:id="WP_1573_018_Dom_Septuag_81v_M15W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_81v_M15W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_M15W.2" xml:lang="lat">Marc:</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_M15W.3" xml:lang="lat">16</w>
         <w xml:id="WP_1573_018_Dom_Septuag_81v_M15W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="82r"/>
         <lb n="1" xml:id="WP_1573_018_Dom_Septuag_82r_1"/>
 
@@ -1961,25 +1971,33 @@
         <w xml:id="WP_1573_018_Dom_Septuag_82r_37.7" xml:lang="olt">wera</w>
         <lb n="M17W" xml:id="WP_1573_018_Dom_Septuag_82r_M17W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M17W.1" xml:lang="olt">⌈Pawilas⌉</w>
+        </add>
         <lb n="M18W" xml:id="WP_1573_018_Dom_Septuag_82r_M18W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M18W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M18W.2" xml:lang="lat">Ephes:</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M18W.3" xml:lang="lat">2</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M18W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M35W" xml:id="WP_1573_018_Dom_Septuag_82r_M35W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M35W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M35W.2" xml:lang="lat">Marc:</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M35W.3" xml:lang="lat">16</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M35W.4" xml:lang="olt">⌉</w>
+        </add>
         <lb n="M37W" xml:id="WP_1573_018_Dom_Septuag_82r_M37W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M37W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M37W.2" xml:lang="lat">Jaco:</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M37W.3" xml:lang="lat">2</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82r_M37W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="82v"/>
         <lb n="1" xml:id="WP_1573_018_Dom_Septuag_82v_1"/>
 
@@ -2365,10 +2383,12 @@
         <w xml:id="WP_1573_018_Dom_Septuag_82v_R.2" xml:lang="olt">griekoſa</w>
         <lb n="M12W" xml:id="WP_1573_018_Dom_Septuag_82v_M12W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_82v_M12W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82v_M12W.2" xml:lang="lat">Luc:</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82v_M12W.3" xml:lang="lat">17</w>
         <w xml:id="WP_1573_018_Dom_Septuag_82v_M12W.4" xml:lang="olt">⌉</w>
+        </add>
         <pb n="83r"/>
         <lb n="1" xml:id="WP_1573_018_Dom_Septuag_83r_1"/>
 
@@ -2779,12 +2799,14 @@
         <w xml:id="WP_1573_018_Dom_Septuag_83r_39.7" xml:lang="olt">gauti,</w>
         <lb n="M11W" xml:id="WP_1573_018_Dom_Septuag_83r_M11W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W.1" xml:lang="lat">Jacob:</w>
         <w xml:id="WP_1573_018_Dom_Septuag_83r_M11W.2" xml:lang="olt">
         <app>
           <lem>5</lem>
           <rdg>1</rdg>
         </app></w>
+        </add>
         <pb n="83v"/>
         <lb n="1" xml:id="WP_1573_018_Dom_Septuag_83v_1"/>
 

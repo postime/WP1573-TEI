@@ -407,7 +407,9 @@
         <w xml:id="WP_1573_045_Dom_Trin_188r_35.4" xml:lang="olt">nepalauiantin</w>
         <lb n="M30W" xml:id="WP_1573_045_Dom_Trin_188r_M30W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_045_Dom_Trin_188r_M30W.1" xml:lang="olt">⌈waiſum⌉</w>
+        </add>
         <pb n="188v"/>
         <lb n="1" xml:id="WP_1573_045_Dom_Trin_188v_1"/>
 
@@ -3263,8 +3265,10 @@
         <w xml:id="WP_1573_045_Dom_Trin_192r_35.7" xml:lang="lat">The<lb break="no"/>odoricj</w>
         <lb n="M34N" xml:id="WP_1573_045_Dom_Trin_192r_M34N"/>
 
+        <add hand="N">
         <w xml:id="WP_1573_045_Dom_Trin_192r_M34N.1" xml:lang="lat">apud</w>
         <w xml:id="WP_1573_045_Dom_Trin_192r_M34N.2" xml:lang="olt">⌉</w>
+        </add>
         <pb n="192v"/>
         <lb n="1" xml:id="WP_1573_045_Dom_Trin_192v_1"/>
 

@@ -761,10 +761,12 @@
         <w xml:id="WP_1573_026_Dom_5_Quadr_119r_35.5" xml:lang="olt">wiſsai</w>
         <w xml:id="WP_1573_026_Dom_5_Quadr_119r_35.6" xml:lang="olt">baſʒnicʒei</w>
         <w xml:id="WP_1573_026_Dom_5_Quadr_119r_35.7" xml:lang="olt">krikſʒa<lb break="no"/>niſʒkai</w>
-        <lb n="M26Su" xml:id="WP_1573_026_Dom_5_Quadr_119r_M26Su"/>
+        <lb n="M26Su" xml:id="WP_1573_026_Dom_5_Quadr_119r_M26S?"/>
 
-        <w xml:id="WP_1573_026_Dom_5_Quadr_119r_M26Su.1" xml:lang="lat">Cato</w>
-        <w xml:id="WP_1573_026_Dom_5_Quadr_119r_M26Su.2" xml:lang="olt">⌉</w>
+        <add hand="S?">
+        <w xml:id="WP_1573_026_Dom_5_Quadr_119r_M26S?.1" xml:lang="lat">Cato</w>
+        <w xml:id="WP_1573_026_Dom_5_Quadr_119r_M26S?.2" xml:lang="olt">⌉</w>
+        </add>
         <pb n="119v"/>
         <lb n="1" xml:id="WP_1573_026_Dom_5_Quadr_119v_1"/>
 

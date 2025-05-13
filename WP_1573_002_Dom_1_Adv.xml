@@ -2994,13 +2994,14 @@
         <w xml:id="WP_1573_002_Dom_1_Adv_5v_10.6" xml:lang="olt">amſʒia</w>
         <w xml:id="WP_1573_002_Dom_1_Adv_5v_10.7" xml:lang="olt">Amen</w>
         <lb n="M10-11S" xml:id="WP_1573_002_Dom_1_Adv_5v_M10-11S"/>
-
+        <add hand="S">
         <w xml:id="WP_1573_002_Dom_1_Adv_5v_M10-11S.1" xml:lang="olt">⌈</w>
           <quote>
         <w xml:id="WP_1573_002_Dom_1_Adv_5v_M10-11S.2" xml:lang="lat">N</w>
         <w xml:id="WP_1573_002_Dom_1_Adv_5v_M10-11S.3" xml:lang="lat">H</w>
           <ref decls="person" cRef="NHemming"/></quote>
         <w xml:id="WP_1573_002_Dom_1_Adv_5v_M10-11S.4" xml:lang="olt">⌉</w>
+        </add>
       </div>
     </body>
   </text>

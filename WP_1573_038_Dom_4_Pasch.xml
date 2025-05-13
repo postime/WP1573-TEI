@@ -1556,6 +1556,7 @@
         <w xml:id="WP_1573_038_Dom_4_Pasch_171r_M19.6" xml:lang="olt">Galwa⌉</w>
         <lb n="M19W" xml:id="WP_1573_038_Dom_4_Pasch_171r_M19W"/>
 
+        <add hand="W">
         <w xml:id="WP_1573_038_Dom_4_Pasch_171r_M19W.1" xml:lang="olt">⌈</w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_171r_M19W.2" xml:lang="lat">NB</w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_171r_M19W.3" xml:lang="lat">quod</w>
@@ -1566,6 +1567,7 @@
         <w xml:id="WP_1573_038_Dom_4_Pasch_171r_M19W.8" xml:lang="lat">est</w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_171r_M19W.9" xml:lang="grc">ρ</w>
         <w xml:id="WP_1573_038_Dom_4_Pasch_171r_M19W.10" xml:lang="olt">⌉</w>
+        </add>
         <pb n="171v"/>
         <lb n="1" xml:id="WP_1573_038_Dom_4_Pasch_171v_1"/>
 
