@@ -49,43 +49,76 @@
 
         <w xml:id="WP_1573_001_Tit_1_0r_5.1" xml:lang="olt">ISCH</w>
         <w xml:id="WP_1573_001_Tit_1_0r_5.2" xml:lang="olt">PASTILLAS</w>
+        <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_5.3" xml:lang="lat">NICVLAI</w>
         <w xml:id="WP_1573_001_Tit_1_0r_5.4" xml:lang="lat">
           <app>  
             <lem>HE<lb break="no"/>MINGY</lem>
             <rdg>HE<lb break="no"/>MINGI</rdg>
           </app></w>
+        <ref decls="person" cRef="NHemming"/>  
+        </quote>
         <lb n="6" xml:id="WP_1573_001_Tit_1_0r_6"/>
 
         <punct>,</punct>
+        <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_6.2" xml:lang="lat">ANTONY</w>
-        <w xml:id="WP_1573_001_Tit_1_0r_6.3" xml:lang="lat">CORVINI,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_6.3" xml:lang="lat">CORVINI</w>
+        <ref decls="person" cRef="Corvin"/>  
+        </quote>
+        <punct>,</punct>
+        <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_6.4" xml:lang="lat">IO<lb break="no"/>ANNIS</w>
         <lb n="7" xml:id="WP_1573_001_Tit_1_0r_7"/>
 
-        <w xml:id="WP_1573_001_Tit_1_0r_7.1" xml:lang="lat">SPANGENBERGI,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_7.1" xml:lang="lat">SPANGENBERGI</w>
+        <ref decls="person" cRef="JSpangen"/>  
+        <punct>,</punct>
+        <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_7.2" xml:lang="lat">MAR<lb break="no"/>TINI</w>
         <lb n="8" xml:id="WP_1573_001_Tit_1_0r_8"/>
 
-        <w xml:id="WP_1573_001_Tit_1_0r_8.1" xml:lang="lat">LVTHERI,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_8.1" xml:lang="lat">LVTHERI</w>
+        <ref decls="person" cRef="Luther"/>  
+        <punct>,</punct>
+        </quote>
+        <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_8.2" xml:lang="lat">PHILIPPI</w>
         <lb n="9" xml:id="WP_1573_001_Tit_1_0r_9"/>
 
-        <w xml:id="WP_1573_001_Tit_1_0r_9.1" xml:lang="lat">MELANTHONIS,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_9.1" xml:lang="lat">MELANTHONIS</w>
+        <ref decls="person" cRef="Melanch"/>
+        </quote>
+        <punct>,</punct>
+        <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_9.2" xml:lang="lat">IOANNIS</w>
         <lb n="10" xml:id="WP_1573_001_Tit_1_0r_10"/>
 
-        <w xml:id="WP_1573_001_Tit_1_0r_10.1" xml:lang="lat">BRENTY,</w>
-        <w xml:id="WP_1573_001_Tit_1_0r_10.2" xml:lang="lat">ARSATY,</w>
-        <w xml:id="WP_1573_001_Tit_1_0r_10.3" xml:lang="lat">SCHO<lb break="no"/>PER,</w>
+        <w xml:id="WP_1573_001_Tit_1_0r_10.1" xml:lang="lat">BRENTY</w>
+        <ref decls="person" cRef="Brenz"/>
+        </quote>
+        <punct>,</punct>
+        <quote>
+        <w xml:id="WP_1573_001_Tit_1_0r_10.2" xml:lang="lat">ARSATY</w>
+        <punct>,</punct> <!-- del. comma -->
+        <w xml:id="WP_1573_001_Tit_1_0r_10.3" xml:lang="lat">SCHO<lb break="no"/>PER</w>
+        <ref decls="person" cRef="ASeehof"/>
+        </quote>
+        <punct>,</punct>
         <lb n="11" xml:id="WP_1573_001_Tit_1_0r_11"/>
 
+        <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_11.1" xml:lang="lat">LEONARDI</w>
         <w xml:id="WP_1573_001_Tit_1_0r_11.2" xml:lang="lat">KVLMÂ<lb break="no"/>NI</w>
+        <ref decls="person" cRef="LeoCulm"/>
+        </quote>
         <lb n="12" xml:id="WP_1573_001_Tit_1_0r_12"/>
 
+        <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_12.1" xml:lang="lat">IODOCY</w>
         <w xml:id="WP_1573_001_Tit_1_0r_12.2" xml:lang="lat">WILICHI</w>
+        <ref decls="person" cRef="JWillich"/>
+        </quote>
         <lb n="13" xml:id="WP_1573_001_Tit_1_0r_13"/>
 
         <w xml:id="WP_1573_001_Tit_1_0r_13.1" xml:lang="olt">IR</w>
@@ -104,8 +137,11 @@
 
         <add hand="S">
         <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S.1" xml:lang="olt">⌈</w>
+        <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S.2" xml:lang="olt">Michael</w>
         <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S.3" xml:lang="olt">Sappun</w>
+        <ref decls="person" cRef="MSapp"/>
+        </quote>
         <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S.4" xml:lang="lat">Barten<lb break="no"/>ſteinenſis</w>
         <w xml:id="WP_1573_001_Tit_1_0r_M16S-17S.5" xml:lang="olt">⌉</w>
         </add>
