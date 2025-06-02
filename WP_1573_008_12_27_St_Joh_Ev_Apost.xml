@@ -969,6 +969,7 @@
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_21.8" xml:lang="olt">ſekti,</w>
         <lb n="22" xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_22"/>
 
+        <note text= "No source has so far been identified for this Latin quote attributed to Seneca.">
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_22.1" xml:lang="olt">kadangi</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_22.2" xml:lang="olt">kalba</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_22.3" xml:lang="olt">tas</w>
@@ -1007,6 +1008,7 @@
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_25.2" xml:lang="olt">buti,</w>
 
         <ref decls="nonbib" cRef="SenecaY_1"/></quote>
+        </note>
 
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_25.3" xml:lang="olt">Antra</w>
         <w xml:id="WP_1573_008_12_27_St_Joh_Ev_Apost_40r_25.4" xml:lang="olt">kaipagi</w>

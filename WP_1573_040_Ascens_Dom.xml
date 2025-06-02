@@ -770,17 +770,21 @@
         <w xml:id="WP_1573_040_Ascens_Dom_176r_27.3" xml:lang="olt">ſ:</w>
         <w xml:id="WP_1573_040_Ascens_Dom_176r_27.4" xml:lang="olt">6</w>
         <w xml:id="WP_1573_040_Ascens_Dom_176r_27.5" xml:lang="olt">cap:</w>
+        <note text="Amphilochius of Iconium, 4th-century bishop and theologian.">
         <w xml:id="WP_1573_040_Ascens_Dom_176r_27.6" xml:lang="olt">
           <app type="err">  
             <lem>Amphilocliap</lem>
             <rdg>Amphilochap / Amphilochiap</rdg> <!--Person. Amphilochius of Iconium.-->
           </app></w>
+        </note>
         <w xml:id="WP_1573_040_Ascens_Dom_176r_27.7" xml:lang="olt">raſcha</w>
         <w xml:id="WP_1573_040_Ascens_Dom_176r_27.8" xml:lang="olt">ir</w>
         <lb n="28" xml:id="WP_1573_040_Ascens_Dom_176r_28"/>
 
+        <note text="Eunomius of Cyzicus, 4th-century Arian theologian, whose theology is the subject of Basil the Great's 'Adversus Eunomium'.">
         <w xml:id="WP_1573_040_Ascens_Dom_176r_28.1" xml:lang="olt">Eunomijap</w> <!--Text Adversus Eunomium
         Also person, Eunomius of Cyzicus.-->
+        </note>
         <w xml:id="WP_1573_040_Ascens_Dom_176r_28.2" xml:lang="olt">
           <app>  
             <lem>knigoſa</lem>

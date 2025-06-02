@@ -1461,7 +1461,9 @@
         <w xml:id="WP_1573_035_Dom_1_Pasch_163r_11.2" xml:lang="lat">Auguſtinus</w>
           <ref decls="person" cRef="AAugustinus"/></quote>
         <w xml:id="WP_1573_035_Dom_1_Pasch_163r_11.3" xml:lang="olt">gramatai</w>
-        <w xml:id="WP_1573_035_Dom_1_Pasch_163r_11.4" xml:lang="olt">fortunatap,</w> <!--Person
+        <note text= "Fortunatus was a heretical ('Manichaean') presbyter from Hippo Regius. Cf. Possidius, Vita Augustini, cap. 6.">
+        <w xml:id="WP_1573_035_Dom_1_Pasch_163r_11.4" xml:lang="olt">fortunatap,</w>
+        </note> <!--Person
         Fortunatus, a heretical ("Manichaean") presbyter from Hippo Regius.
         Cf. Possidius, Vita Augustini, cap. 6.-->
         <lb n="12" xml:id="WP_1573_035_Dom_1_Pasch_163r_12"/>

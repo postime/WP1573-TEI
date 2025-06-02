@@ -98,12 +98,14 @@
         <ref decls="person" cRef="Brenz"/>
         </quote>
         <punct>,</punct>
+        <note text= "Although the Wolfenbüttel Postil's title page lists Arsacius Seehofer's postil among its sources, no passages taken from his works could so far be identified.">
         <quote>
         <w xml:id="WP_1573_001_Tit_1_0r_10.2" xml:lang="lat">ARSATY</w>
         <punct>,</punct> <!-- del. comma -->
         <w xml:id="WP_1573_001_Tit_1_0r_10.3" xml:lang="lat">SCHO<lb break="no"/>PER</w>
         <ref decls="person" cRef="ASeehof"/>
         </quote>
+        </note>
         <punct>,</punct>
         <lb n="11" xml:id="WP_1573_001_Tit_1_0r_11"/>
 

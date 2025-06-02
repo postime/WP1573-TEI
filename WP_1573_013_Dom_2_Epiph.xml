@@ -1732,10 +1732,10 @@
         <lb n="25" xml:id="WP_1573_013_Dom_2_Epiph_62v_25"/>
 
         <w xml:id="WP_1573_013_Dom_2_Epiph_62v_25.1" xml:lang="olt">piktas</w>
-<punct><app> <!--Make sure this sort of entry displays correctly in the digital edition.-->
-  <lem>?</lem> 
-  <rdg>,</rdg>
-</app></punct>
+        <punct><app> <!--Make sure this sort of entry displays correctly in the digital edition.-->
+          <lem>?</lem> 
+          <rdg>,</rdg>
+        </app></punct>
         <w xml:id="WP_1573_013_Dom_2_Epiph_62v_25.2" xml:lang="olt">newenas</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_62v_25.3" xml:lang="olt">wiſsi</w>
         <w xml:id="WP_1573_013_Dom_2_Epiph_62v_25.4" xml:lang="olt">gierri</w>
